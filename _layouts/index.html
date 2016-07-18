@@ -11,6 +11,22 @@
       <div class="wrapper">
         <div class="home">
             {{ content }}
+
+            <div class="post-languages">
+                {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+
+                <p>Other languages</p>
+                <ul>
+                {% for page in pages %}
+                    <li>
+                        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }} ({{page.lang}})</a>
+                    </li>
+                {% endfor %}
+                </ul>
+
+                <p class="add-translation"><a href="https://github.com/nukeador/activity-campaign#how-to-add-or-update-content">Submit a translation for this page</a></p>
+            </div>
+
         </div>
       </div>
     </div>
