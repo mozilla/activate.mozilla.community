@@ -35,9 +35,13 @@ If you want to hack the site you need to download it and install Jekyll.
 
 Now [install Jekyll in your system](https://jekyllrb.com/docs/installation/)
 
+Install the dependencies
+
+``$ bundle install``
+
 Run the site using the developer config
 
-``jekyll serve --config ./_config-dev.yml``
+``$ bundle exec jekyll serve --config ./_config-dev.yml``
 
 You will be able to access the site at [http://127.0.0.1:4000/activity-campaign/
 ](http://127.0.0.1:4000/activity-campaign/
