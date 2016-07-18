@@ -2,10 +2,21 @@
 
 ## Focus Initiatives
 
-* [Developer Engagement](area/developer-engagement)
-* Rust and Servo
-* Privacy and Policy
-* Test Pilot
+{: #area-deveng .area .disabled}
+[![image](/activity-campaign/asserts/img/development.png)
+Developer Engagement (coming soon)](area/developer-engagement)
+
+{: #area-servo .area}
+[![image](/activity-campaign/asserts/img/servo.png)
+Rust and Servo](area/servo)
+
+{: #area-privacy .area .disabled}
+![image](/activity-campaign/asserts/img/privacy.png)
+Privacy and Policy (coming soon)
+
+{: #area-testpilot .area}
+[![image](/activity-campaign/asserts/img/test-pilot.png)
+Test Pilot](area/test-pilot)
 
 ## Stay updated about new activities
 

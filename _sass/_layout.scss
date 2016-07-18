@@ -227,6 +227,21 @@
 .home {
     h2 {
         font-size: 2rem;
+        text-align: center;
+        margin: 1.5em auto;
+        clear: both;
+    }
+
+    .area {
+        width: 200px;
+        text-align: center;
+        float: left;
+        margin-right: 1em;
+    }
+
+    .disabled {
+        opacity: 0.5;
+        filter:grayscale(90%);
     }
 }
 
