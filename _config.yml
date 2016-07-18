@@ -11,7 +11,8 @@ email: nukeador@mozilla.com
 description: > # this means to ignore newlines until "baseurl:"
     Mozilla Activity Campaign
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nukeador.github.io/activity-campaign/" # the base hostname & protocol for your site
+url: "https://nukeador.github.io/activity-campaign" # the base hostname & protocol for your site
+github.url: "https://nukeador.github.io/activity-campaign" # Github url
 twitter_username: mozparticipate
 github_username:  mozilla
 
