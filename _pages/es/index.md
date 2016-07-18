@@ -34,4 +34,4 @@ Sigue @MozParticipate en twitter](https://twitter.com/MozParticipate/)
 
 {: #area-discourse .area}
 [![image](/activity-campaign/asserts/img/discourse.png)
-Suscríbete al foro de Participation](https://discourse.mozilla-community.org/c/participation-leaders)
+Suscríbete al foro de Participation Leaders](https://discourse.mozilla-community.org/c/participation-leaders)
