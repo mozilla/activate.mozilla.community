@@ -186,7 +186,17 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    background: url(https://www.mozilla.org/media/img/sandstone/bg-gradient-sand.png) repeat-x,url(https://www.mozilla.org/media/img/sandstone/bg-sand.png) repeat,#f5f1e8;
+    padding-bottom: 100px;
+
+    .wrapper {
+        background: #FFF;
+        margin: 0 auto;
+        padding: 40px;
+        display: block;
+        box-shadow: 0 0 0 1px #fff inset;
+        border-bottom: 1px solid #ddd;
+    }
 }
 
 .page-heading, .home h1 {
