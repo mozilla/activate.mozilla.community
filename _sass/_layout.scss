@@ -241,6 +241,11 @@
         img {
             margin-bottom: 10px;
         }
+
+        &.area-small {
+            width: 120px;
+            margin: 0 18%;
+        }
     }
 
     .disabled {

@@ -28,10 +28,10 @@ Test Pilot](./area/test-pilot)
 
 ## Sigue las novedades sobre nuevas actividades
 
-{: #area-mozparticipate .area}
+{: #area-mozparticipate .area .area-small}
 [![image](/activity-campaign/asserts/img/participation.png)
 Sigue @MozParticipate en twitter](https://twitter.com/MozParticipate/)
 
-{: #area-discourse .area}
+{: #area-discourse .area .area-small}
 [![image](/activity-campaign/asserts/img/discourse.png)
 Suscríbete al foro de Participation Leaders](https://discourse.mozilla-community.org/c/participation-leaders)
