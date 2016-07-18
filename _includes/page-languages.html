@@ -1,6 +1,6 @@
 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 
-<h2>Other languages</h2
+<h2>Other languages</h2>
 <ul>
 {% for page in pages %}
     <li>
@@ -8,3 +8,5 @@
     </li>
 {% endfor %}
 </ul>
+
+<p class="add-translation"><a href="https://github.com/nukeador/activity-campaign#how-to-add-or-update-content">Submit a translation for this page</a></p>

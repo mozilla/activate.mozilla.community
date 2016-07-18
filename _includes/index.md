@@ -3,8 +3,8 @@
 ## Focus Initiatives
 
 {: #area-deveng .area .disabled}
-[![image](/activity-campaign/asserts/img/development.png)
-Developer Engagement (coming soon)](area/developer-engagement)
+![image](/activity-campaign/asserts/img/development.png)
+Developer Engagement (coming soon)
 
 {: #area-servo .area}
 [![image](/activity-campaign/asserts/img/servo.png)
