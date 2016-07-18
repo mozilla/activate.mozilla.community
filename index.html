@@ -2,7 +2,5 @@
 layout: index
 ---
 
-<div class="home">
-    {% capture index %}{% include index.md %}{% endcapture %}
-    {{ index | markdownify }}
-</div>
+{% capture index %}{% include index.md %}{% endcapture %}
+{{ index | markdownify }}
