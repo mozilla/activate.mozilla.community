@@ -233,10 +233,14 @@
     }
 
     .area {
-        width: 200px;
+        width: 210px;
         text-align: center;
         float: left;
         margin-right: 1em;
+
+        img {
+            margin-bottom: 10px;
+        }
     }
 
     .disabled {
