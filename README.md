@@ -1,6 +1,6 @@
 # Activity Campaign site
 
-You can see this site live at [https://nukeador.github.io/activity-campaign](https://nukeador.github.io/activity-campaign)
+You can see this site live at [https://mozilla.github.io/activate.mozilla.community/](https://mozilla.github.io/activate.mozilla.community/)
 
 ## How to add or update content
 
@@ -31,7 +31,7 @@ ref: developer-engagement
 
 If you want to hack the site you need to download it and install Jekyll.
 
-``$ git clone https://github.com/nukeador/activity-campaign.git``
+``$ git clone https://github.com/mozilla/activate.mozilla.community.git``
 
 Now [install Jekyll in your system](https://jekyllrb.com/docs/installation/)
 
@@ -43,8 +43,8 @@ Run the site using the developer config
 
 ``$ bundle exec jekyll serve --config ./_config-dev.yml``
 
-You will be able to access the site at [http://127.0.0.1:4000/activity-campaign/
-](http://127.0.0.1:4000/activity-campaign/
+You will be able to access the site at [http://127.0.0.1:4000/activate.mozilla.community/
+](http://127.0.0.1:4000/activate.mozilla.community/
 )
 
 Clone this repo, create a issue first and then a pull request to submit changes.

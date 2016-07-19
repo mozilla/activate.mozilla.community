@@ -6,6 +6,9 @@ lang: en
 ref: servo
 ---
 
+{: .right}
+![image](/activate.mozilla.community/asserts/img/servo.png)
+
 Here you have some content in markdown.
 
 I'm adding more content directly from github site:

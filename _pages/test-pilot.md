@@ -6,6 +6,9 @@ lang: en
 ref: test-pilot
 ---
 
+{: .right}
+![image](/activate.mozilla.community/asserts/img/test-pilot.png)
+
 Here you have some content in markdown.
 
 I'm adding more content directly from github site:

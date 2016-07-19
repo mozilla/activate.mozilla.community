@@ -329,6 +329,11 @@
     }
 }
 
+.right {
+    float: right;
+    margin-left: 14px;
+}
+
 #share {
     margin-top: -70px;
     float: right;
@@ -358,7 +363,7 @@
             display: block;
             color: #FFF;
             width: 70px;
-            padding-top: 6px;
+            padding-top: 8px;
         }
     }
 }

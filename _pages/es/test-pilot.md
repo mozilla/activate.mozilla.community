@@ -6,6 +6,9 @@ lang: es
 ref: test-pilot
 ---
 
+{: .right}
+![image](/activate.mozilla.community/asserts/img/test-pilot.png)
+
 Aquí algo de contenido en Markdown.
 
 Añadiendo más cosas:
