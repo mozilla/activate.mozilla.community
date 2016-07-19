@@ -30,7 +30,7 @@ Test Pilot](./area/test-pilot)
 
 {: #area-mozparticipate .area .area-small}
 [![image](/activity-campaign/asserts/img/participation.png)
-Sigue @MozParticipate en twitter](https://twitter.com/MozParticipate/)
+Sigue @MozParticipate en twitter](https://twitter.com/intent/follow/?screen_name=MozParticipate)
 
 {: #area-discourse .area .area-small}
 [![image](/activity-campaign/asserts/img/discourse.png)
