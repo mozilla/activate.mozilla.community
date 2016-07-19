@@ -329,6 +329,40 @@
     }
 }
 
+#share {
+    margin-top: -70px;
+    float: right;
+    margin-right: -40px;
+    text-align: center;
+    color: #FFF;
+    font-weight: bold;
+
+
+    p.twitter {
+        background: url("https://www.mozilla.org/media/img/contribute/signup/twitter.png") no-repeat #0c99d5;
+        margin: auto;
+        margin-top: 7px;
+        border-radius: 6px 0px 0px 6px;
+        padding-left: 40px;
+        background-position: 8px 4px;
+        display: block;
+        opacity: 0.6;
+        min-height: 40px;
+        min-width: 70px;
+
+        &:hover {
+            background-color: #2165a9;
+        }
+
+        a {
+            display: block;
+            color: #FFF;
+            width: 70px;
+            padding-top: 6px;
+        }
+    }
+}
+
 #tabzilla {
 	position:relative;
 	float:right
