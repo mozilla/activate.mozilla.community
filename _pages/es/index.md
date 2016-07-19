@@ -1,30 +1,30 @@
 ---
 layout: index
-title:  "Campaña de actividad"
+title:  "Activate en Mozilla"
 permalink: /es/
 lang: es
 ref: index
 ---
 
-# Campaña de actividad
+# Actívate en Mozilla
 
 ## Iniciativas foco
 
 {: #area-deveng .area .disabled}
 ![image](/activate.mozilla.community/asserts/img/development.png)
-Relaciones con desarrolladores (próximamente)
+Potencia comunidades de desarrolladores (próximamente)
 
 {: #area-servo .area}
 [![image](/activate.mozilla.community/asserts/img/servo.png)
-Rust y Servo](./area/servo)
+Apoya el futuro motor de Mozilla](./area/servo)
 
 {: #area-privacy .area .disabled}
 ![image](/activate.mozilla.community/asserts/img/privacy.png)
-Provacidad y políticas (próximamente)
+Defiende la privacidad y políticas en la red (próximamente)
 
 {: #area-testpilot .area}
 [![image](/activate.mozilla.community/asserts/img/test-pilot.png)
-Test Pilot](./area/test-pilot)
+Características nuevas con Test Pilot](./area/test-pilot)
 
 ## Sigue las novedades sobre nuevas actividades
 

@@ -1,22 +1,22 @@
-# Activity Campaign
+# Activate Mozilla
 
 ## Focus Initiatives
 
 {: #area-deveng .area .disabled}
 ![image](/activate.mozilla.community/asserts/img/development.png)
-Developer Engagement (coming soon)
+Empower developer communities (coming soon)
 
 {: #area-servo .area}
 [![image](/activate.mozilla.community/asserts/img/servo.png)
-Rust and Servo](area/servo)
+Support the future Mozilla engine](area/servo)
 
 {: #area-privacy .area .disabled}
 ![image](/activate.mozilla.community/asserts/img/privacy.png)
-Privacy and Policy (coming soon)
+Defend Internet Privacy and Policy (coming soon)
 
 {: #area-testpilot .area}
 [![image](/activate.mozilla.community/asserts/img/test-pilot.png)
-Test Pilot](area/test-pilot)
+Test Pilot new features](area/test-pilot)
 
 ## Stay updated about new activities
 
