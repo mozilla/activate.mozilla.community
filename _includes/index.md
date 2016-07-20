@@ -2,9 +2,9 @@
 
 ## Focus Initiatives
 
-{: #area-deveng .area .disabled}
-![image](/activate.mozilla.community/asserts/img/development.png)
-Empower developer communities (coming soon)
+{: #area-deveng .area}
+[![image](/activate.mozilla.community/asserts/img/development.png)
+Empower developer communities](area/developer-engagement)
 
 {: #area-servo .area}
 [![image](/activate.mozilla.community/asserts/img/servo.png)

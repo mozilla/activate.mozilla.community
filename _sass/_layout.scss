@@ -239,6 +239,7 @@
         text-align: center;
         float: left;
         margin-right: 1em;
+        font-weight: bold;
 
         img {
             margin-bottom: 10px;
@@ -252,6 +253,7 @@
 
     .disabled {
         filter:grayscale(90%) opacity(25%);
+        font-weight: normal;
     }
 }
 
