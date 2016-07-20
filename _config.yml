@@ -9,7 +9,7 @@
 title: Activate Mozilla
 email: participation@mozilla.com
 description: > # this means to ignore newlines until "baseurl:"
-    Activate Mozilla
+    Get involved with the focus initiatives at Mozilla
 baseurl: "/activate.mozilla.community" # the subpath of your site, e.g. /blog
 url: "https://mozilla.github.io" # the base hostname & protocol for your site
 twitter_username: mozparticipate
