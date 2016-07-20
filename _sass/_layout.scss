@@ -19,6 +19,26 @@
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
+    margin-right: 23px;
+    float: left;
+
+    &, &:visited {
+        color: #e29fa0;
+    }
+    &:hover {
+        color: #fff;
+        text-decoration: none;
+    }
+}
+
+.page-link {
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 56px;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    margin-right: 20px;
     float: left;
 
     &, &:visited {
