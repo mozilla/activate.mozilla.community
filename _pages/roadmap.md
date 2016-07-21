@@ -8,9 +8,9 @@ ref: roadmap
 
 # Roadmap
 
-In this page we describe the past, current and future activities that we have in this site. If you have feedback, questions or suggestions please [chime in this topic](#).
+In this page we describe the past, current and future activities that we have on this site. If you have feedback, questions or suggestions please [chime in this topic](#).
 
-*Note that this plan is in constant change and evolution.*
+*Note that this roadmap is in constant change and evolution.*
 
 * TOC
 {:toc}
