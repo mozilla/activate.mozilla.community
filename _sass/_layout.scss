@@ -351,6 +351,11 @@
 .post-languages {
     font-size: .80rem;
     clear: both;
+    padding-top: 3em;
+
+    .language-list {
+        float:left;
+    }
 
     .add-translation {
         text-align: right;
@@ -382,8 +387,8 @@
     p {
         display: block;
         opacity: 0.6;
-        min-height: 40px;
-        min-width: 48px;
+        height: 40px;
+        width: 48px;
         box-shadow: 1px 0px 1px 1px #CCC;
         margin: auto;
         margin-top: 7px;
@@ -391,6 +396,7 @@
 
         &:hover {
             opacity: 1;
+            width: auto;
         }
 
         a {
@@ -402,9 +408,10 @@
 
             &:hover {
                 text-decoration: none;
-                width: 70px;
+                width: auto;
                 opacity: 1;
-                padding-left: 40px;
+                padding-left: 50px;
+                padding-right: 8px;
             }
         }
     }

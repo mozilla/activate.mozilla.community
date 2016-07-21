@@ -1,12 +1,7 @@
+{% assign l = site.data.l10n.[page.lang] %}
+
 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 
-<h2>Other languages</h2>
-<ul>
-{% for page in pages %}
-    <li>
-        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }} ({{page.lang}})</a>
-    </li>
-{% endfor %}
-</ul>
+<p class="language-list">{{ l.languages }}: {% for page in pages %} <a title="{{ page.title }}" href="{{ page.url | prepend: site.baseurl }}">{{page.lang}}</a> {% endfor %}</p>
 
-<p class="add-translation"><a href="https://github.com/mozilla/activate.mozilla.community#how-to-add-or-update-content">Submit a translation for this page</a></p>
+<p class="add-translation"><a href="https://github.com/mozilla/activate.mozilla.community#how-to-add-or-update-content">{{ l.submit-translation }}</a></p>

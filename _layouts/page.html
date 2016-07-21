@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+{% assign l = site.data.l10n.[page.lang] %}
+
 <article class="post">
 
   <header class="post-header">
@@ -8,14 +10,13 @@ layout: default
   </header>
 
   <div class="share twitter">
-          <p class="twitter"><a title="Share this page on Twitter" href="https://twitter.com/home?status=I am contributing to {{ page.title }} at %40Mozilla Check how easy it is to %23mozactivate {{ page.url | prepend: site.baseurl | prepend: site.url }}" data-related="mozparticipate,mozilla" data-dnt="true" data-show-count="false">Tweet</a></p>
+          <p class="twitter"><a title="{{ l.twitter-text1 }}" href="https://twitter.com/home?status={{ l.twitter-text2 }} {{ page.title }} {{ l.twitter-text3 }} {{ page.url | prepend: site.baseurl | prepend: site.url }}" data-related="mozparticipate,mozilla" data-dnt="true" data-show-count="false">Tweet</a></p>
   </div>
   <div class="share facebook">
-          <p class="facebook"><a title="Share this page on Facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.baseurl | prepend: site.url }}" >Share</a></p>
+          <p class="facebook"><a title="{{ l.facebook-text }}" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.baseurl | prepend: site.url }}" >{{ l.share }}</a></p>
   </div>
 
   <div class="post-content">
-
     {{ content }}
   </div>
 
