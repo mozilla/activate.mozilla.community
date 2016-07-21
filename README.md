@@ -1,6 +1,6 @@
 # Activity Campaign site
 
-You can see this site live at [https://mozilla.github.io/activate.mozilla.community/](https://mozilla.github.io/activate.mozilla.community/)
+You can see this site live at [https://activate.mozilla.community/](https://activate.mozilla.community/)
 
 ## How to add or update content
 
@@ -44,8 +44,8 @@ Run the site using the developer config
 
 ``$ bundle exec jekyll serve --config ./_config-dev.yml``
 
-You will be able to access the site at [http://127.0.0.1:4000/activate.mozilla.community/
-](http://127.0.0.1:4000/activate.mozilla.community/
+You will be able to access the site at [http://127.0.0.1:4000/
+](http://127.0.0.1:4000/
 )
 
 Clone this repo, create a issue first and then a pull request to submit changes.
