@@ -1,6 +1,7 @@
 lang-url: '' # This should be empty for English, for others should be 'es/'
 site-title: 'Activate Mozilla'
 faq: 'FAQ'
+roadmap: 'Roadmap'
 languages: 'Languages'
 submit-translation: 'Submit a translation/improvement for this page'
 twitter-text1: 'Share this page on Twitter'
