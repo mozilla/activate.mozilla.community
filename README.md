@@ -6,8 +6,9 @@ You can see this site live at [https://mozilla.github.io/activate.mozilla.commun
 
 All content can be edited using just [Markdown](https://en.wikipedia.org/wiki/Markdown) files.
 
-* Front page can be modified editing [index.md](/_includes/index.md)
-* Pages can be added/edited from the [_pages](/_pages) folder.
+* Front page can be modified editing [index.md](/_includes/index.md).
+* Pages can be added/edited from the [_pages](/_pages) folder, including subfolders for localized content (front page included).
+* User interface strings for all languages are in [_data/l10n](/_data/l10n/).
 
 Each page has a top section with some variables:
 
