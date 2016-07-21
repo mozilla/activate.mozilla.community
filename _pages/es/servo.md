@@ -7,7 +7,7 @@ ref: servo
 ---
 
 {: .right}
-![image](/activate.mozilla.community/asserts/img/servo.png)
+![image](/asserts/img/servo.png)
 
 Aquí algo de contenido en Markdown.
 

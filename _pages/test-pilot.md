@@ -7,7 +7,7 @@ ref: test-pilot
 ---
 
 {: .right}
-![image](/activate.mozilla.community/asserts/img/test-pilot.png)
+![image](/asserts/img/test-pilot.png)
 
 Here you have some content in markdown.
 

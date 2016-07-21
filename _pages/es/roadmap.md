@@ -1,12 +1,12 @@
 ---
 layout: default
-title:  "Roadmap"
+title:  "Cronograma"
 permalink: /es/roadmap
 lang: es
 ref: roadmap
 ---
 
-# Roadmap
+# Cronograma
 
 In this page we describe the past, current and future activities that we have in this site. If you have feedback, questions or suggestions please [chime in this topic](#).
 
