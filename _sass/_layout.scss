@@ -348,6 +348,12 @@
     }
 }
 
+/* Language list */
+.en:lang(en), .es:lang(es) {
+    font-weight: bold;
+}
+
+
 .post-languages {
     font-size: .80rem;
     clear: both;
