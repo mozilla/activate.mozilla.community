@@ -17,7 +17,7 @@ Activate Mozilla is a Mozilla initiative to bring more clarity on what are the m
 
 ## Who can be involved in the activities?
 
-Anyone who want to support Mozilla.
+Anyone who wants to support Mozilla.
 
 ## How do I get involved?
 
