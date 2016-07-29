@@ -8,7 +8,7 @@ ref: roadmap
 
 # Roadmap
 
-In this page we describe the past, current and future activities that we have on this site. If you have feedback, questions or suggestions please [chime in this topic](#).
+In this page we describe the past, current and future activities that we have on this site. If you have feedback, questions or suggestions please [chime in to this topic](#).
 
 *Note that this roadmap is in constant change and evolution.*
 
@@ -17,9 +17,9 @@ In this page we describe the past, current and future activities that we have on
 
 ## July 2016 (Launch)
 
-* Rust Hack and Learn *(Rust and Servo)*
-* Web Compatibility Reporting *(Developer Engagement)*
-* Install Test Pilot *(Test Pilot)*
+* Rust Hack and Learn Events *(Rust and Servo)*
+* Web Compatibility Sprints *(Developer Engagement)*
+* Test Pilot Install *(Test Pilot)*
 
 ## August 2016
 
