@@ -8,12 +8,11 @@ ref: webcompat-sprint
 
 Web Compatibility, the ability for all Web content to run in all browsers, is important. There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired. 
 
-For more background and data on Web Compatibility, read the recent blog post on Mozilla Hacks:
-https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/
+For more background and data on Web Compatibility, read the [recent blog post on Mozilla Hacks](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
 
 ## Activity Format
 
-Run an event to get together people who care about the Web, to test sites, diagnose problems, and evangelise a web that works for everyone.
+While this activity can be run solo, we encourage you to run an event in your community to get together people who care about the Web. The goal is to test sites, diagnose problems, and discuss how to evangelise locally to developers about a web that works for everyone.
 
 ## Event Flow
 
