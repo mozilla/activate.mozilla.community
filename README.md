@@ -27,6 +27,7 @@ ref: developer-engagement
 * **permalink:** Unique, can include lang code for localized pages.
 * **lang:** Language code for this page, usually ``en``.
 * **ref:** Unique reference for this page, just use the permalink in English, it's used to match localized pages.
+* **parent** (Optional) For subpages this defines the parent page ref.
 
 ## Hack the site
 

@@ -4,6 +4,7 @@ title:  "Rust Hack and Learn"
 permalink: /developer-engagement/rust-hack
 lang: en
 ref: rust-hack
+parent: developer-engagement
 ---
 
 Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. [Find out more...](https://www.rust-lang.org)
@@ -23,7 +24,7 @@ These sessions can be run two ways:
 
 ## Event Flow
 
-* Install Rust 
+* Install Rust
     * [rustup](www.rustup.rs) - recommended
     * [Rust downloads](https://www.rust-lang.org/downloads.html) (alternative)
 * Read the [Rust book](https://doc.rust-lang.org/stable/book/)
