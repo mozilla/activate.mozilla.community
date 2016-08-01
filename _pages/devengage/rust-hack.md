@@ -14,9 +14,11 @@ Get your community behind this exciting new programming language by running a ha
 
 These sessions can be run two ways:
 1. Ask a person with experience with Rust to attend and provide guidance to attendees. There are a few ways to try to find local Rust experts to invite:
-	At [rustaceans.org](http://www.rustaceans.org/)
-	Reach out to the [Community Team](https://www.rust-lang.org/en-US/team.html#Community-team) - community-team [at] rust-lang [dot] org - they know the most active people in most regions.
-	Via the [user groups](https://www.rust-lang.org/en-US/user-groups.html)
+
+    * At [rustaceans.org](http://www.rustaceans.org/)
+    * Reach out to the [Community Team](https://www.rust-lang.org/en-US/team.html#Community-team) - community-team [at] rust-lang [dot] org - they know the most active people in most regions.
+    * Via the [user groups](https://www.rust-lang.org/en-US/user-groups.html)
+
 2. If the facilitators have little or no Rust experience, turn it into a learning session for everyone, where you go through the steps together. Some Mozillians have already done such sessions. For example our [Community Spaces](https://wiki.mozilla.org/Participation/Community_Spaces) have, so you can reach out the them to ask for some guidance.
 
 ## Event Flow
