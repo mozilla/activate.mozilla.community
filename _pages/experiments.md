@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Test Pilot"
-permalink: /experiments
+permalink: /experiments/
 lang: en
 ref: experiments
 ---

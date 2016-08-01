@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Rust and Servo"
-permalink: /servo
+permalink: /servo/
 lang: en
 ref: servo
 ---
