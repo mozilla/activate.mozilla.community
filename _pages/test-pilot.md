@@ -1,9 +1,9 @@
 ---
 layout: page
 title:  "Test Pilot"
-permalink: /area/test-pilot
+permalink: /experiments
 lang: en
-ref: test-pilot
+ref: experiments
 ---
 
 {: .right}

@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Rust Hack and Learn"
-permalink: /area/devengage/rust-hack
+permalink: /developer-engagement/rust-hack
 lang: en
 ref: rust-hack
 ---

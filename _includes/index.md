@@ -4,11 +4,11 @@
 
 {: #area-deveng .area}
 [![image](/asserts/img/development.png)
-Empower developer communities](area/developer-engagement)
+Empower developer communities](developer-engagement)
 
 {: #area-servo .area}
 [![image](/asserts/img/servo.png)
-Support the future Mozilla Web engine](area/servo)
+Support the future Mozilla Web engine](servo)
 
 {: #area-privacy .area .disabled}
 ![image](/asserts/img/privacy.png)
@@ -16,7 +16,7 @@ Defend Internet Privacy and Policy (coming soon)
 
 {: #area-testpilot .area}
 [![image](/asserts/img/test-pilot.png)
-Use and test experimental Firefox features](area/test-pilot)
+Use and test experimental Firefox features](experiments)
 
 {: .center}
 _Are you interested in other areas? Check [our roadmap](/roadmap) to see what's coming soon._

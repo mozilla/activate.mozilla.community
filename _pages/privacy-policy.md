@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Privacy and Policy"
-permalink: /area/privacy-policy
+permalink: /privacy-policy
 lang: en
 ref: privacy-policy
 ---
