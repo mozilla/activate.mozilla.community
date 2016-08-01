@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Test Pilot"
+title:  "Browser Experiments"
 permalink: /experiments/
 lang: en
 ref: experiments

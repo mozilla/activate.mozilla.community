@@ -23,9 +23,13 @@ While this activity can be run solo, we encourage you to run an event in your co
 
 
 ## Output
+
 Additional to the recommended event flow here are some things we’d like you, the event organizer, to do.
 
 * Fill out this form tell us some information about your event <add url when ready>
 
 ## Extra
-Point people to [good first bugs](https://github.com/mozilla/testpilot/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-bug) in the (Test Pilot repository:](https://github.com/mozilla/testpilot/)
+
+Feel like doing more for Test Pilot?
+* The [Test Pilot Add-on:](https://github.com/mozilla/testpilot/) is open for coding contributions
+    * Here is a list of [good first bugs](https://github.com/mozilla/testpilot/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-bug)
