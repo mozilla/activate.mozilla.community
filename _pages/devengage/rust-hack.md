@@ -22,29 +22,29 @@ These sessions can be run two ways:
 ## Event Flow
 
 * Install Rust 
-    [rustup](www.rustup.rs) - recommended
-    [Rust downloads](https://www.rust-lang.org/downloads.html) (alternative)
+    * [rustup](www.rustup.rs) - recommended
+    * [Rust downloads](https://www.rust-lang.org/downloads.html) (alternative)
 * Read the [Rust book](https://doc.rust-lang.org/stable/book/)
 * Complete the [Rustlings](https://github.com/carols10cents/rustlings) (a great beginners course!)
 * Some projects with great first bugs:
-	The Rust language and compiler
-		https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy
-		https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-help-wanted
-		https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-mentor
-	clippy - the popular Rust static analysis tool
-		https://github.com/Manishearth/rust-clippy
-	Cargo - Rust’s package manager
-		https://github.com/rust-lang/cargo/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy
-	rustfmt - the Rust source code formatting tool
-		https://github.com/rust-lang-nursery/rustfmt/issues
-		Though some are without clear instructions, the domain is easy to understand (it's mostly manipulating strings), and potentially engaging.
-	rustup - the Rust installer
-		https://github.com/rust-lang-nursery/rustup.rs/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
-	Rust documentation
-		https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AA-docs+label%3AE-easy
-		https://github.com/rust-lang/rust/issues/29329 - standard library API docs
-		https://github.com/rust-lang/rust-by-example/issues?q=is%3Aopen+is%3Aissue+label%3AD-easy
-	[This Week in Rust](https://this-week-in-rust.org/) also publishes a call for participation each week with hot contribution ideas.
+    * The Rust language and compiler
+        * https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy
+        * https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-help-wanted
+        * https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-mentor
+    * clippy - the popular Rust static analysis tool
+        * https://github.com/Manishearth/rust-clippy
+    * Cargo - Rust’s package manager
+        * https://github.com/rust-lang/cargo/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy
+    rustfmt - the Rust source code formatting tool
+        * https://github.com/rust-lang-nursery/rustfmt/issues
+        * Though some are without clear instructions, the domain is easy to understand (it's mostly manipulating strings), and potentially engaging.
+    * rustup - the Rust installer
+        * https://github.com/rust-lang-nursery/rustup.rs/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
+    * Rust documentation
+        * https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AA-docs+label%3AE-easy
+        * https://github.com/rust-lang/rust/issues/29329 - standard library API docs
+        * https://github.com/rust-lang/rust-by-example/issues?q=is%3Aopen+is%3Aissue+label%3AD-easy
+    * [This Week in Rust](https://this-week-in-rust.org/) also publishes a call for participation each week with hot contribution ideas.
 
 
 ## Output
