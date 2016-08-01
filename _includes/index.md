@@ -16,7 +16,7 @@ Defend Internet Privacy and Policy (coming soon)
 
 {: #area-testpilot .area}
 [![image](/asserts/img/test-pilot.png)
-Test Pilot experimental Firefox features](area/test-pilot)
+Use and test experimental Firefox features](area/test-pilot)
 
 {: .center}
 _Are you interested in other areas? Check [our roadmap](/roadmap) to see what's coming soon._

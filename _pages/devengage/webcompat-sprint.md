@@ -37,7 +37,7 @@ Additional to the recommended event flow here are some things we’d like you, t
 * Encourage attendees who want to continue to work on Web Compat to sign up to the [mailing list](https://www.mozilla.org/en-US/about/forums/#compatibility)
 
 ## Extra
-While the focus of this activity should be on testing sprints, there are other ways to be more involved with the community after.
+While the focus of this activity should be on testing sprints, there are other ways to stay more involved with the community after.
 
 * Bug diagnosis (deep technical dives)
 * Site outreach (contacting sites)
