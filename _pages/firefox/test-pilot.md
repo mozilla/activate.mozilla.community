@@ -14,15 +14,15 @@ While this activity can be run solo, we encourage you to run an event in your co
 
 ## Event Flow
 
-* Item 1
+* [Install Test Pilot](http://testpilot.firefox.com/experiments?utm_source=activity.mozilla.community&utm_medium=referral&utm_campaign=moz-community-2016)
+* Enable and test features
+* Provide feedback via the add-on
+
 
 ## Output
 Additional to the recommended event flow here are some things we’d like you, the event organizer, to do.
 
 * Fill out this form tell us some information about your event <add url when ready>
-* ...
 
 ## Extra
-While the focus of this activity should be on the installation, test and events, there are other ways to stay more involved with the community after.
-
-* ...
+Point people to [good first bugs](https://github.com/mozilla/testpilot/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-bug) in the (Test Pilot repository:](https://github.com/mozilla/testpilot/)
