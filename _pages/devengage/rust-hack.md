@@ -53,6 +53,6 @@ Additional to the recommended event flow here are some things we’d like you, t
 * Fill out this form tell us some information about your event <add url when ready>
 
 ## Extra
-While the focus of this activity should be on the hack events, there are other ways to stay more involved with the community after.
+While the focus of this activity should be on the hack events, there are other ways to stay more involved with the Rust community after.
 
 * Follow up with attendees to highlight [more things happening in the community to get involved with](https://www.rust-lang.org/en-US/community.html)
