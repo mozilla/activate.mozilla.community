@@ -8,6 +8,7 @@ ref: participation
 
 # About Participation at Mozilla
 
+
 ## Our Mission
 
 To have Mozilla succeed through openness and participation
