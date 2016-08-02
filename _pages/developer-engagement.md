@@ -6,8 +6,13 @@ lang: en
 ref: developer-engagement
 ---
 
-Here you have some content in markdown.
+{: .right}
+![image](/asserts/img/development.png)
 
-I'm adding more content directly from github site:
+Developers are very important for Mozilla. Everything we do is not only to serve our hundreds of millions of users, but to make lives of Web developers easier. We provide many things for developers. To name just a few, we have first class developer tools in Firefox, a world leader add-ons platform, and widely recognised developer documentation portal in MDN.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Because of this, we want you to work more with developers to hear what their needs are and to bring our stories to them. This is where you come in. These activities are about working with developers to work with them and tell them about the latest and greatest that is happening with Mozilla and around the Web.
+
+Our current activities in this area are:
+* Rust...
+* Web Compatibility Sprint
