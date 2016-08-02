@@ -15,13 +15,13 @@ In this page we describe the past, current and future activities that we have on
 * TOC
 {:toc}
 
-## July 2016 (Launch)
+## Early August 2016 (Launch)
 
 * Rust Hack and Learn Events *(Rust and Servo)*
 * Web Compatibility Sprints *(Developer Engagement)*
 * Test Pilot Install *(Test Pilot)*
 
-## August 2016
+## Late August 2016
 
 * e10s Add-on Compatibility *(Developer Engagement)*
 * Copyright petition *(Privacy and Policy)*
