@@ -6,7 +6,7 @@ You can see this site live at [https://activate.mozilla.community/](https://acti
 
 All content can be edited using just [Markdown](https://en.wikipedia.org/wiki/Markdown) files.
 
-* Front page can be modified editing [index.md](/_includes/index.md).
+* Front page (in English) can be modified editing [index.md](/_includes/index.md).
 * Pages can be added/edited from the [_pages](/_pages) folder, including subfolders for localized content (front page included).
 * User interface strings for all languages are in [_data/l10n](/_data/l10n/).
 
@@ -16,17 +16,17 @@ Each page has a top section with some variables:
 ---
 layout: page
 title:  "Developer Engagement"
-permalink: /area/developer-engagement
+permalink: /developer-engagement/
 lang: en
 ref: developer-engagement
 ---
 ```
 
-* **layout:** Layout for the page, this has to be ``page``.
-* **title:** Main title for the page.
-* **permalink:** Unique, can include lang code for localized pages.
-* **lang:** Language code for this page, usually ``en``.
-* **ref:** Unique reference for this page, just use the permalink in English, it's used to match localized pages.
+* **layout:** Layout for the page. This has to be ``page``.
+* **title:** (Localizable) Main title for the page.
+* **permalink:** (Unique, Localizable) URL for the page, can include lang code for localized pages.
+* **lang:** (Localizable) Language code for this page, usually ``en``.
+* **ref:** Reference for this page. Just use the permalink in English, all localized pages should have the same one.
 * **parent** (Optional) For subpages this defines the parent page ref.
 
 ## Submit a new localization
