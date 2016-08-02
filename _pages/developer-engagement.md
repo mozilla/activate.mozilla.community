@@ -14,5 +14,6 @@ Developers are very important for Mozilla. Everything we do is not only to serve
 Because of this, we want you to work more with developers to hear what their needs are and to bring our stories to them. This is where you come in. These activities are about working with developers to work with them and tell them about the latest and greatest that is happening with Mozilla and around the Web.
 
 Our current activities in this area are:
+
 * Rust...
 * Web Compatibility Sprint
