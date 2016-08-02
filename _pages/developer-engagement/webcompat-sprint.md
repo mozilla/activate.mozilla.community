@@ -40,7 +40,7 @@ Additional to the recommended event flow here are some things we’d like you, t
 ## Extra
 While the focus of this activity should be on testing sprints, there are other ways to stay more involved with the community after.
 
-* Bug diagnosis (deep technical dives)
-* Site outreach (contacting sites)
+* Bug diagnosis: This is about trying to understand the underlying issues behind bug reports, and where possible, providing suggested fixes for site owners. [More information](https://github.com/mozilla/participation-org/issues/237#issuecomment-163632626)
+* Site outreach: This is about trying to get in contact with websites that have issues and (politely!) providing ways that they can improve compatibility or fix their bugs. [More information](https://github.com/mozilla/participation-org/issues/237#issuecomment-163632354)
 
-Join the team and find out more at [https://webcompat.com/contributors](https://webcompat.com/contributors)
+[https://webcompat.com/contributors](https://webcompat.com/contributors) has more basic information on how to get started and join the community.
