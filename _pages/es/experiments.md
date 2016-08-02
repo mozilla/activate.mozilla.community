@@ -15,4 +15,4 @@ We’d like to showcase different things here to enable you to the experiment li
 
 Our current activities in this area are:
 
-* Install Test Pilot
+* [Install Test Pilot](/experiments/test-pilot)

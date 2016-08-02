@@ -15,5 +15,5 @@ Because of this, we want you to work more with developers to hear what their nee
 
 Our current activities in this area are:
 
-* Rust...
-* Web Compatibility Sprint
+* [Dive Into Rust](/developer-engagement/rust-hack)
+* [Web Compatibility Sprint](/developer-engagement/webcompat-sprint)
