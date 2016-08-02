@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Rust Hack and Learn"
+title:  "Dive Into Rust"
 permalink: /es/developer-engagement/rust-hack
 lang: es
 ref: rust-hack
@@ -11,7 +11,7 @@ Rust is a systems programming language that runs blazingly fast, prevents segfau
 
 ## Activity Format
 
-Get your community behind this exciting new programming language by running a hack event.
+Get your community behind this exciting new programming language by running a learning event.
 
 These sessions can be run two ways:
 
@@ -55,6 +55,6 @@ Additional to the recommended event flow here are some things we’d like you, t
 * Fill out this form tell us some information about your event <add url when ready>
 
 ## Extra
-While the focus of this activity should be on the hack events, there are other ways to stay more involved with the Rust community after.
+While the focus of this activity should be on these events, there are other ways to stay more involved with the Rust community after.
 
 * Follow up with attendees to highlight [more things happening in the community to get involved with](https://www.rust-lang.org/en-US/community.html)

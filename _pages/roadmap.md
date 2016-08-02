@@ -17,7 +17,7 @@ In this page we describe the past, current and future activities that we have on
 
 ## Early August 2016 (Launch)
 
-* Rust Hack and Learn Events *(Rust and Servo)*
+* Dive Into Rust *(Rust and Servo)*
 * Web Compatibility Sprints *(Developer Engagement)*
 * Test Pilot Install *(Test Pilot)*
 
