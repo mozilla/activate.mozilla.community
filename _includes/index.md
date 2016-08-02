@@ -6,9 +6,9 @@
 [![image](/asserts/img/development.png)
 Empower developer communities](/developer-engagement/)
 
-{: #area-servo .area}
-[![image](/asserts/img/servo.png)
-Support the future Mozilla Web engine](/servo/)
+{: #area-servo .area .disabled}
+![image](/asserts/img/servo.png)
+Support the future Mozilla Web engine (coming soon)
 
 {: #area-privacy .area .disabled}
 ![image](/asserts/img/privacy.png)
