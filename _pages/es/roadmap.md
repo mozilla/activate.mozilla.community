@@ -1,25 +1,25 @@
 ---
 layout: default
-title:  "Cronograma"
+title:  "Roadmap"
 permalink: /es/roadmap
 lang: es
 ref: roadmap
 ---
 
-# Cronograma
+# Roadmap
 
-In this page we describe the past, current and future activities that we have in this site. If you have feedback, questions or suggestions please [chime in this topic](#).
+In this page we describe the past, current and future activities that we have on this site. If you have feedback, questions or suggestions please [chime in to this topic](#).
 
-*Note that this plan is in constant change and evolution.*
+*Note that this roadmap is in constant change and evolution.*
 
 * TOC
 {:toc}
 
 ## July 2016 (Launch)
 
-* Rust Hack and Learn *(Rust and Servo)*
-* Web Compatibility Reporting *(Developer Engagement)*
-* Install Test Pilot *(Test Pilot)*
+* Rust Hack and Learn Events *(Rust and Servo)*
+* Web Compatibility Sprints *(Developer Engagement)*
+* Test Pilot Install *(Test Pilot)*
 
 ## August 2016
 

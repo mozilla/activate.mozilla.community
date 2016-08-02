@@ -6,32 +6,35 @@ lang: es
 ref: index
 ---
 
-# Actívate en Mozilla
+# Activate Mozilla
 
-## Iniciativas foco
+## Focus Initiatives
 
-{: #area-deveng .area .disabled}
-![image](/asserts/img/development.png)
-Potencia comunidades de desarrolladores (próximamente)
+{: #area-deveng .area}
+[![image](/asserts/img/development.png)
+Empower developer communities](/developer-engagement/)
 
-{: #area-servo .area}
-[![image](/asserts/img/servo.png)
-Apoya el futuro motor de Mozilla](./area/servo)
+{: #area-servo .area .disabled}
+![image](/asserts/img/servo.png)
+Support the future Mozilla Web engine (coming soon)
 
 {: #area-privacy .area .disabled}
 ![image](/asserts/img/privacy.png)
-Defiende la privacidad y políticas en la red (próximamente)
+Defend Internet Privacy and Policy (coming soon)
 
 {: #area-testpilot .area}
 [![image](/asserts/img/test-pilot.png)
-Características nuevas con Test Pilot](./area/test-pilot)
+Use and test experimental Firefox features](/experiments/)
 
-## Sigue las novedades sobre nuevas actividades
+{: .center}
+_Are you interested in other areas? Check [our roadmap](/roadmap) to see what's coming soon._
+
+## Stay updated about new activities
 
 {: #area-mozparticipate .area .area-small}
 [![image](/asserts/img/participation.png)
-Sigue @MozParticipate en twitter](https://twitter.com/intent/follow/?screen_name=MozParticipate)
+Follow @MozParticipate on Twitter](https://twitter.com/intent/follow/?screen_name=MozParticipate)
 
 {: #area-discourse .area .area-small}
 [![image](/asserts/img/discourse.png)
-Suscríbete al foro de Participation Leaders](https://discourse.mozilla-community.org/c/participation-leaders)
+Subcribe to the Participation Leaders forum](https://discourse.mozilla-community.org/c/participation-leaders)

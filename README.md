@@ -29,6 +29,12 @@ ref: developer-engagement
 * **ref:** Unique reference for this page, just use the permalink in English, it's used to match localized pages.
 * **parent** (Optional) For subpages this defines the parent page ref.
 
+## Submit a new localization
+
+In order to request a new localization, please [create a new issue](https://github.com/mozilla/activate.mozilla.community/issues) with the title "Mylanguage localization" and we will create the folder structure for it.
+
+Once this is created you will need to [fork this repository](https://help.github.com/articles/fork-a-repo/), localize all files inside ``_pages/yourlangcode/`` and ``_data/l10n/yourlangcode.yml`` and then [send a pull request](https://help.github.com/articles/using-pull-requests/) to have these changes reviewed and incorporated.
+
 ## Hack the site
 
 If you want to hack the site you need to download it and install Jekyll.
