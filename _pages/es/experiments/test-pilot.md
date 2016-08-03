@@ -24,9 +24,10 @@ While this activity can be run solo, we encourage you to run an event in your co
 
 ## Output
 
-Additional to the recommended event flow here are some things we’d like you, the event organizer, to do.
+Additional to the recommended flow here are some things we’d like you, the event organizer, to do.
 
-* Fill out this form tell us some information about your event <add url when ready>
+* Tell us about how you got on. What was your favourite new browser feature?
+    * [Here is the Discourse post to write to]()
 
 ## Extra
 

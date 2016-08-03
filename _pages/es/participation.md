@@ -8,10 +8,18 @@ ref: participation
 
 # About Participation at Mozilla
 
+Mozilla has thousands of volunteers globally making an impact every day by contributing to engineering projects, localization, support, marketing, and other areas. However, sometimes finding the right opportunity to help at the right time can be difficult in a project so large. Hence the creation of this site, the purpose of which is to surface up things to do right now. The criteria for these activities are:
+
+* They are relevant to what is happening right now at Mozilla
+* They bring value to those who choose to participate
+* They appeal to a broad group of people
+* They are self-serve and require no support to get up and running
+
+The goal is simple, Participation at scale with impact. Help us get bigger and better, as we continue to carry out our mission.
 
 ## Our Mission
 
-To have Mozilla succeed through openness and participation
+To have Mozilla succeed through openness and participation.
 
 ## What We Do
 

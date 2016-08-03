@@ -34,7 +34,8 @@ While this activity can be run solo, we encourage you to run an event in your co
 ## Output
 Additional to the recommended event flow here are some things we’d like you, the event organizer, to do.
 
-* Fill out this form tell us some information about your event <add url when ready>
+* Tell us about your event. This can be before or after. We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two!
+    * [Here is the Discourse post to write to]()
 * Encourage attendees who want to continue to work on Web Compat to sign up to the [mailing list](https://www.mozilla.org/en-US/about/forums/#compatibility)
 
 ## Extra
