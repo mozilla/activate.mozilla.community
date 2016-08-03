@@ -15,6 +15,8 @@ When building features for hundreds of millions of Firefox users worldwide, itâ€
 
 While this activity can be run solo, we encourage you to run an event in your community to get together people to learn about testing experimental Firefox features and discuss what is upcoming in the browser.
 
+__NOTE: These are no budget activities / events, meaning that Mozilla will not provide financial support. While we are dreaming up new and interesting ways to support, these should be very much self-directed activities.__
+
 ## Event Flow
 
 * [Install Test Pilot](http://testpilot.firefox.com/experiments?utm_source=activity.mozilla.community&utm_medium=referral&utm_campaign=moz-community-2016)

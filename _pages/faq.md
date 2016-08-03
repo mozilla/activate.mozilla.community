@@ -30,3 +30,7 @@ The areas and activity described in this site are a result of a joint effort fro
 ## What should I do if I have questions?
 
 You can ask directly creating a new topic at the [Participation Leaders forum](https://discourse.mozilla-community.org/c/participation-leaders).
+
+## Can I request budget for these activities?
+
+Unless otherwise explicitely stated, the answer is no. These are no budget activities / events, meaning that Mozilla will not provide financial support. While we are dreaming up new and interesting ways to support, these should be very much self-directed activities.

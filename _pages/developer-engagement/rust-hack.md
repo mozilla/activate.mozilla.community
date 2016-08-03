@@ -13,6 +13,8 @@ Rust is a systems programming language that runs blazingly fast, prevents segfau
 
 Get your community behind this exciting new programming language by running a learning event.
 
+__NOTE: These are no budget activities / events, meaning that Mozilla will not provide financial support. While we are dreaming up new and interesting ways to support, these should be very much self-directed activities.__
+
 These sessions can be run two ways:
 
 1. Ask a person with experience with Rust to attend and provide guidance to attendees. There are a few ways to try to find local Rust experts to invite:
