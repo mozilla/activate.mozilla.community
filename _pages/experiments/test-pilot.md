@@ -1,4 +1,4 @@
-	---q
+---
 layout: page
 title:  "Install Test Pilot"
 permalink: /experiments/test-pilot

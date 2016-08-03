@@ -23,6 +23,7 @@ __NOTE: These are zero-budget activities / events, meaning that Mozilla will not
 * Enable and test features
 * Provide feedback via the add-on
 
+
 ## Output
 
 Additional to the recommended flow here are some things we’d like you, the event organizer, to do.
