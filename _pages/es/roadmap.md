@@ -8,7 +8,7 @@ ref: roadmap
 
 # Roadmap
 
-In this page we describe the past, current and future activities that we have on this site. If you have feedback, questions or suggestions please [chime in to this topic](#).
+In this page we describe the past, current and future activities that we have on this site. If you have feedback, questions or suggestions please [chime in to this topic](https://discourse.mozilla-community.org/t/activate-mozilla-roadmap/10068).
 
 *Note that this roadmap is in constant change and evolution.*
 
