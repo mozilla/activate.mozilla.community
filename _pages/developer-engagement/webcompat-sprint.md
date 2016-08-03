@@ -15,7 +15,7 @@ For more background and data on Web Compatibility, read the [recent blog post on
 
 While this activity can be run solo, we encourage you to run an event in your community to get together people who care about the Web. The goal is to test sites, diagnose problems, and discuss how to evangelise locally to developers about a web that works for everyone.
 
-__NOTE: These are no budget activities / events, meaning that Mozilla will not provide financial support. While we are dreaming up new and interesting ways to support, these should be very much self-directed activities.__
+__NOTE: These are zero-budget activities / events, meaning that Mozilla will not provide financial support. While we are dreaming up new and interesting ways to support, these should be very much self-directed activities.__
 
 ## Event Flow
 
