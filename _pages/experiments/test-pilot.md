@@ -1,4 +1,4 @@
----
+	---q
 layout: page
 title:  "Install Test Pilot"
 permalink: /experiments/test-pilot
@@ -15,7 +15,7 @@ When building features for hundreds of millions of Firefox users worldwide, itâ€
 
 While this activity can be run solo, we encourage you to run an event in your community to get together people to learn about testing experimental Firefox features and discuss what is upcoming in the browser.
 
-__NOTE: These are no budget activities / events, meaning that Mozilla will not provide financial support. While we are dreaming up new and interesting ways to support, these should be very much self-directed activities.__
+__NOTE: These are zero-budget activities / events, meaning that Mozilla will not provide financial support. While we are dreaming up new and interesting ways to support, these should be very much self-directed activities.__
 
 ## Event Flow
 
@@ -29,7 +29,7 @@ __NOTE: These are no budget activities / events, meaning that Mozilla will not p
 Additional to the recommended flow here are some things weâ€™d like you, the event organizer, to do.
 
 * Tell us about how you got on. What was your favourite new browser feature?
-    * [Here is the Discourse post to write to]()
+    * [Here is the Discourse post to write to](https://discourse.mozilla-community.org/t/activate-mozilla-install-test-pilot/10075/1)
 
 ## Extra
 
