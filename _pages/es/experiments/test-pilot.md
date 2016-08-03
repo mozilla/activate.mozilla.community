@@ -32,5 +32,7 @@ Additional to the recommended flow here are some things we’d like you, the eve
 ## Extra
 
 Feel like doing more for Test Pilot?
-* The [Test Pilot Add-on:](https://github.com/mozilla/testpilot/) is open for coding contributions
-    * Here is a list of [good first bugs](https://github.com/mozilla/testpilot/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-bug)
+
+* Contributors are welcome to check out [our github repo](https://github.com/mozilla/testpilot/)
+* Here’s a [list of good first bugs](https://github.com/mozilla/testpilot/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-bug) if you would like to dive in
+* The [Test Pilot Wiki](https://wiki.mozilla.org/Test_Pilot) has lots of information about public meetings, communication and the Test Pilot roadmap
