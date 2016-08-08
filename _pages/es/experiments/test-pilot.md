@@ -17,10 +17,12 @@ Firefox is key to how Mozilla expresses its values and makes the Web increasingl
 
 ### Goals for this area
 
-*Impact:*
+__Impact:__
+
 * 500 Test Pilot add-on installs
 
-*Strength:*
+__Strength:__
+
 * 300 shares of Test Pilot link from the activity page
 * 50 Discourse Posts
 
@@ -45,7 +47,8 @@ Additional to the recommended flow here are some things we’d like you, the eve
 
 * Fill out the post-event metrics on the event page you setup on the Reps portal
 * Tell us about how you got on. What was your favourite new browser feature?
-    * [Here is the Discourse post to write to](https://discourse.mozilla-community.org/t/activate-mozilla-install-test-pilot/10075/1)
+    * [Test Pilot Discourse](https://discourse.mozilla-community.org/c/test-pilot)
+    * [Feedback about the activity specifically](https://discourse.mozilla-community.org/t/activate-mozilla-install-test-pilot/10075/1)
 
 ## Extra
 
