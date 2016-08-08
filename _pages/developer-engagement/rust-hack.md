@@ -9,13 +9,38 @@ parent: developer-engagement
 
 Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. [Find out more...](https://www.rust-lang.org)
 
+## Impact and Metrics
+
+The Rust programming language will be important to the future of the web, making it safe and great. Having more developers understand, use and evangelize this language will advance make the web better and more secure.
+
+Rust will also be used extensively for Mozilla projects -- including this year as Servo (written in Rust) is advanced even further, and parts of it are moved into Gecko/Firefox. Having more Mozilla contributors know Rust will give them a chance to contribute to the most exciting and important technical projects coming up for Mozilla.
+
+### Goals for this area
+
+*Impact:*
+* 1,000 programmers/developers are introduced to and are well on their way to learning Rust
+* 10 blog posts about events or other local Rust activities
+
+*Strength:*
+* 50 Mozillians organize Rust Hack and Learn events
+* 50 new people signed up to [Rust developer list](https://users.rust-lang.org)
+
+## Audience for this activity
+
+Your audience for this event should be **programmers and developers**. Focus on people who are technical and already know languages like C or Python or other similar languages.
+
 ## Activity Format
 
 Get your community behind this exciting new programming language by running a learning event.
 
-__NOTE: These are zero-budget activities / events, meaning that Mozilla will not provide financial support. While we are dreaming up new and interesting ways to support, these should be very much self-directed activities.__
+1. Put an event team together
+2. Choose a date and secure a venue
+3. Choose whether this will be self-facilitated or with someone who has Rust experience (see below)
+4. Setup the event on Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting))
 
-These sessions can be run two ways:
+For duration, we recommend a half-day (or full evening) event with a minimum of 15-25 attendees.
+
+There are two options for facilitation:
 
 1. Ask a person with experience with Rust to attend and provide guidance to attendees. There are a few ways to try to find local Rust experts to invite:
     * Reach out to the [Community Team](https://www.rust-lang.org/en-US/team.html#Community-team) - community-team [at] rust-lang [dot] org - they know the most active people in most regions.
@@ -55,7 +80,8 @@ These sessions can be run two ways:
 ## Output
 Additional to the recommended event flow here are some things we’d like you, the event organizer, to do.
 
-* Tell us about your event. This can be before or after. We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two!
+* Fill out the post-event metrics on the event page you setup on the Reps portal
+* Optionally, tell us about your event. This can be before or after. We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two! This will also be instructional and inspirational to others who might do the event.
     * [Here is the Discourse post to write to](https://discourse.mozilla-community.org/t/activate-mozilla-dive-into-rust/10073/1)
 
 ## Extra

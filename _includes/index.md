@@ -1,5 +1,8 @@
 # Activate Mozilla
 
+{: .center}
+A campaign for Mozillians around the world to have impact in areas key to Mozilla’s mission.
+
 ## Focus Initiatives
 
 {: #area-deveng .area}

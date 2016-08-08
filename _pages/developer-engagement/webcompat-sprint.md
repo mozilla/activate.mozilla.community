@@ -11,11 +11,33 @@ Web Compatibility, the ability for all Web content to run in all browsers, is im
 
 For more background and data on Web Compatibility, read the [recent blog post on Mozilla Hacks](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
 
+## Impact and Metrics
+
+At Mozilla, we want the web running well for everyone, not just in one or two browsers. This means cross-browser, and cross-device. Our global community can give visibility to this that no team could ever match!
+
+### Goals for this area
+
+*Impact:*
+* 300 Add-on installs
+* 200 compatibility issues filed
+
+*Strength:*
+* 50 Mozillians run events
+* 50 signups to the [compatibility list](https://www.mozilla.org/en-US/about/forums/#compatibility)
+
+## Audience for this activity
+
+The audience this activity is anyone who is passionate on the topic, but being somewhat Web tech savvy is a help. No programming skills are necessary. It is for people who care about diversity on the Web.
+
 ## Activity Format
 
-While this activity can be run solo, we encourage you to run an event in your community to get together people who care about the Web. The goal is to test sites, diagnose problems, and discuss how to evangelise locally to developers about a web that works for everyone.
+While this activity can be run solo, we encourage you to run an event in your community to get together people who care about the Web. The goal is to test sites, diagnose problems, and discuss how to evangelise locally to developers about a Web that works for everyone.
 
-__NOTE: These are zero-budget activities / events, meaning that Mozilla will not provide financial support. While we are dreaming up new and interesting ways to support, these should be very much self-directed activities.__
+1. Put an event team together
+2. Choose a date and secure a venue
+3. Setup the event on Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting))
+
+For duration, we recommend a half-day (or full evening) event with a minimum of 10-15 attendees.
 
 ## Event Flow
 
@@ -36,7 +58,8 @@ __NOTE: These are zero-budget activities / events, meaning that Mozilla will not
 ## Output
 Additional to the recommended event flow here are some things we’d like you, the event organizer, to do.
 
-* Tell us about your event. This can be before or after. We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two!
+* Fill out the post-event metrics on the event page you setup on the Reps portal
+* Optionally, tell us about your event. This can be before or after. We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two!
     * [Here is the Discourse post to write to](* https://discourse.mozilla-community.org/t/activate-mozilla-web-compatibility-sprint/10074/1)
 * Encourage attendees who want to continue to work on Web Compat to sign up to the [mailing list](https://www.mozilla.org/en-US/about/forums/#compatibility)
 
