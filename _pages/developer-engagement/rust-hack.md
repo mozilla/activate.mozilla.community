@@ -17,11 +17,13 @@ Rust will also be used extensively for Mozilla projects -- including this year a
 
 ### Goals for this area
 
-*Impact:*
+__Impact:__
+
 * 1,000 programmers/developers are introduced to and are well on their way to learning Rust
 * 10 blog posts about events or other local Rust activities
 
-*Strength:*
+__Strength:__
+
 * 50 Mozillians organize Rust Hack and Learn events
 * 50 new people signed up to [Rust developer list](https://users.rust-lang.org)
 

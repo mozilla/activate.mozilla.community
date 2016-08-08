@@ -17,11 +17,13 @@ At Mozilla, we want the web running well for everyone, not just in one or two br
 
 ### Goals for this area
 
-*Impact:*
+__Impact:__
+
 * 300 Add-on installs
 * 200 compatibility issues filed
 
-*Strength:*
+__Strength:__
+
 * 50 Mozillians run events
 * 50 signups to the [compatibility list](https://www.mozilla.org/en-US/about/forums/#compatibility)
 
