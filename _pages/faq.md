@@ -31,6 +31,15 @@ The areas and activity described in this site are a result of a joint effort fro
 
 You can ask directly creating a new topic at the [Participation Leaders forum](https://discourse.mozilla-community.org/c/participation-leaders).
 
-## Can I request budget for these activities?
+## Can I request budget or swag for these activities?
 
-Unless otherwise explicitely stated, the answer is no. These are no budget activities / events, meaning that Mozilla will not provide financial support. While we are dreaming up new and interesting ways to support, these should be very much self-directed activities.
+We encourage you to run these as lean as possible, but realise that sometimes there can be some costs incurred for logistics or refreshments. If your event meets the requirements laid out in the activity, there is a fund available of up to $150 USD per event. This can be used for only the following items/services:
+
+* Locally produced stickers and/or other small items (only for an event for over 50 people)
+* Food for participants for an event over than 5 hours
+* Venue rental (in the case of the no other alternative)
+* Travel for expert on the field (currently allowed only for Rust events)
+
+Assets to use will be included in some activities. Unless explicitly mentioned in the activity, there will be no other swag available for the campaign. 
+
+To make the request, you will need to make a Reps budget request. If you are not a Rep, please contact a local Rep to help you. We will fast-track valid requests, which are ones that meet the requirements of the activity. For larger budget requests, it will be processed like any other Reps budget request and there is no guarantee it will be approved and even if so, whether it will be on time.
