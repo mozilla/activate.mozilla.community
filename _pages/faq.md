@@ -11,9 +11,9 @@ ref: faq
 * TOC
 {:toc}
 
-## What's Activate Mozilla?
+## What is Activate Mozilla?
 
-Activate Mozilla is a Mozilla initiative to bring more clarity on what are the most important areas to contribute to at Mozilla right now, and provide clear steps on how to get involved right away. These will be presented in the form of activities.
+Activate Mozilla is a campaign for Mozillians around the world to have impact in areas key to Mozilla’s mission. We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now, and provide clear steps on how to get involved right away. These will be presented in the form of activities.
 
 ## Who can be involved in the activities?
 
@@ -25,7 +25,20 @@ Just navigate the site and read the different areas and activities described. Th
 
 ## Why should I get involved?
 
-The areas and activity described in this site are a result of a joint effort from the Mozilla Participation team and different functional areas to surface what is imporant for the organization right now. If you want to support Mozilla and you are unsure about what's more impactful right now, this is your site.
+The areas and activity described in this site are a result of a joint effort from the Mozilla Participation team and other teams to surface what is imporant for the organization right now. If you want to support Mozilla and you are unsure about what to do, this campaign is for you.
+
+## What are the goals of the campaign?
+
+The primary goal of the campaign is to launch activities that bring value everyone participating, from community mobilizers, to event attendees, to teams at Mozilla.
+
+We have set ourselves targets for Q3 (July-September), 2016. While they are not arbitrary numbers, they are meant to be aspirational and not exact. Whether we come in under target or way over, we will evaluate and iterate for future campaign.
+
+* 6 activities are launched.
+* 400 mobilizers activated. Primarily this is people organising events, assisting in logistics, and being the primary driver of an activity to bring more contributions.
+* 3500 unique contributions to the campaign. These are the people mobilized, such as those attending events, installing add-ons, and so on.
+* 2000 social shares of campaign activities.
+
+These are listed here for transparency, and you can also see our per-activity goals listed under the 'Goals for this area' section on each activity page.
 
 ## What should I do if I have questions?
 
