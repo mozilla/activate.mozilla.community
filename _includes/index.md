@@ -6,7 +6,7 @@ A campaign for Mozillians around the world to have impact in areas key to Mozill
 ## Focus Initiatives
 
 {: #area-deveng .area}
-[![image](/asserts/img/development.png)
+[![image]({{ "/asserts/img/development.png" | prepend: site.baseurl }})
 Empower developer communities](/developer-engagement/)
 
 {: #area-servo .area .disabled}
