@@ -2,7 +2,7 @@
 layout: page
 title:  "Browser Experiments"
 permalink: /es/experiments/
-lang: es
+lang: pt
 ref: experiments
 ---
 
