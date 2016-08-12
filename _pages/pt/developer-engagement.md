@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  "Developer Engagement"
-permalink: /es/developer-engagement/
-lang: es
+permalink: /pt/developer-engagement/
+lang: pt
 ref: developer-engagement
 ---
 
@@ -15,5 +15,5 @@ Because of this, we always aim to work more with developers to hear what their n
 
 Our current activities in this area are:
 
-* [Dive Into Rust](/developer-engagement/rust-hack)
-* [Web Compatibility Sprint](/developer-engagement/webcompat-sprint)
+* [Dive Into Rust]({{ "rust-hack" | prepend: page.url | prepend: site.baseurl }})
+* [Web Compatibility Sprint]({{ "webcompat-sprint" | prepend: page.url | prepend: site.baseurl }})

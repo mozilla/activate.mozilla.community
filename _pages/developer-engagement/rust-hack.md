@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  "Dive Into Rust"
-permalink: /developer-engagement/rust-hack
-lang: en
+permalink: /pt/developer-engagement/rust-hack
+lang: pt
 ref: rust-hack
 parent: developer-engagement
 ---
