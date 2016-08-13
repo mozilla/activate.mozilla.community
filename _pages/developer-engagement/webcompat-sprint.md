@@ -9,7 +9,7 @@ parent: developer-engagement
 
 Web Compatibility, the ability for all Web content to run in all browsers, is important. There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired.
 
-For more background and data on Web Compatibility, read the [recent blog post on Mozilla Hacks](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
+For more background and data on Web Compatibility, read the [recent blog post on Mozilla Hacks](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/).
 
 ## Impact and Metrics
 
@@ -62,13 +62,13 @@ Additional to the recommended event flow here are some things we’d like you, t
 
 * Fill out the post-event metrics on the event page you setup on the Reps portal
 * Optionally, tell us about your event. This can be before or after. We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two!
-    * [Here is the Discourse post to write to](* https://discourse.mozilla-community.org/t/activate-mozilla-web-compatibility-sprint/10074/1)
+    * [Here is the Discourse post to write to](https://discourse.mozilla-community.org/t/activate-mozilla-web-compatibility-sprint/10074/1)
 * Encourage attendees who want to continue to work on Web Compat to sign up to the [mailing list](https://www.mozilla.org/en-US/about/forums/#compatibility)
 
 ## Extra
 While the focus of this activity should be on testing sprints, there are other ways to stay more involved with the community after.
 
-* Bug diagnosis: This is about trying to understand the underlying issues behind bug reports, and where possible, providing suggested fixes for site owners. [More information](https://github.com/mozilla/participation-org/issues/237#issuecomment-163632626)
-* Site outreach: This is about trying to get in contact with websites that have issues and (politely!) providing ways that they can improve compatibility or fix their bugs. [More information](https://github.com/mozilla/participation-org/issues/237#issuecomment-163632354)
+* Bug diagnosis: This is about trying to understand the underlying issues behind bug reports, and where possible, providing suggested fixes for site owners. [More information](https://github.com/mozilla/participation-org/issues/237#issuecomment-163632354)
+* Site outreach: This is about trying to get in contact with websites that have issues and (politely!) providing ways that they can improve compatibility or fix their bugs. [More information](https://github.com/mozilla/participation-org/issues/237#issuecomment-163632626)
 
 [https://webcompat.com/contributors](https://webcompat.com/contributors) has more basic information on how to get started and join the community.
