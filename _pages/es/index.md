@@ -15,7 +15,7 @@ A campaign for Mozillians around the world to have impact in areas key to Mozill
 
 {: #area-deveng .area}
 [![image](/asserts/img/development.png)
-Empower developer communities](/developer-engagement/)
+Empower developer communities]({{ "developer-engagement" | prepend: page.url | prepend: site.baseurl }})
 
 {: #area-servo .area .disabled}
 ![image](/asserts/img/servo.png)
