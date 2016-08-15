@@ -1,12 +1,12 @@
 ---
 layout: default
-title:  "Participation"
-permalink: /es/participation
-lang: es
+title:  "Participação"
+permalink: /pt/participation
+lang: pt
 ref: participation
 ---
 
-# About Participation at Mozilla
+# Sobre a participação da Mozilla
 
 Mozilla has thousands of volunteers globally making an impact every day by contributing to engineering projects, localization, support, marketing, and other areas. However, sometimes finding the right opportunity to help at the right time can be difficult in a project so large. Hence the creation of this site, the purpose of which is to surface up things to do right now. The criteria for these activities are:
 
@@ -17,11 +17,11 @@ Mozilla has thousands of volunteers globally making an impact every day by contr
 
 The goal is simple, Participation at scale with impact. Help us get bigger and better, as we continue to carry out our mission.
 
-## Our Mission
+## Nosso objetivo
 
 To have Mozilla succeed through openness and participation.
 
-## What We Do
+##  O que nós fazemos
 
 The Participation Team develops community leaders and contributors who will invent, shape and defend the Internet, and activates them to supercharge Mozilla’s products and our movement.
 
@@ -31,6 +31,6 @@ We do this by:
 * Recruiting and investing in core contributors mobilizers/leaders, and developing diverse, local and global communities that make individual contribution more impactful
 * Delivering software/systems and practices that increase the impact of participation across Mozilla
 
-# Get Involved
+# Se envolva
 
 Find out more on the [Participation Wiki](https://wiki.mozilla.org/Participation).
