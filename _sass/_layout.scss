@@ -272,7 +272,8 @@
     }
 
     .disabled {
-        filter:grayscale(90%) opacity(25%);
+        filter: grayscale(90%) opacity(25%);
+        -webkit-filter: grayscale(90%) opacity(25%);
         font-weight: normal;
     }
 }
