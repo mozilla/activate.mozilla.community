@@ -1,8 +1,8 @@
 ---
 layout: default
 title:  "Frequently Asked Questions"
-permalink: /es/faq
-lang: es
+permalink: /pt/faq
+lang: pt
 ref: faq
 ---
 
@@ -53,6 +53,6 @@ We encourage you to run these as lean as possible, but realise that sometimes th
 * Venue rental (in the case of the no other alternative)
 * Travel for expert on the field (currently allowed only for Rust events)
 
-Assets to use will be included in some activities. Unless explicitly mentioned in the activity, there will be no other swag available for the campaign. 
+Assets to use will be included in some activities. Unless explicitly mentioned in the activity, there will be no other swag available for the campaign.
 
 To make the request, you will need to make a Reps budget request. If you are not a Rep, please contact a local Rep to help you. We will fast-track valid requests, which are ones that meet the requirements of the activity. For larger budget requests, it will be processed like any other Reps budget request and there is no guarantee it will be approved and even if so, whether it will be on time.
