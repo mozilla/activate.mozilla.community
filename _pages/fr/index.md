@@ -1,8 +1,8 @@
 ---
 layout: index
 title:  "Activate en Mozilla"
-permalink: /lang/
-lang: lang
+permalink: /fr/
+lang: fr
 ref: index
 ---
 

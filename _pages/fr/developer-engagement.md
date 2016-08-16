@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  "Developer Engagement"
-permalink: /lang/developer-engagement/
-lang: lang
+permalink: /fr/developer-engagement/
+lang: fr
 ref: developer-engagement
 ---
 

@@ -1,4 +1,4 @@
-lang-url: '' # This should be empty for English, for others should be 'es/'
+lang-url: 'fr/' # This should be empty for English, for others should be 'es/'
 site-title: 'Activate Mozilla'
 faq: 'FAQ'
 roadmap: 'Roadmap'

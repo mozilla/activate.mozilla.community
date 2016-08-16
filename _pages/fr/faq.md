@@ -1,8 +1,8 @@
 ---
 layout: default
 title:  "Frequently Asked Questions"
-permalink: /lang/faq
-lang: lang
+permalink: /fr/faq
+lang: fr
 ref: faq
 ---
 

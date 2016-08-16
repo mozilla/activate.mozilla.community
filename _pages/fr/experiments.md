@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  "Browser Experiments"
-permalink: /lang/experiments/
-lang: lang
+permalink: /fr/experiments/
+lang: fr
 ref: experiments
 ---
 

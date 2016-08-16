@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  "Install Test Pilot"
-permalink: /lang/experiments/test-pilot
-lang: lang
+permalink: /fr/experiments/test-pilot
+lang: fr
 ref: test-pilot
 parent: experiments
 ---
