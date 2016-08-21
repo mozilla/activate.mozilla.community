@@ -2,7 +2,7 @@
 layout: page
 title:  "Mergulhe na ferrugem"
 permalink: /developer-engagement/rust-hack
-lang: en
+lang: pt-br
 ref: rust-hack
 parent: developer-engagement
 ---
