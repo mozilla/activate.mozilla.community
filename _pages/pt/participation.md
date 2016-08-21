@@ -8,29 +8,29 @@ ref: participation
 
 # Sobre a participação da Mozilla
 
-Mozilla has thousands of volunteers globally making an impact every day by contributing to engineering projects, localization, support, marketing, and other areas. However, sometimes finding the right opportunity to help at the right time can be difficult in a project so large. Hence the creation of this site, the purpose of which is to surface up things to do right now. The criteria for these activities are:
+Mozilla tem milhares de voluntários ao todo do mundo, que impactam todos os dias ao contribuírem com projetos de engenharia, localização, suporte, marketing e outras áreas. No entanto, às vezes, encontrar a oportunidade certa de ajudar na hora certa pode ser difícil em um projeto tão grande. Por isso, a criação deste site, cujo objetivo é mostrar as coisas que há para fazer neste momento. Os critérios para essas atividades são:
 
-* They are relevant to what is happening right now at Mozilla
-* They bring value to those who choose to participate
-* They appeal to a broad group of people
-* They are self-serve and require no support to get up and running
+* Elas são relevantes para o que está acontecendo neste momento na Mozilla
+* Elas trazem valor para aqueles que escolheram participar
+* Elas têm apelo para um amplo grupo de pessoas
+* Elas são autoaplicáveis e não requerem nenhum apoio para se iniciar e executar
 
-The goal is simple, Participation at scale with impact. Help us get bigger and better, as we continue to carry out our mission.
+O objetivo é simples: Participação em escala com impacto. Ajude-nos a ser maiores e melhores, enquanto continuamos a realizar a nossa missão.
 
 ## Nosso objetivo
 
-To have Mozilla succeed through openness and participation.
+O sucesso da Mozilla por meio da abertura e participação.
 
 ##  O que nós fazemos
 
-The Participation Team develops community leaders and contributors who will invent, shape and defend the Internet, and activates them to supercharge Mozilla’s products and our movement.
+A Equipe de Participação desenvolve líderes comunitários e colaboradores que irão inventar, formar e defender a Internet, e ativa-os para turbinar o nosso movimento e os produtos da Mozilla.
 
-We do this by:
+Fazemos isso:
 
-* Designing and implementing specific participation initiatives -- in partnership with teams around Mozilla -- that adapt and advance global best-practice on participation
-* Recruiting and investing in core contributors mobilizers/leaders, and developing diverse, local and global communities that make individual contribution more impactful
-* Delivering software/systems and practices that increase the impact of participation across Mozilla
+* Projetando e implementando iniciativas específicas de participação -- em parceria com outras equipes da Mozilla -- que se adaptam e promovem as melhores práticas globais em participação.
+* Recrutando e investindo nos principais colaboradores mobilizadores/líderes, e desenvolvendo diversas, locais e globais comunidades que fazem a contribuição individual mais impactante
+* Fornecendo software/sistemas e práticas que aumentam o impacto da participação em toda a Mozilla
 
 # Se envolva
 
-Find out more on the [Participation Wiki](https://wiki.mozilla.org/Participation).
+Saiba mais em nossa página da Wiki [Participation](https://wiki.mozilla.org/Participation) _(em inglês)_.
