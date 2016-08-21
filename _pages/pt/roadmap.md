@@ -1,31 +1,31 @@
 ---
 layout: default
-title:  "Roadmap"
+title:  "Cronograma"
 permalink: /pt/roadmap
 lang: pt
 ref: roadmap
 ---
 
-# Roadmap
+# Cronograma
 
-In this page we describe the past, current and future activities that we have on this site. If you have feedback, questions or suggestions please [chime in to this topic](https://discourse.mozilla-community.org/t/activate-mozilla-roadmap/10068).
+Nesta página descrevemos as atividades passadas, atuais e futuras que temos neste site. Se você tiver comentários, perguntas ou sugestões, por favor, [insira-os neste tópico](https://discourse.mozilla-community.org/t/activate-mozilla-roadmap/10068).
 
-*Note that this roadmap is in constant change and evolution.*
+*Atenção este cronograma está em constante evolução e mudança.*
 
 * TOC
 {:toc}
 
-## July 2016 (Launch)
+## Julho 2016 (Lançamento)
 
-* Dive Into Rust *(Rust and Servo)*
-* Web Compatibility Sprints *(Developer Engagement)*
+* Dive Into Rust *(Rust e Servo)*
+* Web Compatibility Sprints *(Engajamento de Desenvolvedores)*
 * Test Pilot Install *(Test Pilot)*
 
-## August 2016
+## Agosto 2016
 
-* e10s Add-on Compatibility *(Developer Engagement)*
-* Copyright petition *(Privacy and Policy)*
+* e10s Add-on Compatibility *(Engajamento de Desenvolvedores)*
+* Copyright petition *(Privacidade e Política)*
 
-## September 2016
+## Setembro 2016
 
-* Maker Party *(Privacy and Policy)*
+* Maker Party *(Privacidade e Política)*
