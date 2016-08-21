@@ -1,58 +1,63 @@
 ---
 layout: default
-title:  "Frequently Asked Questions"
+title:  "Perguntas Mais Frequentes"
 permalink: /pt/faq
 lang: pt
 ref: faq
 ---
 
-# Frequently Asked Questions
+# Perguntas Mais Frequentes
 
 * TOC
 {:toc}
 
-## What is Activate Mozilla?
+## O que é Activate Mozilla?
 
-Activate Mozilla is a campaign for Mozillians around the world to have impact in areas key to Mozilla’s mission. We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now, and provide clear steps on how to get involved right away. These will be presented in the form of activities.
+Activate Mozilla é uma campanha para Mozillians do mundo inteiro terem inpacto em áreas chave da missão Mozilla. Nós queremos trazer mais clareza em quais áreas são mais importantes para contribuir para a Mozilla agora, e prover claros passos de como se envolver da maneira correta. Estes serão apresentados em forma de atividades.
 
-## Who can be involved in the activities?
+## Quem pode se envolver nas atividades?
 
-Anyone who wants to support Mozilla.
+Qualquer um que deseja apoiar a Mozilla.
 
-## How do I get involved?
+## Como eu me envolvo?
 
-Just navigate the site and read the different areas and activities described. There you will find more information on why the activities have been chosen, and concrete instructions on how to contribute to each of them.
+Apenas navegue no site e leia as diferentes áreas e atividades descritas. Lá você irá encontrar mais informações sobre porque as atividades foram escolhidas, e intruções concretas em como contribuir para cada um deles.
 
-## Why should I get involved?
+## Porque eu devo me envolver?
 
-The areas and activity described in this site are a result of a joint effort from the Mozilla Participation team and other teams to surface what is imporant for the organization right now. If you want to support Mozilla and you are unsure about what to do, this campaign is for you.
+As areas e atividades descritas neste site são resultado de um *joint effort* do time de Participação da Mozilla e outras áreas (to surface) o que é importante para a organização agora. Se você quer apoiar a Mozilla e está inseguro sobre o que fazer, esta campanha é para você.
 
-## What are the goals of the campaign?
+## Quais são os objetivos da campanha?
 
-The primary goal of the campaign is to launch activities that bring value everyone participating, from community mobilizers, to event attendees, to teams at Mozilla.
+O objetivo primário da campanha é lançar atividades que tragam valor a todos os participantes, *from community mobilizers*, * to event attendees* a times da Mozilla.
 
-We have set ourselves targets for Q3 (July-September), 2016. While they are not arbitrary numbers, they are meant to be aspirational and not exact. Whether we come in under target or way over, we will evaluate and iterate for future campaign.
+Nós estabelecemos metas para o terceiro trimestre (Julho-Setembro) de 2016. While they are not arbitrary numbers, they are meant to be aspirational and not exact. Whether we come in under target or way over, we will evaluate and iterate for future campaign.
 
-* 6 activities are launched.
-* 400 mobilizers activated. Primarily this is people organising events, assisting in logistics, and being the primary driver of an activity to bring more contributions.
-* 3500 unique contributions to the campaign. These are the people mobilized, such as those attending events, installing add-ons, and so on.
-* 2000 social shares of campaign activities.
+* 6 atividades são lançadas.
+* 400 *mobilizers ativados. A principio estas são as pessoas que organizam eventos, ajudam com logisticas, e os principais condutores de uma atividade para trazer mais contribuições.
+* 3500 contribuições únicas para a campanha. Estas são as pessoas mobilizadas, sejam as que participaram de eventos, instalaram complementos etc.
+* 2000 compartilhamentos em redes sociais sobre as atividades da campanha.
 
-These are listed here for transparency, and you can also see our per-activity goals listed under the 'Goals for this area' section on each activity page.
+Estes objetivos estão listados para transparência, e você pode também ver os nossos objetivos de pre-atividade listados abaixo da seção "Objetivos para esta área" em cada página de atividade.
 
-## What should I do if I have questions?
+## O que eu devo fazer se tiver dúvidas?
 
-You can ask directly creating a new topic at the [Participation Leaders forum](https://discourse.mozilla-community.org/c/participation-leaders).
+Você pode perguntar diretamente criando um novo tópico no [fórum dos Líderes de Participação](https://discourse.mozilla-community.org/c/participation-leaders).
 
-## Can I request budget or swag for these activities?
+## Eu posso pedir um orçamento ou brindes para estas atividades?
 
-We encourage you to run these as lean as possible, but realise that sometimes there can be some costs incurred for logistics or refreshments. If your event meets the requirements laid out in the activity, there is a fund available of up to $150 USD per event. This can be used for only the following items/services:
+Nós te encoragamos a executar estas atividades com o mímino possível, mas sabemos que algumas vezes podem ocorrer custos causados por logísticas ou alimentos e bebidas. Se o seu evento cumpre os requisitos estabelecidos na atividade, há um fundo disponível de até $150 dólares por evento. Isso pode ser usado apenas para os seguintes itens/serviços:
+
+* Produção local de adesivos e/ou outros pequenos itens (apenas para um evento com acima de 50 pessoas)
+* Comida para os participantes de um evento com mais de 5 horas
+* Aluguel do local (apenas se não houver outra alternativa)
+* Viagem para um especialista no assunto (atualmente permitido apenas para eventos de Rust)
 
 * Locally produced stickers and/or other small items (only for an event for over 50 people)
 * Food for participants for an event over than 5 hours
 * Venue rental (in the case of the no other alternative)
 * Travel for expert on the field (currently allowed only for Rust events)
 
-Assets to use will be included in some activities. Unless explicitly mentioned in the activity, there will be no other swag available for the campaign.
+O material gráfico a ser utilizado será incluido em algumas atividades. Se não for mencionado explicitamente na atividade, não haverá outros (swag) disponíveis na campanha.
 
-To make the request, you will need to make a Reps budget request. If you are not a Rep, please contact a local Rep to help you. We will fast-track valid requests, which are ones that meet the requirements of the activity. For larger budget requests, it will be processed like any other Reps budget request and there is no guarantee it will be approved and even if so, whether it will be on time.
+Para fazer o pedido, você precisa fazer o pedido de orçamento de Reps. Se você não é um Rep, por favor entre em contato com um Rep local para te ajudar. Nós vamos localizar rapidamente as solicitações válidas, que são aquelas que atendem os requisitos da atividade. Para pedidos maiores, será processado como qualquer outro pedido de Rep e não há garantia que será aprovado, e se for, que será a tempo.
