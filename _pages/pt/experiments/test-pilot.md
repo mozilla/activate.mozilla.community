@@ -1,59 +1,59 @@
 ---
 layout: page
-title:  "Install Test Pilot"
+title:  "Instale o Test Pilot"
 permalink: /pt/experiments/test-pilot
 lang: pt
 ref: test-pilot
 parent: experiments
 ---
 
-When building features for hundreds of millions of Firefox users worldwide, it’s important to get them right. To help figure out which features should ship and how they should work, we created the new Test Pilot program. Test Pilot is a way for you to try out experimental features and let us know what you think. You can turn them on and off at any time, and you’ll always know what information you’re sharing to help us understand how these features are used. Of course, you can also use Test Pilot to provide feedback and suggestions to the teams behind each new feature.
+Ao construir funcionalidades para centenas de milhões de usuários do Firefox ao redor do mundo, é importante fazer do jeito certo. Para ajudar a descobrir quais funcionalidades devem ser entregues e como devem funcionar, nós criamos o novo programa de Teste Pilot. Test Pilot é a maneira para você experimentar as funcionalidades e nos dizer o que achou. Você pode ativá-lo e desativá-lo a qualquer momento, e você sempre saberá que informação você está compartilhando para nos ajudar a entender como essas funcionalidades são utilizadas. Claro, você também pode utilizar o Test Pilot para fornecer feedback e sugestão aos times por trás de cada nova funcionalidade.
 
-[More info...](https://blog.mozilla.org/blog/2016/05/10/you-can-help-build-the-future-of-firefox-with-the-new-test-pilot-program/)
+[Mais informações...](https://blog.mozilla.org/blog/2016/05/10/you-can-help-build-the-future-of-firefox-with-the-new-test-pilot-program/)
 
-## Impact and Metrics
+## Impacto e Métricas
 
-Firefox is key to how Mozilla expresses its values and makes the Web increasingly exciting in the face of walled gardens like individual apps. By testing new features and functionality, you help to keep Firefox on the leading edge and consumers engaged in our product. Additionally, it gives you a chance to go even deeper with specific feedback and ideas for Firefox.
+Firefox é a chave pelo qual a Mozilla expressa seus valores e faz a Web cada vez mais emocionante a frente de jardins murados como aplicativos individuais. Ao testar os novos recursos e funcionalidades, você ajuda a manter o Firefox na linha de frente e os usuários envolvidos com nosso produto. Adicionalmente, ele te dá a chance de se envolver produndamente com feedbacks específicos e ideias para o Firefox.
 
-### Goals for this area
+### Objetivos para esta área
 
-__Impact:__
+__Impacto:__
 
-* 500 Test Pilot add-on installs
+* 500 instalações do complemento Test Pilot
 
-__Strength:__
+__Força:__
 
-* 300 shares of Test Pilot link from the activity page
-* 50 Discourse Posts
+* 300 compartilhamentos do link para o Test Pilot vindos da página de atividade
+* 50 posts no Discourse
 
-## Audience for this activity
+## Público para esta atividade
 
-The audience this activity is anyone who is passionate about the Web and knows their way a little around Web browsers. No programming skills are necessary. It is for people who like to try new things and are not shy in telling us what they think.
+O público dessa atividade é qualquer um que seja apaixonado pela Web e sabe um pouco sobre navegadores Web. Nenhuma habilidade em programação é necessária. Esta atividade é para pessoas que gostam de tentar coisas novas e não tem medo de nos dizer o que pensam.
 
-## Activity Format
+## Formato da atividade
 
-While this activity can be run solo, we encourage you to run an event in your community to get together people to learn about testing experimental Firefox features and discuss what is upcoming in the browser. We recommend a smaller, more informal event, such as a MozCoffee.
+Você pode executar essa atividade sozinho, mas nós encorajamos você a realizar um evento em sua comunidade para reunir pessoas para aprender como testar os recursos experimentais do Firefox e o que está por vir no navegador. Nós recomendamos um evento menor e mais informal, como um MozCoffee.
 
-## Event Flow
+## Acompanhamento do evento
 
-* [Install Test Pilot](http://testpilot.firefox.com/experiments?utm_source=activity.mozilla.community&utm_medium=referral&utm_campaign=moz-community-2016)
-* Enable and test features
-* Provide feedback via the add-on
-* Start a discussion on [Discourse](https://discourse.mozilla-community.org/c/test-pilot)
+* [Instalação do Test Pilot](http://testpilot.firefox.com/experiments?utm_source=activity.mozilla.community&utm_medium=referral&utm_campaign=moz-community-2016)
+* Ative e teste as funcionalidades
+* Forneça feedback através do complemento
+* Inicie uma discussão no [Discourse](https://discourse.mozilla-community.org/c/test-pilot)
 
-## Output
+## Após o evento
 
-Additional to the recommended flow here are some things we’d like you, the event organizer, to do.
+Adicionalmente nós recomendamos você, o organizador do evento, a fazer algumas coisas após o evento:
 
-* Fill out the post-event metrics on the event page you setup on the Reps portal
-* Tell us about how you got on. What was your favourite new browser feature?
-    * [Test Pilot Discourse](https://discourse.mozilla-community.org/c/test-pilot)
-    * [Feedback about the activity specifically](https://discourse.mozilla-community.org/t/activate-mozilla-install-test-pilot/10075/1)
+* Preencha as métricas de pós-evento na página que você criou no Portal de Reps
+* Nos conte como ocorreu. Qual foi o seu novo recurso favorito no navegador?
+    * [Discourse sobre o Test Pilot](https://discourse.mozilla-community.org/c/test-pilot)
+    * [Feedback sobre a atividade especificamente](https://discourse.mozilla-community.org/t/activate-mozilla-install-test-pilot/10075/1)
 
 ## Extra
 
-Feel like doing more for Test Pilot?
+Vontade de fazer mais pelo Test Pilot?
 
-* Contributors are welcome to check out [our github repo](https://github.com/mozilla/testpilot/)
-* Here’s a [list of good first bugs](https://github.com/mozilla/testpilot/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-bug) if you would like to dive in
-* The [Test Pilot Wiki](https://wiki.mozilla.org/Test_Pilot) has lots of information about public meetings, communication and the Test Pilot roadmap
+* Contribuidores são bem-vindos para conferir o [nosso repositório no github](https://github.com/mozilla/testpilot/)
+* Aqui está uma [lista de bons primeiros erros](https://github.com/mozilla/testpilot/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-bug), se você estiver afim de conferir
+* A [Wiki do Test Pilot](https://wiki.mozilla.org/Test_Pilot) possui muitas informações sobre reuniões públicas, comunicação e um quadro de planejamento do Test Pilot
