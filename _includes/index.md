@@ -32,4 +32,4 @@ Follow @MozParticipate on Twitter](https://twitter.com/intent/follow/?screen_nam
 
 {: #area-discourse .area .area-small}
 [![image](/asserts/img/discourse.png)
-Subcribe to the Participation Leaders forum](https://discourse.mozilla-community.org/c/participation-leaders)
+Subscribe to the Participation Leaders forum](https://discourse.mozilla-community.org/c/participation-leaders)
