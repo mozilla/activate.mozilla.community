@@ -15,7 +15,7 @@ A campaign for Mozillians around the world to have impact in areas key to Mozill
 
 {: #area-deveng .area}
 [![image](/asserts/img/development.png)
-Empower developer communities](/es/developer-engagement/)
+Empower developer communities]({{ "developer-engagement" | prepend: page.url | prepend: site.baseurl }})
 
 {: #area-servo .area .disabled}
 ![image](/asserts/img/servo.png)
@@ -27,7 +27,7 @@ Defend Internet Privacy and Policy (coming soon)
 
 {: #area-testpilot .area}
 [![image](/asserts/img/test-pilot.png)
-Use and test experimental Firefox features](/es/experiments/)
+Use and test experimental Firefox features](/experiments/)
 
 {: .center}
 _Are you interested in other areas? Check [our roadmap](/roadmap) to see what's coming soon._
