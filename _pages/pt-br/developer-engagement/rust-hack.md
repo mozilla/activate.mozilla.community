@@ -1,21 +1,21 @@
 ---
 layout: page
-title:  "Mergulhe na ferrugem"
+title:  "Mergulhe no Rust"
 permalink: /developer-engagement/rust-hack
 lang: pt-br
 ref: rust-hack
 parent: developer-engagement
 ---
 
-Rust é uma linguagem de programação de sistemas que executa extremamente rápido, impede segfaults, e garante a segurança do thread. [Find out more...](https://www.rust-lang.org)
+Rust é uma linguagem de programação de sistemas que executa extremamente rápido, impede segfaults, e garante a segurança do thread. [Encontre mais...](https://www.rust-lang.org)
 
 ## Métricas e impactos
 
 A linguagem de programação Rust será importante para o futuro da web, tornando-a segura e excelente. Ter mais desenvolvedores a entender, usar e evangelizar essa linguagem vai avançar tornar a web melhor e mais seguro.
 
-Rust também será usado extensivamente para projetos Mozilla - incluindo este ano, como Servo (escrito em Rust) é avançado ainda mais, e partes de que são movidos para Gecko / Firefox. Tendo mais colaboradores Mozilla sabendo Rust vai dar-lhes uma oportunidade de contribuir para os projectos técnicos mais importantes e promissoras chegando para a Mozilla.
+Rust também será usado extensivamente para projetos Mozilla - incluindo este ano, como Servo (escrito em Rust) é avançado ainda mais, e partes de que são movidos para Gecko / Firefox. Tendo mais colaboradores Mozilla sabendo Rust vai dar-lhes uma oportunidade de contribuir para os projetos técnicos mais importantes e promissores chegando para a Mozilla.
 
-### Metaspara esta área
+### Metas para esta área
 
 __Impacto:__
 
@@ -25,7 +25,7 @@ __Impacto:__
 __Força:__
 
 * 50 Mozillians organizando Rust Hack e eventos de aprendizagem.
-* 50 novas pessoas registradas em  [Rust developer list](https://users.rust-lang.org)
+* 50 novas pessoas registradas em  [Lista de desenvolvedores Rust](https://users.rust-lang.org)
 
 ## Audiência para essa nova atividade
 
@@ -35,22 +35,22 @@ Seu público para este evento deve ser ***programadores e desenvolvedores**. Con
 
 Obter sua comunidade por trás desta nova e excitante linguagem de programação, executando um evento de aprendizagem.
 
-1. Coloque uma equipe evento juntos
-2. Escolha uma data e garantir um local
+1. Coloque uma equipe evento junta
+2. Escolha uma data e garanta um local
 3. Escolha se esta será auto-facilitada ou com alguém que tem experiência Rust (ver abaixo)
-4. Configuração do evento no Reps Portal ([instruções] (https://wiki.mozilla.org/ReMo/SOPs/Event_hosting))
+4. Configuração do evento no  Portal dos Reps ([instruções] (https://wiki.mozilla.org/ReMo/SOPs/Event_hosting))
 
 Para duração, recomendamos um meio-dia (ou noite cheia) evento com um mínimo de 15-25 participantes.
 
 Existem duas opções para a facilitação:
 
-1. Peça a uma pessoa com experiência com Rust para atender e fornecer orientações aos participantes. Existem algumas maneiras de tentar encontrar especialistas Rust locais para convidar:
-    * Entre em contato com o [Time da Comunidade] (https://www.rust-lang.org/en-US/team.html#Community-team) - community-team [at] rust-lang [dot] org - eles conhecer as pessoas mais ativas na maioria das regiões.
+1. Peça a uma pessoa com experiência com Rust para atender e fornecer orientações aos participantes. Existem algumas maneiras de tentar encontrar especialistas locais em Rust para convidar:
+    * Entre em contato com o [Time da Comunidade] (https://www.rust-lang.org/en-US/team.html#Community-team) - community-team [at] rust-lang [dot] org - eles conhecem as pessoas mais ativas na maioria das regiões.
     * Através do [grupos de usuários] (https://www.rust-lang.org/en-US/user-groups.html)
     * No [rustaceans.org] (http://www.rustaceans.org/)
-2. Se os facilitadores têm pouca ou nenhuma experiência com Rust, transformá-lo em uma sessão de aprendizagem para todos, onde você percorrer as etapas em conjunto. Alguns Mozillians já fizeram tais sessões. Por exemplo, nossas [espaços comunitários] (https://wiki.mozilla.org/Participation/Community_Spaces) tem, para que possa chegar a eles para pedir alguma orientação.
+2. Se os facilitadores têm pouca ou nenhuma experiência com Rust, transformá-lo em uma sessão de aprendizagem para todos, onde você percorrer as etapas em conjunto. Alguns Mozillians já fizeram tais sessões. Por exemplo, tem nossos [espaços comunitários] (https://wiki.mozilla.org/Participation/Community_Spaces) , para que possa chegar a eles para pedir alguma orientação.
 
-Fluxo de Eventos ##
+## Fluxo de Eventos
 
 * Instalar Rust
     * [Rustup] (https://www.rustup.rs) - recomendado
@@ -86,7 +86,7 @@ Adicional para o fluxo de eventos recomendado aqui estão algumas coisas que gos
 * Opcionalmente, conte-nos sobre o seu evento. Isto pode ser antes ou depois. Gostamos de ouvir sobre os próximos planos, e, claro, adoraria ouvir sobre o que foi alcançado no evento com uma imagem ou dois! Esta também será de instrução e inspiração para outras pessoas que podem fazer o evento.
     * [Aqui está o post Discurso de escrever para] (https://discourse.mozilla-community.org/t/activate-mozilla-dive-into-rust/10073/1)
 
-## extra
+## Extra
 Embora o foco desta atividade deve ser sobre esses eventos, há outras maneiras de ficar mais envolvido com a comunidade Rust depois.
 
-* Seguir-se com os participantes para realçar [mais coisas acontecendo na comunidade a se envolver com] (https://www.rust-lang.org/en-US/community.html)
+* Seguir com os participantes para realçar [mais coisas acontecendo na comunidade a se envolver com] (https://www.rust-lang.org/en-US/community.html)
