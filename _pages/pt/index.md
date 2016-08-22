@@ -15,7 +15,7 @@ Uma campanha para Mozillians ao redor do mundo gerar impacto em áreas chave da 
 
 {: #area-deveng .area}
 [![image]({{ "/asserts/img/development.png" | prepend: site.baseurl }})
-Capacite comunidades de desenvolvimento]({{ "developer-engagement" | prepend: page.url | prepend: site.baseurl }})
+Capacite comunidades de desenvolvimento]({{ "developer-engagement/" | prepend: page.url | prepend: site.baseurl }})
 
 {: #area-servo .area .disabled}
 ![image]({{ "/asserts/img/servo.png" | prepend: site.baseurl }})
@@ -27,7 +27,7 @@ Defenda a Privacidade e os Direitos na Internet (em breve)
 
 {: #area-testpilot .area}
 [![image]({{ "/asserts/img/test-pilot.png" | prepend: site.baseurl }})
-Use e teste funcionalidades experimentais do Firefox]({{ "experiments" | prepend: page.url | prepend: site.baseurl }})
+Use e teste funcionalidades experimentais do Firefox]({{ "experiments/" | prepend: page.url | prepend: site.baseurl }})
 
 {: .center}
 _Você está interessado(a) em outras áreas ? Veja [nosso roadmap](/roadmap) para ver o que está por vir._
