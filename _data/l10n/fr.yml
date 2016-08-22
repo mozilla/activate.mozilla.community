@@ -1,0 +1,12 @@
+lang-url: 'fr/' # This should be empty for English, for others should be 'es/'
+site-title: 'Activate Mozilla'
+faq: 'FAQ'
+roadmap: 'Roadmap'
+participation: 'Participation'
+languages: 'Languages'
+submit-translation: 'Submit a translation/improvement for this page'
+twitter-text1: 'Share this page on Twitter'
+twitter-text2: 'I am contributing to'
+twitter-text3: 'at %40Mozilla Check how easy it is to %23mozactivate'
+facebook-text: 'Share this page on Facebook'
+share: "Share"

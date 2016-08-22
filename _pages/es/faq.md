@@ -50,8 +50,8 @@ We encourage you to run these as lean as possible, but realise that sometimes th
 
 * Locally produced stickers and/or other small items (only for an event for over 50 people)
 * Food for participants for an event over than 5 hours
-* Venue rental (in the case that a free venue is not available)
-* Travel for expert in the field (currently allowed only for Rust events)
+* Venue rental (in the case of the no other alternative)
+* Travel for expert on the field (currently allowed only for Rust events)
 
 Assets to use will be included in some activities. Unless explicitly mentioned in the activity, there will be no other swag available for the campaign. 
 
