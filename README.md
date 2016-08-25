@@ -31,6 +31,8 @@ ref: developer-engagement
 
 ## Submit a new localization
 
+**NOTE: Currently we are not accepting any new localizations until we improve the system to be able to scale**
+
 In order to request a new localization, please [create a new issue](https://github.com/mozilla/activate.mozilla.community/issues) with the title "LanguageName (LanguageCode) localization" and we will create the folder structure for it.
 
 Once this is created you will need to:
