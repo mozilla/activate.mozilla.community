@@ -7,6 +7,9 @@ ref: test-pilot
 parent: experiments
 ---
 
+{: .right}
+![image](/asserts/img/test-pilot.png)
+
 Ao construir funcionalidades para centenas de milhões de usuários do Firefox ao redor do mundo, é importante fazer do jeito certo. Para ajudar a descobrir quais funcionalidades devem ser entregues e como devem funcionar, nós criamos o novo programa de Teste Pilot. Test Pilot é a maneira para você experimentar as funcionalidades e nos dizer o que achou. Você pode ativá-lo e desativá-lo a qualquer momento, e você sempre saberá que informação você está compartilhando para nos ajudar a entender como essas funcionalidades são utilizadas. Claro, você também pode utilizar o Test Pilot para fornecer feedback e sugestão aos times por trás de cada nova funcionalidade.
 
 [Mais informações...](https://blog.mozilla.org/blog/2016/05/10/you-can-help-build-the-future-of-firefox-with-the-new-test-pilot-program/)
