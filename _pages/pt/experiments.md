@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Browser Experiments"
+title:  "Experimentos no Navegador"
 permalink: /pt/experiments/
 lang: pt
 ref: experiments
@@ -9,10 +9,10 @@ ref: experiments
 {: .right}
 ![image]({{ "/asserts/img/test-pilot.png" | prepend: site.baseurl }})
 
-The Web doesn’t stand still, and in that spirit at Mozilla we are always trying new things. That could be everything from introducing new technologies like WebVR, to writing add-ons that showcase new ways to interact with the browser.
+A Web não ficar parada, e nesse espírito da Mozilla estamos sempre tentando coisas novas. Isso poderia ser tudo, desde a introdução de novas tecnologias como WebVR, à escrita complementos que mostram novas formas de interagir com o navegador.
 
-We’d like to showcase different things here to enable you to join in the experiment lifecycle -- build, test, and iterate. Initially however, the asks of the activities will be focused on testing new features in Firefox. The more usage we have, coupled with broad diversity of feedback, will enable us to better serve our hundreds of millions of users worldwide.
+Nós gostaríamos de mostrar coisas diferentes aqui para lhe permitir participar no ciclo de vida experiência - construir, testar e interagir. Inicialmente no entanto, a pergunta das atividades será voltado a testar novos recursos do Firefox. Quanto mais o uso que temos, juntamente com ampla diversidade de feedback, que nos permitirá servir melhor os nossos centenas de milhões de usuários no mundo inteiro.
 
-Our current activities in this area are:
+Nossas atividades nessa área atualmente são:
 
-* [Install and give feedback on Test Pilot]({{ "test-pilot" | prepend: page.url | prepend: site.baseurl }})
+* [Instale e dê o feedback do Test Pilot]({{ "test-pilot" | prepend: page.url | prepend: site.baseurl }})
