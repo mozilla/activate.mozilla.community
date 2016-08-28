@@ -17,14 +17,14 @@ Nesta página descrevemos as atividades passadas, atuais e futuras que temos nes
 
 ## Julho 2016 (Lançamento)
 
-* Dive Into Rust *(Rust e Servo)*
+* Mergulhando em Rust *(Rust e Servo)*
 * Web Compatibility Sprints *(Engajamento de Desenvolvedores)*
-* Test Pilot Install *(Test Pilot)*
+* Instalar Test Pilot *(Test Pilot)*
 
 ## Agosto 2016
 
-* e10s Add-on Compatibility *(Engajamento de Desenvolvedores)*
-* Copyright petition *(Privacidade e Política)*
+* e10s Compatibilidade de Complemento *(Engajamento de Desenvolvedores)*
+* Petição de Copyright *(Privacidade e Política)*
 
 ## Setembro 2016
 

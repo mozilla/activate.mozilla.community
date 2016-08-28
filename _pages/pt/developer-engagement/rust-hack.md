@@ -1,92 +1,92 @@
 ---
 layout: page
-title:  "Dive Into Rust"
+title:  "Mergulhando em Rust"
 permalink: /pt/developer-engagement/rust-hack
 lang: pt
 ref: rust-hack
 parent: developer-engagement
 ---
 
-Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. [Find out more...](https://www.rust-lang.org)
+Rust é uma linguagem de programação de sistemas que funciona rapidamente, evita falha na segurança, e garante a segurança do segmento. [Encontre mais em...](https://www.rust-lang.org)
 
-## Impact and Metrics
+## Impacto e Métricas
 
-The Rust programming language will be important to the future of the web, making it safe and great. Having more developers understand, use and evangelize this language will advance make the web better and more secure.
+A linguagem de programação Rust vai ser importante para o futuro da web, tornando-a segura e melhor. Tendo mais desenvolvedores entendendo, usando e evangelizando essa linguagem vai avançar fazendo a web melhor e mais segura.
 
-Rust will also be used extensively for Mozilla projects -- including this year as Servo (written in Rust) is advanced even further, and parts of it are moved into Gecko/Firefox. Having more Mozilla contributors know Rust will give them a chance to contribute to the most exciting and important technical projects coming up for Mozilla.
+Rust também vai ser usada extensivamente para projetos Mozilla -- incluindo este ano, como Servo (escrito em Rust) avança ainda mais, e partes de que são movidos para Gecko / Firefox. Tendo mais colaboradores Mozilla sabendo Rust vai dar-lhes uma oportunidade de contribuir para os projectos técnicos mais importantes e promissoras chegando na Mozilla.
 
-### Goals for this area
+### Metas para esta área
 
-__Impact:__
+__Impacto:__
 
-* 1,000 programmers/developers are introduced to and are well on their way to learning Rust
-* 10 blog posts about events or other local Rust activities
+* 1,000 programadores/desenvolvedores sendo introduzidos e estão bem em suas formas de aprender Rust
+* 10 posts de blogs sobre eventos ou outros locais de atividades Rust
 
 __Strength:__
 
-* 50 Mozillians organize Rust Hack and Learn events
-* 50 new people signed up to [Rust developer list](https://users.rust-lang.org)
+* 50 Mozillians organizando Rust Hack e eventos de aprendizagem
+* 50 novas pessoas registradas na [lista de desenvolvedores Rust](https://users.rust-lang.org)
 
-## Audience for this activity
+## Público para esta atividade
 
-Your audience for this event should be **programmers and developers**. Focus on people who are technical and already know languages like C or Python or other similar languages.
+Seu público para este evento deve ser **programadores e desenvolvedores**. Concentre-se em pessoas que são técnicas e já conhecem linguagens como C ou Python ou outras linguagens semelhantes.
 
-## Activity Format
+## Formato de Atividade
 
-Get your community behind this exciting new programming language by running a learning event.
+Obter sua comunidade por trás desta nova e excitante linguagem de programação, executando um evento de aprendizagem.
 
-1. Put an event team together
-2. Choose a date and secure a venue
-3. Choose whether this will be self-facilitated or with someone who has Rust experience (see below)
-4. Setup the event on Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting))
+1. Coloque uma equipe  de evento juntos
+2. Escolha uma data e garant um local
+3. Escolha se esta será auto-facilitada ou com alguém que tem experiência em Rust (ver abaixo)
+4. Configuração do evento no Portal Reps ([instruções] (https://wiki.mozilla.org/ReMo/SOPs/Event_hosting))
 
-For duration, we recommend a half-day (or full evening) event with a minimum of 15-25 attendees.
+Para duração, recomendamos um meio-dia (ou noite inteira) evento com um mínimo de 15-25 participantes.
 
-There are two options for facilitation:
+Existem duas opções para a facilitação:
 
-1. Ask a person with experience with Rust to attend and provide guidance to attendees. There are a few ways to try to find local Rust experts to invite:
-    * Reach out to the [Community Team](https://www.rust-lang.org/en-US/team.html#Community-team) - community-team [at] rust-lang [dot] org - they know the most active people in most regions.
-    * Via the [user groups](https://www.rust-lang.org/en-US/user-groups.html)
-    * At [rustaceans.org](http://www.rustaceans.org/)
-2. If the facilitators have little or no Rust experience, turn it into a learning session for everyone, where you go through the steps together. Some Mozillians have already done such sessions. For example our [Community Spaces](https://wiki.mozilla.org/Participation/Community_Spaces) have, so you can reach out the them to ask for some guidance.
+1. Peça a uma pessoa com experiência com Rust para atender e fornecer orientações aos participantes. Existem algumas maneiras de tentar encontrar especialistas em  Rust locais para convidar:
+    * Entre em contato com o [Time da Comunidade] (https://www.rust-lang.org/en-US/team.html#Community-team) - community-time [at] ferrugem lang [dot] org - eles conhecer as pessoas mais ativas na maioria das regiões.
+    * Através do [grupos de usuários] (https://www.rust-lang.org/en-US/user-groups.html)
+    * No [rustaceans.org] (http://www.rustaceans.org/)
+2. Se os facilitadores têm pouca ou nenhuma experiência Rust, transformá-lo em uma sessão de aprendizagem para todos, onde você percorrer as etapas em conjunto. Alguns Mozillians já fizeram tais sessões. Por exemplo, nossas [espaços comunitários] (https://wiki.mozilla.org/Participation/Community_Spaces) tem, para que possa chegar a eles para pedir alguma orientação.
 
-## Event Flow
+## Fluxo de Eventos
 
-* Install Rust
-    * [rustup](www.rustup.rs) - recommended
-    * [Rust downloads](https://www.rust-lang.org/downloads.html) (alternative)
-* Read the [Rust book](https://doc.rust-lang.org/stable/book/)
-* Complete the [Rustlings](https://github.com/carols10cents/rustlings) (a great beginners course!)
-* Some projects with great first bugs:
-    * The Rust language and compiler
-        * [Labeled easy](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy)
-        * [Labeled mentor](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-mentor)
-    * [clippy - the popular Rust static analysis tool](https://github.com/Manishearth/rust-clippy)
-    * [Cargo - Rust’s package manager](https://github.com/rust-lang/cargo/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy)
-    * [rustfmt - the Rust source code formatting tool](https://github.com/rust-lang-nursery/rustfmt/issues)
-        * Though some are without clear instructions, the domain is easy to understand (it's mostly manipulating strings), and potentially engaging.
-    * [rustup - the Rust installer](https://github.com/rust-lang-nursery/rustup.rs/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
-    * Rust documentation
-        * [Labeled easy](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AA-docs+label%3AE-easy)
-        * [Standard library API docs](https://github.com/rust-lang/rust/issues/29329)
-    * [This Week in Rust](https://this-week-in-rust.org/) also publishes a call for participation each week with hot contribution ideas.
+* Instalar Rust
+    * [] (rustup www.rustup.rs) - recomendadas
+    * [Rust de downloads] (https://www.rust-lang.org/downloads.html) (alternativa)
+* Leia o [Rust livro] (https://doc.rust-lang.org/stable/book/)
+* Concluir a [sussurros] (https://github.com/carols10cents/rustlings) (um grande iniciantes claro!)
+* Alguns projetos com grandes primeiros erros:
+    * A linguagem Rust e compilador
+        * [Etiquetado fácil] (https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy)
+        * [Mentora etiquetado] (https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-mentor)
+    * [Clippy - o Rust ferramenta de análise estática populares] (https://github.com/Manishearth/rust-clippy)
+    * [Carga - gerenciador de pacotes de Rust] (https://github.com/rust-lang/cargo/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy)
+    * [Rustfmt - a ferramenta de código-fonte Rust formatação] (https://github.com/rust-lang-nursery/rustfmt/issues)
+        * Embora alguns estão sem instruções claras, o domínio é fácil de entender (é principalmente manipulação de cordas), e potencialmente atraente.
+    * [Rustup - o Rust installer](https://github.com/rust-lang-nursery/rustup.rs/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+    * Documentação Rust
+        * [Etiquetado fácil] (https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AA-docs+label%3AE-easy)
+        * [Padrão docs biblioteca API] (https://github.com/rust-lang/rust/issues/29329)
+    * [Semana da Rust] (https://this-week-in-rust.org/) também publica uma chamada para a participação em cada semana com idéias contribuição quentes.
 
-## Other Resources
+## Outros recursos
 
-### Tutorials
+### Tutoriais
 
-* [Niko Matsakis's excellent slide deck](https://github.com/nikomatsakis/rust-tutorials-keynote)
-* [Exercises to accompany that deck](https://github.com/nikomatsakis/rust-tutorializer)
-* [A screencast from Niko on ownership and borrowing](https://www.youtube.com/watch?v=0sOiiIxbE6k)
+* [Excelente conjunto de slides de Niko Matsakis] (https://github.com/nikomatsakis/rust-tutorials-keynote)
+* [Exercícios para acompanhar essa plataforma] (https://github.com/nikomatsakis/rust-tutorializer)
+* [A screencast de Niko na propriedade e empréstimos] (https://www.youtube.com/watch?v=0sOiiIxbE6k)
 
 ## Output
-Additional to the recommended event flow here are some things we’d like you, the event organizer, to do.
+Adicional para o fluxo de eventos recomendado aqui estão algumas coisas que gostaríamos que você, o organizador do evento, fazesse.
 
-* Fill out the post-event metrics on the event page you setup on the Reps portal
-* Optionally, tell us about your event. This can be before or after. We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two! This will also be instructional and inspirational to others who might do the event.
-    * [Here is the Discourse post to write to](https://discourse.mozilla-community.org/t/activate-mozilla-dive-into-rust/10073/1)
+* Preencha as métricas pós-evento na página do evento você configurar no portal Reps
+* Opcionalmente, conte-nos sobre o seu evento. Isto pode ser antes ou depois. Gostamos de ouvir sobre os próximos planos, e, claro, adoraria ouvir sobre o que foi alcançado no evento com uma imagem ou dois! Esta também será de instrução e inspiração para outras pessoas que podem fazer o evento.
+    * [Aqui está o post Discurso de escrever para] (https://discourse.mozilla-community.org/t/activate-mozilla-dive-into-rust/10073/1)
 
 ## Extra
-While the focus of this activity should be on these events, there are other ways to stay more involved with the Rust community after.
+Embora o foco desta atividade deve ser sobre esses eventos, há outras maneiras de ficar mais envolvido com a comunidade Rust depois.
 
-* Follow up with attendees to highlight [more things happening in the community to get involved with](https://www.rust-lang.org/en-US/community.html)
+* Seguir-se com os participantes para realçar [mais coisas acontecendo na comunidade a se envolver com] (https://www.rust-lang.org/en-US/community.html)

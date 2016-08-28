@@ -1,17 +1,17 @@
 ---
 layout: index
-title:  Ativa Mozilla
+title:  Activate Mozilla
 permalink: /pt/
 lang: pt
 ref: index
 ---
 
-# Ativa Mozilla
+# Activate Mozilla
 
 {: .center}
-Uma campanha para Mozillians ao redor do mundo gerar impacto em áreas chave da missão da Mozilla.
+Uma campanha para Mozillians ao redor do mundo para gerar impacto em áreas chave da missão da Mozilla.
 
-## Iniciativas foco
+## Foco de Iniciativas
 
 {: #area-deveng .area}
 [![image](/asserts/img/development.png)
