@@ -51,7 +51,7 @@ For duration, we recommend a half-day (or full evening) event with a minimum of 
     * We have a mobile add-on people can install for Fennec Beta and in version 50 there will be a default "Report Site Issue" menu item in Fennec Aurora and Nightly.
     * No add-ons support for iOS, but people can report bugs manually at [webcompat.com](https://webcompat.com)
 * Choose the sites you want to test
-    * We recommend the [Alexa Top 500](http://www.alexa.com/topsites) sites - either globally or by country
+    * We recommend the top sites in your country, as measured by a reputable local source or using the [Alexa Top Sites by Country](http://www.alexa.com/topsites/countries) reference
 * Test and Report!
     * [Read the general guide](https://wiki.mozilla.org/Compatibility/Guide)
     * Pay special attention to what we are looking for [in reported issues](https://wiki.mozilla.org/Compatibility/Guide#Reporting_a_Web_compatibility_issue)
