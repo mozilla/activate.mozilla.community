@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Cronograma"
-permalink: /pt/roadmap
+permalink: /pt/roadmap/
 lang: pt
 ref: roadmap
 ---

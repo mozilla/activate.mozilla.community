@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Roadmap"
-permalink: /roadmap
+permalink: /roadmap/
 lang: en
 ref: roadmap
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Participation"
-permalink: /es/participation
+permalink: /es/participation/
 lang: es
 ref: participation
 ---

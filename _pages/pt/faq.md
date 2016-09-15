@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Perguntas Mais Frequentes"
-permalink: /pt/faq
+permalink: /pt/faq/
 lang: pt
 ref: faq
 ---

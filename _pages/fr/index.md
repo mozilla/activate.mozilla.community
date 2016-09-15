@@ -13,31 +13,34 @@ A campaign for Mozillians around the world to have impact in areas key to Mozill
 
 ## Focus Initiatives
 
-{: #area-deveng .area}
-[![image](/asserts/img/development.png)
-Empower developer communities](/fr/developer-engagement/)
+{: #area-deveng .col-md-3 .area}
+[![image](/asserts/img/development.png)](/fr/developer-engagement/)<br>
+[Empower developer communities](/fr/developer-engagement/)
 
-{: #area-servo .area .disabled}
-![image](/asserts/img/servo.png)
+{: #area-servo .col-md-3 .area .disabled}
+![image](/asserts/img/servo.png)<br>
 Support the future Mozilla Web engine (coming soon)
 
-{: #area-privacy .area .disabled}
-![image](/asserts/img/privacy.png)
+{: #area-privacy .col-md-3 .area .disabled}
+![image](/asserts/img/privacy.png)<br>
 Defend Internet Privacy and Policy (coming soon)
 
-{: #area-testpilot .area}
-[![image](/asserts/img/test-pilot.png)
-Use and test experimental Firefox features](/fr/experiments/)
+{: #area-testpilot .col-md-3 .area}
+[![image](/asserts/img/test-pilot.png)](/fr/experiments/)<br>
+[Use and test experimental Firefox features](/fr/experiments/)
+
+{: .clearfix}
+&nbsp;
 
 {: .center}
 _Are you interested in other areas? Check [our roadmap](/roadmap) to see what's coming soon._
 
 ## Stay updated about new activities
 
-{: #area-mozparticipate .area .area-small}
-[![image](/asserts/img/participation.png)
-Follow @MozParticipate on Twitter](https://twitter.com/intent/follow/?screen_name=MozParticipate)
+{: #area-mozparticipate .col-md-6 .area .area-small}
+[![image](/asserts/img/participation.png)](https://twitter.com/intent/follow/?screen_name=MozParticipate)<br>
+[Follow @MozParticipate on Twitter](https://twitter.com/intent/follow/?screen_name=MozParticipate)
 
-{: #area-discourse .area .area-small}
-[![image](/asserts/img/discourse.png)
-Subscribe to the Participation Leaders forum](https://discourse.mozilla-community.org/c/participation-leaders)
+{: #area-discourse .col-md-6 .area .area-small}
+[![image](/asserts/img/discourse.png)]https://discourse.mozilla-community.org/c/participation-leaders)<br>
+[Subscribe to the Participation Leaders forum](https://discourse.mozilla-community.org/c/participation-leaders)

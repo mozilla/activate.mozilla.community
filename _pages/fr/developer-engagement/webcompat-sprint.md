@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Web Compatibility Sprint"
-permalink: /fr/developer-engagement/webcompat-sprint
+permalink: /fr/developer-engagement/webcompat-sprint/
 lang: fr
 ref: webcompat-sprint
 parent: developer-engagement

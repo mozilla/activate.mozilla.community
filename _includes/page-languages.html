@@ -2,6 +2,11 @@
 
 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 
-<p class="language-list">{{ l.languages }}: {% for page in pages %} <a  class="{{ page.lang }}" title="{{ page.title }}" href="{{ page.url | prepend: site.baseurl }}">{{page.lang}}</a> {% endfor %}</p>
-
-<p class="add-translation"><a href="https://github.com/mozilla/activate.mozilla.community#submit-a-new-localization">{{ l.submit-translation }}</a></p>
+<div class="row">
+  <div class="col-md-6">
+    <p class="language-list text-left">{{ l.languages }}: {% for page in pages %} <a  class="{{ page.lang }}" title="{{ page.title }}" href="{{ page.url | prepend: site.baseurl }}">{{page.lang}}</a> {% endfor %}</p>
+  </div>
+  <div class="col-md-6">
+    <p class="add-translation text-right"><a href="https://github.com/mozilla/activate.mozilla.community#submit-a-new-localization">{{ l.submit-translation }}</a></p>
+  </div>
+</div>
