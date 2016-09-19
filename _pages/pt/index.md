@@ -33,7 +33,7 @@ Defenda a Privacidade e os Direitos na Internet (em breve)
 &nbsp;
 
 {: .center}
-_Você está interessado(a) em outras áreas ? Veja [nosso roadmap](/roadmap) para ver o que está por vir._
+_Você está interessado(a) em outras áreas ? Veja [nosso roadmap](/roadmap/) para ver o que está por vir._
 
 ## Esteja por dentro de novas atividades
 

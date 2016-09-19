@@ -25,7 +25,7 @@ Defend Internet Privacy and Policy (coming soon)
 &nbsp;
 
 {: .center}
-_Are you interested in other areas? Check [our roadmap](/roadmap) to see what's coming soon._
+_Are you interested in other areas? Check [our roadmap](/roadmap/) to see what's coming soon._
 
 ## Stay updated about new activities
 
