@@ -6,9 +6,9 @@ layout: default
 <article class="post">
 
   {% if page.parent %}
-  {% assign parent=site.pages | where:"ref", page.parent | where: 'lang', page.lang %}
+    {% assign parent=site.pages | where:"ref", page.parent | where: 'lang', page.lang %}
     <section class="breadcumbs">
-        <p><a href="{{ parent[0].permalink }}">{{ parent[0].title }}</a> - {{page.title}}</p>
+      <p><a href="{{ parent[0].permalink }}">{{ parent[0].title }}</a> - {{page.title}}</p>
     </section>
   {% endif %}
 
@@ -17,10 +17,11 @@ layout: default
   </header>
 
   <div class="share twitter">
-          <p class="twitter"><a title="{{ l.twitter-text1 }}" href="https://twitter.com/home?status={{ l.twitter-text2 }} {{ page.title }} {{ l.twitter-text3 }} {{ page.url | prepend: site.baseurl | prepend: site.url }}?utm_source=twitter.com%26utm_medium=social%26utm_campaign=moz-community-share" data-related="mozparticipate,mozilla" data-dnt="true" data-show-count="false">Tweet</a></p>
+    <p class="twitter"><a title="{{ l.twitter-text1 }}" href="https://twitter.com/home?status={{ l.twitter-text2 }} {{ page.title }} {{ l.twitter-text3 }} {{ page.url | prepend: site.baseurl | prepend: site.url }}?utm_source=twitter.com%26utm_medium=social%26utm_campaign=moz-community-share" data-related="mozparticipate,mozilla" data-dnt="true" data-show-count="false">Tweet</a></p>
   </div>
+
   <div class="share facebook">
-          <p class="facebook"><a title="{{ l.facebook-text }}" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.baseurl | prepend: site.url }}?utm_source=facebook.com%26utm_medium=social%26utm_campaign=moz-community-share" >{{ l.share }}</a></p>
+    <p class="facebook"><a title="{{ l.facebook-text }}" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.baseurl | prepend: site.url }}?utm_source=facebook.com%26utm_medium=social%26utm_campaign=moz-community-share" >{{ l.share }}</a></p>
   </div>
 
   <div class="post-content">
