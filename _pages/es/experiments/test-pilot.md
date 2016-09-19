@@ -10,14 +10,13 @@ parent: experiments
 {: .right}
 ![image](/asserts/img/test-pilot.png)
 
-Al momento de desarrollar características para los cientos de millones de usuarios de Firefox alrededor del mundo, es importante acertar. Para facilitar la decisión de qué funciones lanzar y cómo deberían funcionar, creamos el nuevo programa Test Pilot. El mismo permite a los usuarios probar características experimentales y a nosotros conocer su opinión. Puedes activarlas o desactivarlas en cualquier momento, y siempre sabrás qué información estás compartiendo para ayudarnos a entender cómo se usan estas funciones. Por supuesto, también puedes usar Test Pilot para proveer comentarios y sugerencias al equipo que trabaja en cada una de estas funciones.
+Al momento de desarrollar características para los cientos de millones de usuarios de Firefox alrededor del mundo, es importante acertar. Creamos el nuevo programa Test Pilot para facilitar la decisión de qué funciones lanzar y cómo deberían funcionar. Permite a los usuarios probar características experimentales y a nosotros conocer su opinión. Puedes activarlas o desactivarlas en cualquier momento, y siempre sabrás qué información estás compartiendo para ayudarnos a entender cómo se usan estas funciones. Por supuesto, también puedes usar Test Pilot para proveer comentarios y sugerencias al equipo que trabaja en cada una de estas funciones.
 
 [Más información...](https://blog.mozilla.org/blog/2016/05/10/you-can-help-build-the-future-of-firefox-with-the-new-test-pilot-program/)
 
-## Impacto y Métricas
+## Impacto y métricas
 
-Firefox es clave en cómo Mozilla expresa sus valores y hace la Web cada vez más emocionante detrás de jardines amurallados, como las aplicaciones individuales.
-
+Firefox es clave en cómo Mozilla expresa sus valores y hace la Web cada vez más emocionante, en contraste a aplicaciones individuales desarrolladas tras jardines amurallados.
 Al poner a prueba las nuevas características y funcionalidades, ayudamos a mantener Firefox liderando en innovación y a los usuarios participando en el desarrollo de nuestro producto. Además, te da la oportunidad de ir aún más profundo con feedback e ideas específicas para Firefox.
 
 ### Metas para este área
