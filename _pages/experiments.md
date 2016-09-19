@@ -15,4 +15,4 @@ We’d like to showcase different things here to enable you to join in the exper
 
 Our current activities in this area are:
 
-* [Install and give feedback on Test Pilot](/experiments/test-pilot)
+* [Install and give feedback on Test Pilot](/experiments/test-pilot/)

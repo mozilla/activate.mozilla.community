@@ -15,4 +15,4 @@ Nós gostaríamos de mostrar coisas diferentes aqui para lhe permitir participar
 
 Nossas atividades nessa área atualmente são:
 
-* [Instale e dê o feedback do Test Pilot]({{ "test-pilot" | prepend: page.url | prepend: site.baseurl }})
+* [Instale e dê o feedback do Test Pilot]({{ "test-pilot/" | prepend: page.url | prepend: site.baseurl }})
