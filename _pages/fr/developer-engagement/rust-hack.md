@@ -7,6 +7,9 @@ ref: rust-hack
 parent: developer-engagement
 ---
 
+* TOC
+{:toc}
+
 Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. [Find out more...](https://www.rust-lang.org)
 
 ## Impact and Metrics

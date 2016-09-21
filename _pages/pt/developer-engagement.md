@@ -6,7 +6,7 @@ lang: pt
 ref: developer-engagement
 ---
 
-{: .right}
+{: .left}
 ![image](/asserts/img/development.png)
 
 Desenvolvedores são muito importantes para Mozilla. Tudo que nós fazemos não é para somente servir nossas centenas de milhares de usuários, mas para trazer o manifesto da Mozilla e valores para desenvolvedores web e fazer suas vidas mais fácil. Nós provemos muitas coisas para desenvolvedores. Para citar apenas algumas, nós temos a primeira ferramenta de desenvolvimento em classe no Firefox, um plataforma de liderança global de complementos, e o amplamente reconhecido portal de documentação para desenvolvedores o MDN.

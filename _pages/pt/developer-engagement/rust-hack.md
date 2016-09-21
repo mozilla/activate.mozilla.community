@@ -7,6 +7,9 @@ ref: rust-hack
 parent: developer-engagement
 ---
 
+* TOC
+{:toc}
+
 Rust é uma linguagem de programação de sistemas que funciona rapidamente, evita falha na segurança, e garante a segurança do segmento. [Encontre mais em...](https://www.rust-lang.org)
 
 ## Impacto e Métricas

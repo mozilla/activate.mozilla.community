@@ -12,9 +12,6 @@ In this page we describe the past, current and future activities that we have on
 
 *Note that this roadmap is in constant change and evolution.*
 
-* TOC
-{:toc}
-
 ## Early August 2016 (Launch)
 
 * Dive Into Rust *(Rust and Servo)*

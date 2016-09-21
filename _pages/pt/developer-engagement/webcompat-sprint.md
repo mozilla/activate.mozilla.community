@@ -6,6 +6,10 @@ lang: pt
 ref: webcompat-sprint
 parent: developer-engagement
 ---
+
+* TOC
+{:toc}
+
 Compatibilidade Web, a capacidade de todo conteúdo da Web ser executado em todos os navegadores é importante. Existem vários motores de conteúdo web que funcionam em vários dispositivos, e às vezes com um pouco de testes e e alguns pequenos ajustes em seu site, desenvolvedores podem garantir que mais usuários possam ter a experiência completa que é desejada.
 
 Para mais informações e dados sobre Compatibilidade Web, leia o [post sobre compatilidade entre navegadores no blog Mozilla Hacks](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)

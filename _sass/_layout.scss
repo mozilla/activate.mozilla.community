@@ -175,6 +175,10 @@
         display: block;
         box-shadow: 0 0 0 1px #fff inset;
     }
+
+    h2 {
+        margin-top: 20px;
+    }
 }
 
 .page-heading, .home h1 {
@@ -245,6 +249,13 @@
  */
 .post {
     position: relative;
+
+    #back-top {
+        display: none;
+        position: fixed;
+        bottom: 30px;
+        font-size: 2em;
+    }
 }
 
 .post-header {
@@ -261,32 +272,72 @@
     }
 }
 
+.post-content > h2,
+.post-content > h3,
+.post-content > p,
+.post-content > ul,
+.post-content > ol {
+    width: 800px;
+    float:right;
+}
+.post-content > #markdown-toc {
+    width: 230px;
+    position: fixed;
+    background-color: #3F4B73;
+    color: #ccc;
+
+    a {
+        color: #eee;
+    }
+}
+
+@media all and (max-width: 1200px) {
+    .post-content > h2,
+    .post-content > h3,
+    .post-content > p,
+    .post-content > ul,
+    .post-content > ol {
+        width: 610px;
+    }
+}
+
+@media all and (max-width: 992px) {
+    .post-content > h2,
+    .post-content > h3,
+    .post-content > p,
+    .post-content > ul,
+    .post-content > ol {
+        width: 400px;
+    }
+}
+
+@media all and (max-width: 768px) {
+    .post-content > h2,
+    .post-content > h3,
+    .post-content > p,
+    .post-content > ul,
+    .post-content > ol {
+        width: auto;
+        float: none;
+    }
+    .post-content > #markdown-toc {
+        display: none;
+    }
+}
+
 .post-content {
     margin-bottom: $spacing-unit;
     font-weight: normal;
+    margin-right: 20px;
 
-    h2 {
-        font-size: 2rem;
-
-        @include media-query($on-laptop) {
-            font-size: 28px;
-        }
+    .left {
+        float: left;
+        width: auto;
     }
 
-    h3 {
-        font-size: 26px;
-
-        @include media-query($on-laptop) {
-            font-size: 22px;
-        }
-    }
-
-    h4 {
-        font-size: 20px;
-
-        @include media-query($on-laptop) {
-            font-size: 18px;
-        }
+    ul {
+        margin-left: 0;
+        padding-left: 15px;
     }
 }
 
@@ -382,6 +433,12 @@ div.facebook {
     margin-left: 0px;
     display: table;
     border-left: solid 2px #acb0bd;
+    background-color: #3F4B73;
+    color: #ccc;
+
+    a {
+        color: #eee;
+    }
 }
 
 #tabzilla {
