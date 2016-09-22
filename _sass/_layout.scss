@@ -118,6 +118,11 @@
 
     a {
         color: #a6a7a9;
+        font-weight: normal;
+    }
+
+    a:hover {
+        color: #ccc;
     }
 
     .footer-content {
@@ -340,6 +345,10 @@
             text-align: center;
         }
     }
+
+    a {
+        font-weight: normal;
+    }
 }
 
 .right {
@@ -421,6 +430,7 @@ div.facebook {
 
     a {
         color: #eee;
+        font-weight: normal;
     }
 }
 
