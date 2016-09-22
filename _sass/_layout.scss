@@ -99,18 +99,16 @@
                     max-width: 18px;
                     opacity: 0.5;
                     margin-right: 5px;
-                }
 
-                @include media-query($on-palm) {
-                    text-align: center;
-                }
-
-                img {
                     @include media-query($on-palm) {
                         display: block;
                         margin: 5px auto;
                         width: 20px;
                     }
+                }
+
+                @include media-query($on-palm) {
+                    text-align: center;
                 }
             }
         }
