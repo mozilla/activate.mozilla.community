@@ -6,7 +6,7 @@ lang: en
 ref: developer-engagement
 ---
 
-{: .right}
+{: .left}
 ![image](/asserts/img/development.png)
 
 Developers are very important for Mozilla. Everything we do is not only to serve our hundreds of millions of users, but to bring Mozilla's manifesto and values to web developers and make their lives easier. We provide many things for developers. To name just a few, we have first class developer tools in Firefox, a world leader add-ons platform, and widely recognised developer documentation portal in MDN.

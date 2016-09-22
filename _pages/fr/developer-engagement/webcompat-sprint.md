@@ -7,6 +7,9 @@ ref: webcompat-sprint
 parent: developer-engagement
 ---
 
+* TOC
+{:toc}
+
 Web Compatibility, the ability for all Web content to run in all browsers, is important. There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired.
 
 For more background and data on Web Compatibility, read the [recent blog post on Mozilla Hacks](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)

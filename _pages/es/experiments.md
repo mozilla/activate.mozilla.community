@@ -6,7 +6,7 @@ lang: es
 ref: experiments
 ---
 
-{: .right}
+{: .left}
 ![image](/asserts/img/test-pilot.png)
 
 The Web doesn’t stand still, and in that spirit at Mozilla we are always trying new things. That could be everything from introducing new technologies like WebVR, to writing add-ons that showcase new ways to interact with the browser.
