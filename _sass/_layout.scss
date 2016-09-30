@@ -121,6 +121,10 @@
 /**
  * Site footer
  */
+ .home .site-footer {
+     margin-top: -150px;
+ }
+
 .site-footer {
     color: #a6a7a9;
     background-color: #4d4f53;
@@ -205,6 +209,8 @@
  * Page content
  */
 .page-content {
+    min-height: 100%;
+
     .wrapper {
         background: #FFF;
         margin: 0 auto;
@@ -620,4 +626,21 @@ div.facebook {
     content:'';
     background-color:transparent;
     z-index:1
+}
+
+#leaderboard {
+    display: inline-block;
+}
+
+#board {
+    th:first-child {
+        width: 500px;
+    }
+}
+
+#loading {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 1.1em;
+    color: $brand-color;
 }
