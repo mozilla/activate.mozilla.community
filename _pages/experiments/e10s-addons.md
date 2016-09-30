@@ -1,10 +1,10 @@
 ---
 layout: page
 title:  "e10s and Featured Add-ons"
-permalink: /developer-engagement/e10s-addons/
+permalink: /experiments/e10s-addons/
 lang: en
 ref: e10s-addons
-parent: developer-engagement
+parent: experiments
 ---
 
 * TOC
