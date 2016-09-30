@@ -54,10 +54,10 @@ Help us build community around the A-Frame library by conducting a mobilizing / 
 
 1. Confirmed selected attendees through email.
 2. Distribute the following list of tasks to do before event:
-    a. Create a GitHub account if they don’t have one
-    b. Get familiar with [A-Frame](https://aframe.io/) and [read about areas to contribute](https://github.com/aframevr/aframe/blob/master/CONTRIBUTING.md)
-    c. Join the [A-Frame Slack Channel](https://aframevr-slack.herokuapp.com/)
-    d. [Optional] Play with A-Frame, starting with a [Hello World scene](https://codepen.io/mozvr/pen/BjygdO). Skim through the [documentation](https://aframe.io/docs/0.3.0/introduction/getting-started.html).
+  1. Create a GitHub account if they don’t have one
+  2. Get familiar with [A-Frame](https://aframe.io/) and [read about areas to contribute](https://github.com/aframevr/aframe/blob/master/CONTRIBUTING.md)
+  3. Join the [A-Frame Slack Channel](https://aframevr-slack.herokuapp.com/)
+  4. [Optional] Play with A-Frame, starting with a [Hello World scene](https://codepen.io/mozvr/pen/BjygdO). Skim through the [documentation](https://aframe.io/docs/0.3.0/introduction/getting-started.html).
 
 ## Event Flow
 
