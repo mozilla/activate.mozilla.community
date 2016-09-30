@@ -16,7 +16,7 @@ __NOTE: This activity is running only until November 4th, 2016__.
 
 ## Impact and Metrics
 
-Millions of Firefox users have installed add-ons directly from the [Featured Add-ons collection](https://addons.mozilla.org/firefox/extensions/?sort=featured). They expect and trust Mozilla to guide them to the very best add-ons content. Ensuring compatibility with the latest browser technology, in this case e10s—which will be turned on for Firefox with Firefox 50 (November 8) who have compatible add-ons—is critical to the claim that these featured add-ons deserve their attention. 
+Millions of Firefox users have installed add-ons directly from the [Featured Add-ons collection](https://addons.mozilla.org/firefox/extensions/?sort=featured). They expect and trust Mozilla to guide them to the very best add-ons content. Ensuring compatibility with the latest browser technology, in this case e10s—which will be turned on for Firefox with Firefox 50 (November 8) who have compatible add-ons—is critical to the claim that these featured add-ons deserve their attention.
 
 ### Goals for this area
 
@@ -58,12 +58,12 @@ For duration, we recommend 2-3 hours with 10-15 attendees.
 2. Install the ["Add-on Compatibility Reporter"](https://addons.mozilla.org/addon/add-on-compatibility-reporter?src=external-activate1) add-on.
 3. Install an add-on that has yet to be tested from [this spreadsheet](https://docs.google.com/spreadsheets/d/1_yalc35gtlbcdJmS0-cKB1CEqE5FU4ti3oA7GFp406g/edit#gid=0).
 4. Go to about:addons and make sure that it says “Multiprocess is enabled” in the top right corner and “Compatible with multiprocess” for the add-on you are testing.
-5. Test the main functionality of the add-on. Does it perform as expected? 
-  1. Spend the time necessary to test the main features and functions of the add-on. This often takes anywhere from 15 - 30 minutes.   
+5. Test the main functionality of the add-on. Does it perform as expected?
+    1. Spend the time necessary to test the main features and functions of the add-on. This often takes anywhere from 15 - 30 minutes.   
 6. Write “Yes” in column C if the add-on works as expected; write “No” if it does not.
-  1. Though not necessary, feel free to write any notes in column D on problematic issues you found. 
-  2. If the add-on does NOT work as expected, go to the Extensions tab in the Add-ons Manager (about:addons), find the problematic add-on, and click Report Issue. 
-7. Once you’re finished testing an add-on, uninstall it from the Add-ons Manager before installing a new add-on to test. 
+    1. Though not necessary, feel free to write any notes in column D on problematic issues you found.
+    2. If the add-on does NOT work as expected, go to the Extensions tab in the Add-ons Manager (about:addons), find the problematic add-on, and click Report Issue. 
+7. Once you’re finished testing an add-on, uninstall it from the Add-ons Manager before installing a new add-on to test.
 
 ## Output
 
