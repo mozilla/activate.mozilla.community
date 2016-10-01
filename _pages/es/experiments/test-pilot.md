@@ -1,14 +1,14 @@
 ---
 layout: page
 title:  "Instalar Test Pilot"
-permalink: /es/experiments/test-pilot
+permalink: /es/experiments/test-pilot/
 lang: es
 ref: test-pilot
 parent: experiments
 ---
 
-{: .right}
-![image](/asserts/img/test-pilot.png)
+* TOC
+{:toc}
 
 Al momento de desarrollar características para los cientos de millones de usuarios de Firefox alrededor del mundo, es importante acertar. Creamos el nuevo programa Test Pilot para facilitar la decisión de qué funciones lanzar y cómo deberían funcionar. Permite a los usuarios probar características experimentales y a nosotros conocer su opinión. Puedes activarlas o desactivarlas en cualquier momento, y siempre sabrás qué información estás compartiendo para ayudarnos a entender cómo se usan estas funciones. Por supuesto, también puedes usar Test Pilot para proveer comentarios y sugerencias al equipo que trabaja en cada una de estas funciones.
 
