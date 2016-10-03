@@ -10,7 +10,7 @@ parent: developer-engagement
 * TOC
 {:toc}
 
-[A-Frame](https://aframe.io/) is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality. Its goal is to onboard developers into 3D and advance WebVR, an open platform for virtual reality that leverages the Web. __Having more developers and content creators playing with WebVR is important for the future of virtual reality to help build towards a metaverse not owned by any individual entity__.
+[A-Frame](https://aframe.io/) is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality. Its goal is to onboard developers into 3D and advance WebVR, an open platform for virtual reality that leverages the Web. __Having more developers and content creators playing with WebVR is important for the future of virtual reality to help build towards a free and open virtual reality platform not owned by any individual entity__.
 
 A-Frame is used extensively by the Mozilla VR team to prototype and experiment with WebVR. __Having more contributors know A-Frame will give them a chance to get involved in one of the most exciting revolutions in the field of technology__.
 
@@ -82,7 +82,7 @@ This is how you can break up a 4 hour event format. You can try to shorten some 
 * Can get started with [Codepen](http://codepen.io/mozvr/pen/BjygdO) or the [Boilerplate](https://github.com/aframevr/aframe-boilerplate)
     * For the boilerplate, we recommend using a local server such as [Mongoose](https://www.cesanta.com/products/binary) or through Node.js.
 
-## More About A-Frame (30 minutes)
+### More About A-Frame (30 minutes)
 
 * A-Frame in depth (e.g., demo of advanced scenes, how are they built, using community components)
 
@@ -112,4 +112,4 @@ Additional to the recommended event flow here are some things we’d like you, t
 
 ## Contact
 
-Want to find out more about the A-Frame community? Ping us on the A-Frame Slack Channel or Tweet at us [@aframevr](https://twitter.com/aframevr). Visit the A-Frame community page (https://aframe.io/community/) for more details.
+Want to find out more about the A-Frame community? Ping us on the [A-Frame Slack channel](https://aframevr-slack.herokuapp.com/) or Tweet at us [@aframevr](https://twitter.com/aframevr). Visit the [A-Frame community page](https://aframe.io/community/) for more details.
