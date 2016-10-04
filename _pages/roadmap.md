@@ -12,8 +12,7 @@ In this page we describe the past, current and future activities that we have on
 
 *Note that this roadmap is subject to change.*
 
-| Now       | Next        | Later    |
-|(Q3 2016)  | (Q4 2016)   | (Beyond) |
+| Now (Q3 2016)  | Next (Q4 2016)   | Later (Beyond) |
 | --- | --- | --- |
 | [Dive Into Rust](https://activate.mozilla.community/developer-engagement/rust-hack/) | WebVR Camp |     |
 | [Web Compatibility Sprint](https://activate.mozilla.community/developer-engagement/webcompat-sprint/) | e10s and Add-ons |     |
