@@ -165,6 +165,29 @@
     h2 {
         margin-top: 20px;
     }
+
+    table {
+        border: 1px solid #ddd;
+        width: 100%;
+        max-width: 100%;
+        border-spacing: 0;
+        border-collapse: collapse;
+
+        tbody > tr > td,
+        tbody > tr > th,
+        tfoot > tr > td,
+        tfoot > tr > th,
+        thead > tr > td,
+        thead > tr > th {
+            padding: 8px;
+            line-height: 1.42857143;
+            vertical-align: top;
+            border: 1px solid #ddd;
+        }
+    }
+
+
+
 }
 
 .page-heading, .home h1 {
