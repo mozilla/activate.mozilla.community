@@ -23,7 +23,7 @@ Millions of Firefox users have installed add-ons directly from the [Featured Add
 __Impact:__
 
 * 55 featured add-ons, with <100k users, are tested
-* 400 add-on tests
+* 400 individual add-on tests
 
 __Strength:__
 
@@ -55,7 +55,7 @@ For duration, we recommend 2-3 hours with 10-15 attendees.
 ### Steps to test...
 
 1. Create a new Firefox profile by going to about:profiles => “Create new profile”. Enter a name and click Done. Then click “Launch profile in new browser” to launch it.
-2. Install the ["Add-on Compatibility Reporter"](https://addons.mozilla.org/addon/add-on-compatibility-reporter?src=external-activate1) add-on.
+2. Install the ["Add-on Compatibility Reporter"](https://addons.mozilla.org/addon/add-on-compatibility-reporter?src=external-activatee10s1) add-on.
 3. Install an add-on that has yet to be tested from [this spreadsheet](https://docs.google.com/spreadsheets/d/1_yalc35gtlbcdJmS0-cKB1CEqE5FU4ti3oA7GFp406g/edit#gid=0).
 4. Go to about:addons and make sure that it says “Multiprocess is enabled” in the top right corner and “Compatible with multiprocess” for the add-on you are testing.
 5. Test the main functionality of the add-on. Does it perform as expected?

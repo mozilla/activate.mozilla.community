@@ -50,7 +50,7 @@ For duration, we recommend a half-day (or full evening) event with a minimum of 
     * [Firefox Beta 49+](https://www.mozilla.org//firefox/channel/)
     * [Firefox for Android Beta 49+](https://www.mozilla.org//firefox/channel/)
     * [Firefox for iOS](https://www.mozilla.org/firefox/ios/)
-* [Install the Webcompat.com Reporter add-on](https://addons.mozilla.org/firefox/addon/webcompatcom-reporter/)
+* [Install the Webcompat.com Reporter add-on](https://addons.mozilla.org/addon/webcompatcom-reporter?src=external-activatewebcompat1)
     * We have a mobile add-on people can install for Fennec Beta and in version 50 there will be a default "Report Site Issue" menu item in Fennec Aurora and Nightly.
     * No add-ons support for iOS, but people can report bugs manually at [webcompat.com](https://webcompat.com)
 * Choose the sites you want to test

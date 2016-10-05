@@ -50,7 +50,7 @@ Para duração, recomendamos um evento de meio-dia (ou uma noite inteira), com u
     * [Firefox Beta 49+](https://www.mozilla.org//firefox/channel/)
     * [Firefox para Android Beta 49+](https://www.mozilla.org//firefox/channel/)
     * [Firefox para iOS](https://www.mozilla.org/firefox/ios/)
-* [Instale o complemento Webcompat.com Reporter](https://addons.mozilla.org/firefox/addon/webcompatcom-reporter/)
+* [Instale o complemento Webcompat.com Reporter](https://addons.mozilla.org/addon/webcompatcom-reporter?src=external-activatewebcompat1)
     * Nós temos um complemento para dispositivos móveis, que as pessoas podem instalar para Fennac beta e na versão 50, haverá um "Report Site Issue" de item padrão do menu no Fennec Aurora e Nightly.
     * Nenhum complemento é suportado no iOS, mas as pessoas podem reportar manualmente em [webcompat.com](https://webcompat.com)
 * Escolhe os sites que você quer testar:
