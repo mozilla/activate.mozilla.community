@@ -1,0 +1,29 @@
+{
+    "name": "Activate Mozilla",
+    "description": "Activity Campaign website",
+    "repository": {
+        "url": "https://github.com/mozilla/activate.mozilla.community",
+        "license": "MPLv2"
+    },
+    "participate": {
+        "home": "https://activate.mozilla.community/",
+        "docs": "https://github.com/mozilla/activate.mozilla.community/blob/gh-pages/README.md",
+        "irc-contacts": [
+            "Nukeador",
+            "nikos"
+        ]
+    },
+    "bugs": {
+        "list": "https://github.com/mozilla/activate.mozilla.community/issues",
+        "report": "https://github.com/mozilla/activate.mozilla.community/issues/new"
+    },
+    "urls": {
+        "prod": "https://activate.mozilla.community/"
+    },
+    "keywords": [
+        "html",
+        "javascript",
+        "css",
+        "markdown"
+    ]
+}
