@@ -15,5 +15,5 @@ Por conta disso, nós sempre com o objetivo de trabalhar mais com os desenvolved
 
 Nossas atuais atividades nessa área são:
 
-* [Mergulhando em Rust]({{ "rust-hack/" | prepend: page.url | prepend: site.baseurl }})
-* [Web Compatibility Sprint]({{ "webcompat-sprint/" | prepend: page.url | prepend: site.baseurl }})
+* [Mergulhando em Rust]({{ "rust-hack/" | prepend: page.url }})
+* [Web Compatibility Sprint]({{ "webcompat-sprint/" | prepend: page.url }})

@@ -15,5 +15,5 @@ Because of this, we always aim to work more with developers to hear what their n
 
 Our current activities in this area are:
 
-* [Dive Into Rust]({{ "rust-hack" | prepend: page.url | prepend: site.baseurl }})
-* [Web Compatibility Sprint]({{ "webcompat-sprint" | prepend: page.url | prepend: site.baseurl }})
+* [Dive Into Rust]({{ "rust-hack" | prepend: page.url }})
+* [Web Compatibility Sprint]({{ "webcompat-sprint" | prepend: page.url }})

@@ -7,7 +7,7 @@ ref: experiments
 ---
 
 {: .left}
-![image]({{ "/asserts/img/test-pilot.png" | prepend: site.baseurl }})
+![image]({{ "/asserts/img/test-pilot.png" }})
 
 A Web não ficar parada, e nesse espírito da Mozilla estamos sempre tentando coisas novas. Isso poderia ser tudo, desde a introdução de novas tecnologias como WebVR, à escrita complementos que mostram novas formas de interagir com o navegador.
 
@@ -15,4 +15,4 @@ Nós gostaríamos de mostrar coisas diferentes aqui para lhe permitir participar
 
 Nossas atividades nessa área atualmente são:
 
-* [Instale e dê o feedback do Test Pilot]({{ "test-pilot/" | prepend: page.url | prepend: site.baseurl }})
+* [Instale e dê o feedback do Test Pilot]({{ "test-pilot/" | prepend: page.url }})
