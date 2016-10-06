@@ -15,5 +15,6 @@ Por conta disso, nós sempre com o objetivo de trabalhar mais com os desenvolved
 
 Nossas atuais atividades nessa área são:
 
+* [WebVR Camp]({{ "webvr-camp/" | prepend: page.url }})
 * [Mergulhando em Rust]({{ "rust-hack/" | prepend: page.url }})
 * [Web Compatibility Sprint]({{ "webcompat-sprint/" | prepend: page.url }})

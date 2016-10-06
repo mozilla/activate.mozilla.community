@@ -15,5 +15,6 @@ Because of this, we always aim to work more with developers to hear what their n
 
 Our current activities in this area are:
 
+* [WebVR Camp](/developer-engagement/webvr-camp/)
 * [Dive Into Rust](/developer-engagement/rust-hack/)
 * [Web Compatibility Sprint](/developer-engagement/webcompat-sprint/)

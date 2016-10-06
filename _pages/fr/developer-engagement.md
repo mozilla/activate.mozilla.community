@@ -15,5 +15,6 @@ Because of this, we always aim to work more with developers to hear what their n
 
 Our current activities in this area are:
 
+* [WebVR Camp]({{ "webvr-camp" | prepend: page.url }})
 * [Dive Into Rust]({{ "rust-hack" | prepend: page.url }})
 * [Web Compatibility Sprint]({{ "webcompat-sprint" | prepend: page.url }})
