@@ -65,7 +65,7 @@ Additional to the recommended event flow here are some things we’d like you, t
 
 * Fill out the post-event metrics on the event page you setup on the Reps portal
 * Optionally, tell us about your event. This can be before or after. We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two!
-    * [Here is the Discourse post to write to](* https://discourse.mozilla-community.org/t/activate-mozilla-web-compatibility-sprint/10074/1)
+    * [Here is the Discourse post to write to](https://discourse.mozilla-community.org/t/activate-mozilla-web-compatibility-sprint/10074/1)
 * Encourage attendees who want to continue to work on Web Compat to sign up to the [mailing list](https://www.mozilla.org/en-US/about/forums/#compatibility)
 
 ## Extra

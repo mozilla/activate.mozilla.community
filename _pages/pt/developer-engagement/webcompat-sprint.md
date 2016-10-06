@@ -66,7 +66,7 @@ Adicionalmente nós recomendamos algumas coisas a fazer após o evento:
 
 * Preencha as métricas de pós-evento na página que você criou no Portal de Reps
 * Opcionalmente, conte-nos sobre o seu evento. Isto pode ser antes ou depois. Gostamos de ouvir sobre os próximos planos, e, claro, adorarímos ouvir sobre o que foi alcançado no evento com uma imagem ou duas!
-    * [Aqui está o post no Discourse para você nos contar sua experiência](* https://discourse.mozilla-community.org/t/activate-mozilla-web-compatibility-sprint/10074/1)
+    * [Aqui está o post no Discourse para você nos contar sua experiência](https://discourse.mozilla-community.org/t/activate-mozilla-web-compatibility-sprint/10074/1)
 * Incentive os participantes que querem continuar trabalhando com compatibilidade web a se inscrever na [lista de email](https://www.mozilla.org/en-US/about/forums/#compatibility)
 
 ## Extra

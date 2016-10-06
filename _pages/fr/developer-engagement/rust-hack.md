@@ -56,7 +56,7 @@ There are two options for facilitation:
 ## Event Flow
 
 * Install Rust
-    * [rustup](www.rustup.rs) - recommended
+    * [rustup](http://www.rustup.rs) - recommended
     * [Rust downloads](https://www.rust-lang.org/downloads.html) (alternative)
 * Read the [Rust book](https://doc.rust-lang.org/stable/book/)
 * Complete the [Rustlings](https://github.com/carols10cents/rustlings) (a great beginners course!)
