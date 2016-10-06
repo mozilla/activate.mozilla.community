@@ -10,22 +10,11 @@ ref: roadmap
 
 In this page we describe the past, current and future activities that we have on this site. If you have feedback, questions or suggestions please [chime in to this topic](https://discourse.mozilla-community.org/t/activate-mozilla-roadmap/10068).
 
-*Note that this roadmap is in constant change and evolution.*
+*Note that this roadmap is subject to change.*
 
-* TOC
-{:toc}
+| Now (Q3 2016)  | Next (Q4 2016)   | Later (Beyond) |
+| --- | --- | --- |
+| [Dive Into Rust](https://activate.mozilla.community/es/developer-engagement/rust-hack/) | [WebVR Camp](https://activate.mozilla.community/es/developer-engagement/webvr-camp/) |     |
+| [Web Compatibility Sprint](https://activate.mozilla.community/es/developer-engagement/webcompat-sprint/) | e10s and Add-ons |     |
+| [Test Pilot Install](https://activate.mozilla.community/es/experiments/test-pilot/) | Next-Gen Firefox Hacking with The Janitor |     |
 
-## July 2016 (Launch)
-
-* Dive Into Rust *(Rust and Servo)*
-* Web Compatibility Sprints *(Developer Engagement)*
-* Test Pilot Install *(Test Pilot)*
-
-## August 2016
-
-* e10s Add-on Compatibility *(Developer Engagement)*
-* Copyright petition *(Privacy and Policy)*
-
-## September 2016
-
-* Maker Party *(Privacy and Policy)*
