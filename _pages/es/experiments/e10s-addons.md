@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  "e10s and Featured Add-ons"
-permalink: /experiments/e10s-addons/
-lang: en
+permalink: /es/experiments/e10s-addons/
+lang: es
 ref: e10s-addons
 parent: experiments
 ---

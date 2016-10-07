@@ -15,4 +15,5 @@ We’d like to showcase different things here to enable you to join in the exper
 
 Our current activities in this area are:
 
+* [e10s and Featured Add-ons](/experiments/e10s-addons/)
 * [Install and give feedback on Test Pilot](/experiments/test-pilot/)

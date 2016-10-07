@@ -15,6 +15,6 @@ In this page we describe the past, current and future activities that we have on
 | Now (Q3 2016)  | Next (Q4 2016)   | Later (Beyond) |
 | --- | --- | --- |
 | [Dive Into Rust](https://activate.mozilla.community/developer-engagement/rust-hack/) | [WebVR Camp](https://activate.mozilla.community/developer-engagement/webvr-camp/) |     |
-| [Web Compatibility Sprint](https://activate.mozilla.community/developer-engagement/webcompat-sprint/) | e10s and Add-ons |     |
+| [Web Compatibility Sprint](https://activate.mozilla.community/developer-engagement/webcompat-sprint/) | [e10s and Add-ons](https://activate.mozilla.community/experiments/e10s-addons/) |     |
 | [Test Pilot Install](https://activate.mozilla.community/experiments/test-pilot/) | Next-Gen Firefox Hacking with The Janitor |     |
 

@@ -15,4 +15,5 @@ Nós gostaríamos de mostrar coisas diferentes aqui para lhe permitir participar
 
 Nossas atividades nessa área atualmente são:
 
+* [e10s and Featured Add-ons]({{ "e10s-addons/" | prepend: page.url }})
 * [Instale e dê o feedback do Test Pilot]({{ "test-pilot/" | prepend: page.url }})
