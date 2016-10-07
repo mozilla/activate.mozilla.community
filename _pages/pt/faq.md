@@ -53,6 +53,8 @@ Nós te encorajamos a executar estas atividades com o mínimo possível, mas sab
 * Aluguel do local (apenas se não houver outra alternativa)
 * Viagem para um especialista no assunto (atualmente permitido apenas para eventos de Rust)
 
+For some activities, extra budget is available for special needs. For example, VR headsets for the WebVR Camp activity. Details will be available on the relevant activity pages.
+
 O material gráfico a ser utilizado será incluido em algumas atividades. Se não for mencionado explicitamente na atividade, não haverá outros disponíveis na campanha.
 
 Para fazer o pedido, você precisa fazer o pedido de orçamento de Reps. Se você não é um Rep, por favor entre em contato com um Rep local para te ajudar. Nós vamos localizar rapidamente as solicitações válidas, que são aquelas que atendem os requisitos da atividade. Para pedidos maiores, será processado como qualquer outro pedido de Rep e não há garantia que será aprovado, e se for, que será a tempo.
