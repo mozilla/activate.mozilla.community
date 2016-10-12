@@ -80,7 +80,7 @@ There are two options for facilitation:
 
 * [Niko Matsakis's excellent slide deck](https://github.com/nikomatsakis/rust-tutorials-keynote)
 * [Exercises to accompany that deck](https://github.com/nikomatsakis/rust-tutorializer)
-* [A screencast from Niko on ownership and borrowing](https://www.youtube.com/watch?v=0sOiiIxbE6k)
+* [A screencast from Niko on ownership and borrowing](https://www.youtube.com/watch?v=TCUBSbJENO4)
 
 ## Output
 Additional to the recommended event flow here are some things we’d like you, the event organizer, to do.

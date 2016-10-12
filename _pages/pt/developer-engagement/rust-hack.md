@@ -80,7 +80,7 @@ Existem duas opções para a facilitação:
 
 * [Excelente conjunto de slides de Niko Matsakis] (https://github.com/nikomatsakis/rust-tutorials-keynote)
 * [Exercícios para acompanhar essa plataforma] (https://github.com/nikomatsakis/rust-tutorializer)
-* [A screencast de Niko na propriedade e empréstimos] (https://www.youtube.com/watch?v=0sOiiIxbE6k)
+* [A screencast de Niko na propriedade e empréstimos] (https://www.youtube.com/watch?v=TCUBSbJENO4)
 
 ## Output
 Adicional para o fluxo de eventos recomendado aqui estão algumas coisas que gostaríamos que você, o organizador do evento, fazesse.
