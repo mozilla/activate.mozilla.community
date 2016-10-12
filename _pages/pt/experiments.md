@@ -7,7 +7,10 @@ ref: experiments
 ---
 
 {: .left}
-![image]({{ "/asserts/img/test-pilot.png" }})
+![image](/asserts/img/test-pilot.png)
+
+{: .clearfix}
+&nbsp;
 
 A Web não ficar parada, e nesse espírito da Mozilla estamos sempre tentando coisas novas. Isso poderia ser tudo, desde a introdução de novas tecnologias como WebVR, à escrita complementos que mostram novas formas de interagir com o navegador.
 
