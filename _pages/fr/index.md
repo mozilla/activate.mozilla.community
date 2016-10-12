@@ -14,8 +14,8 @@ A campaign for Mozillians around the world to have impact in areas key to Mozill
 ## Focus Initiatives
 
 {: #area-deveng .col-md-3 .area}
-[![image](/asserts/img/development.png)](/fr/developer-engagement/)<br>
-[Empower developer communities](/fr/developer-engagement/)
+[![image](/asserts/img/development.png)](developer-engagement/)<br>
+[Empower developer communities](developer-engagement/)
 
 {: #area-servo .col-md-3 .area .disabled}
 ![image](/asserts/img/servo.png)<br>
@@ -26,11 +26,11 @@ Support the future Mozilla Web engine (coming soon)
 Defend Internet Privacy and Policy (coming soon)
 
 {: #area-testpilot .col-md-3 .area}
-[![image](/asserts/img/test-pilot.png)](/fr/experiments/)<br>
-[Use and test experimental Firefox features](/fr/experiments/)
+[![image](/asserts/img/test-pilot.png)](experiments/)<br>
+[Use and test experimental Firefox features](experiments/)
 
 {: .clearfix}
 &nbsp;
 
 {: .center}
-_Are you interested in other areas? Check [our roadmap](/roadmap/) to see what's coming soon._
+_Are you interested in other areas? Check [our roadmap](roadmap/) to see what's coming soon._

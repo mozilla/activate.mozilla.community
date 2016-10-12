@@ -14,7 +14,7 @@ Uma campanha para Mozillians ao redor do mundo para gerar impacto em áreas chav
 ## Foco de Iniciativas
 
 {: #area-deveng .col-md-3 .area}
-[![image](/asserts/img/development.png)](/pt/developer-engagement/)<br>
+[![image](/asserts/img/development.png)](developer-engagement/)<br>
 [Capacite comunidades de desenvolvimento](developer-engagement/)
 
 {: #area-servo .col-md-3 .area .disabled}
@@ -26,11 +26,11 @@ Suporte o futuro motor Web da Mozilla (em breve)
 Defenda a Privacidade e os Direitos na Internet (em breve)
 
 {: #area-testpilot .col-md-3 .area}
-[![image](/asserts/img/test-pilot.png)](/pt/experiments/)<br>
+[![image](/asserts/img/test-pilot.png)](experiments/)<br>
 [Use e teste funcionalidades experimentais do Firefox](experiments/)
 
 {: .clearfix}
 &nbsp;
 
 {: .center}
-_Você está interessado(a) em outras áreas ? Veja [nosso roadmap](/roadmap/) para ver o que está por vir._
+_Você está interessado(a) em outras áreas ? Veja [nosso roadmap](roadmap/) para ver o que está por vir._
