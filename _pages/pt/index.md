@@ -34,13 +34,3 @@ Defenda a Privacidade e os Direitos na Internet (em breve)
 
 {: .center}
 _Você está interessado(a) em outras áreas ? Veja [nosso roadmap](/roadmap/) para ver o que está por vir._
-
-## Esteja por dentro de novas atividades
-
-{: #area-mozparticipate .col-md-6 .area .area-small}
-[![image](/asserts/img/participation.png)](https://twitter.com/intent/follow/?screen_name=MozParticipate)<br>
-[Siga @MozParticipate no Twitter](https://twitter.com/intent/follow/?screen_name=MozParticipate)
-
-{: #area-discourse .col-md-6 .area .area-small}
-[![image](/asserts/img/discourse.png)](https://discourse.mozilla-community.org/c/participation-leaders)<br>
-[Se inscreva para participar do fórum de Líderes](https://discourse.mozilla-community.org/c/participation-leaders)

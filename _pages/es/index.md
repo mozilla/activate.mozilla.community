@@ -34,13 +34,3 @@ Defend Internet Privacy and Policy (coming soon)
 
 {: .center}
 _Are you interested in other areas? Check [our roadmap](/roadmap/) to see what's coming soon._
-
-## Stay updated about new activities
-
-{: #area-mozparticipate .col-md-6 .area .area-small}
-[![image](/asserts/img/participation.png)](https://twitter.com/intent/follow/?screen_name=MozParticipate)<br>
-[Follow @MozParticipate on Twitter](https://twitter.com/intent/follow/?screen_name=MozParticipate)
-
-{: #area-discourse .col-md-6 .area .area-small}
-[![image](/asserts/img/discourse.png)](https://discourse.mozilla-community.org/c/participation-leaders)<br>
-[Subscribe to the Participation Leaders forum](https://discourse.mozilla-community.org/c/participation-leaders)
