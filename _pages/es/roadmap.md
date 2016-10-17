@@ -6,13 +6,13 @@ lang: es
 ref: roadmap
 ---
 
-# Roadmap
+# Hoja de ruta
 
-In this page we describe the past, current and future activities that we have on this site. If you have feedback, questions or suggestions please [chime in to this topic](https://discourse.mozilla-community.org/t/activate-mozilla-roadmap/10068).
+En esta página se describirán las pasadas, presentes y futuras actividades que tenemos en este sitio web. Si tienes alguna pregunta, sugerencia o mejora puedes [participar en este hilo (inglés)](https://discourse.mozilla-community.org/t/activate-mozilla-roadmap/10068).
 
-*Note that this roadmap is subject to change.*
+*Nota: esta hoja de ruta está sujeta a cambios.*
 
-| Now (Q3 2016)  | Next (Q4 2016)   | Later (Beyond) |
+| Ahora (Q3 2016)  | Lo próximo (Q4 2016)   | Después (Más adelante) |
 | --- | --- | --- |
 | [Dive Into Rust](/es/developer-engagement/rust-hack/) | [WebVR Camp](/es/developer-engagement/webvr-camp/) |     |
 | [Web Compatibility Sprint](/es/developer-engagement/webcompat-sprint/) | [e10s and Add-ons](/es/experiments/e10s-addons/) |     |
