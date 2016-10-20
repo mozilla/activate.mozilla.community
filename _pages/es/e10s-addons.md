@@ -1,10 +1,10 @@
 ---
 layout: page
 title:  "e10s and Featured Add-ons"
-permalink: /pt/experiments/e10s-addons/
-lang: pt
+permalink: /es/e10s-addons/
+lang: es
 ref: e10s-addons
-parent: experiments
+parent: activities
 ---
 
 * TOC
@@ -58,8 +58,8 @@ All test reporting takes place on the [Featured Add-ons Compatibility Test page]
 
 1. Create a new Firefox profile by going to __about:profiles__ => “Create new profile”. Enter a name and click “Done”. Then click “Launch profile in new browser” to launch it.
 2. Install the ["Add-on Compatibility Reporter"](https://addons.mozilla.org/addon/add-on-compatibility-reporter?src=external-activatee10s1) (ACR) add-on in the new profile.
-3. Install the add-on you want to test in the new profile. 
-4. Go to __about:addons__ and make sure that it says “Multiprocess is enabled” in the top right corner and “Compatible to multiprocess” for the add-on you are testing. 
+3. Install the add-on you want to test in the new profile.
+4. Go to __about:addons__ and make sure that it says “Multiprocess is enabled” in the top right corner and “Compatible to multiprocess” for the add-on you are testing.
 5. Test the main functionality of the add-on. Does it perform as expected? (Testing typically takes 15 - 30 minutes)
 6. Once testing is complete, go back to the Featured Add-on Test page in your main profile and select YES or NO to reflect its test results, then click “Submit”.
     1. Feel free to leave comments (optional) if you care to detail issues you may have encountered.

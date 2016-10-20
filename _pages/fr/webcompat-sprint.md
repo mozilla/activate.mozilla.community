@@ -1,10 +1,10 @@
 ---
 layout: page
 title:  "Web Compatibility Sprint"
-permalink: /es/developer-engagement/webcompat-sprint/
-lang: es
+permalink: /fr/webcompat-sprint/
+lang: fr
 ref: webcompat-sprint
-parent: developer-engagement
+parent: activities
 ---
 
 * TOC
@@ -12,7 +12,7 @@ parent: developer-engagement
 
 Web Compatibility, the ability for all Web content to run in all browsers, is important. There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired.
 
-For more background and data on Web Compatibility, read the [recent blog post on Mozilla Hacks](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/).
+For more background and data on Web Compatibility, read the [recent blog post on Mozilla Hacks](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
 
 ## Impact and Metrics
 
@@ -71,7 +71,7 @@ Additional to the recommended event flow here are some things we’d like you, t
 ## Extra
 While the focus of this activity should be on testing sprints, there are other ways to stay more involved with the community after.
 
-* Bug diagnosis: This is about trying to understand the underlying issues behind bug reports, and where possible, providing suggested fixes for site owners. [More information](https://github.com/mozilla/participation-org/issues/237#issuecomment-163632354)
-* Site outreach: This is about trying to get in contact with websites that have issues and (politely!) providing ways that they can improve compatibility or fix their bugs. [More information](https://github.com/mozilla/participation-org/issues/237#issuecomment-163632626)
+* Bug diagnosis: This is about trying to understand the underlying issues behind bug reports, and where possible, providing suggested fixes for site owners. [More information](https://github.com/mozilla/participation-org/issues/237#issuecomment-163632626)
+* Site outreach: This is about trying to get in contact with websites that have issues and (politely!) providing ways that they can improve compatibility or fix their bugs. [More information](https://github.com/mozilla/participation-org/issues/237#issuecomment-163632354)
 
-[Webcompat's contributors page](https://webcompat.com/contributors) has more basic information on how to get started and join the community.
+[https://webcompat.com/contributors](https://webcompat.com/contributors) has more basic information on how to get started and join the community.

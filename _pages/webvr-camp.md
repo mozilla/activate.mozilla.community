@@ -1,10 +1,10 @@
 ---
 layout: page
 title:  "WebVR Camp"
-permalink: /fr/developer-engagement/webvr-camp/
-lang: fr
+permalink: /webvr-camp/
+lang: en
 ref: webvr-camp
-parent: developer-engagement
+parent: activities
 ---
 
 * TOC

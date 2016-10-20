@@ -1,10 +1,10 @@
 ---
 layout: page
 title:  "Install Test Pilot"
-permalink: /fr/experiments/test-pilot/
+permalink: /fr/test-pilot/
 lang: fr
 ref: test-pilot
-parent: experiments
+parent: activities
 ---
 
 * TOC

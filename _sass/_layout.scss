@@ -2,7 +2,6 @@
  * Site header
  */
 .site-header {
-    border-bottom: 1px solid #ad322d;
     color: #fff;
     min-height: 40px;
     background: #3F4B73;
@@ -71,6 +70,28 @@
     }
 }
 
+.jumbotron {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url('/asserts/img/photo_top.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    border-radius: 0;
+
+    h1 {
+        color: white;
+        display: block;
+        margin: auto;
+    }
+
+    .lead {
+        color: white;
+        margin: auto;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        font-weight: 300;
+    }
+}
+
 
 /**
  * Site footer
@@ -91,7 +112,7 @@
         .icon-container {
             display: inline-block;
             margin: 0 1.125rem;
-            min-width: 110px;
+            min-width: 120px;
             font-size: 1.1em;
 
             @include media-query($on-palm) {
@@ -189,11 +210,34 @@
             vertical-align: top;
             border: 1px solid #ddd;
         }
+
+        thead {
+            background-color: $brand-color;
+            color: white;
+        }
     }
 
     .p404 {
         font-size: 1.2em;
         margin-top: 40px;
+    }
+
+    .activity-img {
+        max-width: 80px;
+    }
+
+    .home-img {
+        max-width: 150px;
+    }
+
+    .activity {
+        background-color: #eee;
+        padding: 10px;
+        border-radius: 10px;
+
+        strong {
+            display: block;
+        }
     }
 
 }
@@ -218,10 +262,11 @@
 
     .area {
         text-align: center;
-        font-weight: bold;
 
-        img {
+        span {
+            display: block;
             margin-bottom: 10px;
+            font-weight: bold;
         }
 
         &.area-small {
@@ -257,6 +302,10 @@
 .post-link {
     display: block;
     font-size: 24px;
+}
+
+.clear {
+    clear:both;
 }
 
 
@@ -314,7 +363,7 @@
     .post-content > p,
     .post-content > ul,
     .post-content > ol {
-        width: 610px;
+        width: 600px;
     }
 }
 
@@ -324,7 +373,7 @@
     .post-content > p,
     .post-content > ul,
     .post-content > ol {
-        width: 400px;
+        width: 390px;
     }
 }
 

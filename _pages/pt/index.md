@@ -6,28 +6,29 @@ lang: pt
 ref: index
 ---
 
-# Activate Mozilla
+{:action1: .col-md-4 .area}
+<span>Teach The Web</span>
+In order to use and build the web as a global public resource people must have the skills to read, write, and participate online. Help create a world of informed digital citizens with a club that promotes web literacy on your campus and in your community.
+{: action1}
 
-{: .center}
-Uma campanha para Mozillians ao redor do mundo para gerar impacto em áreas chave da missão da Mozilla.
+{:action2: .col-md-4 .area}
+<span>Build The Web</span>
+The web needs skilled communities of makers and innovators building and supporting technologies that keep it open and accessible to all. Bring together the technical community on your campus to build a more open web for everyone.
+{: action2}
 
-## Foco de Iniciativas
+{:action3: .col-md-4 .area}
+<span>Protect The Web</span>
+In order for the web to stay open and accessible to all people need to feel safe online and know how to fight for and defend against the biggest challenges and opportunities that face the internet today. Rally your campus behind the issues that matter most.
+{: action3}
 
-{: #area-deveng .col-md-3 .area}
-[![image](/asserts/img/development.png)](developer-engagement/)<br>
-[Capacite comunidades de desenvolvimento](developer-engagement/)
+{: .col-md-4}
+<a class="btn btn-default" href="/activities/" role="button">Learn more</a>
 
-{: #area-servo .col-md-3 .area .disabled}
-![image](/asserts/img/servo.png)<br>
-Suporte o futuro motor Web da Mozilla (em breve)
+{: .col-md-4}
+<a class="btn btn-default" href="/activities/" role="button">Learn more</a>
 
-{: #area-privacy .col-md-3 .area .disabled}
-![image](/asserts/img/privacy.png)<br>
-Defenda a Privacidade e os Direitos na Internet (em breve)
-
-{: #area-testpilot .col-md-3 .area}
-[![image](/asserts/img/test-pilot.png)](experiments/)<br>
-[Use e teste funcionalidades experimentais do Firefox](experiments/)
+{: .col-md-4}
+<a class="btn btn-default" href="/activities/" role="button">Learn more</a>
 
 {: .clearfix}
 &nbsp;
