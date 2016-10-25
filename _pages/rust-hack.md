@@ -5,6 +5,7 @@ permalink: /rust-hack/
 lang: en
 ref: rust-hack
 parent: activities
+redirect_from: "/developer-engagement/rust-hack/"
 ---
 
 * TOC

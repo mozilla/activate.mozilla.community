@@ -5,6 +5,7 @@ permalink: /es/test-pilot/
 lang: es
 ref: test-pilot
 parent: activities
+redirect_from: "/es/experiments/test-pilot/"
 ---
 
 * TOC

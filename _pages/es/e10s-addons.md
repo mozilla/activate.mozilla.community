@@ -5,6 +5,7 @@ permalink: /es/e10s-addons/
 lang: es
 ref: e10s-addons
 parent: activities
+redirect_from: "/es/experiments/e10s-addons/"
 ---
 
 * TOC

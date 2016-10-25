@@ -5,6 +5,7 @@ permalink: /es/webcompat-sprint/
 lang: es
 ref: webcompat-sprint
 parent: activities
+redirect_from: "/es/developer-engagement/webcompat-sprint/"
 ---
 
 * TOC

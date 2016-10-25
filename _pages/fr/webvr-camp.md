@@ -5,6 +5,7 @@ permalink: /fr/webvr-camp/
 lang: fr
 ref: webvr-camp
 parent: activities
+redirect_from: "/fr/developer-engagement/webvr-camp/"
 ---
 
 * TOC

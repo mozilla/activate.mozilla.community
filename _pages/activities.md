@@ -5,6 +5,7 @@ permalink: /activities/
 lang: en
 ref: activities
 redirect_from: "/developer-engagement/"
+redirect_from: "/experiments/"
 ---
 
 ## Activities
