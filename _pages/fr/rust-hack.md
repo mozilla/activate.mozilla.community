@@ -1,10 +1,10 @@
 ---
 layout: page
 title:  "Dive Into Rust"
-permalink: /fr/developer-engagement/rust-hack/
+permalink: /fr/rust-hack/
 lang: fr
 ref: rust-hack
-parent: developer-engagement
+parent: activities
 ---
 
 * TOC

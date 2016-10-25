@@ -1,10 +1,10 @@
 ---
 layout: page
 title:  "Dive Into Rust"
-permalink: /es/developer-engagement/rust-hack/
-lang: es
+permalink: /rust-hack/
+lang: en
 ref: rust-hack
-parent: developer-engagement
+parent: activities
 ---
 
 * TOC
@@ -56,7 +56,7 @@ There are two options for facilitation:
 ## Event Flow
 
 * Install Rust
-    * [rustup](http://www.rustup.rs) - recommended
+    * [rustup](https://www.rustup.rs) - recommended
     * [Rust downloads](https://www.rust-lang.org/downloads.html) (alternative)
 * Read the [Rust book](https://doc.rust-lang.org/stable/book/)
 * Complete the [Rustlings](https://github.com/carols10cents/rustlings) (a great beginners course!)
