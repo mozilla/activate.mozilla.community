@@ -1,12 +1,12 @@
 {% assign l = site.data.l10n.[page.lang] %}
+{% assign lang = page.lang %}
 
 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 
-<div class="row">
-  <div class="col-md-6">
-    <p class="language-list text-left">{{ l.languages }}: {% for page in pages %} <a  class="{{ page.lang }}" title="{{ page.title }}" href="{{ page.url | prepend: site.url }}">{{page.lang}}</a> {% endfor %}</p>
-  </div>
-  <div class="col-md-6">
-    <p class="add-translation text-right"><a href="https://github.com/mozilla/activate.mozilla.community#submit-a-new-localization">{{ l.submit-translation }}</a></p>
-  </div>
-</div>
+<form id="lang_form" method="get" action="#">
+  <select id="page-language-select" name="lang" class="form-control" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+    {% for page in pages %}
+      <option value="{{ page.url | prepend: site.url }}" lang="{{ page.lang }}" {% if page.lang contains lang %}selected{% endif %}>{{ page.lang }}</option>
+    {% endfor %}
+  </select>
+</form>
