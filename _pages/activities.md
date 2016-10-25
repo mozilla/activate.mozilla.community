@@ -4,6 +4,7 @@ title:  "Activities"
 permalink: /activities/
 lang: en
 ref: activities
+redirect_from: "/developer-engagement/"
 ---
 
 ## Activities

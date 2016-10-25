@@ -19,3 +19,6 @@ github_username:  mozilla
 markdown: kramdown
 
 include: ['_pages']
+
+gems:
+  - jekyll-redirect-from
