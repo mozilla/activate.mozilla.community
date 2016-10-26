@@ -315,13 +315,6 @@
  */
 .post {
     position: relative;
-
-    #back-top {
-        display: none;
-        position: fixed;
-        bottom: 30px;
-        font-size: 2em;
-    }
 }
 
 .post-header {
@@ -505,10 +498,23 @@ div.facebook {
     border-left: solid 2px #acb0bd;
     background-color: #3F4B73;
     color: #ccc;
+    z-index: 99;
 
     a {
         color: #eee;
         font-weight: normal;
+    }
+}
+
+#back-top {
+    display: none;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    font-size: 2em;
+
+    .glyphicon {
+        text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
     }
 }
 

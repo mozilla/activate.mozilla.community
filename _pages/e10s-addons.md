@@ -4,7 +4,7 @@ title:  "e10s and Featured Add-ons"
 permalink: /e10s-addons/
 lang: en
 ref: e10s-addons
-parent: experiments
+parent: activities
 redirect_from: "/experiments/e10s-addons/"
 ---
 

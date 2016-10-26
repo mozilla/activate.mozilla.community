@@ -22,13 +22,13 @@ In order for the web to stay open and accessible to all people need to feel safe
 {: action3}
 
 {: .col-md-4}
-<a class="btn btn-default" href="/activities/" role="button">Learn more</a>
+<a class="btn btn-default" href="/activities/#teach-the-web" role="button">Learn more</a>
 
 {: .col-md-4}
-<a class="btn btn-default" href="/activities/" role="button">Learn more</a>
+<a class="btn btn-default" href="/activities/#build-the-web" role="button">Learn more</a>
 
 {: .col-md-4}
-<a class="btn btn-default" href="/activities/" role="button">Learn more</a>
+<a class="btn btn-default" href="/activities/#proect-the-web" role="button">Learn more</a>
 
 {: .clearfix}
 &nbsp;
