@@ -79,7 +79,7 @@ Isto irá avançar WebVR, uma plataforma aberta para a realidade virtual que uti
 
 <img src="/asserts/img/icon-protect.svg" alt="protect" class="left img-circle activity-img">
 
-Para que a web para permanecer aberto e acessível a todas as pessoas precisam se sentir seguros on-line e saber como lutar e defender-se contra os maiores desafios e oportunidades que enfrentam a internet hoje.
+Para que a web permaneça aberta e acessível todas as pessoas precisam se sentir seguras on-line e saber como lutar e defender-se contra os maiores desafios e oportunidades que enfrenta a internet hoje.
 
 
 {: .clear}
