@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Activities"
+title:  "Atividades"
 permalink: /pt/activities/
 lang: pt
 ref: activities
@@ -8,36 +8,36 @@ redirect_from: "/pt/developer-engagement/"
 redirect_from: "/pt/experiments/"
 ---
 
-## Activities
+## Atividades
 
-These activities were designed with 2 things in mind:
+Estas atividades foram designadas com 2 coisas em mente:
 
-1. That they have the potential to have a direct impact on Mozilla’s work right now
-2. That they bring value to you and your community. While we have specific metrics for each activity, one of the main overall goals is that we all get better at mobilising and building communities.
+1. Que eles tem o potencial para ter um impacto direto nos trabalhos da mozilla neste exato momento.
+2. Que eles trazem valores para você e sua comunidade. Enquanto nós temos métricas específicas para cada atividade, um dos principais objetivos globais é que nós todos vamos melhorar na mobilização e na construção das comunidades.
 
-Before you jump right in: Look at your goals for the year, what do you and your community want to accomplish in each of the impact areas? Which of the following activities best map to those goal? And very importantly, ask yourself if by doing these activities you can expose new people to the work that Mozilla is doing and we can build new communities around them.
+Antes de você entrar nesta: Olhe para os seus objetivos deste ano, o que faz você e sua comunidade querer realizar em cada áreas de impacto? Qual das atividades seguidas o melhor mapa para essas atividades? E muito importante, pergunte a você mesmo se fazendo estas atividades você pode expor novas pessoas para o trabalho que a Mozilla está fazendo e nós podemos construir novas comunidades ao redor deles.
 
 {: .clear}
 &nbsp;
 
-### Teach The Web
+### Ensine a Web
 
 <img src="/asserts/img/icon-teach.svg" alt="teach" class="left img-circle activity-img">
 
-In order to use and build the web as a global public resource people must have the skills to read, write, and participate online.
+Para utilizar e construir a web como um recurso de pessoas públicas globais devemos ter as habilidades para ler, escrever e participar online.
 
 {: .clear}
 &nbsp;
 
 {: .activity}
-**e10s and Featured Add-ons**
-With the emergence of multiprocess Firefox (e10s), we need to ensure featured add-ons on the Mozilla Add-ons site meet the highest levels of browser compatibility and functionality. Help us test these add-ons so that e10s can be rolled out to more of our millions of users.
-[Find out more](/pt/e10s-addons/).
+**e10s e Complementos destaques**
+Com a emergência do Firefox multiprocesso (e10s), nós precisamos garantir complementos destaques no site de complementos da Mozilla encontrando os  níveis alvos da compatibilidade do navegadore funcionalidade. Nós ajude a testar estes complementos então este e10s pode ser lançado para mais dos nossos milhões de usuários.
+[Encontre mais](/pt/e10s-addons/).
 
 {: .activity}
-**Install Test Pilot**
-When building features for hundreds of millions of Firefox users worldwide, it’s important to get them right. Help us figure out which features should ship and how they should work. Install Test Pilot and give us feedback.
-[Find out more](/pt/test-pilot/).
+**Instale Test Pilot**
+Quando construimos ferramentas para centenas de milhões de usuários do Firefox ao redor do mundo, é muito importante tê-los corretamente. Nos ajude a calcular quais ferramentas devem embarcar e como eles devem  funcionar. Instale Test Pilot e nos dê comentários.
+[Encontre mais](/pt/test-pilot/).
 
 {: .clear}
 &nbsp;
@@ -47,24 +47,25 @@ When building features for hundreds of millions of Firefox users worldwide, it�
 {: .clear}
 &nbsp;
 
-### Build The Web
+### Construa a Web
 
 <img src="/asserts/img/icon-build.svg" alt="build" class="left img-circle activity-img">
 
-The web needs skilled communities of makers and innovators developing and supporting robust technologies that keep it open and accessible to all.
+ A internet precisa de  comunidades especializadas de criadores e inovadores desenvolvendo e suportando tecnologias robustas para mantê-la aberta e acessível para todos.
 
 {: .clear}
 &nbsp;
 
 {: .activity}
-**Dive Into Rust**
-Rust is a systems programming language important to the future of the web. It runs blazingly fast, prevents segfaults, and guarantees thread safety. With your help, we want more developers to understand, use and evangelize this language in order to make the web better and more secure.
-[Find out more](/pt/rust-hack/).
+**Mergulhando em Rust**
+Rust é uma linguagem de protgramação de sistemas que é importante para o futuro da web. Ela roda incrivelmente rápida, prevenindo segfaults, e garantindo a segurança do thread. Com sua ajuda, Nós queremos mais desenvolvedores para entender, usar e evangelizar esta linguagem em ordem para fazer a web melhor e  mais segura.
+[Encontre mais](/pt/rust-hack/).
 
 {: .activity}
 **WebVR Camp**
-A-Frame is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality. Run events to onboard developers into 3D and write some great demos. This will advance WebVR, an open platform for virtual reality that leverages the Web.
-[Find out more](/pt/rust-hack/).
+A-Frame é uma framework web para construção virtual de experiências virtuais fazendo isso mais fácil para qualquer um que quer ficar envolvido com realidade virtual.Executar eventos para desenvolvedores integrados em 3D e escrever algumas grandes demos. 
+Isto irá avançar WebVR, uma plataforma aberta para a realidade virtual que utiliza a Web.
+[Descubra mais](/pt/rust-hack/).
 
 {: .clear}
 &nbsp;
@@ -74,18 +75,19 @@ A-Frame is a web framework for building virtual reality experiences, making it e
 {: .clear}
 &nbsp;
 
-### Protect The Web
+### Proteja a Web
 
 <img src="/asserts/img/icon-protect.svg" alt="protect" class="left img-circle activity-img">
 
-In order for the web to stay open and accessible to all people need to feel safe online and know how to fight for and defend against the biggest challenges and opportunities that face the internet today.
+Para que a web permaneça aberta e acessível todas as pessoas precisam se sentir seguras on-line e saber como lutar e defender-se contra os maiores desafios e oportunidades que enfrenta a internet hoje.
+
 
 {: .clear}
 &nbsp;
 
 {: .activity}
-**Web Compatibility Sprint**
-Web Compatibility, the ability for all Web content to run in all browsers, is important. There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired. Test sites and spread the message about compatibility.
+** Sprint Compatibilidade Web **
+Web de compatibilidade, a capacidade para todo o conteúdo da Web para ser executado em todos os navegadores, é importante. Existem vários motores de conteúdo web que funcionam em vários dispositivos, e às vezes com um pouco de testes e alguns pequenos ajustes para seu site, os desenvolvedores podem garantir que mais usuários podem ter a experiência completa que é desejado. locais de teste e espalhar a mensagem sobre a compatibilidade.
 [Find out more](/pt/webcompat-sprint/).
 
 {: .clear}
