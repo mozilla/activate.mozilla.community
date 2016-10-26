@@ -11,7 +11,7 @@ redirect_from: "/pt/experiments/e10s-addons/"
 * TOC
 {:toc}
 
-Complementos destaque recebem promoção reforçada com AMO, o que resulta em um grande aumento instala para este recomendado conteúdo. Com o surgimento de multiprocess Firefox (e10s), é preciso garantir que estes add-ons destacadas atender os mais altos níveis de compatibilidade do navegador e funcionalidade.
+Complementos destaque recebem promoção reforçada com AMO, o que resulta em um grande aumento de instalação para este conteúdo recomendado. Com o surgimento de Firefox multiprocesso (e10s), é preciso garantir que estes complementos destacadas atendem os mais altos níveis de compatibilidade do navegador e funcionalidade.
 
 __NOTE: Essa atividade está ocorrendo únicamente até 4 de novembro de 2016__.
 
@@ -26,32 +26,33 @@ __Impacto:__
 * 55 Complementos destaque, com <100k usuários, sendo testados
 * 400 testes individuais de complementos
 
-__Forte:__
+__Força:__
 
 * 15 Mozilizados ativados
 * 200 testadores de complementos em eventos
 
 ##Audiência para esta atividade
 
-Isto é para os participantes com um interesse ou paixão pelo conteúdo add-ons de uma perspectiva de experiência do usuário. Você não precisa de nenhum conhecimento técnico especial, mas sim uma capacidade de instalar add-ons e testar os seus recursos para garantir as obras de conteúdo conforme o esperado com multiprocess Firefox.
+Isto é para os participantes com um interesse ou paixão pelo conteúdo de complementos de uma perspectiva de experiência do usuário. Você não precisa de nenhum conhecimento técnico especial, mas sim uma capacidade de instalar complementos e testar os seus recursos para garantir as obras de conteúdo conforme o esperado com Firefox multiprocesso.
 
-## Format Atividade
+## Formato Atividade
 
 Embora essa atividade pode ser executada solo, nós encorajamos você a executar um evento em sua comunidade para se reunir as pessoas que se preocupam com a Web. O objetivo é testar locais, diagnosticar problemas e discutir como evangelizar localmente para desenvolvedores sobre um Web que funcione para todos.
 
-1. Coloque uma equipe evento juntos
-2. Escolha uma data e garantir um local
+1. Coloque uma equipe de evento juntos
+2. Escolha uma data e garanta um local
 3. Configure o evento no portal dos Reps ([instruções](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting)). [Encontre um Rep](https://reps.mozilla.org/people/) nas proximidades de fazer isso se você não for um.
 
 Para duração, recomendamos 2-3 horas com 10-15 participantes.
 
-##Fluxo de eventos
+## Fluxo de eventos
 
 ### Introdução
 
 * Dê uma rápida introdução aos participantes sobre o que estamos fazendo e por que é importante. O ponto principal é que, com add-ons mais compatíveis, e10s vai rolar mais rápido para potencialmente milhões mais usuários do Firefox.
 * Peça que os participantes tweet sobre a sua presença. Aqui está uma mensagem sugeriu:
      * Eu estou ajudando mais @Firefox complementos para se tornar compatível com a nova tecnologia de ponta <link desta página> #MozActivate
+     
 ### Passos para testar ...
 
 Todos os relatórios de teste tem lugar na [página de teste de compatibilidade de complementos Destaque](https://featured-addons-test.herokuapp.com/). Você deverá ver um link para um add-on perto do topo da página. Para cada add-on que você deseja testar, você precisa fazer o seguinte:
@@ -73,6 +74,6 @@ Adicional para o fluxo de eventos recomendado aqui estão algumas coisas que gos
 * Conte-nos sobre o seu evento. Isto pode ser antes e depois. Gostamos de ouvir sobre os próximos planos, e, claro, adoraria ouvir sobre o que foi alcançado no evento com uma imagem ou dois!
     * [Aqui está o post Discurso de escrever para](https://discourse.mozilla-community.org/t/activate-mozilla-e10s-compatibility-and-featured-add-ons/11193)
 
-## extra
+## Extra
 
-Se você estiver interessado em add-ons e quer aprender mais sobre maneiras que você pode se envolver com addons.mozilla.org, visite: [https://wiki.mozilla.org/Add-ons/Contribute](https://wiki.mozilla.org/Add-ons/Contribute)
+Se você estiver interessado em complementos e quer aprender mais sobre maneiras que você pode se envolver com addons.mozilla.org, visite: [https://wiki.mozilla.org/Add-ons/Contribute](https://wiki.mozilla.org/Add-ons/Contribute)
