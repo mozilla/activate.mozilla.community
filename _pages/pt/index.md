@@ -7,28 +7,28 @@ ref: index
 ---
 
 {:action1: .col-md-4 .area}
-<span>Teach The Web</span>
-In order to use and build the web as a global public resource people must have the skills to read, write, and participate online. Help create a world of informed digital citizens with a club that promotes web literacy on your campus and in your community.
+<span>Ensine a Web</span>
+Para utilizar e construir a web como um recurso de pessoas públicas globais devemos ter as habilidades para ler, escrever e participar online.
 {: action1}
 
 {:action2: .col-md-4 .area}
-<span>Build The Web</span>
-The web needs skilled communities of makers and innovators building and supporting technologies that keep it open and accessible to all. Bring together the technical community on your campus to build a more open web for everyone.
+<span>Construa a Web</span>
+A internet precisa de comunidades especializadas de criadores e inovadores desenvolvendo e suportando tecnologias robustas para mantê-la aberta e acessível para todos.
 {: action2}
 
 {:action3: .col-md-4 .area}
-<span>Protect The Web</span>
-In order for the web to stay open and accessible to all people need to feel safe online and know how to fight for and defend against the biggest challenges and opportunities that face the internet today. Rally your campus behind the issues that matter most.
+<span>Proteja a Web</span>
+Para que a web permaneça aberta e acessível todas as pessoas precisam se sentir seguras on-line e saber como lutar e defender-se contra os maiores desafios e oportunidades que enfrenta a internet hoje.
 {: action3}
 
 {: .col-md-4}
-<a class="btn btn-default" href="/activities/" role="button">Learn more</a>
+<a class="btn btn-default" href="/activities/" role="button">Aprenda mais</a>
 
 {: .col-md-4}
-<a class="btn btn-default" href="/activities/" role="button">Learn more</a>
+<a class="btn btn-default" href="/activities/" role="button">Aprenda mais</a>
 
 {: .col-md-4}
-<a class="btn btn-default" href="/activities/" role="button">Learn more</a>
+<a class="btn btn-default" href="/activities/" role="button">Aprenda mais</a>
 
 {: .clearfix}
 &nbsp;
