@@ -11,106 +11,106 @@ redirect_from: "/pt/developer-engagement/webvr-camp/"
 * TOC
 {:toc}
 
-[A-Frame](https://aframe.io/) is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality. Its goal is to onboard developers into 3D and advance WebVR, an open platform for virtual reality that leverages the Web. __Having more developers and content creators playing with WebVR is important for the future of virtual reality to help build towards a free and open virtual reality platform not owned by any individual entity__.
+[A-Frame](https://aframe.io/) é um framework web para a construção de experiências de realidade virtual, tornando mais fácil para que todos possam se envolver com a realidade virtual. Seu objetivo é desenvolvedores a bordo em 3D e avançar WebVR, uma plataforma aberta para a realidade virtual que utiliza a Web. __Tendo mais desenvolvedores e criadores de conteúdo que jogam com WebVR é importante para o futuro da realidade virtual para ajudar a construir em direção a uma plataforma de realidade virtual livre e aberta não propriedade de qualquer entidade individual__.
 
-A-Frame is used extensively by the Mozilla VR team to prototype and experiment with WebVR. __Having more contributors know A-Frame will give them a chance to get involved in one of the most exciting revolutions in the field of technology__.
+A-Frame é amplamente utilizado pela equipe Mozilla VR ao protótipo e experimentar com WebVR. __Tendo mais colaboradores sabendo A-Frame irá dar-lhes uma chance de se envolver em uma das revoluções mais emocionantes no campo da tecnologia__.
 
-## Impact and Metrics
+## Impacto e Métricas
 
-### Goals for this area
+### Metas para esta área
 
-__Impact:__
+__Impacto:__
 
-* 200 people signed up to the [A-Frame Slack channel](https://aframe.io/community/#a-frame)
-* 100 projects built in or for A-Frame
-* 20 blog posts about events, activities, experiences, projects, or tutorials.
-* 500 social shares with #MozActivate, #WebVRCamp, @aframevr, @mozillavr
+* 200 pessoas se inscreveram para o [A-Frame canal Slack](https://aframe.io/community/#a-frame)
+* 100 projetos construídos em ou para o A-Frame
+* 20 posts sobre eventos, atividades, experiências, projetos ou tutoriais.
+* 500 ações sociais com #MozActivate, #WebVRCamp, @aframevr, @mozillavr
 
-__Strength:__
+__Força:__
 
-* 20 Mobilizers activated
-* 30 events
-* 400 people are introduced to and starting to build with A-Frame
+* 20 mobilizadores ativada
+* 30 eventos
+* 400 pessoas são introduzidas e começam a construir com A-Frame
 
-## Audience for this activity
+## Público para esta atividade
 
-Your audience for this event should be anyone interested in virtual reality including web developers, designers and students. The audience should have a basic grasp of HTML.
+Seu público para este evento deve ser alguém interessado em realidade virtual, incluindo desenvolvedores web, designers e estudantes. O público deve ter uma compreensão básica de HTML.
 
-## Activity Format
+## Formato de  Atividade
 
-Help us build community around the A-Frame library by conducting a mobilizing / learning event for 20-30 contributors.
+Ajude-nos a construir uma comunidade em torno da biblioteca A-Frame através da realização de um evento mobilizador / aprendizagem por 20-30 contribuidores.
 
-### 2-4 Weeks Before the Event
+### 2-4 semanas antes do evento
 
-1. Put an event team together
-2. Choose a date and secure a venue
-3. Setup the event on Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting)). [Find a Rep](https://reps.mozilla.org/people/) closeby to do this if you are not one.
-4. Give a thought whether it will be self-facilitated or with someone who has A-Frame experience. You can find help on the [Mozilla VR Telegram group](https://telegram.me/MozillaVR) or the [A-Frame Slack channel](https://aframevr-slack.herokuapp.com/)
-5. Create an event page on a platform popular in your locale, such as Facebook or Meetup.com, and keep posting interesting information about WebVR & related topics to keep continue the conversation
-6. Download and customize the [A-Frame Presentation Kit](https://github.com/aframevr/aframe-presentation-kit)
-7. Create a few scenes for demo & prototyping purposes. You can find examples on [awesome-aframe](https://github.com/aframevr/awesome-aframe)
-8. Acquire headsets to use and demo. Google Cardboard can be acquired in some locations for less than $5 a set. We recommend 5 headsets for an event of 20-30 people. You can request budget of up to $50 maximum for these headsets but you will have to buy them yourself.
+1. Coloque uma equipe de evento juntos
+2. Escolha uma data e garanta um local
+3. Configuração do evento no portal dos Reps ([instruções](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting)). [Encontrar um Rep na vizinhança](https://reps.mozilla.org/people/) para fazer isso se você não for um.
+4. Dê um pensamento se vai ser auto-facilitada ou com alguém que tem experiência de A-Frame. Você pode encontrar ajuda sobre o [grupo Mozilla VR Telegram](https://telegram.me/MozillaVR) ou o [canal Slack A-Frame](https://aframevr-slack.herokuapp.com/)
+5. Crie uma página do evento em uma plataforma popular em sua localidade, como o Facebook ou o Meetup.com, e continuar a postar informações interessantes sobre WebVR & tópicos relacionados para manter continuar a conversa
+6. Faça o download e personalizar a [Apresentação Kit A-Frame](https://github.com/aframevr/aframe-presentation-kit)
+7. Crie algumas cenas para fins de demonstração e protótipos. Você pode encontrar exemplos de [incríveis-aframe](https://github.com/aframevr/awesome-aframe)
+8. Adquirir fones de ouvido para uso e demonstração. Google cartão pode ser adquirido em alguns locais por menos de US $ 5 por set. Recomendamos 5 headsets para um evento de 20-30 pessoas. Você pode solicitar orçamento de até US $ 50 máximo para esses fones de ouvido, mas você terá que comprá-los você mesmo.
 
-### 1 Week Before the Event
+### 1 semana antes do evento
 
-1. Confirmed selected attendees through email.
-2. Distribute the following list of tasks to do before event:
-    1. Create a GitHub account if they don’t have one
-    2. Get familiar with [A-Frame](https://aframe.io/) and [read about areas to contribute](https://github.com/aframevr/aframe/blob/master/CONTRIBUTING.md)
-    3. Join the [A-Frame Slack Channel](https://aframevr-slack.herokuapp.com/)
-    4. [Optional] Play with A-Frame, starting with a [Hello World scene](https://codepen.io/mozvr/pen/BjygdO). Skim through the [documentation](https://aframe.io/docs/0.3.0/introduction/getting-started.html).
+1. confirmados participantes selecionados através de e-mail.
+2. Distribua a seguinte lista de tarefas para fazer antes do evento:
+    1. Crie uma conta GitHub, se eles não têm um
+    2. Familiarize-se com [A-Frame](https://aframe.io/) e [ler sobre áreas para contribuir](https://github.com/aframevr/aframe/blob/master/CONTRIBUTING.md)
+    3. Junte-se à [A-Frame Slack Channel](https://aframevr-slack.herokuapp.com/)
+    4. [Opcional] Jogue com A-Frame, começando com um [Olá Mundo cena](https://codepen.io/mozvr/pen/BjygdO). Folhear a [documentação](https://aframe.io/docs/0.3.0/introduction/getting-started.html).
 
-## Event Flow
+## Fluxo de Eventos
 
-This is how you can break up a 4 hour event format. You can try to shorten some sections if you want to do it quicker.
+Isto é como você pode acabar com um formato de evento de 4 horas. Você pode tentar encurtar algumas seções se você quiser fazê-lo mais rápido.
 
-### Getting Started (30 minutes)
+### Iniciação (30 minutos)
 
-* Introduction of speakers and attendees with an ice breaker session (e.g., [catch the ball](http://businessmajors.about.com/od/icebreakers/a/Icebreaker8.htm))
-* About [Mozilla’s mission](https://www.mozilla.org/mission/) as a non-profit and community-focused organization.
-* About [VR, WebVR & A-Frame](https://gurumukhi.wordpress.com/2016/09/21/a-frame-for-vr-development-on-web/)
-* Quickly note social tags: #MozActivate, #WebVRCamp, @mozillavr
+* Introdução de palestrantes e participantes com uma sessão de disjuntor de gelo (por exemplo, [pegar a bola] (http://businessmajors.about.com/od/icebreakers/a/Icebreaker8.htm))
+* Sobre [missão da Mozilla](https://www.mozilla.org/mission/) como um sem fins lucrativos e organização focada na comunidade.
+* Sobre [VR, WebVR & A-Frame](https://gurumukhi.wordpress.com/2016/09/21/a-frame-for-vr-development-on-web/)
+* Nota rapidamente marcas sociais: #MozActivate, #WebVRCamp, @mozillavr
 
-### A-Frame [Concepts](https://aframe.io/docs/0.3.0/introduction/) (30 minutes)
+### A-Frame [Concepts](https://aframe.io/docs/0.3.0/introduction/) (30 minutos)
 
-* [Demo](http://aframe.io/examples) of basic A-Frame scenes & apps. More examples at [A Week of A-Frame](https://aframe.io/blog/)
+* [Demo](http://aframe.io/examples) de cenas e aplicativos básicos do um-quadro. Mais exemplos em [A Semana de A-Frame](https://aframe.io/blog/)
 * Show off [A-Painter](https://blog.mozvr.com/a-painter/)
-* Introduce HTML tags. If audience is more technical, also introduce the [entity-component-system pattern](https://aframe.io/docs/0.3.0/introduction/#entity-component-system)
+* Introduzir tags HTML. Se público é mais técnico, também introduzir a [padrão em componentes do sistema entidade](https://aframe.io/docs/0.3.0/introduction/#entity-component-system)
 
-### Time to Hack (1 hour)
+### Time to Hack (1 hora)
 
-* Propose your idea of VR experiences to build
-* Can get started with [Codepen](http://codepen.io/mozvr/pen/BjygdO) or the [Boilerplate](https://github.com/aframevr/aframe-boilerplate)
-    * For the boilerplate, we recommend using a local server such as [Mongoose](https://www.cesanta.com/products/binary) or through Node.js.
+* Propor a sua ideia de experiências de RV para construir
+* Pode começar com [Codepen](http://codepen.io/mozvr/pen/BjygdO) ou [clichê](https://github.com/aframevr/aframe-boilerplate)
+    * Para o clichê, é recomendável usar um servidor local como [Mongoose](https://www.cesanta.com/products/binary) ou através Node.js.
 
-### More About A-Frame (30 minutes)
+### mais sobre A-Frame (30 minutos)
 
-* A-Frame in depth (e.g., demo of advanced scenes, how are they built, using community components)
+* A-Frame em profundidade (por exemplo, demo de cenas avançados, como eles são construídos, utilizando componentes da comunidade)
 
-### Continue Hacking (1 hour)
+### Continue Hacking (1 hora)
 
-* Improve your VR experience or build something else using more advanced concepts
+* Melhorar a sua experiência de VR ou construir outra coisa usando conceitos mais avançados
 
-### Review & Plan (30 minutes)
+### Review & Plan (30 minutos)
 
-* Review the whole event
-* Talk about [A-Frame community](http://aframe.io/community/). Don’t forget to mention if you have a separate communication medium to connect with the local WebVR community (e.g., WebVR-India telegram group)
-* Discuss takeaways
-* Discuss individual action plans and follow-up plans
+* Rever todo o evento
+* Fale sobre [comunidade A-Frame](http://aframe.io/community/). Não se esqueça de mencionar se você tem um meio de comunicação em separado para se conectar com a comunidade WebVR local (por exemplo, WebVR-India grupo telegrama)
+* Discutir delivery
+* Discutir planos de acção individuais e planos de acompanhamento
 
 ## Output
 
-Additional to the recommended event flow here are some things we’d like you, the event organizer, to do.
+Adicional para o fluxo de eventos recomendado aqui estão algumas coisas que gostaríamos que você, o organizador do evento, para fazer.
 
-* Fill out the post-event metrics on the event page you set up on the Reps portal
-* Thank-You email to attendees with:
-    * A feedback form
-    * Suggestion to Tweet their experience. Mention @mozillavr, #MozActivate, and #WebVRCamp
-    * Suggestion to write a blog post and share
-    * Important links
-* Send an event report or blog post and photo-stream link either over Twitter or Slack.
-* Share a summary [this Discourse thread](https://discourse.mozilla-community.org/t/activate-mozilla-webvr-camp/11190)
+* Preencha as métricas pós-evento na página do evento você configurar no portal Reps
+* Thank-You enviar e-mail para os participantes com:
+    * Um formulário de feedback
+    * Sugestão de tweet sua experiência. Mencione @mozillavr, #MozActivate e #WebVRCamp
+    * Sugestão para escrever um post de blog e compartilhar
+    * Links importantes
+* Enviar um relatório de evento ou blog e link de foto-stream, quer através do Twitter ou Slack.
+* Compartilhe um resumo [esta discussão Discurso](https://discourse.mozilla-community.org/t/activate-mozilla-webvr-camp/11190)
 
-## Contact
+## Contato
 
-Want to find out more about the A-Frame community? Ping us on the [A-Frame Slack channel](https://aframevr-slack.herokuapp.com/) or Tweet at us [@aframevr](https://twitter.com/aframevr). Visit the [A-Frame community page](https://aframe.io/community/) for more details.
+Quer saber mais sobre a comunidade de A-Frame? O ping-nos no [canal Slack A-Frame](https://aframevr-slack.herokuapp.com/) ou Tweet para nós [@aframevr](https://twitter.com/aframevr). Visite a [página da comunidade A-Frame](https://aframe.io/community/) para mais detalhes.
