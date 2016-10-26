@@ -51,9 +51,9 @@ Ajude-nos a construir uma comunidade em torno da biblioteca A-Frame através da 
 7. Crie algumas cenas para fins de demonstração e protótipos. Você pode encontrar exemplos de [incríveis-aframe](https://github.com/aframevr/awesome-aframe)
 8. Adquirir fones de ouvido para uso e demonstração. Google cartão pode ser adquirido em alguns locais por menos de US $ 5 por set. Recomendamos 5 headsets para um evento de 20-30 pessoas. Você pode solicitar orçamento de até US $ 50 máximo para esses fones de ouvido, mas você terá que comprá-los você mesmo.
 
-### 1 semana antes do evento
+### 1 Semana Antes do Evento
 
-1. confirmados participantes selecionados através de e-mail.
+1. Confirmados participantes selecionados através de e-mail.
 2. Distribua a seguinte lista de tarefas para fazer antes do evento:
     1. Crie uma conta GitHub, se eles não têm um
     2. Familiarize-se com [A-Frame](https://aframe.io/) e [ler sobre áreas para contribuir](https://github.com/aframevr/aframe/blob/master/CONTRIBUTING.md)
@@ -71,13 +71,13 @@ Isto é como você pode acabar com um formato de evento de 4 horas. Você pode t
 * Sobre [VR, WebVR & A-Frame](https://gurumukhi.wordpress.com/2016/09/21/a-frame-for-vr-development-on-web/)
 * Nota rapidamente marcas sociais: #MozActivate, #WebVRCamp, @mozillavr
 
-### A-Frame [Concepts](https://aframe.io/docs/0.3.0/introduction/) (30 minutos)
+### A-Frame [Conceitos](https://aframe.io/docs/0.3.0/introduction/) (30 minutos)
 
 * [Demo](http://aframe.io/examples) de cenas e aplicativos básicos do um-quadro. Mais exemplos em [A Semana de A-Frame](https://aframe.io/blog/)
 * Show off [A-Painter](https://blog.mozvr.com/a-painter/)
 * Introduzir tags HTML. Se público é mais técnico, também introduzir a [padrão em componentes do sistema entidade](https://aframe.io/docs/0.3.0/introduction/#entity-component-system)
 
-### Time to Hack (1 hora)
+### Tempo para Hack (1 hora)
 
 * Propor a sua ideia de experiências de RV para construir
 * Pode começar com [Codepen](http://codepen.io/mozvr/pen/BjygdO) ou [clichê](https://github.com/aframevr/aframe-boilerplate)
@@ -87,11 +87,11 @@ Isto é como você pode acabar com um formato de evento de 4 horas. Você pode t
 
 * A-Frame em profundidade (por exemplo, demo de cenas avançados, como eles são construídos, utilizando componentes da comunidade)
 
-### Continue Hacking (1 hora)
+### Continue Hackeando (1 hora)
 
 * Melhorar a sua experiência de VR ou construir outra coisa usando conceitos mais avançados
 
-### Review & Plan (30 minutos)
+### Rever & Planejar (30 minutos)
 
 * Rever todo o evento
 * Fale sobre [comunidade A-Frame](http://aframe.io/community/). Não se esqueça de mencionar se você tem um meio de comunicação em separado para se conectar com a comunidade WebVR local (por exemplo, WebVR-India grupo telegrama)
@@ -103,7 +103,7 @@ Isto é como você pode acabar com um formato de evento de 4 horas. Você pode t
 Adicional para o fluxo de eventos recomendado aqui estão algumas coisas que gostaríamos que você, o organizador do evento, para fazer.
 
 * Preencha as métricas pós-evento na página do evento você configurar no portal Reps
-* Thank-You enviar e-mail para os participantes com:
+*  Enviar um e-mail de obrigado para os participantes com:
     * Um formulário de feedback
     * Sugestão de tweet sua experiência. Mencione @mozillavr, #MozActivate e #WebVRCamp
     * Sugestão para escrever um post de blog e compartilhar
