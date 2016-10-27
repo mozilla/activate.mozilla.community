@@ -64,7 +64,7 @@ Rust is a systems programming language important to the future of the web. It ru
 {: .activity}
 **WebVR Camp**
 A-Frame is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality. Run events to onboard developers into 3D and write some great demos. This will advance WebVR, an open platform for virtual reality that leverages the Web.
-[Find out more](/rust-hack/).
+[Find out more](/webvr-camp/).
 
 {: .clear}
 &nbsp;
