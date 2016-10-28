@@ -22,16 +22,16 @@ Para que a web permaneça aberta e acessível todas as pessoas precisam se senti
 {: action3}
 
 {: .col-md-4}
-<a class="btn btn-default" href="/activities/" role="button">Aprenda mais</a>
+<a class="btn btn-default" href="/activities/" role="button">Saiba mais</a>
 
 {: .col-md-4}
-<a class="btn btn-default" href="/activities/" role="button">Aprenda mais</a>
+<a class="btn btn-default" href="/activities/" role="button">Saiba mais</a>
 
 {: .col-md-4}
-<a class="btn btn-default" href="/activities/" role="button">Aprenda mais</a>
+<a class="btn btn-default" href="/activities/" role="button">Saiba mais</a>
 
 {: .clearfix}
 &nbsp;
 
 {: .center}
-_Você está interessado(a) em outras áreas ? Veja [nosso roadmap](roadmap/) para ver o que está por vir._
+_Você está interessado(a) em outras áreas ? Veja [nosso roadmap](roadmap/) e veja o que está por vir._
