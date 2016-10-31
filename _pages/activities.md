@@ -18,7 +18,7 @@ These activities were designed with 2 things in mind:
 Before you jump right in: Look at your goals for the year, what do you and your community want to accomplish in each of the impact areas? Which of the following activities best map to those goal? And very importantly, ask yourself if by doing these activities you can expose new people to the work that Mozilla is doing and we can build new communities around them.
 
 {: .clear}
-&nbsp;
+_
 
 ### Teach The Web
 
@@ -27,7 +27,7 @@ Before you jump right in: Look at your goals for the year, what do you and your 
 In order to use and build the web as a global public resource people must have the skills to read, write, and participate online.
 
 {: .clear}
-&nbsp;
+_
 
 {: .activity}
 **e10s and Featured Add-ons**
@@ -40,12 +40,12 @@ When building features for hundreds of millions of Firefox users worldwide, itâ€
 [Find out more](/test-pilot/).
 
 {: .clear}
-&nbsp;
+_
 
 <hr>
 
 {: .clear}
-&nbsp;
+_
 
 ### Build The Web
 
@@ -54,7 +54,7 @@ When building features for hundreds of millions of Firefox users worldwide, itâ€
 The web needs skilled communities of makers and innovators developing and supporting robust technologies that keep it open and accessible to all.
 
 {: .clear}
-&nbsp;
+_
 
 {: .activity}
 **Dive Into Rust**
@@ -67,12 +67,12 @@ A-Frame is a web framework for building virtual reality experiences, making it e
 [Find out more](/webvr-camp/).
 
 {: .clear}
-&nbsp;
+_
 
 <hr>
 
 {: .clear}
-&nbsp;
+_
 
 ### Protect The Web
 
@@ -81,7 +81,7 @@ A-Frame is a web framework for building virtual reality experiences, making it e
 In order for the web to stay open and accessible to all people need to feel safe online and know how to fight for and defend against the biggest challenges and opportunities that face the internet today.
 
 {: .clear}
-&nbsp;
+_
 
 {: .activity}
 **Web Compatibility Sprint**
@@ -89,4 +89,4 @@ Web Compatibility, the ability for all Web content to run in all browsers, is im
 [Find out more](/webcompat-sprint/).
 
 {: .clear}
-&nbsp;
+_

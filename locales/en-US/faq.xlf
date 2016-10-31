@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="../../_pages/faq.md" source-language="en-US" target-language="en-US" datatype="markdown">
+    <header>
+      <skl>
+        <external-file href="faq.skl.md"/>
+      </skl>
+    </header>
+    <body>
+<trans-unit id="1">
+  <source xml:lang="en-US">layout: default
+title:  "Frequently Asked Questions"
+permalink: /faq/
+lang: en</source>
+  <target xml:lang="en-US">layout: default
+title:  "Frequently Asked Questions"
+permalink: /faq/
+lang: en</target>
+</trans-unit>
+<trans-unit id="2">
+  <source xml:lang="en-US">ref: faq</source>
+  <target xml:lang="en-US">ref: faq</target>
+</trans-unit>
+<trans-unit id="3">
+  <source xml:lang="en-US">Frequently Asked Questions</source>
+  <target xml:lang="en-US">Frequently Asked Questions</target>
+</trans-unit>
+<trans-unit id="4">
+  <source xml:lang="en-US">TOC</source>
+  <target xml:lang="en-US">TOC</target>
+</trans-unit>
+<trans-unit id="5">
+  <source xml:lang="en-US">{:toc}</source>
+  <target xml:lang="en-US">{:toc}</target>
+</trans-unit>
+<trans-unit id="6">
+  <source xml:lang="en-US">What is Activate Mozilla?</source>
+  <target xml:lang="en-US">What is Activate Mozilla?</target>
+</trans-unit>
+<trans-unit id="7">
+  <source xml:lang="en-US">Activate Mozilla is a campaign for Mozillians around the world to have impact in areas key to Mozilla’s mission.</source>
+  <target xml:lang="en-US">Activate Mozilla is a campaign for Mozillians around the world to have impact in areas key to Mozilla’s mission.</target>
+</trans-unit>
+<trans-unit id="8">
+  <source xml:lang="en-US">We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now, and provide clear steps on how to get involved right away.</source>
+  <target xml:lang="en-US">We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now, and provide clear steps on how to get involved right away.</target>
+</trans-unit>
+<trans-unit id="9">
+  <source xml:lang="en-US">These will be presented in the form of activities.</source>
+  <target xml:lang="en-US">These will be presented in the form of activities.</target>
+</trans-unit>
+<trans-unit id="10">
+  <source xml:lang="en-US">Who can be involved in the activities?</source>
+  <target xml:lang="en-US">Who can be involved in the activities?</target>
+</trans-unit>
+<trans-unit id="11">
+  <source xml:lang="en-US">Anyone who wants to support Mozilla.</source>
+  <target xml:lang="en-US">Anyone who wants to support Mozilla.</target>
+</trans-unit>
+<trans-unit id="12">
+  <source xml:lang="en-US">How do I get involved?</source>
+  <target xml:lang="en-US">How do I get involved?</target>
+</trans-unit>
+<trans-unit id="13">
+  <source xml:lang="en-US">Just navigate the site and read the different areas and activities described.</source>
+  <target xml:lang="en-US">Just navigate the site and read the different areas and activities described.</target>
+</trans-unit>
+<trans-unit id="14">
+  <source xml:lang="en-US">There you will find more information on why the activities have been chosen, and concrete instructions on how to contribute to each of them.</source>
+  <target xml:lang="en-US">There you will find more information on why the activities have been chosen, and concrete instructions on how to contribute to each of them.</target>
+</trans-unit>
+<trans-unit id="15">
+  <source xml:lang="en-US">Why should I get involved?</source>
+  <target xml:lang="en-US">Why should I get involved?</target>
+</trans-unit>
+<trans-unit id="16">
+  <source xml:lang="en-US">The areas and activity described in this site are a result of a joint effort from the Mozilla Participation team and other teams to surface what is imporant for the organization right now.</source>
+  <target xml:lang="en-US">The areas and activity described in this site are a result of a joint effort from the Mozilla Participation team and other teams to surface what is imporant for the organization right now.</target>
+</trans-unit>
+<trans-unit id="17">
+  <source xml:lang="en-US">If you want to support Mozilla and you are unsure about what to do, this campaign is for you.</source>
+  <target xml:lang="en-US">If you want to support Mozilla and you are unsure about what to do, this campaign is for you.</target>
+</trans-unit>
+<trans-unit id="18">
+  <source xml:lang="en-US">What are the goals of the campaign?</source>
+  <target xml:lang="en-US">What are the goals of the campaign?</target>
+</trans-unit>
+<trans-unit id="19">
+  <source xml:lang="en-US">The primary goal of the campaign is to launch activities that bring value everyone participating, from community mobilizers, to event attendees, to teams at Mozilla.</source>
+  <target xml:lang="en-US">The primary goal of the campaign is to launch activities that bring value everyone participating, from community mobilizers, to event attendees, to teams at Mozilla.</target>
+</trans-unit>
+<trans-unit id="20">
+  <source xml:lang="en-US">We have set ourselves targets for Q3 (July-September), 2016.</source>
+  <target xml:lang="en-US">We have set ourselves targets for Q3 (July-September), 2016.</target>
+</trans-unit>
+<trans-unit id="21">
+  <source xml:lang="en-US">While they are not arbitrary numbers, they are meant to be aspirational and not exact.</source>
+  <target xml:lang="en-US">While they are not arbitrary numbers, they are meant to be aspirational and not exact.</target>
+</trans-unit>
+<trans-unit id="22">
+  <source xml:lang="en-US">Whether we come in under target or way over, we will evaluate and iterate for future campaign.</source>
+  <target xml:lang="en-US">Whether we come in under target or way over, we will evaluate and iterate for future campaign.</target>
+</trans-unit>
+<trans-unit id="23">
+  <source xml:lang="en-US">6 activities are launched.</source>
+  <target xml:lang="en-US">6 activities are launched.</target>
+</trans-unit>
+<trans-unit id="24">
+  <source xml:lang="en-US">400 mobilizers activated.</source>
+  <target xml:lang="en-US">400 mobilizers activated.</target>
+</trans-unit>
+<trans-unit id="25">
+  <source xml:lang="en-US">Primarily this is people organising events, assisting in logistics, and being the primary driver of an activity to bring more contributions.</source>
+  <target xml:lang="en-US">Primarily this is people organising events, assisting in logistics, and being the primary driver of an activity to bring more contributions.</target>
+</trans-unit>
+<trans-unit id="26">
+  <source xml:lang="en-US">3500 unique contributions to the campaign.</source>
+  <target xml:lang="en-US">3500 unique contributions to the campaign.</target>
+</trans-unit>
+<trans-unit id="27">
+  <source xml:lang="en-US">These are the people mobilized, such as those attending events, installing add-ons, and so on.</source>
+  <target xml:lang="en-US">These are the people mobilized, such as those attending events, installing add-ons, and so on.</target>
+</trans-unit>
+<trans-unit id="28">
+  <source xml:lang="en-US">2000 social shares of campaign activities.</source>
+  <target xml:lang="en-US">2000 social shares of campaign activities.</target>
+</trans-unit>
+<trans-unit id="29">
+  <source xml:lang="en-US">These are listed here for transparency, and you can also see our per-activity goals listed under the 'Goals for this area' section on each activity page.</source>
+  <target xml:lang="en-US">These are listed here for transparency, and you can also see our per-activity goals listed under the 'Goals for this area' section on each activity page.</target>
+</trans-unit>
+<trans-unit id="30">
+  <source xml:lang="en-US">What should I do if I have questions?</source>
+  <target xml:lang="en-US">What should I do if I have questions?</target>
+</trans-unit>
+<trans-unit id="31">
+  <source xml:lang="en-US">You can ask directly creating a new topic at the <bpt id="l2">[</bpt>Participation Leaders forum<ept id="l2">]</ept><bpt id="l3">(</bpt>https://discourse.mozilla-community.org/c/participation-leaders<ept id="l3">)</ept>.</source>
+  <target xml:lang="en-US">You can ask directly creating a new topic at the [Participation Leaders forum](https://discourse.mozilla-community.org/c/participation-leaders).</target>
+</trans-unit>
+<trans-unit id="32">
+  <source xml:lang="en-US">Can I request budget or swag for these activities?</source>
+  <target xml:lang="en-US">Can I request budget or swag for these activities?</target>
+</trans-unit>
+<trans-unit id="33">
+  <source xml:lang="en-US">We encourage you to run these as lean as possible, but realise that sometimes there can be some costs incurred for logistics or refreshments.</source>
+  <target xml:lang="en-US">We encourage you to run these as lean as possible, but realise that sometimes there can be some costs incurred for logistics or refreshments.</target>
+</trans-unit>
+<trans-unit id="34">
+  <source xml:lang="en-US">If your event meets the requirements laid out in the activity, there is a fund available of up to $150 USD per event.</source>
+  <target xml:lang="en-US">If your event meets the requirements laid out in the activity, there is a fund available of up to $150 USD per event.</target>
+</trans-unit>
+<trans-unit id="35">
+  <source xml:lang="en-US">This can be used for only the following items/services:</source>
+  <target xml:lang="en-US">This can be used for only the following items/services:</target>
+</trans-unit>
+<trans-unit id="36">
+  <source xml:lang="en-US">Locally produced stickers and/or other small items (only for an event for over 50 people)</source>
+  <target xml:lang="en-US">Locally produced stickers and/or other small items (only for an event for over 50 people)</target>
+</trans-unit>
+<trans-unit id="37">
+  <source xml:lang="en-US">Food for participants for an event over than 5 hours</source>
+  <target xml:lang="en-US">Food for participants for an event over than 5 hours</target>
+</trans-unit>
+<trans-unit id="38">
+  <source xml:lang="en-US">Venue rental (in the case of the no other alternative)</source>
+  <target xml:lang="en-US">Venue rental (in the case of the no other alternative)</target>
+</trans-unit>
+<trans-unit id="39">
+  <source xml:lang="en-US">Travel for expert on the field (currently allowed only for Rust events)</source>
+  <target xml:lang="en-US">Travel for expert on the field (currently allowed only for Rust events)</target>
+</trans-unit>
+<trans-unit id="40">
+  <source xml:lang="en-US">For some activities, extra budget is available for special needs.</source>
+  <target xml:lang="en-US">For some activities, extra budget is available for special needs.</target>
+</trans-unit>
+<trans-unit id="41">
+  <source xml:lang="en-US">For example, VR headsets for the WebVR Camp activity.</source>
+  <target xml:lang="en-US">For example, VR headsets for the WebVR Camp activity.</target>
+</trans-unit>
+<trans-unit id="42">
+  <source xml:lang="en-US">Details will be available on the relevant activity pages.</source>
+  <target xml:lang="en-US">Details will be available on the relevant activity pages.</target>
+</trans-unit>
+<trans-unit id="43">
+  <source xml:lang="en-US">Assets to use will be included in some activities.</source>
+  <target xml:lang="en-US">Assets to use will be included in some activities.</target>
+</trans-unit>
+<trans-unit id="44">
+  <source xml:lang="en-US">Unless explicitly mentioned in the activity, there will be no other swag available for the campaign.</source>
+  <target xml:lang="en-US">Unless explicitly mentioned in the activity, there will be no other swag available for the campaign.</target>
+</trans-unit>
+<trans-unit id="45">
+  <source xml:lang="en-US">To make the request, you will need to make a Reps budget request.</source>
+  <target xml:lang="en-US">To make the request, you will need to make a Reps budget request.</target>
+</trans-unit>
+<trans-unit id="46">
+  <source xml:lang="en-US">If you are not a Rep, please contact a local Rep to help you.</source>
+  <target xml:lang="en-US">If you are not a Rep, please contact a local Rep to help you.</target>
+</trans-unit>
+<trans-unit id="47">
+  <source xml:lang="en-US">We will fast-track valid requests, which are ones that meet the requirements of the activity.</source>
+  <target xml:lang="en-US">We will fast-track valid requests, which are ones that meet the requirements of the activity.</target>
+</trans-unit>
+<trans-unit id="48">
+  <source xml:lang="en-US">For larger budget requests, it will be processed like any other Reps budget request and there is no guarantee it will be approved and even if so, whether it will be on time.</source>
+  <target xml:lang="en-US">For larger budget requests, it will be processed like any other Reps budget request and there is no guarantee it will be approved and even if so, whether it will be on time.</target>
+</trans-unit>
+    </body>
+ </file>
+</xliff>

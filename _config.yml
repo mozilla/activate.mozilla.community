@@ -19,6 +19,7 @@ github_username:  mozilla
 markdown: kramdown
 
 include: ['_pages']
+exclude: ['locales']
 
 gems:
   - jekyll-redirect-from

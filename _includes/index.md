@@ -31,8 +31,8 @@ In order for the web to stay open and accessible to all people need to feel safe
 {: .col-md-4}
 <a class="btn btn-default" href="/activities/#protect-the-web" role="button">Learn more</a>
 
-{: .clearfix}
-&nbsp;
+{: .clear}
+_
 
 {: .center}
 _Are you interested in other areas? Check [our roadmap](/roadmap/) to see what's coming soon._

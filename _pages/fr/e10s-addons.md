@@ -23,7 +23,7 @@ Millions of Firefox users have installed add-ons directly from the [Featured Add
 
 __Impact:__
 
-* 55 featured add-ons, with <100k users, are tested
+* 55 featured add-ons, with &lt;100k users, are tested
 * 400 individual add-on tests
 
 __Strength:__
