@@ -46,9 +46,9 @@ Help us build community around the A-Frame library by conducting a mobilizing / 
 2. Choose a date and secure a venue
 3. Setup the event on Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting)). [Find a Rep](https://reps.mozilla.org/people/) closeby to do this if you are not one.
 4. Give a thought whether it will be self-facilitated or with someone who has A-Frame experience. You can find help on the [Mozilla VR Telegram group](https://telegram.me/MozillaVR) or the [A-Frame Slack channel](https://aframevr-slack.herokuapp.com/)
-5. Create an event page on a platform popular in your locale, such as Facebook or Meetup.com, and keep posting interesting information about WebVR & related topics to keep continue the conversation
+5. Create an event page on a platform popular in your locale, such as Facebook or Meetup.com, and keep posting interesting information about WebVR &amp; related topics to keep continue the conversation
 6. Download and customize the [A-Frame Presentation Kit](https://github.com/aframevr/aframe-presentation-kit)
-7. Create a few scenes for demo & prototyping purposes. You can find examples on [awesome-aframe](https://github.com/aframevr/awesome-aframe)
+7. Create a few scenes for demo &amp; prototyping purposes. You can find examples on [awesome-aframe](https://github.com/aframevr/awesome-aframe)
 8. Acquire headsets to use and demo. Google Cardboard can be acquired in some locations for less than $5 a set. We recommend 5 headsets for an event of 20-30 people. You can request budget of up to $50 maximum for these headsets but you will have to buy them yourself.
 
 ### 1 Week Before the Event
@@ -68,12 +68,12 @@ This is how you can break up a 4 hour event format. You can try to shorten some 
 
 * Introduction of speakers and attendees with an ice breaker session (e.g., [catch the ball](http://businessmajors.about.com/od/icebreakers/a/Icebreaker8.htm))
 * About [Mozilla’s mission](https://www.mozilla.org/mission/) as a non-profit and community-focused organization.
-* About [VR, WebVR & A-Frame](https://gurumukhi.wordpress.com/2016/09/21/a-frame-for-vr-development-on-web/)
+* About [VR, WebVR &amp; A-Frame](https://gurumukhi.wordpress.com/2016/09/21/a-frame-for-vr-development-on-web/)
 * Quickly note social tags: #MozActivate, #WebVRCamp, @mozillavr
 
 ### A-Frame [Concepts](https://aframe.io/docs/0.3.0/introduction/) (30 minutes)
 
-* [Demo](http://aframe.io/examples) of basic A-Frame scenes & apps. More examples at [A Week of A-Frame](https://aframe.io/blog/)
+* [Demo](http://aframe.io/examples) of basic A-Frame scenes &amp; apps. More examples at [A Week of A-Frame](https://aframe.io/blog/)
 * Show off [A-Painter](https://blog.mozvr.com/a-painter/)
 * Introduce HTML tags. If audience is more technical, also introduce the [entity-component-system pattern](https://aframe.io/docs/0.3.0/introduction/#entity-component-system)
 
@@ -91,7 +91,7 @@ This is how you can break up a 4 hour event format. You can try to shorten some 
 
 * Improve your VR experience or build something else using more advanced concepts
 
-### Review & Plan (30 minutes)
+### Review &amp; Plan (30 minutes)
 
 * Review the whole event
 * Talk about [A-Frame community](http://aframe.io/community/). Don’t forget to mention if you have a separate communication medium to connect with the local WebVR community (e.g., WebVR-India telegram group)

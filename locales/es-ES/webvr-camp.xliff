@@ -142,7 +142,7 @@ parent: activities</source>
   <target xml:lang="es-ES"></target>
 </trans-unit>
 <trans-unit id="33">
-  <source xml:lang="en-US">Create an event page on a platform popular in your locale, such as Facebook or Meetup.com, and keep posting interesting information about WebVR & related topics to keep continue the conversation</source>
+  <source xml:lang="en-US">Create an event page on a platform popular in your locale, such as Facebook or Meetup.com, and keep posting interesting information about WebVR &amp; related topics to keep continue the conversation</source>
   <target xml:lang="es-ES"></target>
 </trans-unit>
 <trans-unit id="34">
@@ -150,7 +150,7 @@ parent: activities</source>
   <target xml:lang="es-ES"></target>
 </trans-unit>
 <trans-unit id="35">
-  <source xml:lang="en-US">Create a few scenes for demo & prototyping purposes.</source>
+  <source xml:lang="en-US">Create a few scenes for demo &amp; prototyping purposes.</source>
   <target xml:lang="es-ES"></target>
 </trans-unit>
 <trans-unit id="36">
@@ -230,7 +230,7 @@ parent: activities</source>
   <target xml:lang="es-ES"></target>
 </trans-unit>
 <trans-unit id="55">
-  <source xml:lang="en-US">About <bpt id="l2">[</bpt>VR, WebVR & A-Frame<ept id="l2">]</ept><bpt id="l3">(</bpt>https://gurumukhi.wordpress.com/2016/09/21/a-frame-for-vr-development-on-web/<ept id="l3">)</ept></source>
+  <source xml:lang="en-US">About <bpt id="l2">[</bpt>VR, WebVR &amp; A-Frame<ept id="l2">]</ept><bpt id="l3">(</bpt>https://gurumukhi.wordpress.com/2016/09/21/a-frame-for-vr-development-on-web/<ept id="l3">)</ept></source>
   <target xml:lang="es-ES"></target>
 </trans-unit>
 <trans-unit id="56">
@@ -242,7 +242,7 @@ parent: activities</source>
   <target xml:lang="es-ES"></target>
 </trans-unit>
 <trans-unit id="58">
-  <source xml:lang="en-US"><bpt id="l1">[</bpt>Demo<ept id="l1">]</ept><bpt id="l2">(</bpt>http://aframe.io/examples<ept id="l2">)</ept> of basic A-Frame scenes & apps.</source>
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>Demo<ept id="l1">]</ept><bpt id="l2">(</bpt>http://aframe.io/examples<ept id="l2">)</ept> of basic A-Frame scenes &amp; apps.</source>
   <target xml:lang="es-ES"></target>
 </trans-unit>
 <trans-unit id="59">
@@ -294,7 +294,7 @@ parent: activities</source>
   <target xml:lang="es-ES"></target>
 </trans-unit>
 <trans-unit id="71">
-  <source xml:lang="en-US">Review & Plan (30 minutes)</source>
+  <source xml:lang="en-US">Review &amp; Plan (30 minutes)</source>
   <target xml:lang="es-ES"></target>
 </trans-unit>
 <trans-unit id="72">
