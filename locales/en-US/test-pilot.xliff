@@ -130,8 +130,8 @@ parent: activities</target>
   <target xml:lang="en-US">Event Flow</target>
 </trans-unit>
 <trans-unit id="29">
-  <source xml:lang="en-US"><bpt id="l1">[</bpt>Install Test Pilot<ept id="l1">]</ept><bpt id="l2">(</bpt>http://testpilot.firefox.com/experiments?utm_source=activity.mozilla.community&amp;utm_medium=referral&amp;utm_campaign=moz-community-2016<ept id="l2">)</ept></source>
-  <target xml:lang="en-US">[Install Test Pilot](http://testpilot.firefox.com/experiments?utm_source=activity.mozilla.community&amp;utm_medium=referral&amp;utm_campaign=moz-community-2016)</target>
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>Install Test Pilot<ept id="l1">]</ept><bpt id="l2">(</bpt>http://testpilot.firefox.com/experiments?utm_source=activity.mozilla.community%26utm_medium=referral%26utm_campaign=moz-community-2016<ept id="l2">)</ept></source>
+  <target xml:lang="en-US">[Install Test Pilot](http://testpilot.firefox.com/experiments?utm_source=activity.mozilla.community%26utm_medium=referral%26utm_campaign=moz-community-2016)</target>
 </trans-unit>
 <trans-unit id="30">
   <source xml:lang="en-US">Enable and test features</source>

@@ -40,7 +40,7 @@ While this activity can be run solo, we encourage you to run an event in your co
 
 ## Event Flow
 
-* [Install Test Pilot](http://testpilot.firefox.com/experiments?utm_source=activity.mozilla.community&utm_medium=referral&utm_campaign=moz-community-2016)
+* [Install Test Pilot](http://testpilot.firefox.com/experiments?utm_source=activity.mozilla.community%26utm_medium=referral%26utm_campaign=moz-community-2016)
 * Enable and test features
 * Provide feedback via the add-on
 * Start a discussion on [Discourse](https://discourse.mozilla-community.org/c/test-pilot)
