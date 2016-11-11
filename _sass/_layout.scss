@@ -259,6 +259,26 @@
         strong {
             display: block;
         }
+
+        &.text-muted {
+            strong::after {
+                content: "retired";
+                margin-left: 5px;
+                margin-top: -2px;
+                background-color: #aaa;
+                padding: .1em .5em;
+                font-size: .75em;
+                color: #fff;
+                text-align: center;
+                white-space: nowrap;
+                vertical-align: baseline;
+                border-radius: .25em;
+            }
+
+            a {
+                opacity: 0.7;
+            }
+        }
     }
 
 }
@@ -343,6 +363,11 @@
 .clear {
     clear:both;
     color: transparent;
+}
+
+.retired {
+    padding: 15px;
+    background-color: #f2dede;
 }
 
 
