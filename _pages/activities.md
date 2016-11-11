@@ -30,14 +30,14 @@ In order to use and build the web as a global public resource people must have t
 _
 
 {: .activity}
-**e10s and Featured Add-ons**
-With the emergence of multiprocess Firefox (e10s), we need to ensure featured add-ons on the Mozilla Add-ons site meet the highest levels of browser compatibility and functionality. Help us test these add-ons so that e10s can be rolled out to more of our millions of users.
-[Find out more](/e10s-addons/).
-
-{: .activity}
 **Install Test Pilot**
 When building features for hundreds of millions of Firefox users worldwide, it’s important to get them right. Help us figure out which features should ship and how they should work. Install Test Pilot and give us feedback.
 [Find out more](/test-pilot/).
+
+{: .activity .text-muted}
+**e10s and Featured Add-ons**
+With the emergence of multiprocess Firefox (e10s), we need to ensure featured add-ons on the Mozilla Add-ons site meet the highest levels of browser compatibility and functionality. Help us test these add-ons so that e10s can be rolled out to more of our millions of users.
+[Find out more](/e10s-addons/).
 
 {: .clear}
 _

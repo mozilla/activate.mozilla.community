@@ -11,6 +11,9 @@ redirect_from: "/es/experiments/e10s-addons/"
 * TOC
 {:toc}
 
+{: .retired}
+This activity is retired. What this means is that we don't recommend that you run the activity at this time and you will not receive any resources to do it.
+
 Featured add-ons receive enhanced promotion on AMO, which results in greatly increased installs for this recommended content. With the emergence of multiprocess Firefox (e10s), we need to ensure these spotlighted add-ons meet the highest levels of browser compatibility and functionality.
 
 __NOTE: This activity is running only until November 4th, 2016__.
