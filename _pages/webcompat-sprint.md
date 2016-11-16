@@ -48,11 +48,11 @@ For duration, we recommend a half-day (or full evening) event with a minimum of 
 ## Event Flow
 
 * Set yourself up with Firefox. Any or all of the following versions:
-    * [Firefox Beta 49+](https://www.mozilla.org//firefox/channel/)
-    * [Firefox for Android Beta 49+](https://www.mozilla.org//firefox/channel/)
+    * [Firefox Beta 51+](https://www.mozilla.org//firefox/channel/desktop/) 
+    * [Firefox for Android Beta 51+](https://www.mozilla.org//firefox/channel/android/)
     * [Firefox for iOS](https://www.mozilla.org/firefox/ios/)
 * [Install the Webcompat.com Reporter add-on](https://addons.mozilla.org/addon/webcompatcom-reporter?src=external-activatewebcompat1)
-    * We have a mobile add-on people can install for Fennec Beta and in version 50 there will be a default "Report Site Issue" menu item in Fennec Aurora and Nightly.
+    * There is a default "Report Site Issue" menu item in any Fennec (Firefox for Android) build. For older versions of the browser (49 and lower) we have a mobile add-on people can install.
     * No add-ons support for iOS, but people can report bugs manually at [webcompat.com](https://webcompat.com)
 * Choose the sites you want to test
     * We recommend the top sites in your country, as measured by a reputable local source or using the [Alexa Top Sites by Country](http://www.alexa.com/topsites/countries) reference
