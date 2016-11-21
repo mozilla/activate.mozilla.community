@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+
+  {% include head.html %}
+
+  <link rel="stylesheet" href="/asserts/css/bootstrap-sortable.css">
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper container">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    {% include js.html %}
+    <script src="{{ "/asserts/js/moment.min.js" | prepend: site.baseurl | prepend: site.url }}"></script>
+    <script src="{{ "/asserts/js/bootstrap-sortable.js" | prepend: site.baseurl | prepend: site.url }}"></script>
+    <script src="{{ "/asserts/js/underscore-min.js" | prepend: site.baseurl | prepend: site.url }}"></script>
+    <script src="{{ "/asserts/js/leaderboard.js" | prepend: site.baseurl | prepend: site.url }}"></script>
+
+  </body>
+
+
+</html>
