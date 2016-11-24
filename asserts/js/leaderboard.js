@@ -35,20 +35,20 @@ $(document).ready(function() {
 
     get_events();
 
-    $( document ).ajaxStop(function() {
+    $(document).ajaxStop(function() {
         total_events = _
             .chain(events)
             .groupBy(function(events){ return events.owner.display_name; })
             .value();
 
         $.each(total_events, function(index, value) {
-            tbody_html += `
-                <tr>
-                  <td>
-                    <a href="${value[0].owner._url}" target="_blank">${value[0].owner.first_name} ${value[0].owner.last_name}</a>
-                  </td>
-                  <td>${value.length}</td></tr>
-            `;
+             tbody_html += `
+                 <tr>
+                   <td>
+                     <a href="https://reps.mozilla.org/u/${index}" target="_blank">${value[0].owner.first_name} ${value[0].owner.last_name}</a>
+                   </td>
+                   <td>${value.length}</td></tr>
+             `;
         });
         tbody.html(tbody_html);
 
