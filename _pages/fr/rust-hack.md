@@ -13,6 +13,10 @@ redirect_from: "/fr/developer-engagement/rust-hack/"
 
 Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. [Find out more...](https://www.rust-lang.org)
 
+<p>
+  <iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/8EPsnf_ZYU0" frameborder="0" allowfullscreen></iframe>
+</p>
+
 ## Impact and Metrics
 
 The Rust programming language will be important to the future of the web, making it safe and great. Having more developers understand, use and evangelize this language will advance make the web better and more secure.

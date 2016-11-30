@@ -13,6 +13,10 @@ redirect_from: "/pt/developer-engagement/rust-hack/"
 
 Rust é uma linguagem de programação de sistemas que funciona rapidamente, evita falha na segurança, e garante a segurança do segmento. [Encontre mais em...](https://www.rust-lang.org)
 
+<p>
+  <iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/8EPsnf_ZYU0" frameborder="0" allowfullscreen></iframe>
+</p>
+
 ## Impacto e Métricas
 
 A linguagem de programação Rust vai ser importante para o futuro da web, tornando-a segura e melhor. Tendo mais desenvolvedores entendendo, usando e evangelizando essa linguagem vai avançar fazendo a web melhor e mais segura.

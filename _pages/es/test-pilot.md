@@ -15,6 +15,10 @@ Al momento de desarrollar características para los cientos de millones de usuar
 
 [Más información...](https://blog.mozilla.org/blog/2016/05/10/you-can-help-build-the-future-of-firefox-with-the-new-test-pilot-program/)
 
+<p>
+  <iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/0NCk8h5cfFI" frameborder="0" allowfullscreen></iframe>
+</p>
+
 ## Impacto y métricas
 
 Firefox es clave en cómo Mozilla expresa sus valores y hace la Web cada vez más emocionante, en contraste a aplicaciones individuales desarrolladas tras jardines amurallados. Al poner a prueba las nuevas características y funcionalidades, ayudamos a mantener Firefox liderando en innovación y a los usuarios participando en el desarrollo de nuestro producto. Además, te da la oportunidad de ir aún más profundo con feedback e ideas específicas para Firefox.
