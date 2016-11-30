@@ -11,6 +11,16 @@ redirect_from: "/experiments/test-pilot/"
 * TOC
 {:toc}
 
+{: .label .timebox}
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 2 hours
+
+{: .clear}
+_
+
+{: .alert .alert-info .impactbox}
+<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
+By testing new features and functionality, you help to keep Firefox on the leading edge and consumers engaged in our product.
+
 When building features for hundreds of millions of Firefox users worldwide, it’s important to get them right. To help figure out which features should ship and how they should work, we created the new Test Pilot program. Test Pilot is a way for you to try out experimental features and let us know what you think. You can turn them on and off at any time, and you’ll always know what information you’re sharing to help us understand how these features are used. Of course, you can also use Test Pilot to provide feedback and suggestions to the teams behind each new feature.
 
 [More info...](https://blog.mozilla.org/blog/2016/05/10/you-can-help-build-the-future-of-firefox-with-the-new-test-pilot-program/)
