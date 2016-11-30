@@ -40,7 +40,7 @@ Your audience for this event should be anyone interested in virtual reality incl
 
 Help us build community around the A-Frame library by conducting a mobilizing / learning event for 20-30 contributors.
 
-### 2-4 Weeks Before the Event
+**2-4 Weeks Before the Event**
 
 1. Put an event team together
 2. Choose a date and secure a venue
@@ -51,7 +51,7 @@ Help us build community around the A-Frame library by conducting a mobilizing / 
 7. Create a few scenes for demo &amp; prototyping purposes. You can find examples on [awesome-aframe](https://github.com/aframevr/awesome-aframe)
 8. Acquire headsets to use and demo. Google Cardboard can be acquired in some locations for less than $5 a set. We recommend 5 headsets for an event of 20-30 people. You can request budget of up to $50 maximum for these headsets but you will have to buy them yourself.
 
-### 1 Week Before the Event
+**1 Week Before the Event**
 
 1. Confirmed selected attendees through email.
 2. Distribute the following list of tasks to do before event:
@@ -64,34 +64,34 @@ Help us build community around the A-Frame library by conducting a mobilizing / 
 
 This is how you can break up a 4 hour event format. You can try to shorten some sections if you want to do it quicker.
 
-### Getting Started (30 minutes)
+**Getting Started (30 minutes)**
 
 * Introduction of speakers and attendees with an ice breaker session (e.g., [catch the ball](http://businessmajors.about.com/od/icebreakers/a/Icebreaker8.htm))
 * About [Mozilla’s mission](https://www.mozilla.org/mission/) as a non-profit and community-focused organization.
 * About [VR, WebVR &amp; A-Frame](https://gurumukhi.wordpress.com/2016/09/21/a-frame-for-vr-development-on-web/)
 * Quickly note social tags: #MozActivate, #WebVRCamp, @mozillavr
 
-### A-Frame [Concepts](https://aframe.io/docs/0.3.0/introduction/) (30 minutes)
+**A-Frame [Concepts](https://aframe.io/docs/0.3.0/introduction/) (30 minutes)**
 
 * [Demo](http://aframe.io/examples) of basic A-Frame scenes &amp; apps. More examples at [A Week of A-Frame](https://aframe.io/blog/)
 * Show off [A-Painter](https://blog.mozvr.com/a-painter/)
 * Introduce HTML tags. If audience is more technical, also introduce the [entity-component-system pattern](https://aframe.io/docs/0.3.0/introduction/#entity-component-system)
 
-### Time to Hack (1 hour)
+**Time to Hack (1 hour)**
 
 * Propose your idea of VR experiences to build
 * Can get started with [Codepen](http://codepen.io/mozvr/pen/BjygdO) or the [Boilerplate](https://github.com/aframevr/aframe-boilerplate)
     * For the boilerplate, we recommend using a local server such as [Mongoose](https://www.cesanta.com/products/binary) or through Node.js.
 
-### More About A-Frame (30 minutes)
+**More About A-Frame (30 minutes)**
 
 * A-Frame in depth (e.g., demo of advanced scenes, how are they built, using community components)
 
-### Continue Hacking (1 hour)
+** Continue Hacking (1 hour)**
 
 * Improve your VR experience or build something else using more advanced concepts
 
-### Review &amp; Plan (30 minutes)
+**Review &amp; Plan (30 minutes)**
 
 * Review the whole event
 * Talk about [A-Frame community](http://aframe.io/community/). Don’t forget to mention if you have a separate communication medium to connect with the local WebVR community (e.g., WebVR-India telegram group)
