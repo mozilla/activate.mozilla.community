@@ -11,6 +11,16 @@ redirect_from: "/developer-engagement/webcompat-sprint/"
 * TOC
 {:toc}
 
+{: .label .timebox}
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 2-3 hours
+
+{: .clear}
+_
+
+{: .alert .alert-info .impactbox}
+<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
+At Mozilla, we want the web running well for everyone, not just in one or two browsers. This means cross-browser, user-agent independent, and cross-device.
+
 Web Compatibility, the ability for all Web content to run in all browsers, is important. There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired.
 
 For more background and data on Web Compatibility, read the [recent blog post on Mozilla Hacks](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/).

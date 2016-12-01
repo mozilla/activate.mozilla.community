@@ -287,6 +287,38 @@
         }
     }
 
+    .timebox {
+        margin: 0 0 0 270px;
+        display: inline-block;
+        border-width: 0 0 0 2px;
+        padding: 10px 12px 10px 12px;
+        background-size: 18px;
+        background-position: 8px center;
+        background-repeat: no-repeat;
+        width: auto;
+        color: #3fb58e;
+        background: #caf6e6;
+        border-left: solid 2px #3fb58e;
+        float: left;
+    }
+
+    .impactbox {
+        padding: 10px;
+        border-left: solid 2px #31708f;
+    }
+
+    @media all and (max-width: 991px) {
+        .timebox {
+            margin-left: 260px;
+        }
+    }
+
+    @media all and (max-width: 768px) {
+        .timebox {
+            margin-left: 0;
+        }
+    }
+
 }
 
 .page-heading, .home h1 {
@@ -367,8 +399,9 @@
 }
 
 .clear {
-    clear:both;
+    clear: both;
     color: transparent;
+    margin-bottom: 0;
 }
 
 .retired {
@@ -428,7 +461,7 @@
     }
 }
 
-@media all and (max-width: 992px) {
+@media all and (max-width: 991px) {
     .post-content > h2,
     .post-content > h3,
     .post-content > p,

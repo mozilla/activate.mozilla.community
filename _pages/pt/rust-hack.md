@@ -11,6 +11,16 @@ redirect_from: "/pt/developer-engagement/rust-hack/"
 * TOC
 {:toc}
 
+{: .label .timebox}
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 2-3 hours
+
+{: .clear}
+_
+
+{: .alert .alert-info .impactbox}
+<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
+Having more developers understand, use and evangelize this language will advance make the web better and more secure.
+
 Rust é uma linguagem de programação de sistemas que funciona rapidamente, evita falha na segurança, e garante a segurança do segmento. [Encontre mais em...](https://www.rust-lang.org)
 
 <p>
