@@ -3,6 +3,7 @@ layout: default
 title:  "Cronograma"
 permalink: /pt/roadmap/
 lang: pt
+pdir: ltr
 ref: roadmap
 ---
 

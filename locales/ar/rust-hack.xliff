@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="../../_pages/rust-hack.md" source-language="en-US" target-language="ar" datatype="markdown">
+    <header>
+      <skl>
+        <external-file href="rust-hack.skl.md"/>
+      </skl>
+    </header>
+    <body>
+<trans-unit id="1">
+  <source xml:lang="en-US">layout: page
+title:  "Dive Into Rust"
+permalink: /rust-hack/
+lang: en
+ref: rust-hack
+parent: activities</source>
+  <target xml:lang="ar">layout: page
+title:  "Dive Into Rust"
+permalink: /rust-hack/
+lang: ar
+ref: rust-hack
+parent: activities</target>
+</trans-unit>
+<trans-unit id="2">
+  <source xml:lang="en-US">redirect_from: "/developer-engagement/rust-hack/"</source>
+  <target xml:lang="ar">redirect_from: "/developer-engagement/rust-hack/"</target>
+</trans-unit>
+<trans-unit id="3">
+  <source xml:lang="en-US">TOC</source>
+  <target xml:lang="ar">TOC</target>
+</trans-unit>
+<trans-unit id="4">
+  <source xml:lang="en-US">{:toc}</source>
+  <target xml:lang="ar">{:toc}</target>
+</trans-unit>
+<trans-unit id="5">
+  <source xml:lang="en-US">Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.</source>
+  <target xml:lang="ar">Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.</target>
+</trans-unit>
+<trans-unit id="6">
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>Find out more...<ept id="l1">]</ept><bpt id="l2">(</bpt>https://www.rust-lang.org<ept id="l2">)</ept></source>
+  <target xml:lang="ar">[Find out more...](https://www.rust-lang.org)</target>
+</trans-unit>
+<trans-unit id="7">
+  <source xml:lang="en-US">Impact and Metrics</source>
+  <target xml:lang="ar">Impact and Metrics</target>
+</trans-unit>
+<trans-unit id="8">
+  <source xml:lang="en-US">The Rust programming language will be important to the future of the web, making it safe and great.</source>
+  <target xml:lang="ar">The Rust programming language will be important to the future of the web, making it safe and great.</target>
+</trans-unit>
+<trans-unit id="9">
+  <source xml:lang="en-US">Having more developers understand, use and evangelize this language will advance make the web better and more secure.</source>
+  <target xml:lang="ar">Having more developers understand, use and evangelize this language will advance make the web better and more secure.</target>
+</trans-unit>
+<trans-unit id="10">
+  <source xml:lang="en-US">Rust will also be used extensively for Mozilla projects -- including this year as Servo (written in Rust) is advanced even further, and parts of it are moved into Gecko/Firefox.</source>
+  <target xml:lang="ar">Rust will also be used extensively for Mozilla projects -- including this year as Servo (written in Rust) is advanced even further, and parts of it are moved into Gecko/Firefox.</target>
+</trans-unit>
+<trans-unit id="11">
+  <source xml:lang="en-US">Having more Mozilla contributors know Rust will give them a chance to contribute to the most exciting and important technical projects coming up for Mozilla.</source>
+  <target xml:lang="ar">Having more Mozilla contributors know Rust will give them a chance to contribute to the most exciting and important technical projects coming up for Mozilla.</target>
+</trans-unit>
+<trans-unit id="12">
+  <source xml:lang="en-US">Goals for this area</source>
+  <target xml:lang="ar">Goals for this area</target>
+</trans-unit>
+<trans-unit id="13">
+  <source xml:lang="en-US"><bpt id="1">__</bpt>Impact:<ept id="1">__</ept></source>
+  <target xml:lang="ar">__Impact:__</target>
+</trans-unit>
+<trans-unit id="14">
+  <source xml:lang="en-US">1,000 programmers/developers are introduced to and are well on their way to learning Rust</source>
+  <target xml:lang="ar">1,000 programmers/developers are introduced to and are well on their way to learning Rust</target>
+</trans-unit>
+<trans-unit id="15">
+  <source xml:lang="en-US">10 blog posts about events or other local Rust activities</source>
+  <target xml:lang="ar">10 blog posts about events or other local Rust activities</target>
+</trans-unit>
+<trans-unit id="16">
+  <source xml:lang="en-US"><bpt id="1">__</bpt>Strength:<ept id="1">__</ept></source>
+  <target xml:lang="ar">__Strength:__</target>
+</trans-unit>
+<trans-unit id="17">
+  <source xml:lang="en-US">50 Mozillians organize Rust Hack and Learn events</source>
+  <target xml:lang="ar">50 Mozillians organize Rust Hack and Learn events</target>
+</trans-unit>
+<trans-unit id="18">
+  <source xml:lang="en-US">50 new people signed up to <bpt id="l2">[</bpt>Rust developer list<ept id="l2">]</ept><bpt id="l3">(</bpt>https://users.rust-lang.org<ept id="l3">)</ept></source>
+  <target xml:lang="ar">50 new people signed up to [Rust developer list](https://users.rust-lang.org)</target>
+</trans-unit>
+<trans-unit id="19">
+  <source xml:lang="en-US">Audience for this activity</source>
+  <target xml:lang="ar">Audience for this activity</target>
+</trans-unit>
+<trans-unit id="20">
+  <source xml:lang="en-US">Your audience for this event should be <bpt id="2">**</bpt>programmers and developers<ept id="2">**</ept>.</source>
+  <target xml:lang="ar">Your audience for this event should be **programmers and developers**.</target>
+</trans-unit>
+<trans-unit id="21">
+  <source xml:lang="en-US">Focus on people who are technical and already know languages like C or Python or other similar languages.</source>
+  <target xml:lang="ar">Focus on people who are technical and already know languages like C or Python or other similar languages.</target>
+</trans-unit>
+<trans-unit id="22">
+  <source xml:lang="en-US">Activity Format</source>
+  <target xml:lang="ar">Activity Format</target>
+</trans-unit>
+<trans-unit id="23">
+  <source xml:lang="en-US">Get your community behind this exciting new programming language by running a learning event.</source>
+  <target xml:lang="ar">Get your community behind this exciting new programming language by running a learning event.</target>
+</trans-unit>
+<trans-unit id="24">
+  <source xml:lang="en-US">Put an event team together</source>
+  <target xml:lang="ar">Put an event team together</target>
+</trans-unit>
+<trans-unit id="25">
+  <source xml:lang="en-US">Choose a date and secure a venue</source>
+  <target xml:lang="ar">Choose a date and secure a venue</target>
+</trans-unit>
+<trans-unit id="26">
+  <source xml:lang="en-US">Choose whether this will be self-facilitated or with someone who has Rust experience (see below)</source>
+  <target xml:lang="ar">Choose whether this will be self-facilitated or with someone who has Rust experience (see below)</target>
+</trans-unit>
+<trans-unit id="27">
+  <source xml:lang="en-US">Setup the event on Reps Portal (<bpt id="l2">[</bpt>instructions<ept id="l2">]</ept><bpt id="l3">(</bpt>https://wiki.mozilla.org/ReMo/SOPs/Event_hosting<ept id="l3">)</ept>)</source>
+  <target xml:lang="ar">Setup the event on Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting))</target>
+</trans-unit>
+<trans-unit id="28">
+  <source xml:lang="en-US">For duration, we recommend a half-day (or full evening) event with a minimum of 15-25 attendees.</source>
+  <target xml:lang="ar">For duration, we recommend a half-day (or full evening) event with a minimum of 15-25 attendees.</target>
+</trans-unit>
+<trans-unit id="29">
+  <source xml:lang="en-US">There are two options for facilitation:</source>
+  <target xml:lang="ar">There are two options for facilitation:</target>
+</trans-unit>
+<trans-unit id="30">
+  <source xml:lang="en-US">Ask a person with experience with Rust to attend and provide guidance to attendees.</source>
+  <target xml:lang="ar">Ask a person with experience with Rust to attend and provide guidance to attendees.</target>
+</trans-unit>
+<trans-unit id="31">
+  <source xml:lang="en-US">There are a few ways to try to find local Rust experts to invite:</source>
+  <target xml:lang="ar">There are a few ways to try to find local Rust experts to invite:</target>
+</trans-unit>
+<trans-unit id="32">
+  <source xml:lang="en-US">Reach out to the <bpt id="l2">[</bpt>Community Team<ept id="l2">]</ept><bpt id="l3">(</bpt>https://www.rust-lang.org/en-US/team.html#Community-team<ept id="l3">)</ept> - community-team <bpt id="4">[</bpt>at<ept id="4">]</ept> rust-lang <bpt id="6">[</bpt>dot<ept id="6">]</ept> org - they know the most active people in most regions.</source>
+  <target xml:lang="ar">Reach out to the [Community Team](https://www.rust-lang.org/en-US/team.html#Community-team) - community-team [at] rust-lang [dot] org - they know the most active people in most regions.</target>
+</trans-unit>
+<trans-unit id="33">
+  <source xml:lang="en-US">Via the <bpt id="l2">[</bpt>user groups<ept id="l2">]</ept><bpt id="l3">(</bpt>https://www.rust-lang.org/en-US/user-groups.html<ept id="l3">)</ept></source>
+  <target xml:lang="ar">Via the [user groups](https://www.rust-lang.org/en-US/user-groups.html)</target>
+</trans-unit>
+<trans-unit id="34">
+  <source xml:lang="en-US">At <bpt id="l2">[</bpt>rustaceans.org<ept id="l2">]</ept><bpt id="l3">(</bpt>http://www.rustaceans.org/<ept id="l3">)</ept></source>
+  <target xml:lang="ar">At [rustaceans.org](http://www.rustaceans.org/)</target>
+</trans-unit>
+<trans-unit id="35">
+  <source xml:lang="en-US">If the facilitators have little or no Rust experience, turn it into a learning session for everyone, where you go through the steps together.</source>
+  <target xml:lang="ar">If the facilitators have little or no Rust experience, turn it into a learning session for everyone, where you go through the steps together.</target>
+</trans-unit>
+<trans-unit id="36">
+  <source xml:lang="en-US">Some Mozillians have already done such sessions.</source>
+  <target xml:lang="ar">Some Mozillians have already done such sessions.</target>
+</trans-unit>
+<trans-unit id="37">
+  <source xml:lang="en-US">For example our <bpt id="l2">[</bpt>Community Spaces<ept id="l2">]</ept><bpt id="l3">(</bpt>https://wiki.mozilla.org/Participation/Community_Spaces<ept id="l3">)</ept> have, so you can reach out the them to ask for some guidance.</source>
+  <target xml:lang="ar">For example our [Community Spaces](https://wiki.mozilla.org/Participation/Community_Spaces) have, so you can reach out the them to ask for some guidance.</target>
+</trans-unit>
+<trans-unit id="38">
+  <source xml:lang="en-US">Event Flow</source>
+  <target xml:lang="ar">Event Flow</target>
+</trans-unit>
+<trans-unit id="39">
+  <source xml:lang="en-US">Install Rust</source>
+  <target xml:lang="ar">Install Rust</target>
+</trans-unit>
+<trans-unit id="40">
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>rustup<ept id="l1">]</ept><bpt id="l2">(</bpt>https://www.rustup.rs<ept id="l2">)</ept> - recommended</source>
+  <target xml:lang="ar">[rustup](https://www.rustup.rs) - recommended</target>
+</trans-unit>
+<trans-unit id="41">
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>Rust downloads<ept id="l1">]</ept><bpt id="l2">(</bpt>https://www.rust-lang.org/downloads.html<ept id="l2">)</ept> (alternative)</source>
+  <target xml:lang="ar">[Rust downloads](https://www.rust-lang.org/downloads.html) (alternative)</target>
+</trans-unit>
+<trans-unit id="42">
+  <source xml:lang="en-US">Read the <bpt id="l2">[</bpt>Rust book<ept id="l2">]</ept><bpt id="l3">(</bpt>https://doc.rust-lang.org/stable/book/<ept id="l3">)</ept></source>
+  <target xml:lang="ar">Read the [Rust book](https://doc.rust-lang.org/stable/book/)</target>
+</trans-unit>
+<trans-unit id="43">
+  <source xml:lang="en-US">Complete the <bpt id="l2">[</bpt>Rustlings<ept id="l2">]</ept><bpt id="l3">(</bpt>https://github.com/carols10cents/rustlings<ept id="l3">)</ept> (a great beginners course!)</source>
+  <target xml:lang="ar">Complete the [Rustlings](https://github.com/carols10cents/rustlings) (a great beginners course!)</target>
+</trans-unit>
+<trans-unit id="44">
+  <source xml:lang="en-US">Some projects with great first bugs:</source>
+  <target xml:lang="ar">Some projects with great first bugs:</target>
+</trans-unit>
+<trans-unit id="45">
+  <source xml:lang="en-US">The Rust language and compiler</source>
+  <target xml:lang="ar">The Rust language and compiler</target>
+</trans-unit>
+<trans-unit id="46">
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>Labeled easy<ept id="l1">]</ept><bpt id="l2">(</bpt>https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy<ept id="l2">)</ept></source>
+  <target xml:lang="ar">[Labeled easy](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy)</target>
+</trans-unit>
+<trans-unit id="47">
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>Labeled mentor<ept id="l1">]</ept><bpt id="l2">(</bpt>https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-mentor<ept id="l2">)</ept></source>
+  <target xml:lang="ar">[Labeled mentor](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-mentor)</target>
+</trans-unit>
+<trans-unit id="48">
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>clippy - the popular Rust static analysis tool<ept id="l1">]</ept><bpt id="l2">(</bpt>https://github.com/Manishearth/rust-clippy<ept id="l2">)</ept></source>
+  <target xml:lang="ar">[clippy - the popular Rust static analysis tool](https://github.com/Manishearth/rust-clippy)</target>
+</trans-unit>
+<trans-unit id="49">
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>Cargo - Rust’s package manager<ept id="l1">]</ept><bpt id="l2">(</bpt>https://github.com/rust-lang/cargo/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy<ept id="l2">)</ept></source>
+  <target xml:lang="ar">[Cargo - Rust’s package manager](https://github.com/rust-lang/cargo/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy)</target>
+</trans-unit>
+<trans-unit id="50">
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>rustfmt - the Rust source code formatting tool<ept id="l1">]</ept><bpt id="l2">(</bpt>https://github.com/rust-lang-nursery/rustfmt/issues<ept id="l2">)</ept></source>
+  <target xml:lang="ar">[rustfmt - the Rust source code formatting tool](https://github.com/rust-lang-nursery/rustfmt/issues)</target>
+</trans-unit>
+<trans-unit id="51">
+  <source xml:lang="en-US">Though some are without clear instructions, the domain is easy to understand (it's mostly manipulating strings), and potentially engaging.</source>
+  <target xml:lang="ar">Though some are without clear instructions, the domain is easy to understand (it's mostly manipulating strings), and potentially engaging.</target>
+</trans-unit>
+<trans-unit id="52">
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>rustup - the Rust installer<ept id="l1">]</ept><bpt id="l2">(</bpt>https://github.com/rust-lang-nursery/rustup.rs/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22<ept id="l2">)</ept></source>
+  <target xml:lang="ar">[rustup - the Rust installer](https://github.com/rust-lang-nursery/rustup.rs/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)</target>
+</trans-unit>
+<trans-unit id="53">
+  <source xml:lang="en-US">Rust documentation</source>
+  <target xml:lang="ar">Rust documentation</target>
+</trans-unit>
+<trans-unit id="54">
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>Labeled easy<ept id="l1">]</ept><bpt id="l2">(</bpt>https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AA-docs+label%3AE-easy<ept id="l2">)</ept></source>
+  <target xml:lang="ar">[Labeled easy](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AA-docs+label%3AE-easy)</target>
+</trans-unit>
+<trans-unit id="55">
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>Standard library API docs<ept id="l1">]</ept><bpt id="l2">(</bpt>https://github.com/rust-lang/rust/issues/29329<ept id="l2">)</ept></source>
+  <target xml:lang="ar">[Standard library API docs](https://github.com/rust-lang/rust/issues/29329)</target>
+</trans-unit>
+<trans-unit id="56">
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>This Week in Rust<ept id="l1">]</ept><bpt id="l2">(</bpt>https://this-week-in-rust.org/<ept id="l2">)</ept> also publishes a call for participation each week with hot contribution ideas.</source>
+  <target xml:lang="ar">[This Week in Rust](https://this-week-in-rust.org/) also publishes a call for participation each week with hot contribution ideas.</target>
+</trans-unit>
+<trans-unit id="57">
+  <source xml:lang="en-US">Other Resources</source>
+  <target xml:lang="ar">Other Resources</target>
+</trans-unit>
+<trans-unit id="58">
+  <source xml:lang="en-US">Tutorials</source>
+  <target xml:lang="ar">Tutorials</target>
+</trans-unit>
+<trans-unit id="59">
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>Niko Matsakis's excellent slide deck<ept id="l1">]</ept><bpt id="l2">(</bpt>https://github.com/nikomatsakis/rust-tutorials-keynote<ept id="l2">)</ept></source>
+  <target xml:lang="ar">[Niko Matsakis's excellent slide deck](https://github.com/nikomatsakis/rust-tutorials-keynote)</target>
+</trans-unit>
+<trans-unit id="60">
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>Exercises to accompany that deck<ept id="l1">]</ept><bpt id="l2">(</bpt>https://github.com/nikomatsakis/rust-tutorializer<ept id="l2">)</ept></source>
+  <target xml:lang="ar">[Exercises to accompany that deck](https://github.com/nikomatsakis/rust-tutorializer)</target>
+</trans-unit>
+<trans-unit id="61">
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>A screencast from Niko on ownership and borrowing<ept id="l1">]</ept><bpt id="l2">(</bpt>https://www.youtube.com/watch?v=TCUBSbJENO4<ept id="l2">)</ept></source>
+  <target xml:lang="ar">[A screencast from Niko on ownership and borrowing](https://www.youtube.com/watch?v=TCUBSbJENO4)</target>
+</trans-unit>
+<trans-unit id="62">
+  <source xml:lang="en-US">Output</source>
+  <target xml:lang="ar">Output</target>
+</trans-unit>
+<trans-unit id="63">
+  <source xml:lang="en-US">Additional to the recommended event flow here are some things we’d like you, the event organizer, to do.</source>
+  <target xml:lang="ar">Additional to the recommended event flow here are some things we’d like you, the event organizer, to do.</target>
+</trans-unit>
+<trans-unit id="64">
+  <source xml:lang="en-US">Fill out the post-event metrics on the event page you setup on the Reps portal</source>
+  <target xml:lang="ar">Fill out the post-event metrics on the event page you setup on the Reps portal</target>
+</trans-unit>
+<trans-unit id="65">
+  <source xml:lang="en-US">Optionally, tell us about your event.</source>
+  <target xml:lang="ar">Optionally, tell us about your event.</target>
+</trans-unit>
+<trans-unit id="66">
+  <source xml:lang="en-US">This can be before or after.</source>
+  <target xml:lang="ar">This can be before or after.</target>
+</trans-unit>
+<trans-unit id="67">
+  <source xml:lang="en-US">We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two!</source>
+  <target xml:lang="ar">We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two!</target>
+</trans-unit>
+<trans-unit id="68">
+  <source xml:lang="en-US">This will also be instructional and inspirational to others who might do the event.</source>
+  <target xml:lang="ar">This will also be instructional and inspirational to others who might do the event.</target>
+</trans-unit>
+<trans-unit id="69">
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>Here is the Discourse post to write to<ept id="l1">]</ept><bpt id="l2">(</bpt>https://discourse.mozilla-community.org/t/activate-mozilla-dive-into-rust/10073/1<ept id="l2">)</ept></source>
+  <target xml:lang="ar">[Here is the Discourse post to write to](https://discourse.mozilla-community.org/t/activate-mozilla-dive-into-rust/10073/1)</target>
+</trans-unit>
+<trans-unit id="70">
+  <source xml:lang="en-US">Extra</source>
+  <target xml:lang="ar">Extra</target>
+</trans-unit>
+<trans-unit id="71">
+  <source xml:lang="en-US">While the focus of this activity should be on these events, there are other ways to stay more involved with the Rust community after.</source>
+  <target xml:lang="ar">While the focus of this activity should be on these events, there are other ways to stay more involved with the Rust community after.</target>
+</trans-unit>
+<trans-unit id="72">
+  <source xml:lang="en-US">Follow up with attendees to highlight <bpt id="l2">[</bpt>more things happening in the community to get involved with<ept id="l2">]</ept><bpt id="l3">(</bpt>https://www.rust-lang.org/en-US/community.html<ept id="l3">)</ept></source>
+  <target xml:lang="ar">Follow up with attendees to highlight [more things happening in the community to get involved with](https://www.rust-lang.org/en-US/community.html)</target>
+</trans-unit>
+    </body>
+ </file>
+</xliff>

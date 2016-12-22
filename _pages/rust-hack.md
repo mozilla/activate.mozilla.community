@@ -3,6 +3,7 @@ layout: page
 title:  "Dive Into Rust"
 permalink: /rust-hack/
 lang: en
+pdir: ltr
 ref: rust-hack
 parent: activities
 redirect_from: "/developer-engagement/rust-hack/"

@@ -3,6 +3,7 @@ layout: page
 title:  "e10s and Featured Add-ons"
 permalink: /es/e10s-addons/
 lang: es
+pdir: ltr
 ref: e10s-addons
 parent: activities
 redirect_from: "/es/experiments/e10s-addons/"

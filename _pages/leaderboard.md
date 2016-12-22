@@ -3,6 +3,7 @@ layout: leaderboard
 title:  "Leaderboard"
 permalink: /leaderboard/
 lang: en
+pdir: ltr
 ref: leaderboard
 ---
 

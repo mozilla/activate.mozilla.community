@@ -3,6 +3,7 @@ layout: page
 title:  "Install Test Pilot"
 permalink: /fr/test-pilot/
 lang: fr
+pdir: ltr
 ref: test-pilot
 parent: activities
 redirect_from: "/fr/experiments/test-pilot/"

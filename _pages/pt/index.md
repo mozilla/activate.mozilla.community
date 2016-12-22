@@ -3,6 +3,7 @@ layout: index
 title:  Activate Mozilla
 permalink: /pt/
 lang: pt
+pdir: ltr
 ref: index
 ---
 

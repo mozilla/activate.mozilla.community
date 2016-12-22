@@ -3,6 +3,7 @@ layout: default
 title:  "Roadmap"
 permalink: /roadmap/
 lang: en
+pdir: ltr
 ref: roadmap
 ---
 
