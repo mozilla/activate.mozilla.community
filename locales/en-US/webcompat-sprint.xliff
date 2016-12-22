@@ -146,12 +146,12 @@ parent: activities</target>
   <target xml:lang="en-US">Any or all of the following versions:</target>
 </trans-unit>
 <trans-unit id="33">
-  <source xml:lang="en-US"><bpt id="l1">[</bpt>Firefox Beta 49+<ept id="l1">]</ept><bpt id="l2">(</bpt>https://www.mozilla.org//firefox/channel/<ept id="l2">)</ept></source>
-  <target xml:lang="en-US">[Firefox Beta 49+](https://www.mozilla.org//firefox/channel/)</target>
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>Firefox Beta 51+<ept id="l1">]</ept><bpt id="l2">(</bpt>https://www.mozilla.org//firefox/channel/dekstop/<ept id="l2">)</ept></source>
+  <target xml:lang="en-US">[Firefox Beta 51+](https://www.mozilla.org//firefox/channel/desktop/)</target>
 </trans-unit>
 <trans-unit id="34">
-  <source xml:lang="en-US"><bpt id="l1">[</bpt>Firefox for Android Beta 49+<ept id="l1">]</ept><bpt id="l2">(</bpt>https://www.mozilla.org//firefox/channel/<ept id="l2">)</ept></source>
-  <target xml:lang="en-US">[Firefox for Android Beta 49+](https://www.mozilla.org//firefox/channel/)</target>
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>Firefox for Android Beta 51+<ept id="l1">]</ept><bpt id="l2">(</bpt>https://www.mozilla.org//firefox/channel/android/<ept id="l2">)</ept></source>
+  <target xml:lang="en-US">[Firefox for Android Beta 51+](https://www.mozilla.org//firefox/channel/android/)</target>
 </trans-unit>
 <trans-unit id="35">
   <source xml:lang="en-US"><bpt id="l1">[</bpt>Firefox for iOS<ept id="l1">]</ept><bpt id="l2">(</bpt>https://www.mozilla.org/firefox/ios/<ept id="l2">)</ept></source>

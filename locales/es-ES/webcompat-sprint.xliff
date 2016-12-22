@@ -147,11 +147,11 @@ parent: activities</target>
   <target xml:lang="es-ES"></target>
 </trans-unit>
 <trans-unit id="33">
-  <source xml:lang="en-US"><bpt id="l1">[</bpt>Firefox Beta 49+<ept id="l1">]</ept><bpt id="l2">(</bpt>https://www.mozilla.org//firefox/channel/<ept id="l2">)</ept></source>
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>Firefox Beta 51+<ept id="l1">]</ept><bpt id="l2">(</bpt>https://www.mozilla.org//firefox/channel/desktop/<ept id="l2">)</ept></source>
   <target xml:lang="es-ES"></target>
 </trans-unit>
 <trans-unit id="34">
-  <source xml:lang="en-US"><bpt id="l1">[</bpt>Firefox for Android Beta 49+<ept id="l1">]</ept><bpt id="l2">(</bpt>https://www.mozilla.org//firefox/channel/<ept id="l2">)</ept></source>
+  <source xml:lang="en-US"><bpt id="l1">[</bpt>Firefox for Android Beta 51+<ept id="l1">]</ept><bpt id="l2">(</bpt>https://www.mozilla.org//firefox/channel/android/<ept id="l2">)</ept></source>
   <target xml:lang="es-ES"></target>
 </trans-unit>
 <trans-unit id="35">
