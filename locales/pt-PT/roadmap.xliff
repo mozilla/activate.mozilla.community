@@ -13,11 +13,14 @@
 title:  "Roadmap"
 permalink: /roadmap/
 lang: en</source>
-  <target xml:lang="pt-PT"></target>
+  <target xml:lang="pt-PT">layout: default
+title:  "Roadmap"
+permalink: /roadmap/
+lang: en</target>
 </trans-unit>
 <trans-unit id="2">
   <source xml:lang="en-US">ref: roadmap</source>
-  <target xml:lang="pt-PT"></target>
+  <target xml:lang="pt-PT">ref: roadmap</target>
 </trans-unit>
 <trans-unit id="3">
   <source xml:lang="en-US">Roadmap</source>
@@ -49,11 +52,11 @@ lang: en</source>
 </trans-unit>
 <trans-unit id="10">
   <source xml:lang="en-US">[Dive Into Rust](/developer-engagement/rust-hack/)</source>
-  <target xml:lang="pt-PT"></target>
+  <target xml:lang="pt-PT">[Dive Into Rust](/developer-engagement/rust-hack/)</target>
 </trans-unit>
 <trans-unit id="11">
   <source xml:lang="en-US">[WebVR Camp](/developer-engagement/webvr-camp/)</source>
-  <target xml:lang="pt-PT"></target>
+  <target xml:lang="pt-PT">[WebVR Camp](/developer-engagement/webvr-camp/)</target>
 </trans-unit>
 <trans-unit id="12">
   <source xml:lang="en-US"></source>
@@ -65,7 +68,7 @@ lang: en</source>
 </trans-unit>
 <trans-unit id="14">
   <source xml:lang="en-US">[e10s and Add-ons](/experiments/e10s-addons/)</source>
-  <target xml:lang="pt-PT"></target>
+  <target xml:lang="pt-PT">[e10s and Add-ons](/experiments/e10s-addons/)</target>
 </trans-unit>
 <trans-unit id="15">
   <source xml:lang="en-US"></source>
@@ -73,7 +76,7 @@ lang: en</source>
 </trans-unit>
 <trans-unit id="16">
   <source xml:lang="en-US">[Test Pilot Install](/experiments/test-pilot/)</source>
-  <target xml:lang="pt-PT"></target>
+  <target xml:lang="pt-PT">[Test Pilot Install](/experiments/test-pilot/)</target>
 </trans-unit>
 <trans-unit id="17">
   <source xml:lang="en-US">Next-Gen Firefox Hacking with The Janitor</source>

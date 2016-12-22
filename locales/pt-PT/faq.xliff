@@ -13,11 +13,14 @@
 title:  "Frequently Asked Questions"
 permalink: /faq/
 lang: en</source>
-  <target xml:lang="pt-PT"></target>
+  <target xml:lang="pt-PT">layout: default
+title:  "Frequently Asked Questions"
+permalink: /faq/
+lang: en</target>
 </trans-unit>
 <trans-unit id="2">
   <source xml:lang="en-US">ref: faq</source>
-  <target xml:lang="pt-PT"></target>
+  <target xml:lang="pt-PT">ref: faq</target>
 </trans-unit>
 <trans-unit id="3">
   <source xml:lang="en-US">Frequently Asked Questions</source>
@@ -25,11 +28,11 @@ lang: en</source>
 </trans-unit>
 <trans-unit id="4">
   <source xml:lang="en-US">TOC</source>
-  <target xml:lang="pt-PT"></target>
+  <target xml:lang="pt-PT">TOC</target>
 </trans-unit>
 <trans-unit id="5">
   <source xml:lang="en-US">{:toc}</source>
-  <target xml:lang="pt-PT"></target>
+  <target xml:lang="pt-PT">{:toc}</target>
 </trans-unit>
 <trans-unit id="6">
   <source xml:lang="en-US">What is Activate Mozilla?</source>

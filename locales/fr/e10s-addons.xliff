@@ -15,19 +15,24 @@ permalink: /e10s-addons/
 lang: en
 ref: e10s-addons
 parent: activities</source>
-  <target xml:lang="fr"></target>
+  <target xml:lang="fr">layout: page
+title:  "e10s and Featured Add-ons"
+permalink: /e10s-addons/
+lang: en
+ref: e10s-addons
+parent: activities</target>
 </trans-unit>
 <trans-unit id="2">
   <source xml:lang="en-US">redirect_from: "/experiments/e10s-addons/"</source>
-  <target xml:lang="fr"></target>
+  <target xml:lang="fr">redirect_from: "/experiments/e10s-addons/"</target>
 </trans-unit>
 <trans-unit id="3">
   <source xml:lang="en-US">TOC</source>
-  <target xml:lang="fr"></target>
+  <target xml:lang="fr">TOC</target>
 </trans-unit>
 <trans-unit id="4">
   <source xml:lang="en-US">{:toc}</source>
-  <target xml:lang="fr"></target>
+  <target xml:lang="fr">{:toc}</target>
 </trans-unit>
 <trans-unit id="5">
   <source xml:lang="en-US">Featured add-ons receive enhanced promotion on AMO, which results in greatly increased installs for this recommended content.</source>

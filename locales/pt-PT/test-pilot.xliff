@@ -15,19 +15,24 @@ permalink: /test-pilot/
 lang: en
 ref: test-pilot
 parent: activities</source>
-  <target xml:lang="pt-PT"></target>
+  <target xml:lang="pt-PT">layout: page
+title:  "Install Test Pilot"
+permalink: /test-pilot/
+lang: en
+ref: test-pilot
+parent: activities</target>
 </trans-unit>
 <trans-unit id="2">
   <source xml:lang="en-US">redirect_from: "/experiments/test-pilot/"</source>
-  <target xml:lang="pt-PT"></target>
+  <target xml:lang="pt-PT">redirect_from: "/experiments/test-pilot/"</target>
 </trans-unit>
 <trans-unit id="3">
   <source xml:lang="en-US">TOC</source>
-  <target xml:lang="pt-PT"></target>
+  <target xml:lang="pt-PT">TOC</target>
 </trans-unit>
 <trans-unit id="4">
   <source xml:lang="en-US">{:toc}</source>
-  <target xml:lang="pt-PT"></target>
+  <target xml:lang="pt-PT">{:toc}</target>
 </trans-unit>
 <trans-unit id="5">
   <source xml:lang="en-US">When building features for hundreds of millions of Firefox users worldwide, it’s important to get them right.</source>

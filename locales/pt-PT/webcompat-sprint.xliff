@@ -15,19 +15,24 @@ permalink: /webcompat-sprint/
 lang: en
 ref: webcompat-sprint
 parent: activities</source>
-  <target xml:lang="pt-PT"></target>
+  <target xml:lang="pt-PT">layout: page
+title:  "Web Compatibility Sprint"
+permalink: /webcompat-sprint/
+lang: en
+ref: webcompat-sprint
+parent: activities</target>
 </trans-unit>
 <trans-unit id="2">
   <source xml:lang="en-US">redirect_from: "/developer-engagement/webcompat-sprint/"</source>
-  <target xml:lang="pt-PT"></target>
+  <target xml:lang="pt-PT">redirect_from: "/developer-engagement/webcompat-sprint/"</target>
 </trans-unit>
 <trans-unit id="3">
   <source xml:lang="en-US">TOC</source>
-  <target xml:lang="pt-PT"></target>
+  <target xml:lang="pt-PT">TOC</target>
 </trans-unit>
 <trans-unit id="4">
   <source xml:lang="en-US">{:toc}</source>
-  <target xml:lang="pt-PT"></target>
+  <target xml:lang="pt-PT">{:toc}</target>
 </trans-unit>
 <trans-unit id="5">
   <source xml:lang="en-US">Web Compatibility, the ability for all Web content to run in all browsers, is important.</source>

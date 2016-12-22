@@ -15,11 +15,16 @@ permalink: /activities/
 lang: en
 ref: activities
 redirect_from: "/developer-engagement/"</source>
-  <target xml:lang="es-ES"></target>
+  <target xml:lang="es-ES">layout: default
+title:  "Activities"
+permalink: /activities/
+lang: en
+ref: activities
+redirect_from: "/developer-engagement/"</target>
 </trans-unit>
 <trans-unit id="2">
   <source xml:lang="en-US">redirect_from: "/experiments/"</source>
-  <target xml:lang="es-ES"></target>
+  <target xml:lang="es-ES">redirect_from: "/experiments/"</target>
 </trans-unit>
 <trans-unit id="3">
   <source xml:lang="en-US">Activities</source>
@@ -56,7 +61,8 @@ redirect_from: "/developer-engagement/"</source>
 <trans-unit id="11">
   <source xml:lang="en-US">{: .clear}
 _</source>
-  <target xml:lang="es-ES"></target>
+  <target xml:lang="es-ES">{: .clear}
+_</target>
 </trans-unit>
 <trans-unit id="12">
   <source xml:lang="en-US">Teach The Web</source>
@@ -64,7 +70,7 @@ _</source>
 </trans-unit>
 <trans-unit id="13">
   <source xml:lang="en-US">/asserts/img/icon-teach.svg</source>
-  <target xml:lang="es-ES"></target>
+  <target xml:lang="es-ES">/asserts/img/icon-teach.svg</target>
 </trans-unit>
 <trans-unit id="14">
   <source xml:lang="en-US">teach</source>
@@ -77,7 +83,8 @@ _</source>
 <trans-unit id="16">
   <source xml:lang="en-US">{: .clear}
 _</source>
-  <target xml:lang="es-ES"></target>
+  <target xml:lang="es-ES">{: .clear}
+_</target>
 </trans-unit>
 <trans-unit id="17">
   <source xml:lang="en-US">{: .activity}
@@ -114,7 +121,8 @@ When building features for hundreds of millions of Firefox users worldwide, itâ€
 <trans-unit id="24">
   <source xml:lang="en-US">{: .clear}
 _</source>
-  <target xml:lang="es-ES"></target>
+  <target xml:lang="es-ES">{: .clear}
+_</target>
 </trans-unit>
 <trans-unit id="25">
   <source xml:lang="en-US">&lt;hr&gt;
@@ -125,7 +133,8 @@ _</source>
 <trans-unit id="26">
   <source xml:lang="en-US">{: .clear}
 _</source>
-  <target xml:lang="es-ES"></target>
+  <target xml:lang="es-ES">{: .clear}
+_</target>
 </trans-unit>
 <trans-unit id="27">
   <source xml:lang="en-US">Build The Web</source>
@@ -133,7 +142,7 @@ _</source>
 </trans-unit>
 <trans-unit id="28">
   <source xml:lang="en-US">/asserts/img/icon-build.svg</source>
-  <target xml:lang="es-ES"></target>
+  <target xml:lang="es-ES">/asserts/img/icon-build.svg</target>
 </trans-unit>
 <trans-unit id="29">
   <source xml:lang="en-US">build</source>
@@ -146,7 +155,8 @@ _</source>
 <trans-unit id="31">
   <source xml:lang="en-US">{: .clear}
 _</source>
-  <target xml:lang="es-ES"></target>
+  <target xml:lang="es-ES">{: .clear}
+_</target>
 </trans-unit>
 <trans-unit id="32">
   <source xml:lang="en-US">{: .activity}
@@ -187,18 +197,22 @@ A-Frame is a web framework for building virtual reality experiences, making it e
 <trans-unit id="40">
   <source xml:lang="en-US">{: .clear}
 _</source>
-  <target xml:lang="es-ES"></target>
+  <target xml:lang="es-ES">{: .clear}
+_</target>
 </trans-unit>
 <trans-unit id="41">
   <source xml:lang="en-US">&lt;hr&gt;
 
 </source>
-  <target xml:lang="es-ES"></target>
+  <target xml:lang="es-ES">&lt;hr&gt;
+
+</target>
 </trans-unit>
 <trans-unit id="42">
   <source xml:lang="en-US">{: .clear}
 _</source>
-  <target xml:lang="es-ES"></target>
+  <target xml:lang="es-ES">{: .clear}
+_</target>
 </trans-unit>
 <trans-unit id="43">
   <source xml:lang="en-US">Protect The Web</source>
@@ -206,7 +220,7 @@ _</source>
 </trans-unit>
 <trans-unit id="44">
   <source xml:lang="en-US">/asserts/img/icon-protect.svg</source>
-  <target xml:lang="es-ES"></target>
+  <target xml:lang="es-ES">/asserts/img/icon-protect.svg</target>
 </trans-unit>
 <trans-unit id="45">
   <source xml:lang="en-US">protect</source>
@@ -219,7 +233,8 @@ _</source>
 <trans-unit id="47">
   <source xml:lang="en-US">{: .clear}
 _</source>
-  <target xml:lang="es-ES"></target>
+  <target xml:lang="es-ES">{: .clear}
+_</target>
 </trans-unit>
 <trans-unit id="48">
   <source xml:lang="en-US">{: .activity}
@@ -242,7 +257,8 @@ Web Compatibility, the ability for all Web content to run in all browsers, is im
 <trans-unit id="52">
   <source xml:lang="en-US">{: .clear}
 _</source>
-  <target xml:lang="es-ES"></target>
+  <target xml:lang="es-ES">{: .clear}
+_</target>
 </trans-unit>
     </body>
  </file>

@@ -13,11 +13,14 @@
 title:  "Participation"
 permalink: /participation/
 lang: en</source>
-  <target xml:lang="es-ES"></target>
+  <target xml:lang="es-ES">layout: default
+title:  "Participation"
+permalink: /participation/
+lang: en</target>
 </trans-unit>
 <trans-unit id="2">
   <source xml:lang="en-US">ref: participation</source>
-  <target xml:lang="es-ES"></target>
+  <target xml:lang="es-ES">ref: participation</target>
 </trans-unit>
 <trans-unit id="3">
   <source xml:lang="en-US">About Participation at Mozilla</source>

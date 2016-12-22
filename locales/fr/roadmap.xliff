@@ -1,71 +1,87 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file original="../../_pages/roadmap.md" source-language="en-US" target-language="fr" datatype="markdown">
+  <file original="../../_pages/roadmap.md"
+    source-language="en-US" target-language="fr" datatype="markdown">
     <header>
       <skl>
         <external-file href="roadmap.skl.md"/>
       </skl>
     </header>
     <body>
-      <trans-unit id="1">
-        <source xml:lang="en-US">layout: default
+<trans-unit id="1">
+  <source xml:lang="en-US">layout: default
 title:  "Roadmap"
 permalink: /roadmap/
 lang: en</source>
-      </trans-unit>
-      <trans-unit id="2">
-        <source xml:lang="en-US">ref: roadmap</source>
-      </trans-unit>
-      <trans-unit id="3">
-        <source xml:lang="en-US">Roadmap</source>
-        <target xml:lang="fr">Test</target>
-      </trans-unit>
-      <trans-unit id="4">
-        <source xml:lang="en-US">In this page we describe the past, current and future activities that we have on this site.</source>
-      </trans-unit>
-      <trans-unit id="5">
-        <source xml:lang="en-US">If you have feedback, questions or suggestions please <bpt id="l2">[</bpt>chime in to this topic<ept id="l2">]</ept>
-          <bpt id="l3">(</bpt>https://discourse.mozilla-community.org/t/activate-mozilla-roadmap/10068<ept id="l3">)</ept>.</source>
-      </trans-unit>
-      <trans-unit id="6">
-        <source xml:lang="en-US">
-          <bpt id="1">*</bpt>Note that this roadmap is subject to change.<ept id="1">*</ept>
-        </source>
-      </trans-unit>
-      <trans-unit id="7">
-        <source xml:lang="en-US">Now (Q3 2016)</source>
-      </trans-unit>
-      <trans-unit id="8">
-        <source xml:lang="en-US">Next (Q4 2016)</source>
-      </trans-unit>
-      <trans-unit id="9">
-        <source xml:lang="en-US">Later (Beyond)</source>
-      </trans-unit>
-      <trans-unit id="10">
-        <source xml:lang="en-US">[Dive Into Rust](/developer-engagement/rust-hack/)</source>
-      </trans-unit>
-      <trans-unit id="11">
-        <source xml:lang="en-US">[WebVR Camp](/developer-engagement/webvr-camp/)</source>
-      </trans-unit>
-      <trans-unit id="12">
-        <source xml:lang="en-US"/>
-      </trans-unit>
-      <trans-unit id="13">
-        <source xml:lang="en-US">[Web Compatibility Sprint](/developer-engagement/webcompat-sprint/)</source>
-      </trans-unit>
-      <trans-unit id="14">
-        <source xml:lang="en-US">[e10s and Add-ons](/experiments/e10s-addons/)</source>
-      </trans-unit>
-      <trans-unit id="15">
-        <source xml:lang="en-US"/>
-      </trans-unit>
-      <trans-unit id="16">
-        <source xml:lang="en-US">[Test Pilot Install](/experiments/test-pilot/)</source>
-      </trans-unit>
-      <trans-unit id="17">
-        <source xml:lang="en-US">Next-Gen Firefox Hacking with The Janitor</source>
-      </trans-unit>
+  <target xml:lang="fr">layout: default
+title:  "Roadmap"
+permalink: /roadmap/
+lang: en</target>
+</trans-unit>
+<trans-unit id="2">
+  <source xml:lang="en-US">ref: roadmap</source>
+  <target xml:lang="fr">ref: roadmap</target>
+</trans-unit>
+<trans-unit id="3">
+  <source xml:lang="en-US">Roadmap</source>
+  <target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="4">
+  <source xml:lang="en-US">In this page we describe the past, current and future activities that we have on this site.</source>
+  <target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="5">
+  <source xml:lang="en-US">If you have feedback, questions or suggestions please <bpt id="l2">[</bpt>chime in to this topic<ept id="l2">]</ept><bpt id="l3">(</bpt>https://discourse.mozilla-community.org/t/activate-mozilla-roadmap/10068<ept id="l3">)</ept>.</source>
+  <target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="6">
+  <source xml:lang="en-US"><bpt id="1">*</bpt>Note that this roadmap is subject to change.<ept id="1">*</ept></source>
+  <target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="7">
+  <source xml:lang="en-US">Now (Q3 2016)</source>
+  <target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="8">
+  <source xml:lang="en-US">Next (Q4 2016)</source>
+  <target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="9">
+  <source xml:lang="en-US">Later (Beyond)</source>
+  <target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="10">
+  <source xml:lang="en-US">[Dive Into Rust](/developer-engagement/rust-hack/)</source>
+  <target xml:lang="fr">[Dive Into Rust](/developer-engagement/rust-hack/)</target>
+</trans-unit>
+<trans-unit id="11">
+  <source xml:lang="en-US">[WebVR Camp](/developer-engagement/webvr-camp/)</source>
+  <target xml:lang="fr">[WebVR Camp](/developer-engagement/webvr-camp/)</target>
+</trans-unit>
+<trans-unit id="12">
+  <source xml:lang="en-US"></source>
+  <target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="13">
+  <source xml:lang="en-US">[Web Compatibility Sprint](/developer-engagement/webcompat-sprint/)</source>
+  <target xml:lang="fr">[Web Compatibility Sprint](/developer-engagement/webcompat-sprint/)</target>
+</trans-unit>
+<trans-unit id="14">
+  <source xml:lang="en-US">[e10s and Add-ons](/experiments/e10s-addons/)</source>
+  <target xml:lang="fr">[e10s and Add-ons](/experiments/e10s-addons/)</target>
+</trans-unit>
+<trans-unit id="15">
+  <source xml:lang="en-US"></source>
+  <target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="16">
+  <source xml:lang="en-US">[Test Pilot Install](/experiments/test-pilot/)</source>
+  <target xml:lang="fr">[Test Pilot Install](/experiments/test-pilot/)</target>
+</trans-unit>
+<trans-unit id="17">
+  <source xml:lang="en-US">Next-Gen Firefox Hacking with The Janitor</source>
+  <target xml:lang="fr"></target>
+</trans-unit>
     </body>
-  </file>
+ </file>
 </xliff>
-

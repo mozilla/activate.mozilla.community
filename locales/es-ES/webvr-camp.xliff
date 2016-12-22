@@ -15,19 +15,24 @@ permalink: /webvr-camp/
 lang: en
 ref: webvr-camp
 parent: activities</source>
-  <target xml:lang="es-ES"></target>
+  <target xml:lang="es-ES">layout: page
+title:  "WebVR Camp"
+permalink: /webvr-camp/
+lang: en
+ref: webvr-camp
+parent: activities</target>
 </trans-unit>
 <trans-unit id="2">
   <source xml:lang="en-US">redirect_from: "/developer-engagement/webvr-camp/"</source>
-  <target xml:lang="es-ES"></target>
+  <target xml:lang="es-ES">redirect_from: "/developer-engagement/webvr-camp/"</target>
 </trans-unit>
 <trans-unit id="3">
   <source xml:lang="en-US">TOC</source>
-  <target xml:lang="es-ES"></target>
+  <target xml:lang="es-ES">TOC</target>
 </trans-unit>
 <trans-unit id="4">
   <source xml:lang="en-US">{:toc}</source>
-  <target xml:lang="es-ES"></target>
+  <target xml:lang="es-ES">{:toc}</target>
 </trans-unit>
 <trans-unit id="5">
   <source xml:lang="en-US"><bpt id="l1">[</bpt>A-Frame<ept id="l1">]</ept><bpt id="l2">(</bpt>https://aframe.io/<ept id="l2">)</ept> is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality.</source>
