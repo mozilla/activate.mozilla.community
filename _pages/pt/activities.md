@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Activities"
+title:  "Atividades"
 permalink: /pt/activities/
 lang: pt
 ref: activities
@@ -8,14 +8,14 @@ redirect_from: "/pt/developer-engagement/"
 redirect_from: "/pt/experiments/"
 ---
 
-## Activities
+## Atividades
 
-These activities were designed with 2 things in mind:
+Estar atividades foram desenvolvidas com duas coisas em mente:
 
-1. That they have the potential to have a direct impact on Mozilla’s work right now
-2. That they bring value to you and your community. While we have specific metrics for each activity, one of the main overall goals is that we all get better at mobilising and building communities.
+1. Que elas tivessem potencial para impactar diretamente nos trabalhos da Mozilla imediatamente
+2. Que elas trouxessem valor para você e sua comunidade. Enquanto nós temos métricas específicas para cada atividade, um dos principais objetivos é que todos nós consigamos melhorar a mobilização e a construção das comunidades.
 
-Before you jump right in: Look at your goals for the year, what do you and your community want to accomplish in each of the impact areas? Which of the following activities best map to those goal? And very importantly, ask yourself if by doing these activities you can expose new people to the work that Mozilla is doing and we can build new communities around them.
+Antes de você começar: Veja seus objetivos para o ano, o que você e sua comunidade querem alcançar em cada uma das áreas de impacto? Quais das seguintes atividades se encaixam melhor nesses objetivos? E muito importante, pergunte pra si mesmo, ao fazer essas atividade você conseguirá expor novas pessoas ao trabalho que a Mozilla está realizando e nós poderemos construir novas comunidades ao redor delas?
 
 {: .clear}
 _
