@@ -10,7 +10,7 @@ redirect_from: "/pt/experiments/"
 
 ## Atividades
 
-Estar atividades foram desenvolvidas com duas coisas em mente:
+Estas atividades foram desenvolvidas com duas coisas em mente:
 
 1. Que elas tivessem potencial para impactar diretamente nos trabalhos da Mozilla imediatamente
 2. Que elas trouxessem valor para você e sua comunidade. Enquanto nós temos métricas específicas para cada atividade, um dos principais objetivos é que todos nós consigamos melhorar a mobilização e a construção das comunidades.
@@ -24,19 +24,19 @@ _
 
 <img src="/asserts/img/icon-teach.svg" alt="teach" class="left img-circle activity-img">
 
-Para usar e construir a Web como um recurso público global as pessoas precisam ter as habilidades de ler, escrever e participar on-line.
+Para usar e construir a Web como um recurso público global as pessoas precisam ter a capacidade de ler, escrever e participar on-line.
 
 {: .clear}
 _
 
 {: .activity}
 **Instalar Test Pilot**
-Quando construir funcionalidades para centenas de milhões de usuários Firefox no Mundo, é importante fazê-las certo. Ajude-nos a descobrir quais funcionalidades devem ser lançadas e como elas devem funcionar. Instale o Test Pilot e nos dê sua opinião.
+Quando se constrói funcionalidades para centenas de milhões de usuários Firefox no Mundo, é importante fazê-las certo. Ajude-nos a descobrir quais funcionalidades devem ser lançadas e como elas devem funcionar. Instale o Test Pilot e nos dê sua opinião.
 [Saiba mais](/pt/test-pilot/).
 
 {: .activity .text-muted}
 **e10s e Extensões importantes**
-Com o surgimento do Firefox multi-processo (e10s), precisamos garantir que as principais extensões e o site [Add-ons Mozilla](https://addons.mozilla.org/firefox/) alcancem o mais alto grau de compatibilidade e funcionalidade. Ajude-nos a testar estas extensões, assim o e10s poderá ser lançado os nossos milhões de usuários.
+Com o surgimento do Firefox multi-processo (e10s), precisamos garantir que as principais extensões e o site [Add-ons Mozilla](https://addons.mozilla.org/firefox/) alcancem o mais alto grau de compatibilidade e funcionalidade. Ajude-nos a testar estas extensões, assim o e10s poderá ser lançado para os nossos milhões de usuários.
 [Saiba mais](/pt/e10s-addons/).
 
 {: .clear}
@@ -58,7 +58,7 @@ _
 
 {: .activity}
 **Mergulhando no Rust**
-Rust é uma linguagem de programação para sistemas importante para o futuro da Web. Ela roda extremamente rápido, previne falhas de acesso do sistema e garante a segurança dos processos. Com sua ajuda nós queremos que mais desenvolvedores entendam, usem e evangelizem essa linguagem, desta forma faremos a Web melhor e mais segura.
+Rust é uma linguagem de programação para sistemas, importante para o futuro da Web. Ela roda extremamente rápido, previne falhas de acesso do sistema e garante a segurança dos processos. Com sua ajuda nós queremos que mais desenvolvedores entendam, usem e evangelizem essa linguagem, desta forma faremos a Web melhor e mais segura.
 [Saiba mais](/pt/rust-hack/).
 
 {: .activity}
@@ -78,7 +78,7 @@ _
 
 <img src="/asserts/img/icon-protect.svg" alt="protect" class="left img-circle activity-img">
 
-Para que a Web permaneça aberta e acessível para todos, as pessoas precisam se sentir seguras on-line e saber como lutar por isso e se defender dos grandes desafios oportunidades que assolam a Internet nos dias de hoje.
+Para que a Web permaneça aberta e acessível para todos, as pessoas precisam se sentir seguras on-line e saber como lutar por isso e se defender dos grandes desafios e oportunidades que assolam a Internet nos dias de hoje.
 
 {: .clear}
 _
