@@ -84,7 +84,7 @@ Para que a Web permaneça aberta e acessível para todos, as pessoas precisam se
 _
 
 {: .activity}
-**Corrida de Compatibilidade**
+**Sprint de Compatibilidade Web**
 A Compatibilidade Web, capacidade de executar todo e qualquer conteúdo da Web em todos os navegadores, é importante. Existem diversos mecanismos de conteúdos web executando em diversos dispositivos, e algumas vezes com um pouco de teste e pequenos ajustes em seus websites, desenvolvedores podem garantir que mais usuários tenham a experiência completa desejada. Teste websites e espalhe a mensagem sobre compatibilidade.
 [Saiba mais](/pt/webcompat-sprint/).
 

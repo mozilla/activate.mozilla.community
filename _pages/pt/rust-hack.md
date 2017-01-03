@@ -58,12 +58,12 @@ Apresente a sua comunidade esta nova e excitante linguagem de programação, um 
 3. Escolha se será um evento auto-aprendizagem ou com alguém que tem experiência com Rust (ver abaixo)
 4. Registre o evento no Portal Reps ([instruções](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting))
 
-Sobre a duração, é recomendamos um meio-dia (ou noite inteira) para um evento com um mínimo de 15-25 participantes.
+Sobre a duração, é recomendamos um meio-dia (ou noite inteira) e,vento com um mínimo de 15-25 participantes.
 
 Existem duas opções para a facilitação:
 
 1. Peça a uma pessoa com experiência com Rust para apresentar e fornecer orientações aos participantes. Existem algumas maneiras de tentar encontrar especialistas em Rust locais para convidar:
-    * Entre em contato com o [Time da Comunidade](https://www.rust-lang.org/en-US/team.html#Community-team) - community-time (arroba) rust-lang (ponto) org - eles conhecem as pessoas mais ativas na maioria das regiões.
+    * Entre em contato com o [Time da Comunidade](https://www.rust-lang.org/en-US/team.html#Community-team) - community-time [arroba] rust-lang [ponto] org - eles conhecem as pessoas mais ativas na maioria das regiões.
     * Através do [grupo de usuários](https://www.rust-lang.org/en-US/user-groups.html)
     * No [rustaceans.org](http://www.rustaceans.org/)
 2. Se os facilitadores têm pouca ou nenhuma experiência com Rust, transforme o evento em uma sessão de aprendizagem para todos, passando pelas etapas em conjunto. Alguns Mozillians já fizeram tais sessões. Por exemplo, nosso [espaço da comunidade](https://wiki.mozilla.org/Participation/Community_Spaces) tem, para que possa chegar a eles para pedir alguma orientação.
@@ -77,7 +77,8 @@ Existem duas opções para a facilitação:
 * Faça o [Rustlings](https://github.com/carols10cents/rustlings) (um ótimo curso para iniciantes!)
 * Alguns projetos com falhas e erros para resolver e praticar o que aprendeu:
     * A linguagem Rust e compilador
-       * [Problemas fáceis](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy)       * [Problemas com mentores](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-mentor)
+		* [Problemas fáceis](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy)
+		* [Problemas com mentores](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-mentor)
     * [clippy - ferramenta de análise estática do Rust](https://github.com/Manishearth/rust-clippy)
     * [Cargo - gerenciador de pacotes do Rust](https://github.com/rust-lang/cargo/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy)
     * [rustfmt - ferramenta de formatação de código-fonte do Rust](https://github.com/rust-lang-nursery/rustfmt/issues)
@@ -104,6 +105,6 @@ Para você organizador, temos mais algumas dicas e coisas que gostaríamos que f
     * [Aqui está o tópico no Discourse para informar sobre o evento](https://discourse.mozilla-community.org/t/activate-mozilla-dive-into-rust/10073/1)
 
 ## Extra
-Embora o foco desta atividade deve ser sobre estes eventos, existem outras formas de se envolver mais  com a comunidade Rust depois.
+Embora o foco desta atividade deve ser sobre estes eventos, existem outras formas de se envolver mais com a comunidade Rust depois.
 
-* Seguir-se com os participantes para realçar [mais coisas acontecendo na comunidade a se envolver com] (https://www.rust-lang.org/en-US/community.html)
+* Acompanhe os participantes para saber [as coisas que estão acontecendo na comunidade a se envolver](https://www.rust-lang.org/en-US/community.html)
