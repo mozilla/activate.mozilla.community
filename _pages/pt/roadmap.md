@@ -12,8 +12,9 @@ Nesta página descrevemos as atividades passadas, atuais e futuras que temos nes
 
 *Note that this roadmap is subject to change.*
 
-| Now (Q3 2016)  | Next (Q4 2016)   | Later (Beyond) |
+| Now (Q1 2017)  | Next (Q2 2017)   | Later (Beyond) |
 | --- | --- | --- |
-| [Dive Into Rust](/pt/developer-engagement/rust-hack/) | [WebVR Camp](/developer-engagement/pt/webvr-camp/) |     |
-| [Web Compatibility Sprint](/pt/developer-engagement/webcompat-sprint/) | [e10s and Add-ons](/pt/experiments/e10s-addons/) |     |
-| [Test Pilot Install](/pt/experiments/test-pilot/) | Next-Gen Firefox Hacking with The Janitor |     |
+| [Dive Into Rust](/pt/rust-hack/) | Next-Gen Firefox Hacking with The Janitor |     |
+| [Web Compatibility Sprint](/pt/webcompat-sprint/) |     |     |
+| [Test Pilot Install](/pt/test-pilot/) |     |     |
+| [WebVR Camp](/pt/webvr-camp/) |     |     |
