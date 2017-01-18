@@ -58,21 +58,22 @@ For duration, we recommend a half-day (or full evening) event with a minimum of 
 ## Event Flow
 
 * Set yourself up with Firefox. Any or all of the following versions:
-    * [Firefox Beta 49+](https://www.mozilla.org//firefox/channel/)
-    * [Firefox for Android Beta 49+](https://www.mozilla.org//firefox/channel/)
+    * [Firefox](https://www.mozilla.org/firefox/channel/)
+    * [Firefox for Android](https://www.mozilla.org/firefox/channel/)
     * [Firefox for iOS](https://www.mozilla.org/firefox/ios/)
 * [Install the Webcompat.com Reporter add-on](https://addons.mozilla.org/addon/webcompatcom-reporter?src=external-activatewebcompat1)
-    * We have a mobile add-on people can install for Fennec Beta and in version 50 there will be a default "Report Site Issue" menu item in Fennec Aurora and Nightly.
+    * Firefox for Android Nightly and Aurora already have a "Report Site Issue" option in the main menu; no add-on needed.
     * No add-ons support for iOS, but people can report bugs manually at [webcompat.com](https://webcompat.com)
 * Choose the sites you want to test
     * We recommend the top sites in your country, as measured by a reputable local source or using the [Alexa Top Sites by Country](http://www.alexa.com/topsites/countries) reference
+    * Also sites that you need or use frequently in your communities!
 * Test and Report!
-    * [Read the general guide](https://wiki.mozilla.org/Compatibility/Guide)
+    * If you encounter a site that does not work in Firefox, but works in another browser, then click the add-on button and follow the steps to report
     * Pay special attention to what we are looking for [in reported issues](https://wiki.mozilla.org/Compatibility/Guide#Reporting_a_Web_compatibility_issue)
-    * If you encounter something on the site not looking properly, or working correctly, then click the add-on button and follow the steps to report
+    * If you want to become an expert in web compatibility, [go here](https://wiki.mozilla.org/Compatibility/Guide)
 
 ## Output
-Additional to the recommended event flow here are some things we’d like you, the event organizer, to do.
+In addition to the recommended event flow here are some things we’d like you, the event organizer, to do.
 
 * Fill out the post-event metrics on the event page you setup on the Reps portal
 * Optionally, tell us about your event. This can be before or after. We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two!
