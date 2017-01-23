@@ -12,8 +12,9 @@ Nesta página descrevemos as atividades passadas, atuais e futuras que temos nes
 
 *Atenção! Este cronograma está sujeito a alterações.*
 
-| Passado (Q3 2016)  | Agora (Q4 2016)   | Futuro  |
+| Agora (Q1 2017)  | Próximo (Q2 2017)   | Além (muito além) |
 | --- | --- | --- |
-| [Mergulhando no Rust](/pt/developer-engagement/rust-hack/) | [WebVR Camp](/developer-engagement/pt/webvr-camp/) |     |
-| [Corrida de Compatibilidade Web](/pt/developer-engagement/webcompat-sprint/) | [e10s e Extensões](/pt/experiments/e10s-addons/) |     |
-| [Instalação do Test](/pt/experiments/test-pilot/) | Firefox Hacking Prox-Geração com O Janitor |     |
+| [Mergulhando no Rust](/pt/rust-hack/) | Firefox Hacking Prox-Geração com O Janitor |     |
+| [Sprint de Compatibilidade Web](/pt/webcompat-sprint/) |     |     |
+| [Instale o Test Pilot](/pt/test-pilot/) |     |     |
+| [WebVR Camp](/pt/webvr-camp/) |     |     |
