@@ -15,7 +15,7 @@ permalink: /roadmap/
 lang: en</source>
   <target xml:lang="pt-BR">layout: default
 title:  "Roadmap"
-permalink: /roadmap/
+permalink: /pt/roadmap/
 lang: en</target>
 </trans-unit>
 <trans-unit id="2">
@@ -64,7 +64,7 @@ lang: en</target>
 </trans-unit>
 <trans-unit id="13">
   <source xml:lang="en-US">[Web Compatibility Sprint](/webcompat-sprint/)</source>
-  <target xml:lang="pt-BR">[Web Compatibility Sprint](/webcompat-sprint/)</target>
+  <target xml:lang="pt-BR">[Web Compatibility Sprint](/pt/webcompat-sprint/)</target>
 </trans-unit>
 <trans-unit id="14">
   <source xml:lang="en-US"></source>
@@ -76,7 +76,7 @@ lang: en</target>
 </trans-unit>
 <trans-unit id="16">
   <source xml:lang="en-US">[Test Pilot Install](/test-pilot/)</source>
-  <target xml:lang="pt-BR">[Test Pilot Install](/test-pilot/)</target>
+  <target xml:lang="pt-BR">[Test Pilot Install](/pt/test-pilot/)</target>
 </trans-unit>
 <trans-unit id="17">
   <source xml:lang="en-US"></source>
@@ -88,7 +88,7 @@ lang: en</target>
 </trans-unit>
 <trans-unit id="19">
   <source xml:lang="en-US">[WebVR Camp](/webvr-camp/)</source>
-  <target xml:lang="pt-BR">[WebVR Camp](/webvr-camp/)</target>
+  <target xml:lang="pt-BR">[WebVR Camp](/pt/webvr-camp/)</target>
 </trans-unit>
 <trans-unit id="20">
   <source xml:lang="en-US"></source>

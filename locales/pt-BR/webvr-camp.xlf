@@ -38,7 +38,7 @@ parent: activities</target>
   <source xml:lang="en-US">{: .label .timebox}
 &lt;span class=&quot;glyphicon glyphicon-time&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt; 3-4 hours</source>
   <target xml:lang="pt-BR">{: .label .timebox}
-&lt;span class=&quot;glyphicon glyphicon-time&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt; 3-4 hours</target>
+&lt;span class=&quot;glyphicon glyphicon-time&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt; 3-4 horas</target>
 </trans-unit>
 <trans-unit id="6">
   <source xml:lang="en-US">{: .clear}
@@ -56,215 +56,215 @@ Having more developers and content creators playing with WebVR is important for 
 </trans-unit>
 <trans-unit id="8">
   <source xml:lang="en-US">[A-Frame](https://aframe.io/) is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">[A-Frame](https://aframe.io/) é um framework web para a construção de experiências de realidade virtual, tornando mais fácil para que todos possam se envolver com a realidade virtual.</target>
 </trans-unit>
 <trans-unit id="9">
   <source xml:lang="en-US">Its goal is to onboard developers into 3D and advance WebVR, an open platform for virtual reality that leverages the Web.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Seu objetivo é desenvolvedores a bordo em 3D e avançar WebVR, uma plataforma aberta para a realidade virtual que utiliza a Web.</target>
 </trans-unit>
 <trans-unit id="10">
   <source xml:lang="en-US">__Having more developers and content creators playing with WebVR is important for the future of virtual reality to help build towards a free and open virtual reality platform not owned by any individual entity__.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">__Tendo mais desenvolvedores e criadores de conteúdo que jogam com WebVR é importante para o futuro da realidade virtual para ajudar a construir em direção a uma plataforma de realidade virtual livre e aberta não propriedade de qualquer entidade individual__.</target>
 </trans-unit>
 <trans-unit id="11">
   <source xml:lang="en-US">A-Frame is used extensively by the Mozilla VR team to prototype and experiment with WebVR.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">A-Frame é amplamente utilizado pela equipe Mozilla VR ao protótipo e experimentar com WebVR.</target>
 </trans-unit>
 <trans-unit id="12">
   <source xml:lang="en-US">__Having more contributors know A-Frame will give them a chance to get involved in one of the most exciting revolutions in the field of technology__.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">__Tendo mais colaboradores sabendo A-Frame irá dar-lhes uma chance de se envolver em uma das revoluções mais emocionantes no campo da tecnologia.__</target>
 </trans-unit>
 <trans-unit id="13">
   <source xml:lang="en-US">Impact and Metrics</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Impacto e Métricas</target>
 </trans-unit>
 <trans-unit id="14">
   <source xml:lang="en-US">Goals for this area</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Metas para esta área</target>
 </trans-unit>
 <trans-unit id="15">
   <source xml:lang="en-US">__Impact:__</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">__Impacto:__</target>
 </trans-unit>
 <trans-unit id="16">
   <source xml:lang="en-US">200 people signed up to the [A-Frame Slack channel](https://aframe.io/community/#a-frame)</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">200 pessoas se inscreveram para o [A-Frame canal Slack](https://aframe.io/community/#a-frame)</target>
 </trans-unit>
 <trans-unit id="17">
   <source xml:lang="en-US">100 projects built in or for A-Frame</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">100 projetos construídos em ou para o A-Frame</target>
 </trans-unit>
 <trans-unit id="18">
   <source xml:lang="en-US">20 blog posts about events, activities, experiences, projects, or tutorials.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">20 posts sobre eventos, atividades, experiências, projetos ou tutoriais.</target>
 </trans-unit>
 <trans-unit id="19">
   <source xml:lang="en-US">500 social shares with #MozActivate, #WebVRCamp, @aframevr, @mozillavr</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">500 ações sociais com #MozActivate, #WebVRCamp, @aframevr, @mozillavr</target>
 </trans-unit>
 <trans-unit id="20">
   <source xml:lang="en-US">__Strength:__</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Força:__</target>
 </trans-unit>
 <trans-unit id="21">
   <source xml:lang="en-US">20 Mobilizers activated</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">20 mobilizadores ativada</target>
 </trans-unit>
 <trans-unit id="22">
   <source xml:lang="en-US">30 events</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">30 eventos</target>
 </trans-unit>
 <trans-unit id="23">
   <source xml:lang="en-US">400 people are introduced to and starting to build with A-Frame</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">400 pessoas são introduzidas e começam a construir com A-Frame</target>
 </trans-unit>
 <trans-unit id="24">
   <source xml:lang="en-US">Audience for this activity</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Público para esta atividade</target>
 </trans-unit>
 <trans-unit id="25">
   <source xml:lang="en-US">Your audience for this event should be anyone interested in virtual reality including web developers, designers and students.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Seu público para este evento deve ser alguém interessado em realidade virtual, incluindo desenvolvedores web, designers e estudantes.</target>
 </trans-unit>
 <trans-unit id="26">
   <source xml:lang="en-US">The audience should have a basic grasp of HTML.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">O público deve ter uma compreensão básica de HTML.</target>
 </trans-unit>
 <trans-unit id="27">
   <source xml:lang="en-US">Activity Format</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Formato de Atividade</target>
 </trans-unit>
 <trans-unit id="28">
   <source xml:lang="en-US">Help us build community around the A-Frame library by conducting a mobilizing / learning event for 20-30 contributors.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Ajude-nos a construir uma comunidade em torno da biblioteca A-Frame através da realização de um evento mobilizador / aprendizagem por 20-30 contribuidores.</target>
 </trans-unit>
 <trans-unit id="29">
   <source xml:lang="en-US">**2-4 Weeks Before the Event**</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">**2-4 semanas antes do evento**</target>
 </trans-unit>
 <trans-unit id="30">
   <source xml:lang="en-US">Put an event team together</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Coloque uma equipe de evento juntos</target>
 </trans-unit>
 <trans-unit id="31">
   <source xml:lang="en-US">Choose a date and secure a venue</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Escolha uma data e garanta um local</target>
 </trans-unit>
 <trans-unit id="32">
   <source xml:lang="en-US">Setup the event on Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting)).</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Configuração do evento no portal dos Reps [(instruções)](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting).</target>
 </trans-unit>
 <trans-unit id="33">
   <source xml:lang="en-US">[Find a Rep](https://reps.mozilla.org/people/) closeby to do this if you are not one.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">[Encontrar um Rep](https://reps.mozilla.org/people/) na vizinhança para fazer isso se você não for um.</target>
 </trans-unit>
 <trans-unit id="34">
   <source xml:lang="en-US">Give a thought whether it will be self-facilitated or with someone who has A-Frame experience.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Dê um pensamento se vai ser auto-facilitada ou com alguém que tem experiência de A-Frame.</target>
 </trans-unit>
 <trans-unit id="35">
   <source xml:lang="en-US">You can find help on the [Mozilla VR Telegram group](https://telegram.me/MozillaVR) or the [A-Frame Slack channel](https://aframevr-slack.herokuapp.com/)</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Você pode encontrar ajuda sobre o grupo [Mozilla VR Telegram](https://telegram.me/MozillaVR) ou o [canal Slack A-Frame](https://aframevr-slack.herokuapp.com/)</target>
 </trans-unit>
 <trans-unit id="36">
   <source xml:lang="en-US">Create an event page on a platform popular in your locale, such as Facebook or Meetup.com, and keep posting interesting information about WebVR &amp;</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Crie uma página do evento em uma plataforma popular em sua localidade, como o Facebook ou o Meetup.com, e continuar a postar informações interessantes sobre WebVR &amp;</target>
 </trans-unit>
 <trans-unit id="37">
   <source xml:lang="en-US">related topics to keep continue the conversation</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">tópicos relacionados para manter continuar a conversa</target>
 </trans-unit>
 <trans-unit id="38">
   <source xml:lang="en-US">Download and customize the [A-Frame Presentation Kit](https://github.com/aframevr/aframe-presentation-kit)</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Faça o download e personalizar a [Apresentação Kit A-Frame](https://github.com/aframevr/aframe-presentation-kit)</target>
 </trans-unit>
 <trans-unit id="39">
   <source xml:lang="en-US">Create a few scenes for demo &amp;</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Crie algumas cenas para fins de</target>
 </trans-unit>
 <trans-unit id="40">
   <source xml:lang="en-US">prototyping purposes.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">demonstração e protótipos.</target>
 </trans-unit>
 <trans-unit id="41">
   <source xml:lang="en-US">You can find examples on [awesome-aframe](https://github.com/aframevr/awesome-aframe)</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Você pode encontrar exemplos de [incríveis-aframe](https://github.com/aframevr/awesome-aframe)</target>
 </trans-unit>
 <trans-unit id="42">
   <source xml:lang="en-US">Acquire headsets to use and demo.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Adquirir fones de ouvido para uso e demonstração.</target>
 </trans-unit>
 <trans-unit id="43">
   <source xml:lang="en-US">Google Cardboard can be acquired in some locations for less than $5 a set.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Google cartão pode ser adquirido em alguns locais por menos de US $ 5 por set.</target>
 </trans-unit>
 <trans-unit id="44">
   <source xml:lang="en-US">We recommend 5 headsets for an event of 20-30 people.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Recomendamos 5 headsets para um evento de 20-30 pessoas.</target>
 </trans-unit>
 <trans-unit id="45">
   <source xml:lang="en-US">You can request budget of up to $50 maximum for these headsets but you will have to buy them yourself.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Você pode solicitar orçamento de até US $ 50 máximo para esses fones de ouvido, mas você terá que comprá-los você mesmo.</target>
 </trans-unit>
 <trans-unit id="46">
   <source xml:lang="en-US">**1 Week Before the Event**</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">**1 Semana Antes do Evento**</target>
 </trans-unit>
 <trans-unit id="47">
   <source xml:lang="en-US">Confirmed selected attendees through email.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Confirmados participantes selecionados através de e-mail.</target>
 </trans-unit>
 <trans-unit id="48">
   <source xml:lang="en-US">Distribute the following list of tasks to do before event:</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Distribua a seguinte lista de tarefas para fazer antes do evento:</target>
 </trans-unit>
 <trans-unit id="49">
   <source xml:lang="en-US">Create a GitHub account if they don’t have one</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Crie uma conta GitHub, se eles não têm um</target>
 </trans-unit>
 <trans-unit id="50">
   <source xml:lang="en-US">Get familiar with [A-Frame](https://aframe.io/) and [read about areas to contribute](https://github.com/aframevr/aframe/blob/master/CONTRIBUTING.md)</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Familiarize-se com [A-Frame](https://aframe.io/) e ler [sobre áreas para contribuir](https://github.com/aframevr/aframe/blob/master/CONTRIBUTING.md)</target>
 </trans-unit>
 <trans-unit id="51">
   <source xml:lang="en-US">Join the [A-Frame Slack Channel](https://aframevr-slack.herokuapp.com/)</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Junte-se à [A-Frame Slack Channel](https://aframevr-slack.herokuapp.com/)</target>
 </trans-unit>
 <trans-unit id="52">
-  <source xml:lang="en-US">[Optional] Play with A-Frame, starting with a [Hello World scene](https://codepen.io/mozvr/pen/BjygdO).</source>
-  <target xml:lang="pt-BR"></target>
+    <source xml:lang="en-US">[Optional] Play with A-Frame, starting with a [Hello World scene](https://codepen.io/mozvr/pen/BjygdO).</source>
+  <target xml:lang="pt-BR">[Opcional] Jogue com A-Frame, começando com um [Olá Mundo cena](https://codepen.io/mozvr/pen/BjygdO).</target>
 </trans-unit>
 <trans-unit id="53">
   <source xml:lang="en-US">Skim through the [documentation](https://aframe.io/docs/0.3.0/introduction/getting-started.html).</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Folhear a [documentação](https://aframe.io/docs/0.3.0/introduction/getting-started.html).</target>
 </trans-unit>
 <trans-unit id="54">
   <source xml:lang="en-US">Event Flow</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Fluxo de Eventos</target>
 </trans-unit>
 <trans-unit id="55">
   <source xml:lang="en-US">This is how you can break up a 4 hour event format.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Isto é como você pode acabar com um formato de evento de 4 horas.</target>
 </trans-unit>
 <trans-unit id="56">
   <source xml:lang="en-US">You can try to shorten some sections if you want to do it quicker.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Você pode tentar encurtar algumas seções se você quiser fazê-lo mais rápido.</target>
 </trans-unit>
 <trans-unit id="57">
   <source xml:lang="en-US">**Getting Started (30 minutes)**</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">**Iniciação (30 minutos)**</target>
 </trans-unit>
 <trans-unit id="58">
   <source xml:lang="en-US">Introduction of speakers and attendees with an ice breaker session (e.g., [catch the ball](http://businessmajors.about.com/od/icebreakers/a/Icebreaker8.htm))</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Introdução de palestrantes e participantes com uma sessão de disjuntor de gelo (por exemplo, [pegar a bola](http://businessmajors.about.com/od/icebreakers/a/Icebreaker8.htm))</target>
 </trans-unit>
 <trans-unit id="59">
   <source xml:lang="en-US">About [Mozilla’s mission](https://www.mozilla.org/mission/) as a non-profit and community-focused organization.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Sobre [missão da Mozilla](https://www.mozilla.org/mission/) como um sem fins lucrativos e organização focada na comunidade.</target>
 </trans-unit>
 <trans-unit id="60">
   <source xml:lang="en-US">About [VR, WebVR &amp;</source>
-  <target xml:lang="pt-BR">About [VR, WebVR &amp;</target>
+  <target xml:lang="pt-BR">Sobre [VR, WebVR &amp;</target>
 </trans-unit>
 <trans-unit id="61">
   <source xml:lang="en-US">A-Frame](https://gurumukhi.wordpress.com/2016/09/21/a-frame-for-vr-development-on-web/)</source>
@@ -272,23 +272,23 @@ Having more developers and content creators playing with WebVR is important for 
 </trans-unit>
 <trans-unit id="62">
   <source xml:lang="en-US">Quickly note social tags: #MozActivate, #WebVRCamp, @mozillavr</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Nota rapidamente marcas sociais: #MozActivate, #WebVRCamp, @mozillavr</target>
 </trans-unit>
 <trans-unit id="63">
   <source xml:lang="en-US">**A-Frame [Concepts](https://aframe.io/docs/0.3.0/introduction/) (30 minutes)**</source>
-  <target xml:lang="pt-BR">**A-Frame [Concepts](https://aframe.io/docs/0.3.0/introduction/) (30 minutes)**</target>
+  <target xml:lang="pt-BR">**A-Frame [Conceitos](https://aframe.io/docs/0.3.0/introduction/) (30 minutos)**</target>
 </trans-unit>
 <trans-unit id="64">
   <source xml:lang="en-US">[Demo](http://aframe.io/examples) of basic A-Frame scenes &amp;</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">[Demo](http://aframe.io/examples) de cenas e aplicativos básicos do</target>
 </trans-unit>
 <trans-unit id="65">
   <source xml:lang="en-US">apps.</source>
-  <target xml:lang="pt-BR">apps.</target>
+  <target xml:lang="pt-BR">um-quadro.</target>
 </trans-unit>
 <trans-unit id="66">
   <source xml:lang="en-US">More examples at [A Week of A-Frame](https://aframe.io/blog/)</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Mais exemplos em [A Semana de A-Frame](https://aframe.io/blog/)</target>
 </trans-unit>
 <trans-unit id="67">
   <source xml:lang="en-US">Show off [A-Painter](https://blog.mozvr.com/a-painter/)</source>
@@ -296,71 +296,71 @@ Having more developers and content creators playing with WebVR is important for 
 </trans-unit>
 <trans-unit id="68">
   <source xml:lang="en-US">Introduce HTML tags.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Introduzir tags HTML.</target>
 </trans-unit>
 <trans-unit id="69">
   <source xml:lang="en-US">If audience is more technical, also introduce the [entity-component-system pattern](https://aframe.io/docs/0.3.0/introduction/#entity-component-system)</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Se público é mais técnico, também introduzir a [padrão em componentes do sistema entidade](https://aframe.io/docs/0.3.0/introduction/#entity-component-system)</target>
 </trans-unit>
 <trans-unit id="70">
   <source xml:lang="en-US">**Time to Hack (1 hour)**</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">**Tempo para Hack (1 hora)**</target>
 </trans-unit>
 <trans-unit id="71">
   <source xml:lang="en-US">Propose your idea of VR experiences to build</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Propor a sua ideia de experiências de RV para construir</target>
 </trans-unit>
 <trans-unit id="72">
   <source xml:lang="en-US">Can get started with [Codepen](http://codepen.io/mozvr/pen/BjygdO) or the [Boilerplate](https://github.com/aframevr/aframe-boilerplate)</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Pode começar com [Codepen](http://codepen.io/mozvr/pen/BjygdO) ou [clichê](https://github.com/aframevr/aframe-boilerplate)</target>
 </trans-unit>
 <trans-unit id="73">
   <source xml:lang="en-US">For the boilerplate, we recommend using a local server such as [Mongoose](https://www.cesanta.com/products/binary) or through Node.js.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Para o clichê, é recomendável usar um servidor local como [Mongoose](https://www.cesanta.com/products/binary) ou através Node.js.</target>
 </trans-unit>
 <trans-unit id="74">
   <source xml:lang="en-US">**More About A-Frame (30 minutes)**</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">**Mais sobre A-Frame (30 minutos)**</target>
 </trans-unit>
 <trans-unit id="75">
   <source xml:lang="en-US">A-Frame in depth (e.g., demo of advanced scenes, how are they built, using community components)</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">A-Frame em profundidade (por exemplo, demo de cenas avançados, como eles são construídos, utilizando componentes da comunidade)</target>
 </trans-unit>
 <trans-unit id="76">
   <source xml:lang="en-US">** Continue Hacking (1 hour)**</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">**Continue Hackeando (1 hora)**</target>
 </trans-unit>
 <trans-unit id="77">
   <source xml:lang="en-US">Improve your VR experience or build something else using more advanced concepts</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Melhorar a sua experiência de VR ou construir outra coisa usando conceitos mais avançados</target>
 </trans-unit>
 <trans-unit id="78">
   <source xml:lang="en-US">**Review &amp;</source>
-  <target xml:lang="pt-BR">**Review &amp;</target>
+  <target xml:lang="pt-BR">**Rever &amp;</target>
 </trans-unit>
 <trans-unit id="79">
-  <source xml:lang="en-US">Plan (30 minutes)**</source>
+  <source xml:lang="en-US">Planejar (30 minutos)**</source>
   <target xml:lang="pt-BR"></target>
 </trans-unit>
 <trans-unit id="80">
   <source xml:lang="en-US">Review the whole event</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Rever todo o evento</target>
 </trans-unit>
 <trans-unit id="81">
   <source xml:lang="en-US">Talk about [A-Frame community](http://aframe.io/community/).</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Fale sobre [comunidade A-Frame](http://aframe.io/community/).</target>
 </trans-unit>
 <trans-unit id="82">
   <source xml:lang="en-US">Don’t forget to mention if you have a separate communication medium to connect with the local WebVR community (e.g., WebVR-India telegram group)</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Não se esqueça de mencionar se você tem um meio de comunicação em separado para se conectar com a comunidade WebVR local (por exemplo, WebVR-India grupo telegrama)</target>
 </trans-unit>
 <trans-unit id="83">
   <source xml:lang="en-US">Discuss takeaways</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Discutir delivery</target>
 </trans-unit>
 <trans-unit id="84">
   <source xml:lang="en-US">Discuss individual action plans and follow-up plans</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Discutir planos de acção individuais e planos de acompanhamento</target>
 </trans-unit>
 <trans-unit id="85">
   <source xml:lang="en-US">Output</source>
@@ -368,39 +368,39 @@ Having more developers and content creators playing with WebVR is important for 
 </trans-unit>
 <trans-unit id="86">
   <source xml:lang="en-US">Additional to the recommended event flow here are some things we’d like you, the event organizer, to do.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Adicional para o fluxo de eventos recomendado aqui estão algumas coisas que gostaríamos que você, o organizador do evento, para fazer.</target>
 </trans-unit>
 <trans-unit id="87">
   <source xml:lang="en-US">Fill out the post-event metrics on the event page you set up on the Reps portal</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Preencha as métricas pós-evento na página do evento você configurar no portal Reps</target>
 </trans-unit>
 <trans-unit id="88">
   <source xml:lang="en-US">Thank-You email to attendees with:</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Enviar um e-mail de obrigado para os participantes com:</target>
 </trans-unit>
 <trans-unit id="89">
   <source xml:lang="en-US">A feedback form</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Um formulário de feedback</target>
 </trans-unit>
 <trans-unit id="90">
   <source xml:lang="en-US">Suggestion to Tweet their experience.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Sugestão de tweet sua experiência.</target>
 </trans-unit>
 <trans-unit id="91">
   <source xml:lang="en-US">Mention @mozillavr, #MozActivate, and #WebVRCamp</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Mencione @mozillavr, #MozActivate e #WebVRCamp</target>
 </trans-unit>
 <trans-unit id="92">
   <source xml:lang="en-US">Suggestion to write a blog post and share</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Sugestão para escrever um post de blog e compartilhar</target>
 </trans-unit>
 <trans-unit id="93">
   <source xml:lang="en-US">Important links</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Links importantes</target>
 </trans-unit>
 <trans-unit id="94">
   <source xml:lang="en-US">Send an event report or blog post and photo-stream link either over Twitter or Slack.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Enviar um relatório de evento ou blog e link de foto-stream, quer através do Twitter ou Slack.</target>
 </trans-unit>
 <trans-unit id="95">
   <source xml:lang="en-US">Share a summary [this Discourse thread](https://discourse.mozilla-community.org/t/activate-mozilla-webvr-camp/11190)</source>
@@ -408,19 +408,19 @@ Having more developers and content creators playing with WebVR is important for 
 </trans-unit>
 <trans-unit id="96">
   <source xml:lang="en-US">Contact</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Contato</target>
 </trans-unit>
 <trans-unit id="97">
   <source xml:lang="en-US">Want to find out more about the A-Frame community?</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Quer saber mais sobre a comunidade de A-Frame?</target>
 </trans-unit>
 <trans-unit id="98">
   <source xml:lang="en-US">Ping us on the [A-Frame Slack channel](https://aframevr-slack.herokuapp.com/) or Tweet at us [@aframevr](https://twitter.com/aframevr).</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">O ping-nos no canal [Slack A-Frame](https://aframevr-slack.herokuapp.com/) ou Tweet para nós []@aframevr](https://twitter.com/aframevr).</target>
 </trans-unit>
 <trans-unit id="99">
   <source xml:lang="en-US">Visit the [A-Frame community page](https://aframe.io/community/) for more details.</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">Visite a página da [comunidade A-Frame](https://aframe.io/community/) para mais detalhes.</target>
 </trans-unit>
     </body>
  </file>

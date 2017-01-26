@@ -15,7 +15,7 @@ permalink: /leaderboard/
 lang: en</source>
   <target xml:lang="pt-BR">layout: leaderboard
 title:  "Leaderboard"
-permalink: /leaderboard/
+permalink: /pt/leaderboard/
 lang: en</target>
 </trans-unit>
 <trans-unit id="2">
@@ -29,7 +29,8 @@ lang: en</target>
 <trans-unit id="4">
   <source xml:lang="en-US">{: #loading .pull-right}
 &lt;span class=&quot;glyphicon glyphicon-refresh&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt; loading...</source>
-  <target xml:lang="pt-BR"></target>
+  <target xml:lang="pt-BR">{: #loading .pull-right}
+&lt;span class=&quot;glyphicon glyphicon-refresh&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt; loading...</target>
 </trans-unit>
 <trans-unit id="5">
   <source xml:lang="en-US">{: #board .sortable}
