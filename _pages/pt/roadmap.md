@@ -10,11 +10,11 @@ ref: roadmap
 
 Nesta página descrevemos as atividades passadas, atuais e futuras que temos neste site. Se você tiver comentários, perguntas ou sugestões, por favor, [insira-os neste tópico](https://discourse.mozilla-community.org/t/activate-mozilla-roadmap/10068).
 
-*Note that this roadmap is subject to change.*
+*Atenção! Este cronograma está sujeito a alterações.*
 
-| Now (Q1 2017)  | Next (Q2 2017)   | Later (Beyond) |
+| Agora (Q1 2017)  | Próximo (Q2 2017)   | Além (muito além) |
 | --- | --- | --- |
-| [Dive Into Rust](/pt/rust-hack/) | Next-Gen Firefox Hacking with The Janitor |     |
-| [Web Compatibility Sprint](/pt/webcompat-sprint/) |     |     |
-| [Test Pilot Install](/pt/test-pilot/) |     |     |
+| [Mergulhando no Rust](/pt/rust-hack/) | Firefox Hacking Prox-Geração com O Janitor |     |
+| [Sprint de Compatibilidade Web](/pt/webcompat-sprint/) |     |     |
+| [Instale o Test Pilot](/pt/test-pilot/) |     |     |
 | [WebVR Camp](/pt/webvr-camp/) |     |     |

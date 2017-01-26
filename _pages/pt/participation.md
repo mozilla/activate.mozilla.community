@@ -8,7 +8,7 @@ ref: participation
 
 # Sobre a participação da Mozilla
 
-Mozilla tem milhares de voluntários ao todo do mundo, que impactam todos os dias ao contribuírem com projetos de engenharia, localização, suporte, marketing e outras áreas. No entanto, às vezes, encontrar a oportunidade certa de ajudar na hora certa pode ser difícil em um projeto tão grande. Por isso, a criação deste site, cujo objetivo é mostrar as coisas que há para fazer neste momento. Os critérios para essas atividades são:
+A Mozilla tem milhares de voluntários em todo o Mundo, que impactam todos os dias ao contribuírem com projetos de engenharia, localização, suporte, marketing e outras áreas. No entanto, às vezes, encontrar a oportunidade certa para ajudar na hora certa pode ser difícil em um projeto tão grande. Por isso, a criação deste site, cujo objetivo é mostrar as coisas que há para fazer neste momento. Os critérios para essas atividades são:
 
 * Elas são relevantes para o que está acontecendo neste momento na Mozilla
 * Elas trazem valor para aqueles que escolheram participar

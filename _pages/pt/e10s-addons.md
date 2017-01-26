@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "e10s and Featured Add-ons"
+title:  "e10s e Extensões"
 permalink: /pt/e10s-addons/
 lang: pt
 ref: e10s-addons
@@ -16,67 +16,69 @@ This activity is retired. What this means is that we don't recommend that you ru
 
 Featured add-ons receive enhanced promotion on AMO, which results in greatly increased installs for this recommended content. With the emergence of multiprocess Firefox (e10s), we need to ensure these spotlighted add-ons meet the highest levels of browser compatibility and functionality.
 
-__NOTE: This activity is running only until November 4th, 2016__.
+Extensões em destaque recebem promoção reforçada no [AMO](https://addons.mozilla.org/), o que resulta em um grande aumento de instalação do conteúdo recomendado. Com o surgimento de Firefox multiprocesso (e10s), é preciso garantir que estas extensões destacadas atendam os mais altos níveis de compatibilidade e funcionalidade do navegador.
 
-## Impact and Metrics
+__NOTE: Essa atividade está ocorrerá somente até 4 de novembro de 2016__.
 
-Millions of Firefox users have installed add-ons directly from the [Featured Add-ons collection](https://addons.mozilla.org/firefox/extensions/?sort=featured). They expect and trust Mozilla to guide them to the very best add-ons content. Ensuring compatibility with the latest browser technology, in this case e10s—which will be turned on for Firefox with Firefox 50 (November 8) who have compatible add-ons—is critical to the claim that these featured add-ons deserve their attention.
+## Impacto e Métricas
 
-### Goals for this area
+Milhões de usuários do Firefox tem instalado extensões diretamente da [coleção de Extensões destaque](https://addons.mozilla.org/firefox/extensions/?sort=featured). Eles esperam e confiam na Mozilla para guiá-los para as melhores extensões. Assegurando a compatibilidade com a tecnologia mais recente do navegador, neste caso o e10s-que será ligado para o Firefox com o Firefox 50 (08 de novembro), que tem compatíveis com complementos é fundamental para a afirmação de que estes complementos destaque merece a sua atenção.
 
-__Impact:__
+### Objetivos para estas áreas
 
-* 55 featured add-ons, with &lt;100k users, are tested
-* 400 individual add-on tests
+__Impacto:__
 
-__Strength:__
+* 55 Complementos destaque, com &alt;100k usuários, sendo testados
+* 400 testes individuais de extensões
 
-* 15 Mobilizers activated
-* 200 add-on testers at events
+__Força:__
 
-## Audience for this activity
+* 15 Mozilizados ativados
+* 200 testadores de complementos em eventos
 
-This is for participants with an interest or passion for add-ons content from a user experience perspective. You do not need any particular technical skills, but rather an ability to install add-ons and test their features to ensure the content works as expected with multiprocess Firefox.
+##Audiência para esta atividade
 
-## Activity Format
+Isto é para os participantes com um interesse ou paixão pelo conteúdo de complementos de uma perspectiva de experiência do usuário. Você não precisa de nenhum conhecimento técnico especial, mas sim uma capacidade de instalar complementos e testar os seus recursos para garantir as obras de conteúdo conforme o esperado com Firefox multiprocesso.
 
-While this activity can be run solo, we encourage you to run an event in your community to get together people who care about the Web. The goal is to test sites, diagnose problems, and discuss how to evangelise locally to developers about a Web that works for everyone.
+## Formato Atividade
 
-1. Put an event team together
-2. Choose a date and secure a venue
-3. Setup the event on Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting)). [Find a Rep](https://reps.mozilla.org/people/) closeby to do this if you are not one.
+Embora essa atividade pode ser executada solo, nós encorajamos você a executar um evento em sua comunidade para se reunir as pessoas que se preocupam com a Web. O objetivo é testar locais, diagnosticar problemas e discutir como evangelizar localmente para desenvolvedores sobre um Web que funcione para todos.
 
-For duration, we recommend 2-3 hours with 10-15 attendees.
+1. Coloque uma equipe de evento juntos
+2. Escolha uma data e garanta um local
+3. Configure o evento no portal dos Reps ([instruções](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting)). [Encontre um Rep](https://reps.mozilla.org/people/) nas proximidades de fazer isso se você não for um.
 
-## Event Flow
+Para duração, recomendamos 2-3 horas com 10-15 participantes.
 
-### Introduction
+## Fluxo de eventos
 
-* Give a quick introduction to attendees about what we are doing and why it is important. The main point is that with more compatible add-ons, e10s will roll out faster to potentially millions more Firefox users.
-* Ask attendees to tweet about their attendance. Here is a suggested message:
-    * I’m helping more @Firefox add-ons to become compatible with new cutting edge technology <link of this page> #MozActivate
+### Introdução
 
-### Steps to test...
+* Dê uma rápida introdução aos participantes sobre o que estamos fazendo e por que é importante. O ponto principal é que, com add-ons mais compatíveis, e10s vai rolar mais rápido para potencialmente milhões mais usuários do Firefox.
+* Peça que os participantes tweet sobre a sua presença. Aqui está uma mensagem sugeriu:
+     * Eu estou ajudando mais @Firefox complementos para se tornar compatível com a nova tecnologia de ponta <link desta página> #MozActivate
+     
+### Passos para testar ...
 
-All test reporting takes place on the [Featured Add-ons Compatibility Test page](https://featured-addons-test.herokuapp.com/). You should see a link to an add-on near the top of the page. For every add-on you want to test, you’ll need to do the following:
+Todos os relatórios de teste tem lugar na [página de teste de compatibilidade de complementos Destaque](https://featured-addons-test.herokuapp.com/). Você deverá ver um link para um add-on perto do topo da página. Para cada add-on que você deseja testar, você precisa fazer o seguinte:
 
-1. Create a new Firefox profile by going to __about:profiles__ => “Create new profile”. Enter a name and click “Done”. Then click “Launch profile in new browser” to launch it.
-2. Install the ["Add-on Compatibility Reporter"](https://addons.mozilla.org/addon/add-on-compatibility-reporter?src=external-activatee10s1) (ACR) add-on in the new profile.
-3. Install the add-on you want to test in the new profile.
-4. Go to __about:addons__ and make sure that it says “Multiprocess is enabled” in the top right corner and “Compatible to multiprocess” for the add-on you are testing.
-5. Test the main functionality of the add-on. Does it perform as expected? (Testing typically takes 15 - 30 minutes)
-6. Once testing is complete, go back to the Featured Add-on Test page in your main profile and select YES or NO to reflect its test results, then click “Submit”.
-    1. Feel free to leave comments (optional) if you care to detail issues you may have encountered.
-    2. Clicking Submit will also refresh the page, and serve up a new add-on to test. Test as many as you like!
+1. Criar um novo perfil Firefox, indo para __about: profiles__ => "Criar novo perfil". Digite um nome e clique em "Concluído". Em seguida, clique em "Perfil de lançamento no novo browser" para lançá-lo.
+2. Instalar o ["Add-on Compatibility Reporter"](https://addons.mozilla.org/addon/add-on-compatibility-reporter?src=external-activatee10s1) (ACR) complemento no novo perfil.
+3. Instale o add-on que você deseja testar no novo perfil.
+4. Vá para __about: addons__ e certifique-se de que ele diz que "Multiprocesso está habilitado" no canto superior direito e "Compatível com multiprocess" para o add-on que você está testando.
+5. Teste a principal funcionalidade do add-on. Será que o desempenho esperado? (Teste normalmente leva 15 - 30 minutos)
+6. Quando concluir o teste, voltar para o Destaque Add-on página de teste no seu perfil principal e selecione SIM ou NÃO para refletir seus resultados de teste, em seguida, clique em "Enviar".
+    1. Sinta-se livre para deixar um comentário (opcional) Se você se preocupa com questões de detalhe que você pode ter encontrado.
+    2. Clicando em Enviar também irá atualizar a página, e servir-se de um novo add-on para o teste. Teste como muitos como você gosta!
 
 ## Output
 
-Additional to the recommended event flow here are some things we’d like you, the event organizer, to do.
+Adicional para o fluxo de eventos recomendado aqui estão algumas coisas que gostaríamos que você, o organizador do evento, para fazer.
 
-* Fill out the post-event metrics on the event page you setup on the Reps portal
-* Tell us about your event. This can be before and after. We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two!
-    * [Here is the Discourse post to write to](https://discourse.mozilla-community.org/t/activate-mozilla-e10s-compatibility-and-featured-add-ons/11193)
+* Preencha as métricas pós-evento na página do evento você configurar no portal Reps
+* Conte-nos sobre o seu evento. Isto pode ser antes e depois. Gostamos de ouvir sobre os próximos planos, e, claro, adoraria ouvir sobre o que foi alcançado no evento com uma imagem ou dois!
+    * [Aqui está o post Discurso de escrever para](https://discourse.mozilla-community.org/t/activate-mozilla-e10s-compatibility-and-featured-add-ons/11193)
 
 ## Extra
 
-If you’re interested in add-ons and want to learn more about ways you can get involved with addons.mozilla.org, please visit: [https://wiki.mozilla.org/Add-ons/Contribute](https://wiki.mozilla.org/Add-ons/Contribute)
+Se você estiver interessado em complementos e quer aprender mais sobre maneiras que você pode se envolver com addons.mozilla.org, visite: [https://wiki.mozilla.org/Add-ons/Contribute](https://wiki.mozilla.org/Add-ons/Contribute)
