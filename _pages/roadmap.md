@@ -16,5 +16,4 @@ In this page we describe the past, current and future activities that we have on
 | --- | --- | --- |
 | [Dive Into Rust](/rust-hack/) | Next-Gen Firefox Hacking with The Janitor |     |
 | [Web Compatibility Sprint](/webcompat-sprint/) |     |     |
-| [Test Pilot Install](/test-pilot/) |     |     |
 | [WebVR Camp](/webvr-camp/) |     |     |

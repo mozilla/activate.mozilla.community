@@ -16,5 +16,4 @@ Nesta página descrevemos as atividades passadas, atuais e futuras que temos nes
 | --- | --- | --- |
 | [Dive Into Rust](/pt/rust-hack/) | Next-Gen Firefox Hacking with The Janitor |     |
 | [Web Compatibility Sprint](/pt/webcompat-sprint/) |     |     |
-| [Test Pilot Install](/pt/test-pilot/) |     |     |
 | [WebVR Camp](/pt/webvr-camp/) |     |     |
