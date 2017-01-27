@@ -87,10 +87,10 @@ _</source>
 _</target>
 </trans-unit>
 <trans-unit id="17">
-  <source xml:lang="en-US">{: .activity}
+  <source xml:lang="en-US">{: .activity .text-muted}
 **Install Test Pilot**
 When building features for hundreds of millions of Firefox users worldwide, it’s important to get them right.</source>
-  <target xml:lang="pt-BR">{: .activity}
+  <target xml:lang="pt-BR">{: .activity .text-muted}
 **Instalar Test Pilot**
 Quando se constrói funcionalidades para centenas de milhões de usuários Firefox no Mundo, é importante fazê-las certo.</target>
 </trans-unit>

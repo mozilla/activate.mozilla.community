@@ -80,7 +80,7 @@ _</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="17">
-  <source xml:lang="en-US">{: .activity}
+  <source xml:lang="en-US">{: .activity .text-muted}
 **Install Test Pilot**
 When building features for hundreds of millions of Firefox users worldwide, it’s important to get them right.</source>
   <target xml:lang="en-US"></target>

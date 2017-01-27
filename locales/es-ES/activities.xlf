@@ -35,16 +35,13 @@ redirect_from: "/es/developer-engagement/"</target>
   <target xml:lang="es-ES"></target>
 </trans-unit>
 <trans-unit id="5">
-  <source xml:lang="en-US">That they have the potential to have a direct impact on Mozilla’s work right now</source>
-  <target xml:lang="es-ES"></target>
+  <source xml:lang="en-US">{: .retired}
+This activity is retired.</source>
+  <target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="6">
-  <source xml:lang="en-US">That they bring value to you and your community.</source>
-  <target xml:lang="es-ES"></target>
-</trans-unit>
-<trans-unit id="7">
-  <source xml:lang="en-US">While we have specific metrics for each activity, one of the main overall goals is that we all get better at mobilising and building communities.</source>
-  <target xml:lang="es-ES"></target>
+  <source xml:lang="en-US">What this means is that we don't recommend that you run the activity at this time and resources will no longer be available.</source>
+  <target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="8">
   <source xml:lang="en-US">Before you jump right in: Look at your goals for the year, what do you and your community want to accomplish in each of the impact areas?</source>
@@ -87,7 +84,7 @@ _</source>
 _</target>
 </trans-unit>
 <trans-unit id="17">
-  <source xml:lang="en-US">{: .activity}
+  <source xml:lang="en-US">{: .activity .text-muted}
 **Install Test Pilot**
 When building features for hundreds of millions of Firefox users worldwide, it’s important to get them right.</source>
   <target xml:lang="es-ES"></target>
