@@ -17,14 +17,14 @@ ref: activities
 redirect_from: "/developer-engagement/"</source>
   <target xml:lang="pt-BR">layout: default
 title:  "Activities"
-permalink: /activities/
+permalink: /pt/activities/
 lang: en
 ref: activities
-redirect_from: "/developer-engagement/"</target>
+redirect_from: "/pt/developer-engagement/"</target>
 </trans-unit>
 <trans-unit id="2">
   <source xml:lang="en-US">redirect_from: "/experiments/"</source>
-  <target xml:lang="pt-BR">redirect_from: "/experiments/"</target>
+  <target xml:lang="pt-BR">redirect_from: "/pt/experiments/"</target>
 </trans-unit>
 <trans-unit id="3">
   <source xml:lang="en-US">Activities</source>

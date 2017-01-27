@@ -17,14 +17,14 @@ ref: activities
 redirect_from: "/developer-engagement/"</source>
   <target xml:lang="id">layout: default
 title:  "Activities"
-permalink: /activities/
+permalink: /id/activities/
 lang: en
 ref: activities
-redirect_from: "/developer-engagement/"</target>
+redirect_from: "/id/developer-engagement/"</target>
 </trans-unit>
 <trans-unit id="2">
   <source xml:lang="en-US">redirect_from: "/experiments/"</source>
-  <target xml:lang="id">redirect_from: "/experiments/"</target>
+  <target xml:lang="id">redirect_from: "/id/experiments/"</target>
 </trans-unit>
 <trans-unit id="3">
   <source xml:lang="en-US">Activities</source>
@@ -102,7 +102,7 @@ When building features for hundreds of millions of Firefox users worldwide, itâ€
 </trans-unit>
 <trans-unit id="20">
   <source xml:lang="en-US">[Find out more](/test-pilot/).</source>
-  <target xml:lang="id"></target>
+  <target xml:lang="id">[Find out more](/id/test-pilot/).</target>
 </trans-unit>
 <trans-unit id="21">
   <source xml:lang="en-US">{: .activity .text-muted}
@@ -116,7 +116,7 @@ With the emergence of multiprocess Firefox (e10s), we need to ensure featured ad
 </trans-unit>
 <trans-unit id="23">
   <source xml:lang="en-US">[Find out more](/e10s-addons/).</source>
-  <target xml:lang="id"></target>
+  <target xml:lang="id">[Find out more](/id/e10s-addons/).</target>
 </trans-unit>
 <trans-unit id="24">
   <source xml:lang="en-US">{: .clear}
@@ -176,7 +176,7 @@ Rust is a systems programming language important to the future of the web.</sour
 </trans-unit>
 <trans-unit id="35">
   <source xml:lang="en-US">[Find out more](/rust-hack/).</source>
-  <target xml:lang="id"></target>
+  <target xml:lang="id">[Find out more](/id/rust-hack/).</target>
 </trans-unit>
 <trans-unit id="36">
   <source xml:lang="en-US">{: .activity}
@@ -194,7 +194,7 @@ A-Frame is a web framework for building virtual reality experiences, making it e
 </trans-unit>
 <trans-unit id="39">
   <source xml:lang="en-US">[Find out more](/webvr-camp/).</source>
-  <target xml:lang="id"></target>
+  <target xml:lang="id">[Find out more](/id/webvr-camp/).</target>
 </trans-unit>
 <trans-unit id="40">
   <source xml:lang="en-US">{: .clear}
@@ -254,7 +254,7 @@ Web Compatibility, the ability for all Web content to run in all browsers, is im
 </trans-unit>
 <trans-unit id="51">
   <source xml:lang="en-US">[Find out more](/webcompat-sprint/).</source>
-  <target xml:lang="id"></target>
+  <target xml:lang="id">[Find out more](/id/webcompat-sprint/).</target>
 </trans-unit>
 <trans-unit id="52">
   <source xml:lang="en-US">{: .clear}

@@ -17,14 +17,14 @@ ref: webcompat-sprint
 parent: activities</source>
   <target xml:lang="es-ES">layout: page
 title:  "Web Compatibility Sprint"
-permalink: /webcompat-sprint/
+permalink: /es/webcompat-sprint/
 lang: en
 ref: webcompat-sprint
 parent: activities</target>
 </trans-unit>
 <trans-unit id="2">
   <source xml:lang="en-US">redirect_from: "/developer-engagement/webcompat-sprint/"</source>
-  <target xml:lang="es-ES">redirect_from: "/developer-engagement/webcompat-sprint/"</target>
+  <target xml:lang="es-ES">redirect_from: "/es/developer-engagement/webcompat-sprint/"</target>
 </trans-unit>
 <trans-unit id="3">
   <source xml:lang="en-US">TOC</source>

@@ -17,14 +17,14 @@ ref: rust-hack
 parent: activities</source>
   <target xml:lang="hi-IN">layout: page
 title:  "Dive Into Rust"
-permalink: /rust-hack/
+permalink: /hi-IN/rust-hack/
 lang: en
 ref: rust-hack
 parent: activities</target>
 </trans-unit>
 <trans-unit id="2">
   <source xml:lang="en-US">redirect_from: "/developer-engagement/rust-hack/"</source>
-  <target xml:lang="hi-IN">redirect_from: "/developer-engagement/rust-hack/"</target>
+  <target xml:lang="hi-IN">redirect_from: "/hi-IN/developer-engagement/rust-hack/"</target>
 </trans-unit>
 <trans-unit id="3">
   <source xml:lang="en-US">TOC</source>

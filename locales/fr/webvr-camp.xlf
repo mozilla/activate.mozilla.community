@@ -17,14 +17,14 @@ ref: webvr-camp
 parent: activities</source>
   <target xml:lang="fr">layout: page
 title:  "WebVR Camp"
-permalink: /webvr-camp/
+permalink: /fr/webvr-camp/
 lang: en
 ref: webvr-camp
 parent: activities</target>
 </trans-unit>
 <trans-unit id="2">
   <source xml:lang="en-US">redirect_from: "/developer-engagement/webvr-camp/"</source>
-  <target xml:lang="fr">redirect_from: "/developer-engagement/webvr-camp/"</target>
+  <target xml:lang="fr">redirect_from: "/fr/developer-engagement/webvr-camp/"</target>
 </trans-unit>
 <trans-unit id="3">
   <source xml:lang="en-US">TOC</source>

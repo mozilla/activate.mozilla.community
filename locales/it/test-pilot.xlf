@@ -17,14 +17,14 @@ ref: test-pilot
 parent: activities</source>
   <target xml:lang="it">layout: page
 title:  "Install Test Pilot"
-permalink: /test-pilot/
+permalink: /it/test-pilot/
 lang: en
 ref: test-pilot
 parent: activities</target>
 </trans-unit>
 <trans-unit id="2">
   <source xml:lang="en-US">redirect_from: "/experiments/test-pilot/"</source>
-  <target xml:lang="it">redirect_from: "/experiments/test-pilot/"</target>
+  <target xml:lang="it">redirect_from: "/it/experiments/test-pilot/"</target>
 </trans-unit>
 <trans-unit id="3">
   <source xml:lang="en-US">TOC</source>

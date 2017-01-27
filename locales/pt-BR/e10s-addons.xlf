@@ -24,7 +24,7 @@ parent: activities</target>
 </trans-unit>
 <trans-unit id="2">
   <source xml:lang="en-US">redirect_from: "/experiments/e10s-addons/"</source>
-  <target xml:lang="pt-BR">redirect_from: "/experiments/e10s-addons/"</target>
+  <target xml:lang="pt-BR">redirect_from: "/pt/experiments/e10s-addons/"</target>
 </trans-unit>
 <trans-unit id="3">
   <source xml:lang="en-US">TOC</source>

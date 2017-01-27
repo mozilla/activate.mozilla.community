@@ -17,14 +17,14 @@ ref: e10s-addons
 parent: activities</source>
   <target xml:lang="ro">layout: page
 title:  "e10s and Featured Add-ons"
-permalink: /e10s-addons/
+permalink: /ro/e10s-addons/
 lang: en
 ref: e10s-addons
 parent: activities</target>
 </trans-unit>
 <trans-unit id="2">
   <source xml:lang="en-US">redirect_from: "/experiments/e10s-addons/"</source>
-  <target xml:lang="ro">redirect_from: "/experiments/e10s-addons/"</target>
+  <target xml:lang="ro">redirect_from: "/ro/experiments/e10s-addons/"</target>
 </trans-unit>
 <trans-unit id="3">
   <source xml:lang="en-US">TOC</source>
