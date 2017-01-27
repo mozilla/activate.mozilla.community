@@ -29,7 +29,7 @@ In order to use and build the web as a global public resource people must have t
 {: .clear}
 _
 
-{: .activity}
+{: .activity .text-muted}
 **Install Test Pilot**
 When building features for hundreds of millions of Firefox users worldwide, it’s important to get them right. Help us figure out which features should ship and how they should work. Install Test Pilot and give us feedback.
 [Find out more](/fr/test-pilot/).

@@ -11,15 +11,8 @@ redirect_from: "/es/experiments/test-pilot/"
 * TOC
 {:toc}
 
-{: .label .timebox}
-<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 2 hours
-
-{: .clear}
-_
-
-{: .alert .alert-info .impactbox}
-<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
-By testing new features and functionality, you help to keep Firefox on the leading edge and consumers engaged in our product.
+{: .retired}
+This activity is retired. What this means is that we don't recommend that you run the activity at this time and resources will no longer be available.
 
 Al momento de desarrollar características para los cientos de millones de usuarios de Firefox alrededor del mundo, es importante acertar. Creamos el nuevo programa Test Pilot para facilitar la decisión de qué funciones lanzar y cómo deberían funcionar. Permite a los usuarios probar características experimentales y a nosotros conocer su opinión. Puedes activarlas o desactivarlas en cualquier momento, y siempre sabrás qué información estás compartiendo para ayudarnos a entender cómo se usan estas funciones. Por supuesto, también puedes usar Test Pilot para proveer comentarios y sugerencias al equipo que trabaja en cada una de estas funciones.
 
