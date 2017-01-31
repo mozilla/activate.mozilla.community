@@ -189,7 +189,7 @@ Rust é uma linguagem de programação para sistemas, importante para o futuro d
 A-Frame is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality.</source>
   <target xml:lang="pt-BR">{: .activity}
 **WebVR Camp**
-O A-Frame é um framework web para o desenvolvimento de experiências com Realidade Virtual, tornando fácil para qualquer um se envolver com Realidade Virtual.</source></target>
+O A-Frame é um framework web para o desenvolvimento de experiências com Realidade Virtual, tornando fácil para qualquer um se envolver com Realidade Virtual.</target>
 </trans-unit>
 <trans-unit id="37">
   <source xml:lang="en-US">Run events to onboard developers into 3D and write some great demos.</source>
