@@ -8,7 +8,7 @@ All content can be edited using just [Markdown](https://en.wikipedia.org/wiki/Ma
 
 * Front page (in English) can be modified editing [index.md](/_includes/index.md).
 * Pages can be added/edited from the [_pages](/_pages) folder, including subfolders for localized content (front page included).
-* User interface strings for all languages are in [_data/l10n](/_data/l10n/).
+* Translations are managed through [Pontoon](http://pontoon.mozilla.org/)
 
 Each page has a top section with some variables:
 
@@ -31,16 +31,11 @@ ref: developer-engagement
 
 ## Submit a new localization
 
-**NOTE: Currently we are not accepting any new localizations until we improve the system to be able to scale**
-
-In order to request a new localization, please [create a new issue](https://github.com/mozilla/activate.mozilla.community/issues) with the title "LanguageName (LanguageCode) localization" and we will create the folder structure for it.
-
-Once this is created you will need to:
-* [Fork this repository](https://help.github.com/articles/fork-a-repo/).
-* Localize all files inside ``_pages/yourlangcode/`` and ``_data/l10n/yourlangcode.yml``.
-* [Send a pull request](https://help.github.com/articles/using-pull-requests/) to have these changes reviewed and incorporated.
-
-**Important:** Make sure you check [how to update content](https://github.com/mozilla/activate.mozilla.community#how-to-add-or-update-content) from the pages in this site first.
+1. In order to request a new localization, please [create a new issue](https://github.com/mozilla/activate.mozilla.community/issues) with the title "LanguageName (LanguageCode) localization"
+2. The locale will be evaluated by the program manager, along with members of that community.
+3. If it gets the green light, we will move the strings into [Pontoon](http://pontoon.mozilla.org/) and notify the localization team
+4. At regular intervals, we will monitor Pontoon and once a particular locale is finished, we will merge back into Github and turn on the locale on the site. You can file an issue on Github to make us aware of the final strings as well, so we can add the new locale within a few days.
+5. Once the product goes live, updates and corrections won’t happen automatically through Pontoon. For changes, we will merge back into the site at regular intervals. Again, if you think your change is still not on the production site, you can create an issue here and we will have a look.
 
 ## Hack the site
 
