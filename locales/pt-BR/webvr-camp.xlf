@@ -329,6 +329,7 @@ Having more developers and content creators playing with WebVR is important for 
       </trans-unit>
       <trans-unit id="79">
         <source xml:lang="en-US">Planejar (30 minutos)**</source>
+        <target>Plano (30 minutes)**</target>
       </trans-unit>
       <trans-unit id="80">
         <source xml:lang="en-US">Review the whole event</source>
