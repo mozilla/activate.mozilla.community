@@ -40,9 +40,11 @@ lang: en</source>
       </trans-unit>
       <trans-unit id="8">
         <source xml:lang="en-US">We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now, and provide clear steps on how to get involved right away.</source>
+        <target>Queremos ser claros sobre cuáles son las áreas más importantes de Mozilla en las que colaborar ahora mismo y ofrecer instrucciones específicas sobre cómo colaborar.</target>
       </trans-unit>
       <trans-unit id="9">
         <source xml:lang="en-US">These will be presented in the form of activities.</source>
+        <target>Se presentarán en forma de actividades.</target>
       </trans-unit>
       <trans-unit id="10">
         <source xml:lang="en-US">Who can be involved in the activities?</source>
