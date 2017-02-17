@@ -20,12 +20,15 @@ lang: en</source>
       </trans-unit>
       <trans-unit id="3">
         <source xml:lang="en-US">About Participation at Mozilla</source>
+        <target>Sobre la Participación en Mozilla</target>
       </trans-unit>
       <trans-unit id="4">
         <source xml:lang="en-US">Mozilla has thousands of volunteers globally making an impact every day by contributing to engineering projects, localization, support, marketing, and other areas.</source>
+        <target>Mozilla tiene miles de voluntarios en todo el mundo que contribuyen a diario colaborando en proyectos de ingienería, localización, ayuda, marketing y muchas otras áreas.</target>
       </trans-unit>
       <trans-unit id="5">
         <source xml:lang="en-US">However, sometimes finding the right opportunity to help at the right time can be difficult in a project so large.</source>
+        <target>Sin embargo, a veces es difícil encontrar la oportunidad perfecta para ayudar en el momento adecuado en un proyecto tan amplio.</target>
       </trans-unit>
       <trans-unit id="6">
         <source xml:lang="en-US">Hence the creation of this site, the purpose of which is to surface up things to do right now.</source>
@@ -53,6 +56,7 @@ lang: en</source>
       </trans-unit>
       <trans-unit id="14">
         <source xml:lang="en-US">Our Mission</source>
+        <target>Nuestra misión</target>
       </trans-unit>
       <trans-unit id="15">
         <source xml:lang="en-US">To have Mozilla succeed through openness and participation</source>
