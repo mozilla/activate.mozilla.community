@@ -82,11 +82,11 @@ Having more developers and content creators playing with WebVR is important for 
       </trans-unit>
       <trans-unit id="17">
         <source xml:lang="en-US">100 projects built in or for A-Frame</source>
-        <target xml:lang="pt-BR">100 projetos construídos em ou para o A-Frame</target>
+        <target xml:lang="pt-BR">100 projetos construídos para A-Frame ou com ele</target>
       </trans-unit>
       <trans-unit id="18">
         <source xml:lang="en-US">20 blog posts about events, activities, experiences, projects, or tutorials.</source>
-        <target xml:lang="pt-BR">20 posts sobre eventos, atividades, experiências, projetos ou tutoriais.</target>
+        <target xml:lang="pt-BR">20 blog posts sobre eventos, atividades, experiências, projetos ou tutoriais.</target>
       </trans-unit>
       <trans-unit id="19">
         <source xml:lang="en-US">500 social shares with #MozActivate, #WebVRCamp, @aframevr, @mozillavr</source>
@@ -94,11 +94,11 @@ Having more developers and content creators playing with WebVR is important for 
       </trans-unit>
       <trans-unit id="20">
         <source xml:lang="en-US">__Strength:__</source>
-        <target xml:lang="pt-BR">Força:__</target>
+        <target xml:lang="pt-BR">__Vantagem:__</target>
       </trans-unit>
       <trans-unit id="21">
         <source xml:lang="en-US">20 Mobilizers activated</source>
-        <target xml:lang="pt-BR">20 mobilizadores ativada</target>
+        <target xml:lang="pt-BR">20 Mobilizadores ativos</target>
       </trans-unit>
       <trans-unit id="22">
         <source xml:lang="en-US">30 events</source>
@@ -106,7 +106,7 @@ Having more developers and content creators playing with WebVR is important for 
       </trans-unit>
       <trans-unit id="23">
         <source xml:lang="en-US">400 people are introduced to and starting to build with A-Frame</source>
-        <target xml:lang="pt-BR">400 pessoas são introduzidas e começam a construir com A-Frame</target>
+        <target xml:lang="pt-BR">400 pessoas foram introduzidas e começaram a construir com A-Frame</target>
       </trans-unit>
       <trans-unit id="24">
         <source xml:lang="en-US">Audience for this activity</source>

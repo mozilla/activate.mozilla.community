@@ -63,6 +63,7 @@ This activity is retired.</source>
       </trans-unit>
       <trans-unit id="15">
         <source xml:lang="en-US">__Impact:__</source>
+        <target>__Impacto:__</target>
       </trans-unit>
       <trans-unit id="16">
         <source xml:lang="en-US">55 featured add-ons, with &lt;100k users, are tested</source>
@@ -81,6 +82,7 @@ This activity is retired.</source>
       </trans-unit>
       <trans-unit id="21">
         <source xml:lang="en-US">Audience for this activity</source>
+        <target>Público para esta atividade</target>
       </trans-unit>
       <trans-unit id="22">
         <source xml:lang="en-US">This is for participants with an interest or passion for add-ons content from a user experience perspective.</source>
@@ -115,6 +117,7 @@ This activity is retired.</source>
       </trans-unit>
       <trans-unit id="32">
         <source xml:lang="en-US">Event Flow</source>
+        <target>Fluxo de eventos</target>
       </trans-unit>
       <trans-unit id="33">
         <source xml:lang="en-US">Introduction</source>
@@ -213,6 +216,7 @@ This activity is retired.</source>
       </trans-unit>
       <trans-unit id="64">
         <source xml:lang="en-US">Extra</source>
+        <target>Extra</target>
       </trans-unit>
       <trans-unit id="65">
         <source xml:lang="en-US">If you’re interested in add-ons and want to learn more about ways you can get involved with addons.mozilla.org, please visit: [https://wiki.mozilla.org/Add-ons/Contribute)</source>
