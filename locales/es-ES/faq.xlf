@@ -113,15 +113,19 @@ lang: en</source>
       </trans-unit>
       <trans-unit id="28">
         <source xml:lang="en-US">2000 social shares of campaign activities.</source>
+        <target>Las actividades de la campaña se han compartido 2000 veces en las redes sociales.</target>
       </trans-unit>
       <trans-unit id="29">
         <source xml:lang="en-US">These are listed here for transparency, and you can also see our per-activity goals listed under the 'Goals for this area' section on each activity page.</source>
+        <target>Aparecen aquí por cuestiones de transparencia y, en la sección 'Objetivos para este área' en la página de cada actividad, podrás ver nuestros objetivos pre-actividad.</target>
       </trans-unit>
       <trans-unit id="30">
         <source xml:lang="en-US">What should I do if I have questions?</source>
+        <target>¿Qué hago si tengo alguna duda?</target>
       </trans-unit>
       <trans-unit id="31">
         <source xml:lang="en-US">You can ask directly creating a new topic at the [Participation Leaders forum](https://discourse.mozilla-community.org/c/participation-leaders).</source>
+        <target>Puedes preguntar directamente abriendo un nuevo tema en el [foro de los líderes de participación](https://discourse.mozilla-community.org/c/participation-leaders).</target>
       </trans-unit>
       <trans-unit id="32">
         <source xml:lang="en-US">Can I request budget or swag for these activities?</source>
