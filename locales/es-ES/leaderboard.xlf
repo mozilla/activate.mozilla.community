@@ -25,6 +25,7 @@ lang: en</source>
       <trans-unit id="4">
         <source xml:lang="en-US">{: #loading .pull-right}
 &lt;span class="glyphicon glyphicon-refresh" aria-hidden="true"&gt;&lt;/span&gt; loading...</source>
+        <target>{: #loading .pull-right} &lt;span class="glyphicon glyphicon-refresh" aria-hidden="true"&gt;&lt;/span&gt; cargando...</target>
       </trans-unit>
       <trans-unit id="5">
         <source xml:lang="en-US">{: #board .sortable}
