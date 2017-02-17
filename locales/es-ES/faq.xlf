@@ -97,15 +97,19 @@ lang: en</source>
       </trans-unit>
       <trans-unit id="24">
         <source xml:lang="en-US">400 mobilizers activated.</source>
+        <target>Se ha movilizado a 400 personas.</target>
       </trans-unit>
       <trans-unit id="25">
         <source xml:lang="en-US">Primarily this is people organising events, assisting in logistics, and being the primary driver of an activity to bring more contributions.</source>
+        <target>Se trata sobre todo de organizadores de eventos, gente que ayuda en la logística y de ser el conductor principal de una actividad que tiene como objetivo atraer más colaboraciones.</target>
       </trans-unit>
       <trans-unit id="26">
         <source xml:lang="en-US">3500 unique contributions to the campaign.</source>
+        <target>3500 colaboraciónes a la campaña.</target>
       </trans-unit>
       <trans-unit id="27">
         <source xml:lang="en-US">These are the people mobilized, such as those attending events, installing add-ons, and so on.</source>
+        <target>Esta es la gente a la que hemos movilizado: desde los que asisten a eventos hasta los que instalan complementos, etc.</target>
       </trans-unit>
       <trans-unit id="28">
         <source xml:lang="en-US">2000 social shares of campaign activities.</source>
