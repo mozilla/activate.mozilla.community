@@ -50,19 +50,19 @@ Having more developers and content creators playing with WebVR is important for 
       </trans-unit>
       <trans-unit id="9">
         <source xml:lang="en-US">Its goal is to onboard developers into 3D and advance WebVR, an open platform for virtual reality that leverages the Web.</source>
-        <target xml:lang="pt-BR">Seu objetivo é desenvolvedores a bordo em 3D e avançar WebVR, uma plataforma aberta para a realidade virtual que utiliza a Web.</target>
+        <target xml:lang="pt-BR">O objetivo é apresentar aos desenvolvedores sobre 3D e promover o WebVR, uma plataforma aberta para a realidade virtual que irá alavancar a Web.</target>
       </trans-unit>
       <trans-unit id="10">
         <source xml:lang="en-US">__Having more developers and content creators playing with WebVR is important for the future of virtual reality to help build towards a free and open virtual reality platform not owned by any individual entity__.</source>
-        <target xml:lang="pt-BR">__Tendo mais desenvolvedores e criadores de conteúdo que jogam com WebVR é importante para o futuro da realidade virtual para ajudar a construir em direção a uma plataforma de realidade virtual livre e aberta não propriedade de qualquer entidade individual__.</target>
+        <target xml:lang="pt-BR">__Ter mais desenvolvedores e criadores de conteúdo que usam o WebVR é importante para o futuro da realidade virtual, para ajudar a construir uma plataforma de realidade virtual livre e aberta não proprietária de qualquer entidade individual__.</target>
       </trans-unit>
       <trans-unit id="11">
         <source xml:lang="en-US">A-Frame is used extensively by the Mozilla VR team to prototype and experiment with WebVR.</source>
-        <target xml:lang="pt-BR">A-Frame é amplamente utilizado pela equipe Mozilla VR ao protótipo e experimentar com WebVR.</target>
+        <target xml:lang="pt-BR">A-Frame é amplamente utilizado pela equipe Mozilla VR para prototipação e experimentos com WebVR.</target>
       </trans-unit>
       <trans-unit id="12">
         <source xml:lang="en-US">__Having more contributors know A-Frame will give them a chance to get involved in one of the most exciting revolutions in the field of technology__.</source>
-        <target xml:lang="pt-BR">__Tendo mais colaboradores sabendo A-Frame irá dar-lhes uma chance de se envolver em uma das revoluções mais emocionantes no campo da tecnologia.__</target>
+        <target xml:lang="pt-BR">__Ter mais colaboradores que conheçam A-Frame, dará a eles a chance de se envolver em uma das revoluções mais emocionantes no campo da tecnologia__.</target>
       </trans-unit>
       <trans-unit id="13">
         <source xml:lang="en-US">Impact and Metrics</source>
@@ -70,7 +70,7 @@ Having more developers and content creators playing with WebVR is important for 
       </trans-unit>
       <trans-unit id="14">
         <source xml:lang="en-US">Goals for this area</source>
-        <target xml:lang="pt-BR">Metas para esta área</target>
+        <target xml:lang="pt-BR">Metas</target>
       </trans-unit>
       <trans-unit id="15">
         <source xml:lang="en-US">__Impact:__</source>
@@ -78,7 +78,7 @@ Having more developers and content creators playing with WebVR is important for 
       </trans-unit>
       <trans-unit id="16">
         <source xml:lang="en-US">200 people signed up to the [A-Frame Slack channel](https://aframe.io/community/#a-frame)</source>
-        <target xml:lang="pt-BR">200 pessoas se inscreveram para o [A-Frame canal Slack](https://aframe.io/community/#a-frame)</target>
+        <target xml:lang="pt-BR">200 pessoas se inscreveram no [canal Slack do A-Frame](https://aframe.io/community/#a-frame)</target>
       </trans-unit>
       <trans-unit id="17">
         <source xml:lang="en-US">100 projects built in or for A-Frame</source>
