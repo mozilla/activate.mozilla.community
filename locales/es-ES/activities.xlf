@@ -178,6 +178,7 @@ _</source>
       </trans-unit>
       <trans-unit id="43">
         <source xml:lang="en-US">Protect The Web</source>
+        <target>Proteger la Web</target>
       </trans-unit>
       <trans-unit id="44">
         <source xml:lang="en-US">/asserts/img/icon-protect.svg</source>
@@ -185,9 +186,11 @@ _</source>
       </trans-unit>
       <trans-unit id="45">
         <source xml:lang="en-US">protect</source>
+        <target>proteger</target>
       </trans-unit>
       <trans-unit id="46">
         <source xml:lang="en-US">In order for the web to stay open and accessible to all people need to feel safe online and know how to fight for and defend against the biggest challenges and opportunities that face the internet today.</source>
+        <target>Para que la web siga siendo accesible a todos aquellos que tengan la necesidad de sentirse seguros en línea y para saber cómo luchar por defendernos frente a los grandes retos y oportunidades a los que hace frente internet hoy en día.</target>
       </trans-unit>
       <trans-unit id="47">
         <source xml:lang="en-US">{: .clear}
@@ -201,12 +204,14 @@ Web Compatibility, the ability for all Web content to run in all browsers, is im
       </trans-unit>
       <trans-unit id="49">
         <source xml:lang="en-US">There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired.</source>
+        <target>Hay muchos motores web de contenido que se ejecutan en varios dispositivos y, a veces, con pequeñas pruebas y algún que otro cambio en la página, los desarrolladores pueden garantizarles a los usuarios una experiencia completa.</target>
       </trans-unit>
       <trans-unit id="50">
         <source xml:lang="en-US">Test sites and spread the message about compatibility.</source>
       </trans-unit>
       <trans-unit id="51">
         <source xml:lang="en-US">[Find out more](/webcompat-sprint/).</source>
+        <target>[Descubre más](/webcompat-sprint/).</target>
       </trans-unit>
       <trans-unit id="52">
         <source xml:lang="en-US">{: .clear}
