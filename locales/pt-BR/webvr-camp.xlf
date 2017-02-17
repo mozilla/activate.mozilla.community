@@ -282,6 +282,7 @@ Having more developers and content creators playing with WebVR is important for 
       </trans-unit>
       <trans-unit id="67">
         <source xml:lang="en-US">Show off [A-Painter](https://blog.mozvr.com/a-painter/)</source>
+        <target>Demo [A-Painter](https://blog.mozvr.com/a-painter/)</target>
       </trans-unit>
       <trans-unit id="68">
         <source xml:lang="en-US">Introduce HTML tags.</source>
@@ -393,6 +394,7 @@ Having more developers and content creators playing with WebVR is important for 
       </trans-unit>
       <trans-unit id="95">
         <source xml:lang="en-US">Share a summary [this Discourse thread](https://discourse.mozilla-community.org/t/activate-mozilla-webvr-camp/11190)</source>
+        <target>Compartilhe sua experiência neste [tópico no Discourse](https://discourse.mozilla-community.org/t/activate-mozilla-webvr-camp/11190)</target>
       </trans-unit>
       <trans-unit id="96">
         <source xml:lang="en-US">Contact</source>
