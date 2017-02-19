@@ -91,7 +91,7 @@ Modules include self-study, sharing and a community call, with a choice of recog
 
 **3.Face to Face**
 
-Come together to discuss the CPG draft feedback with Mozilla's D&I Lead Mozilla Shapiro.  The purpose of this call is to give you an opportunity to ask questions, provide insights and gain greater understanding of our role as a community in evolving this draft through feedback - and our goals for growing healthy communities.
+Come together to discuss the CPG draft feedback with Mozilla's D&I Lead Larissa Shapiro.  The purpose of this call is to give you an opportunity to ask questions, provide insights and gain greater understanding of our role as a community in evolving this draft through feedback - and our goals for growing healthy communities.
 
 You can sign up for a call using calendly.  Please select one of:
 
