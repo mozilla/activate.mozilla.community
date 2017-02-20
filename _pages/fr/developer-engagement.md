@@ -7,7 +7,7 @@ ref: developer-engagement
 ---
 
 {: .left}
-![image](/asserts/img/development.png)
+![image](/assets/img/development.png)
 
 {: .clearfix}
 &nbsp;

@@ -8,11 +8,11 @@
   <title>{% if page.title %}{{ page.title | escape }} - {{ l.site-title | escape }}{% else %}{{ l.site-title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <link rel="shortcut icon" href="/asserts/favicon.ico">
+  <link rel="shortcut icon" href="/assets/favicon.ico">
   <link rel="stylesheet" href="//code.cdn.mozilla.net/fonts/fira.css">
-  <link rel="stylesheet" href="/asserts/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/asserts/css/bootstrap-sortable.css">
-  <link rel="stylesheet" href="/asserts/css/main.css">
+  <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/css/bootstrap-sortable.css">
+  <link rel="stylesheet" href="/assets/css/main.css">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
   <!-- Translations for this page -->

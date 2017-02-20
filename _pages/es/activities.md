@@ -22,7 +22,7 @@ _
 
 ### Teach The Web
 
-<img src="/asserts/img/icon-teach.svg" alt="teach" class="left img-circle activity-img">
+<img src="/assets/img/icon-teach.svg" alt="teach" class="left img-circle activity-img">
 
 In order to use and build the web as a global public resource people must have the skills to read, write, and participate online.
 
@@ -49,7 +49,7 @@ _
 
 ### Build The Web
 
-<img src="/asserts/img/icon-build.svg" alt="build" class="left img-circle activity-img">
+<img src="/assets/img/icon-build.svg" alt="build" class="left img-circle activity-img">
 
 The web needs skilled communities of makers and innovators developing and supporting robust technologies that keep it open and accessible to all.
 
@@ -76,7 +76,7 @@ _
 
 ### Protect The Web
 
-<img src="/asserts/img/icon-protect.svg" alt="protect" class="left img-circle activity-img">
+<img src="/assets/img/icon-protect.svg" alt="protect" class="left img-circle activity-img">
 
 In order for the web to stay open and accessible to all people need to feel safe online and know how to fight for and defend against the biggest challenges and opportunities that face the internet today.
 

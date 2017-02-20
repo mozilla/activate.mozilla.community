@@ -7,7 +7,7 @@ ref: experiments
 ---
 
 {: .left}
-![image](/asserts/img/test-pilot.png)
+![image](/assets/img/test-pilot.png)
 
 {: .clearfix}
 &nbsp;
