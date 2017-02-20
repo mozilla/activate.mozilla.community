@@ -14,6 +14,11 @@ Nesta página descrevemos as atividades passadas, atuais e futuras que temos nes
 
 | Now (Q1 2017)  | Next (Q2 2017)   | Later (Beyond) |
 | --- | --- | --- |
-| [Dive Into Rust](/pt/rust-hack/) | Next-Gen Firefox Hacking with The Janitor |     |
-| [Web Compatibility Sprint](/pt/webcompat-sprint/) |     |     |
-| [WebVR Camp](/pt/webvr-camp/) |     |     |
+| [Dive Into Rust](/pt/rust-hack/) | Build your own WebExtension | Open Source Corpus |
+| [Web Compatibility Sprint](/pt/webcompat-sprint/) | Community Participation Guidelines Review | MLN |
+| [WebVR Camp](/pt/webvr-camp/) | Host a Tech Speaker | Firefox Nightly |
+
+Latest Changes
+---
+
+**February 21, 2017:** Added current version of the roadmap
