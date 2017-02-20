@@ -25,11 +25,7 @@ _
 
 Community Participation Guidelines are global guidelines that apply to everyone in the Mozilla community - staff and volunteers.   It presents a vision for the Mozilla community we want to have, and lays out behavior expectations, processes to raise concerns, and consequences.  The CPG is governed by owners of forums, events and activities supported by Employee Relations and the D&I team.
 
-
 ## Impact and Metrics
-
-
-
 
 ### Goals for this area
 
