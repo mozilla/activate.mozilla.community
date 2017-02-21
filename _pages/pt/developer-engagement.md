@@ -3,6 +3,7 @@ layout: page
 title:  "Engajamento de desenvolvedores"
 permalink: /pt/developer-engagement/
 lang: pt
+pdir: ltr
 ref: developer-engagement
 ---
 

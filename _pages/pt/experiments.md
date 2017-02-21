@@ -3,6 +3,7 @@ layout: page
 title:  "Experimentos no Navegador"
 permalink: /pt/experiments/
 lang: pt
+pdir: ltr
 ref: experiments
 ---
 

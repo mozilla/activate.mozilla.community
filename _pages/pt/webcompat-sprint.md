@@ -3,6 +3,7 @@ layout: page
 title:  "Web Compatibility Sprint"
 permalink: /pt/webcompat-sprint/
 lang: pt
+pdir: ltr
 ref: webcompat-sprint
 parent: activities
 redirect_from: "/pt/developer-engagement/webcompat-sprint/"

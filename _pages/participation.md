@@ -3,6 +3,7 @@ layout: default
 title:  "Participation"
 permalink: /participation/
 lang: en
+pdir: ltr
 ref: participation
 ---
 

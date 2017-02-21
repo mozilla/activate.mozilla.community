@@ -3,6 +3,7 @@ layout: page
 title:  "Browser Experiments"
 permalink: /fr/experiments/
 lang: fr
+pdir: ltr
 ref: experiments
 ---
 

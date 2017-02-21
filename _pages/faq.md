@@ -3,6 +3,7 @@ layout: default
 title:  "Frequently Asked Questions"
 permalink: /faq/
 lang: en
+pdir: ltr
 ref: faq
 ---
 

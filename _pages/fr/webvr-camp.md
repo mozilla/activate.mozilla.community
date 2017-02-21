@@ -3,6 +3,7 @@ layout: page
 title:  "WebVR Camp"
 permalink: /fr/webvr-camp/
 lang: fr
+pdir: ltr
 ref: webvr-camp
 parent: activities
 redirect_from: "/fr/developer-engagement/webvr-camp/"

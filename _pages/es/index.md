@@ -3,6 +3,7 @@ layout: index
 title:  "Activate en Mozilla"
 permalink: /es/
 lang: es
+pdir: ltr
 ref: index
 ---
 

@@ -3,6 +3,7 @@ layout: default
 title:  "Activities"
 permalink: /activities/
 lang: en
+pdir: ltr
 ref: activities
 redirect_from: "/developer-engagement/"
 redirect_from: "/experiments/"

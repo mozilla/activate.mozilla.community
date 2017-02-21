@@ -65,7 +65,11 @@ figcaption {
 /**
  * Lists
  */
-ul, ol {
+ html[dir=rtl] ul, ol {
+     margin-right: $spacing-unit;
+ }
+
+html[dir=ltr] ul, ol {
     margin-left: $spacing-unit;
 }
 
@@ -122,18 +126,23 @@ a {
  */
 blockquote {
     color: $grey-color;
-    border-left: 4px solid $grey-color-light;
-    padding-left: $spacing-unit / 2;
     font-size: 18px;
     letter-spacing: -1px;
     font-style: italic;
-
     > :last-child {
         margin-bottom: 0;
     }
 }
 
+html[dir=ltr] blockquote {
+  border-left: 4px solid $grey-color-light;
+  padding-left: $spacing-unit / 2;
+}
 
+html[dir=rtl] blockquote {
+  border-right: 4px solid $grey-color-light;
+  padding-right: $spacing-unit / 2;
+}
 
 /**
  * Code formatting
@@ -191,11 +200,27 @@ pre {
             width: 150px;
             border: none;
             position: absolute;
-            right: 0px;
             top: 58px;
-            margin-right: 0;
             border: none;
             border-top-color: $brand-color !important;
+        }
+    }
+}
+
+html[dir=ltr] .wrapper {
+    @include media-query($on-palm) {
+        .trigger {
+          right: 0px;
+          margin-right: 0;
+        }
+    }
+}
+
+html[dir=rtl] .wrapper {
+    @include media-query($on-palm) {
+        .trigger {
+          left: 0px;
+          margin-left: 0;
         }
     }
 }
@@ -231,4 +256,30 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+/**
+ * Bootstrap-specific
+ */
+
+@media (min-width: 992px) {
+    html[dir=rtl] .col-md-1,
+    html[dir=rtl] .col-md-10,
+    html[dir=rtl] .col-md-11,
+    html[dir=rtl] .col-md-12,
+    html[dir=rtl] .col-md-2,
+    html[dir=rtl] .col-md-3,
+    html[dir=rtl] .col-md-4,
+    html[dir=rtl] .col-md-5,
+    html[dir=rtl] .col-md-6,
+    html[dir=rtl] .col-md-7,
+    html[dir=rtl] .col-md-8,
+    html[dir=rtl] .col-md-9 {
+        float: right;
+    }
+
+}
+
+html[dir=rtl] th {
+    text-align: right;
 }
