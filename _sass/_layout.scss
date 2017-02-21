@@ -655,3 +655,8 @@ div.facebook {
     font-size: 1.1em;
     color: $brand-color;
 }
+
+// Bootstrap Overwrites
+table.sortable > thead th:hover:not([data-defaultsort="disabled"]) {
+  background-color: $brand-color-lighter;
+}
