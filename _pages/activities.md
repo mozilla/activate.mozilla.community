@@ -33,7 +33,7 @@ _
 
 about text
 
-[Find out more](/community-participation-guidelines/).
+[Find out more](/community-participation-guideline/).
 
 {: .activity .text-muted}
 
