@@ -15,10 +15,14 @@ Nesta página descrevemos as atividades passadas, atuais e futuras que temos nes
 | Now (Q1 2017)  | Next (Q2 2017)   | Later (Beyond) |
 | --- | --- | --- |
 | [Dive Into Rust](/pt/rust-hack/) | Build your own WebExtension | Open Source Corpus |
-| [Web Compatibility Sprint](/pt/webcompat-sprint/) | Community Participation Guidelines Review | MLN |
-| [WebVR Camp](/pt/webvr-camp/) | Host a Tech Speaker | Firefox Nightly |
+| [Web Compatibility Sprint](/pt/webcompat-sprint/) | Host a Tech Speaker | MLN |
+| [WebVR Camp](/pt/webvr-camp/) |  | Firefox Nightly |
+| [Community Participation Guidelines Review](/pt/community-participation-guideline/) |  |  |
 
 Latest Changes
 ---
 
-**February 21, 2017:** Added current version of the roadmap
+| Date  | Change |
+| --- | --- |
+| February 21, 2017 | New activity [Community Participation Guidelines Review](/pt/community-participation-guideline/) added |
+| February 21, 2017 | Added current version of the roadmap |
