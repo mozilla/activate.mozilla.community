@@ -55,8 +55,8 @@ _</source>
         <source xml:lang="en-US">Teach The Web</source>
       </trans-unit>
       <trans-unit id="13">
-        <source xml:lang="en-US">/asserts/img/icon-teach.svg</source>
-        <target xml:lang="es-ES">/asserts/img/icon-teach.svg</target>
+        <source xml:lang="en-US">/assets/img/icon-teach.svg</source>
+        <target xml:lang="es-ES">/assets/img/icon-teach.svg</target>
       </trans-unit>
       <trans-unit id="14">
         <source xml:lang="en-US">teach</source>
@@ -116,8 +116,8 @@ _</source>
         <source xml:lang="en-US">Build The Web</source>
       </trans-unit>
       <trans-unit id="28">
-        <source xml:lang="en-US">/asserts/img/icon-build.svg</source>
-        <target xml:lang="es-ES">/asserts/img/icon-build.svg</target>
+        <source xml:lang="en-US">/assets/img/icon-build.svg</source>
+        <target xml:lang="es-ES">/assets/img/icon-build.svg</target>
       </trans-unit>
       <trans-unit id="29">
         <source xml:lang="en-US">build</source>
@@ -181,8 +181,8 @@ _</source>
         <target>Proteger la Web</target>
       </trans-unit>
       <trans-unit id="44">
-        <source xml:lang="en-US">/asserts/img/icon-protect.svg</source>
-        <target xml:lang="es-ES">/asserts/img/icon-protect.svg</target>
+        <source xml:lang="en-US">/assets/img/icon-protect.svg</source>
+        <target xml:lang="es-ES">/assets/img/icon-protect.svg</target>
       </trans-unit>
       <trans-unit id="45">
         <source xml:lang="en-US">protect</source>

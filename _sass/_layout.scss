@@ -70,7 +70,7 @@
 }
 
 .jumbotron {
-    background-image: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url('/asserts/img/photo_top.jpg');
+    background-image: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url('/assets/img/photo_top.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
@@ -562,12 +562,12 @@
         }
     }
     p.twitter {
-        background: url("/asserts/img/twitter.png") no-repeat #0c99d5;
+        background: url("/assets/img/twitter.png") no-repeat #0c99d5;
         background-position: 8px 4px;
     }
 
     p.facebook {
-        background: url("/asserts/img/facebook.png") no-repeat #3B5998;
+        background: url("/assets/img/facebook.png") no-repeat #3B5998;
         background-position: 8px 4px;
     }
 }

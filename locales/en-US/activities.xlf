@@ -63,7 +63,7 @@ _</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="13">
-  <source xml:lang="en-US">/asserts/img/icon-teach.svg</source>
+  <source xml:lang="en-US">/assets/img/icon-teach.svg</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="14">
@@ -132,7 +132,7 @@ _</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="28">
-  <source xml:lang="en-US">/asserts/img/icon-build.svg</source>
+  <source xml:lang="en-US">/assets/img/icon-build.svg</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="29">
@@ -205,7 +205,7 @@ _</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="44">
-  <source xml:lang="en-US">/asserts/img/icon-protect.svg</source>
+  <source xml:lang="en-US">/assets/img/icon-protect.svg</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="45">
