@@ -29,6 +29,10 @@ In order to use and build the web as a global public resource people must have t
 {: .clear}
 _
 
+{: .activity}
+**Community Participation Guidelines**
+Larissa Shapiro, and the D&I Team at Mozilla have been busy this year, developing a 2.0 of the [Mozilla Community Participation](https://www.mozilla.org/en-US/about/governance/policies/participation/) Guidelines(CPG), and we are bringing this draft to you, Mozilla's community for feedback before release in early April. Completing this activity is a valuable contribution to Mozilla, and recognition of that contribution is included as a final step. [Find out more](/fr/community-participation-guideline/).
+
 {: .activity .text-muted}
 **Install Test Pilot**
 When building features for hundreds of millions of Firefox users worldwide, it’s important to get them right. Help us figure out which features should ship and how they should work. Install Test Pilot and give us feedback.
