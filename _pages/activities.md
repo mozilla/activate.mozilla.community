@@ -29,11 +29,9 @@ In order to use and build the web as a global public resource people must have t
 {: .clear}
 _
 
+{: .activity}
 **Community Participation Guidelines**
-
-about text
-
-[Find out more](/community-participation-guideline/).
+Larissa Shapiro, and the D&I Team at Mozilla have been busy this year, developing a 2.0 of the [Mozilla Community Participation](https://www.mozilla.org/en-US/about/governance/policies/participation/) Guidelines(CPG), and we are bringing this draft to you, Mozilla's community for feedback before release in early April. Completing this activity is a valuable contribution to Mozilla, and recognition of that contribution is included as a final step. [Find out more](/community-participation-guideline/).
 
 {: .activity .text-muted}
 
