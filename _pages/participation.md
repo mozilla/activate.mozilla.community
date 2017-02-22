@@ -23,7 +23,7 @@ To have Mozilla succeed through openness and participation
 
 ## What We Do
 
-The Participation Team develops community leaders and contributors who will invent, shape and defend the Internet, and activates them to supercharge Mozilla’s products and our movement.
+The Community Development Team develops leaders and contributors who will invent, shape and defend the Internet, and activates them to supercharge Mozilla’s products and our movement.
 
 We do this by:
 
