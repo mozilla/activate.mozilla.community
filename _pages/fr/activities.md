@@ -31,7 +31,7 @@ _
 
 {: .activity}
 **Community Participation Guidelines**
-Larissa Shapiro, and the D&I Team at Mozilla have been busy this year, developing a 2.0 of the [Mozilla Community Participation](https://www.mozilla.org/en-US/about/governance/policies/participation/) Guidelines(CPG), and we are bringing this draft to you, Mozilla's community for feedback before release in early April. Completing this activity is a valuable contribution to Mozilla, and recognition of that contribution is included as a final step. [Find out more](/fr/community-participation-guideline/).
+Larissa Shapiro, and the D&I Team at Mozilla have been busy this year, developing a 2.0 of the [Mozilla Community Participation](https://www.mozilla.org/en-US/about/governance/policies/participation/) Guidelines(CPG), and we are bringing [this draft to you](https://docs.google.com/document/d/1sElGXuZ0W31iPshvmj0CR2f6woF6V8wqrrJHzJ0pnpU/edit#heading=h.rf21kwgxk0hb), Mozilla's community, for feedback before release in early April. Completing this activity is a valuable contribution to Mozilla, and recognition of that contribution is included as a final step. [Find out more](/community-participation-guideline/).
 
 {: .activity .text-muted}
 **Install Test Pilot**
