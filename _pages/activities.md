@@ -61,6 +61,11 @@ The web needs skilled communities of makers and innovators developing and suppor
 _
 
 {: .activity}
+**Build Your Own WebExtension Add-on for Firefox**
+Add-ons provide a safe, simple, and powerful way to personalize your browsing experience. With WebExtensions APIs, it’s easier than ever to create extensions that can be easily ported to Firefox, Chrome, Edge, and Opera. Through this activity you’ll help connect new developers with an opportunity to create add-ons to solve real problems and make their lives and the web better.
+[Find out more](/webextensions/).
+
+{: .activity}
 **Dive Into Rust**
 Rust is a systems programming language important to the future of the web. It runs blazingly fast, prevents segfaults, and guarantees thread safety. With your help, we want more developers to understand, use and evangelize this language in order to make the web better and more secure.
 [Find out more](/rust-hack/).
