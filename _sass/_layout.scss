@@ -195,6 +195,53 @@
         padding: 40px;
         display: block;
         box-shadow: 0 0 0 1px #fff inset;
+
+        .activity-card {
+            border: 1px solid #efefef;
+            border-bottom: 3px solid #999;
+            min-height: 300px;
+            max-width: 336px;
+            margin: 0 10px 25px;
+            padding-bottom: 32px;
+
+            footer {
+              position: absolute;
+              bottom: 0px;
+              width: 100%;
+              font-size: 0.75em;
+              font-weight: 700;
+              text-transform: uppercase;
+              line-height: 25px;
+              display: -webkit-box;
+              display: -webkit-flex;
+              display: -ms-flexbox;
+              display: flex;
+              justify-content: space-between;
+              padding-right: 42px;
+            }
+        }
+
+        .row.is-flex {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        }
+
+        .row.is-flex > [class*='col-'] {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-orient: vertical;
+            -webkit-box-direction: normal;
+            -webkit-flex-direction: column;
+            -ms-flex-direction: column;
+            flex-direction: column;
+        }
     }
 
     h2 {
