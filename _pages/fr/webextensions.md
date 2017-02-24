@@ -62,7 +62,7 @@ Help contribute to the open web by running a WebExtensions workshop. This activi
 1. Put an event team together
 2. Choose a date and secure a venue
 3. Choose whether this will be self-facilitated or co-facilitated with someone who has experience developing WebExtensions
-4. Set up the event on the Reps Portal (instructions)
+4. Set up the event on the Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting))
 5. Get the word out! Invite your community to the event. If this activity is run together with a Campus Club, they can customize a flyer with your event information for print or electronic distribution.
 6. 2 - 3 days before the event, ask participants to complete the Pre-Event section on their own.
 
