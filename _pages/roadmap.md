@@ -14,15 +14,17 @@ In this page we describe the past, current and future activities that we have on
 
 | Now (Q1 2017)  | Next (Q2 2017)   | Later (Beyond) |
 | --- | --- | --- |
-| [Dive Into Rust](/rust-hack/) | Build your own WebExtension | Open Source Corpus |
-| [Web Compatibility Sprint](/webcompat-sprint/) | Host a Tech Speaker | MLN |
+| [Dive Into Rust](/rust-hack/) | Host a Tech Speaker | Open Source Corpus |
+| [Web Compatibility Sprint](/webcompat-sprint/) |  | MLN |
 | [WebVR Camp](/webvr-camp/) |  | Firefox Nightly |
 | [Community Participation Guidelines Review](/community-participation-guideline/) |  |  |
+| [Build your own WebExtension](/webextensions/) |  |  |
 
 Latest Changes
 ---
 
 | Date  | Change |
 | --- | --- |
+| February 24, 2017 | New activity [Build your own WebExtension](/webextensions/) added |
 | February 21, 2017 | New activity [Community Participation Guidelines Review](/community-participation-guideline/) added |
 | February 21, 2017 | Added current version of the roadmap |
