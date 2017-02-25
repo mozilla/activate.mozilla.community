@@ -23,7 +23,7 @@ _
 <div class="row is-flex">
 <div class="activity-card participation col-md-4">
   <header class="item-header">
-    <img src="https://toolkit.mozilla.org/wp-content/uploads/2016/07/Jobstobedone-336x156.jpg" alt="Header image" class="img-fluid">
+    <img src="https://toolkit.mozilla.org/wp-content/uploads/2016/07/Jobstobedone-336x156.jpg" alt="Header image">
   </header>
   <h2><a href="/community-participation-guideline/">Community Participation Guidelines</a></h2>
   <div class="item-content" markdown="1">
@@ -39,7 +39,7 @@ Larissa Shapiro, and the D&I Team at Mozilla have been busy this year, developin
 
 <div class="activity-card programming col-md-4">
   <header class="item-header">
-    <img src="https://toolkit.mozilla.org/wp-content/uploads/2016/07/Jobstobedone-336x156.jpg" alt="Header image" class="img-fluid">
+    <img src="/assets/img/webextensions-header.png" alt="Header image">
   </header>
   <h2><a href="/webextensions/">Build Your Own WebExtension Add-on for Firefox</a></h2>
   <div class="item-content" markdown="1">
@@ -55,7 +55,7 @@ Add-ons provide a safe, simple, and powerful way to personalize your browsing ex
 
 <div class="activity-card programming col-md-4">
   <header class="item-header">
-    <img src="https://toolkit.mozilla.org/wp-content/uploads/2016/07/Jobstobedone-336x156.jpg" alt="Header image" class="img-fluid">
+    <img src="/assets/img/rust-header.png" alt="Header image">
   </header>
   <h2><a href="/rust-hack/">Dive Into Rust</a></h2>
   <div class="item-content" markdown="1">
@@ -71,7 +71,7 @@ Rust is a systems programming language important to the future of the web. It ru
 
 <div class="activity-card programming col-md-4">
   <header class="item-header">
-    <img src="https://toolkit.mozilla.org/wp-content/uploads/2016/07/Jobstobedone-336x156.jpg" alt="Header image" class="img-fluid">
+    <img src="/assets/img/webvr-header.png" alt="Header image">
   </header>
   <h2><a href="/webvr-camp/">WebVR Camp</a></h2>
   <div class="item-content" markdown="1">
@@ -87,7 +87,7 @@ A-Frame is a web framework for building virtual reality experiences, making it e
 
 <div class="activity-card testing col-md-4">
   <header class="item-header">
-    <img src="https://toolkit.mozilla.org/wp-content/uploads/2016/07/Jobstobedone-336x156.jpg" alt="Header image" class="img-fluid">
+    <img src="/assets/img/webcompat-header.png" alt="Header image">
   </header>
   <h2><a href="/webcompat-sprint/">Web Compatibility Sprint</a></h2>
   <div class="item-content" markdown="1">
@@ -107,7 +107,7 @@ Web Compatibility, the ability for all Web content to run in all browsers, is im
 <div class="row is-flex">
 <div class="activity-card retired testing col-md-4">
   <header class="item-header">
-    <img src="https://toolkit.mozilla.org/wp-content/uploads/2016/07/Jobstobedone-336x156.jpg" alt="Header image" class="img-fluid">
+    <img src="/assets/img/testpilot-header.png" alt="Header image">
   </header>
   <h2><a href="/test-pilot/">Install Test Pilot</a></h2>
   <p class="retired-note">This activity is retired. What this means is that we don't recommend that you run the activity at this time and resources will no longer be available.</p>
@@ -123,7 +123,7 @@ When building features for hundreds of millions of Firefox users worldwide, itâ€
 
 <div class="activity-card retired testing col-md-4">
   <header class="item-header">
-    <img src="https://toolkit.mozilla.org/wp-content/uploads/2016/07/Jobstobedone-336x156.jpg" alt="Header image" class="img-fluid">
+    <img src="/assets/img/e10s-header.png" alt="Header image">
   </header>
   <h2><a href="/e10s-addons/">e10s and Featured Add-ons</a></h2>
   <p class="retired-note">This activity is retired. What this means is that we don't recommend that you run the activity at this time and resources will no longer be available.</p>
