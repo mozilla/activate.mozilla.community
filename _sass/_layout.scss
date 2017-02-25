@@ -197,12 +197,17 @@
         box-shadow: 0 0 0 1px #fff inset;
 
         .activity-card {
-            border: 1px solid #efefef;
-            border-bottom: 3px solid #999;
+            border: 1px solid $grey-color-light;
+            border-bottom: 3px solid $grey-color;
             min-height: 300px;
             max-width: 336px;
             margin: 0 10px 25px;
             padding-bottom: 32px;
+
+            .item-header {
+              margin-right: -15px;
+              margin-left: -15px;
+            }
 
             footer {
               position: absolute;
@@ -218,6 +223,30 @@
               display: flex;
               justify-content: space-between;
               padding-right: 42px;
+            }
+
+            &.programming {
+              border-bottom: 3px solid $green-color;
+
+              footer {
+                color: $green-color;
+              }
+            }
+
+            &.testing {
+              border-bottom: 3px solid $red-color;
+
+              footer {
+                color: $red-color;
+              }
+            }
+
+            &.participation {
+              border-bottom: 3px solid $blue-color;
+
+              footer {
+                color: $blue-color;
+              }
             }
         }
 

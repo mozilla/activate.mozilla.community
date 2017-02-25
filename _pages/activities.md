@@ -21,7 +21,7 @@ Before you jump right in: Look at your goals for the year, what do you and your 
 _
 
 <div class="row is-flex">
-<div class="activity-card col-md-4">
+<div class="activity-card participation col-md-4">
   <header class="item-header">
     <img src="https://toolkit.mozilla.org/wp-content/uploads/2016/07/Jobstobedone-336x156.jpg" alt="Header image" class="img-fluid">
   </header>
@@ -35,7 +35,7 @@ Larissa Shapiro, and the D&I Team at Mozilla have been busy this year, developin
   </footer>
 </div>
 
-<div class="activity-card col-md-4">
+<div class="activity-card programming col-md-4">
   <header class="item-header">
     <img src="https://toolkit.mozilla.org/wp-content/uploads/2016/07/Jobstobedone-336x156.jpg" alt="Header image" class="img-fluid">
   </header>
@@ -50,7 +50,7 @@ Add-ons provide a safe, simple, and powerful way to personalize your browsing ex
   </footer>
 </div>
 
-<div class="activity-card col-md-4">
+<div class="activity-card programming col-md-4">
   <header class="item-header">
     <img src="https://toolkit.mozilla.org/wp-content/uploads/2016/07/Jobstobedone-336x156.jpg" alt="Header image" class="img-fluid">
   </header>
@@ -65,7 +65,7 @@ Rust is a systems programming language important to the future of the web. It ru
   </footer>
 </div>
 
-<div class="activity-card col-md-4">
+<div class="activity-card programming col-md-4">
   <header class="item-header">
     <img src="https://toolkit.mozilla.org/wp-content/uploads/2016/07/Jobstobedone-336x156.jpg" alt="Header image" class="img-fluid">
   </header>
@@ -80,7 +80,7 @@ A-Frame is a web framework for building virtual reality experiences, making it e
   </footer>
 </div>
 
-<div class="activity-card col-md-4">
+<div class="activity-card testing col-md-4">
   <header class="item-header">
     <img src="https://toolkit.mozilla.org/wp-content/uploads/2016/07/Jobstobedone-336x156.jpg" alt="Header image" class="img-fluid">
   </header>
@@ -99,7 +99,7 @@ Web Compatibility, the ability for all Web content to run in all browsers, is im
 ## Retired Activities
 
 <div class="row is-flex">
-<div class="activity-card col-md-4">
+<div class="activity-card testing col-md-4">
   <header class="item-header">
     <img src="https://toolkit.mozilla.org/wp-content/uploads/2016/07/Jobstobedone-336x156.jpg" alt="Header image" class="img-fluid">
   </header>
@@ -114,7 +114,7 @@ When building features for hundreds of millions of Firefox users worldwide, itâ€
   </footer>
 </div>
 
-<div class="activity-card col-md-4">
+<div class="activity-card testing col-md-4">
   <header class="item-header">
     <img src="https://toolkit.mozilla.org/wp-content/uploads/2016/07/Jobstobedone-336x156.jpg" alt="Header image" class="img-fluid">
   </header>
