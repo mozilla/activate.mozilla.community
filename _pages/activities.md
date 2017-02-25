@@ -49,7 +49,7 @@ Add-ons provide a safe, simple, and powerful way to personalize your browsing ex
   </div>
   <footer class="item-footer">
     <div class="tags">Programming</div>
-    <div class="duration">2-3 hours</div>
+    <div class="duration">1-3 hours</div>
   </footer>
 </div>
 
@@ -81,7 +81,7 @@ A-Frame is a web framework for building virtual reality experiences, making it e
   </div>
   <footer class="item-footer">
     <div class="tags">Programming</div>
-    <div class="duration">2-3 hours</div>
+    <div class="duration">3-4 hours</div>
   </footer>
 </div>
 
@@ -105,11 +105,12 @@ Web Compatibility, the ability for all Web content to run in all browsers, is im
 ## Retired Activities
 
 <div class="row is-flex">
-<div class="activity-card testing col-md-4">
+<div class="activity-card retired testing col-md-4">
   <header class="item-header">
     <img src="https://toolkit.mozilla.org/wp-content/uploads/2016/07/Jobstobedone-336x156.jpg" alt="Header image" class="img-fluid">
   </header>
   <h2><a href="/test-pilot/">Install Test Pilot</a></h2>
+  <p class="retired-note">This activity is retired. What this means is that we don't recommend that you run the activity at this time and resources will no longer be available.</p>
   <div class="item-content" markdown="1">
 When building features for hundreds of millions of Firefox users worldwide, itâ€™s important to get them right. Help us figure out which features should ship and how they should work. Install Test Pilot and give us feedback.
 
@@ -117,15 +118,15 @@ When building features for hundreds of millions of Firefox users worldwide, itâ€
   </div>
   <footer class="item-footer">
     <div class="tags">Testing</div>
-    <div class="duration">2-3 hours</div>
   </footer>
 </div>
 
-<div class="activity-card testing col-md-4">
+<div class="activity-card retired testing col-md-4">
   <header class="item-header">
     <img src="https://toolkit.mozilla.org/wp-content/uploads/2016/07/Jobstobedone-336x156.jpg" alt="Header image" class="img-fluid">
   </header>
   <h2><a href="/e10s-addons/">e10s and Featured Add-ons</a></h2>
+  <p class="retired-note">This activity is retired. What this means is that we don't recommend that you run the activity at this time and resources will no longer be available.</p>
   <div class="item-content" markdown="1">
 With the emergence of multiprocess Firefox (e10s), we need to ensure featured add-ons on the Mozilla Add-ons site meet the highest levels of browser compatibility and functionality. Help us test these add-ons so that e10s can be rolled out to more of our millions of users.
 
@@ -133,7 +134,6 @@ With the emergence of multiprocess Firefox (e10s), we need to ensure featured ad
   </div>
   <footer class="item-footer">
     <div class="tags">Testing</div>
-    <div class="duration">2-3 hours</div>
   </footer>
 </div>
 </div>

@@ -209,6 +209,19 @@
               margin-left: -15px;
             }
 
+            &.retired {
+              padding-top: 0;
+
+              img {
+                -webkit-filter: grayscale(100%);
+                filter: grayscale(100%);
+              }
+            }
+
+            .retired-note {
+              color: $red-color;
+            }
+
             footer {
               position: absolute;
               bottom: 0px;
