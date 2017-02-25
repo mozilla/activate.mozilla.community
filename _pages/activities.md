@@ -104,7 +104,10 @@ Web Compatibility, the ability for all Web content to run in all browsers, is im
 
 ## Retired Activities
 
-<div class="row is-flex">
+<a href="#" class="retired-activities-hide-link hidden">Hide retired activities</a>
+<a href="#" class="retired-activities-show-link">Show retired activities</a>
+
+<div class="row is-flex hidden" id="retired-activities-content">
 <div class="activity-card retired testing col-md-4">
   <header class="item-header">
     <img src="/assets/img/testpilot-header.png" alt="Header image">

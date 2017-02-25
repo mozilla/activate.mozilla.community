@@ -284,6 +284,10 @@
             -ms-flex-direction: column;
             flex-direction: column;
         }
+
+        .hidden {
+          display: none;
+        }
     }
 
     h2 {

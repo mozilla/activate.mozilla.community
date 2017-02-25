@@ -6,6 +6,13 @@ $(document).ready(function() {
         }, 500);
     });
 
+    $('.retired-activities-hide-link, .retired-activities-show-link').click(function(event){
+        event.preventDefault();
+        $('#retired-activities-content').toggleClass('hidden');
+        $('.retired-activities-hide-link').toggleClass('hidden');
+        $('.retired-activities-show-link').toggleClass('hidden');
+    });
+
     // #back-top
     function show_back() {
         if ($(window).scrollTop() > 200) {
