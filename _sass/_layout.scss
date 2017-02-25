@@ -197,6 +197,7 @@
         box-shadow: 0 0 0 1px #fff inset;
 
         .activity-card {
+            text-align: left;
             border: 1px solid $grey-color-light;
             border-bottom: 3px solid $grey-color;
             min-height: 300px;
@@ -207,6 +208,11 @@
             .item-header {
               margin-right: -15px;
               margin-left: -15px;
+            }
+
+            h2 {
+              font-size: 2rem;
+              text-align: center;
             }
 
             &.retired {
