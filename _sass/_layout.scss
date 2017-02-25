@@ -4,7 +4,7 @@
 .site-header {
     color: #fff;
     min-height: 40px;
-    background: #3F4B73;
+    background: $brand-color;
     height: 60px;
 
     // Positioning context for the mobile navigation icon
@@ -520,7 +520,7 @@
 .post-content > #markdown-toc {
     width: 230px;
     position: fixed;
-    background-color: #3F4B73;
+    background-color: $brand-color;
     color: #ccc;
 
     a {
@@ -681,7 +681,7 @@ div.facebook {
     margin-left: 0px;
     display: table;
     border-left: solid 2px #acb0bd;
-    background-color: #3F4B73;
+    background-color: $brand-color;
     color: #ccc;
     z-index: 99;
 
