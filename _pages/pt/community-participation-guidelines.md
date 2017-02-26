@@ -18,7 +18,7 @@ redirect_from: "/experiments/community-participation-guidelines/"
 _
 
 {: .alert .alert-info .impactbox}
-<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>Providing Mozilla’s global community the opportunity to review the 2.0 Community Participation Guidelines draft will provide critical feedback for Diversity & Inclusion at Mozilla as well as provide greater awareness to Mozilla’s communities of how the CPG supports healthy communities.
+<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>Providing Mozilla’s global community the opportunity to review the 2.0 Community Participation Guidelines draft will provide critical feedback for Diversity & Inclusion (D&I) at Mozilla as well as provide greater awareness to Mozilla’s communities of how the CPG supports healthy communities.
 
 *Diversity & Inclusion helps us achieve our mission:
 ”To ensure the Internet is a global public resource open and accessible to all.”*
