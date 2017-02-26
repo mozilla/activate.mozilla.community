@@ -104,7 +104,7 @@
  }
 
 .site-footer {
-    color: #a6a7a9;
+    color: $text-color-light;
     background-color: #4d4f53;
     padding: 40px 0;
     font-size: 0.9em;
@@ -175,7 +175,6 @@
         }
 
         p {
-            color: rgba(255, 255, 255, 0.5);
             text-align: left;
             width: calc(100% - 10.375rem);
         }
@@ -753,6 +752,37 @@ div.facebook {
     margin-top: 10px;
     font-size: 1.1em;
     color: $brand-color;
+}
+
+.frontpage-slider {
+    margin-left: 0px;
+
+    li {
+        span {
+            display: inline-block;
+            width: auto;
+            margin: auto;
+            background: $brand-color;
+            padding: 15px 20px;
+            font-weight: 300;
+            font-size: 1.5em;
+            color: $text-color-light;
+
+            a {
+                color: $text-color-light;
+            }
+        }
+    }
+}
+
+.bx-wrapper {
+    .bx-prev {
+        display: none;
+    }
+
+    .bx-next {
+        display: none;
+    }
 }
 
 // Bootstrap Overwrites

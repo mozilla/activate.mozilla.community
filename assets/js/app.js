@@ -33,4 +33,12 @@ $(document).ready(function() {
         }, 800);
         return false;
     });
+
+    $('.frontpage-slider').bxSlider({
+      auto: true,
+      controls: true,
+      pager: false,
+      pause: 7000,
+      speed: 800
+    });
 });
