@@ -130,7 +130,6 @@
             .icon {
                 .footer-icon {
                     max-width: 18px;
-                    opacity: 0.5;
                     margin-right: 5px;
 
                     @include media-query($on-palm) {
@@ -148,7 +147,7 @@
     }
 
     a {
-        color: #a6a7a9;
+        color: $text-color-light;
         font-weight: normal;
     }
 

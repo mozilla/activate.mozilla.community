@@ -38,7 +38,7 @@ $(document).ready(function() {
       auto: true,
       controls: true,
       pager: false,
-      pause: 7000,
+      pause: 6000,
       speed: 800
     });
 });
