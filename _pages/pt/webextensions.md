@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  "Build Your Own WebExtension Add-on for Firefox"
-permalink: /pt/webextensions/
-lang: pt
+permalink: /webextensions/
+lang: en
 ref: webextensions
 parent: activities
 ---
@@ -92,7 +92,7 @@ __Pre-Event__
 __Part I__
 
 * Give a quick introduction to attendees about what we are doing and why it is important.
-  * “Welcome to the \[name of event\]! I am \[name\]. Today, we are going to customize our Firefox browsers by developing our own add-ons to solve real problems in our own lives. Add-ons are a great way to add extra features to your browser, like blocking time-wasting websites during study hours, or turning images into cat pictures. With WebExtensions APIs, it’s now easier to create add-ons that are compatible with Firefox, Chrome, and Opera. Add-ons help keep users in control of their online experience, so your support in building them and the community around them matter.”
+  * “Welcome to the \[name of event\]! I am \[name\]. Today, we are going to customize our Firefox browsers by developing our own add-ons to solve real problems in our own lives. Add-ons are a great way to add extra features to your browser, like blocking time-wasting websites during study hours, or turning images into cat pictures. With WebExtensions APIs, it’s now easier to create add-ons that are compatible with Firefox, Chrome, and Opera. Add-ons help keep users to be in control of their online experience, so your support in building them and the community around them matter.”
 * Ask attendees to tweet about their attendance. Here is a suggested message:
   * I’m customizing @Firefox by building my own #WebExtensions! #MozActivate
 * Ask participants if they already use add-ons. If they do, ask them to share what add-ons they use and how they are used.
@@ -109,7 +109,12 @@ __Part III (Bonus!)__
   * The list of currently supported [JavaScript APIs](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API) and [WebExtensions examples](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Examples) can provide inspiration.
   * Ask Chrome users to check if their favorite extensions are available in Firefox. If the extensions aren’t available, participants can try to build one for Firefox.
   * Build a WebExtension that solves any of your real-world problems, or that customizes the browser in a way that benefits you personally.
-2. [Publish your WebExtension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Publishing_your_WebExtension) to addons.mozilla.org. Be sure to add the tag mozactivate17 to your submission.
+2. [Publish your WebExtension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Publishing_your_WebExtension) to addons.mozilla.org. 
+	* Once you have submitted your add-on, hover on Tools, then select "Manage My Submissions."
+	* From the actions menu, select "Edit Information." 
+	* Then click the "Edit" button on the Basic Information section. 
+	* Add the tag `mozactivate17` to your submission.
+	* Click the "Save Changes" button.
 3. Once your add-on has been approved (which might take a while), tweet a link to your published WebExtension! Here is a suggested message:
   * I made an add-on using @MozWebExt for @mozamo! Check it out here: <link to add-on> #MozActivate
 4. Encourage attendees to continue the conversation by following @MozWebExt on Twitter, joining the mailing list dev-addons@mozilla.org, joining the IRC channels #addons and #extdev, joining the [Telegram group @addons](https://telegram.me/addons), and joining the [Add-ons Discourse Forum](https://discourse.mozilla-community.org/c/add-ons).
@@ -155,3 +160,4 @@ __Tutorials__
 * [Create a Simple WebExtension by David Walsh](https://davidwalsh.name/web-extensions)
 * [Building Firefox Add-ons with Web Extensions by Viswaprasath Ks](http://www.slideshare.net/VISWAPRASATHKS)
 * [Open Innovation Toolkit](https://toolkit.mozilla.org/)
+
