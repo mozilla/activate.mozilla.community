@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Build Your Own WebExtension Add-on for Firefox"
-permalink: /webextensions/
+permalink: /pt/webextensions/
 lang: pt
 ref: webextensions
 parent: activities
