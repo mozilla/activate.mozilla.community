@@ -184,7 +184,7 @@ pre {
         }
     }
 
-    @include media-query($on-palm) {
+    @include media-query($on-laptop) {
         .trigger {
             background-color: $brand-color;
             z-index: 99;
