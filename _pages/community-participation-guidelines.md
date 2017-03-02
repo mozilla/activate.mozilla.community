@@ -48,8 +48,6 @@ The audience for this activity is all Mozillians who care about building empower
 
 This activity is broken into small modules of learning and sharing, with associated times for completion.  This format is intended to  help you pace your completion according to the time available in your week.
 
-Modules include self-study, sharing and a community call, with a choice of recognition options on completion.
-
 ## Event Flow
 
 {: .label .timebox}
