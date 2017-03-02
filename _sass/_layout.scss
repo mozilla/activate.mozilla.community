@@ -788,3 +788,18 @@ div.facebook {
 table.sortable > thead th:hover:not([data-defaultsort="disabled"]) {
   background-color: $brand-color-lighter;
 }
+
+@include media-query($on-laptop) {
+    .navbar-collapse.collapse {
+        display: none !important;
+    }
+    .navbar-collapse.collapse.in {
+        display: block !important;
+    }
+    .navbar-header .collapse, .navbar-toggle {
+        display: block !important;
+    }
+    .navbar-header {
+        float: none;
+    }
+}
