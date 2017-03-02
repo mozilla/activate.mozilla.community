@@ -80,7 +80,6 @@ Come together to discuss the CPG draft feedback with Mozilla's D&I Lead Larissa 
 You can sign up for a call using calendly.  Please select one of:
 
 * [Vidyo Call](https://calendly.com/eirwin/cpg-face-to-face-call-vidyo/02-23-2017)
-* [Telegram Call](https://calendly.com/eirwin/cpg-face-to-face-call-vidyo-clone/03-09-2017)
 
 **OR...**
 
