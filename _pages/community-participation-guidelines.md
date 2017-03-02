@@ -48,8 +48,6 @@ The audience for this activity is all Mozillians who care about building empower
 
 This activity is broken into small modules of learning and sharing, with associated times for completion.  This format is intended to  help you pace your completion according to the time available in your week.
 
-Modules include self-study, sharing and a community call, with a choice of recognition options on completion.
-
 ## Event Flow
 
 {: .label .timebox}
@@ -58,59 +56,39 @@ Modules include self-study, sharing and a community call, with a choice of recog
 
 **1. What is the CPG?**
 
-To understsand the goals for Community Participation Guidlines 2.0 [please review this slidedeck](https://docs.google.com/presentation/d/1NLFwBlm0VSD12DUMt2kBeXctQeKXEYCD3VDEYxREG_c/edit#slide=id.g144e687e01_2_0).
-
- Read the draft of the [Community Participation Guidelines 2.0](https://docs.google.com/document/d/1sElGXuZ0W31iPshvmj0CR2f6woF6V8wqrrJHzJ0pnpU/edit#heading=h.rf21kwgxk0hb), and as you do consider your answers to the following questions:
-
-* What is the purpose of the CPG for Mozilla and our communities?
-* How does this apply to my community?
-* How does this apply to my own participation at Mozilla?
-* What feels difficult to understand, or challenging to grasp in your region, language or part of the project?
-
+ Read the draft of the [Community Participation Guidelines 2.0](https://docs.google.com/document/d/1sElGXuZ0W31iPshvmj0CR2f6woF6V8wqrrJHzJ0pnpU/edit#heading=h.rf21kwgxk0hb).
 
 {: .label .timebox}
-<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 30 Minutes - 2 hours, Connected Task.
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 30 Minutes, Connected Task.
 
 **2. Connected Task**
 
- A narrative is a way of taking something you learn and making it your own. In reviewing the CPG, we are asking for your feedback, but also for how you personalize the value, impact and opportunity provided by clear and supported participation guidelines through narrative.  Narrative can be produced in any format: text(blog, forum post), blog, video etc.
+Choose from one of these 2 options for sharing feedback:
 
-*Learn more about creating Narrative, by reading [Julien Stodd's post on the topic](https://julianstodd.wordpress.com/2013/08/06/narrative/).*
-
-Choose from one of these 2 options for narrative:
-
-* **Personal Narrative**: Share your narrative (in any format) and feedback on the CPG on this [Discourse topic](https://discourse.mozilla-community.org/t/community-participation-guidelines-draft-community-feedback/13816).  If you want to provide anonymous feedback on the CPG, please email inclusion@mozilla.com .
-* **Community Co-Created Narrative**: Share the CPG draft with others in the community to co-create a narrative (in any format) to post on this [Discourse topic](https://discourse.mozilla-community.org/t/community-participation-guidelines-draft-community-feedback/13816) or share anonymously to inclusion@mozilla.com .
+* **Discourse**: Share your feedback (in any format) and feedback on the CPG on this [Discourse topic](https://discourse.mozilla-community.org/t/community-participation-guidelines-draft-community-feedback/13816).
+* **Confidential feedback (not public)**: inclusion@mozilla.com .
 
 **NOTE**: Inclusion email reaches our VP of People and D&I Team.
 
 {: .label .timebox}
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> 1 Hour Video or Telegram Discussion
 
+**3.Discussion!**
 
-**3. Face to Face**
-
-Come together to discuss the CPG draft feedback with Mozilla's D&I Lead Larissa Shapiro.  The purpose of this call is to give you an opportunity to ask questions, provide insights and gain greater understanding of our role as a community in evolving this draft through feedback - and our goals for growing healthy communities.
+Come together to discuss the CPG draft feedback with Mozilla's D&I Lead Larissa Shapiro, and others focused on healthy communities.
 
 You can sign up for a call using calendly.  Please select one of:
 
 * [Vidyo Call](https://calendly.com/eirwin/cpg-face-to-face-call-vidyo/02-23-2017)
-* [Telegram Call](https://calendly.com/eirwin/cpg-face-to-face-call-vidyo-clone/03-09-2017)
+
+**OR...**
+
+* Join our #Mozillians Telegram & Twitter live chat on [March 9th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CPG+Telegram+%26+Twitter+Chat&iso=20170309T07&p1=1091&ah=1) ! 
 
 {: .label .timebox}
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> 
 15 minutes, self-reflection
 
-**4. Self Assessment**
-
-Reflect on this activity, and what you have learned:
-
-* How might you change your own behaviors to be more inclusive?
-* How might the CPG support you, and your community goals in 2017?
-
-{: .label .timebox}
-<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 
-5 minutes, submit a form
 
 ## Recognition
 
