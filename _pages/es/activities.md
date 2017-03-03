@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Activities"
+title: "Actividades"
 permalink: /es/activities/
 lang: es
 ref: activities
@@ -8,12 +8,12 @@ redirect_from: "/es/developer-engagement/"
 redirect_from: "/es/experiments/"
 ---
 
-## Activities
+## Actividades
 
-These activities were designed with 2 things in mind:
+Estas actividades se diseñaron teniendo en cuenta 2 cosas:
 
-1. That they have the potential to have a direct impact on Mozilla’s work right now
-2. That they bring value to you and your community. While we have specific metrics for each activity, one of the main overall goals is that we all get better at mobilising and building communities.
+1. Que tienen el potencial suficiente como para tener un impacto directo en el trabajo de Mozilla ahora mismo
+2. Que te dan un valor añadido a ti y a tu comunidad. While we have specific metrics for each activity, one of the main overall goals is that we all get better at mobilising and building communities.
 
 Before you jump right in: Look at your goals for the year, what do you and your community want to accomplish in each of the impact areas? Which of the following activities best map to those goal? And very importantly, ask yourself if by doing these activities you can expose new people to the work that Mozilla is doing and we can build new communities around them.
 
@@ -37,7 +37,7 @@ _
   <div class="item-content" markdown="1">
 When building features for hundreds of millions of Firefox users worldwide, it’s important to get them right. Help us figure out which features should ship and how they should work. Install Test Pilot and give us feedback.
 
-[Find out more](/test-pilot/).
+[Descubre más](/test-pilot/).
   </div>
   <footer class="item-footer">
     <div class="tags">Testing</div>
@@ -53,7 +53,7 @@ When building features for hundreds of millions of Firefox users worldwide, it�
   <div class="item-content" markdown="1">
 With the emergence of multiprocess Firefox (e10s), we need to ensure featured add-ons on the Mozilla Add-ons site meet the highest levels of browser compatibility and functionality. Help us test these add-ons so that e10s can be rolled out to more of our millions of users.
 
-[Find out more](/e10s-addons/).
+[Descubre más](/e10s-addons/).
   </div>
   <footer class="item-footer">
     <div class="tags">Testing</div>
