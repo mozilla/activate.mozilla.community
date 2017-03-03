@@ -1,6 +1,6 @@
 {
     "name": "Activate Mozilla",
-    "description": "Activity Campaign website",
+    "description": "Activite Campaign website",
     "repository": {
         "url": "https://github.com/mozilla/activate.mozilla.community",
         "license": "MPLv2"
@@ -10,7 +10,8 @@
         "docs": "https://github.com/mozilla/activate.mozilla.community/blob/gh-pages/README.md",
         "irc-contacts": [
             "Nukeador",
-            "nikos"
+            "nikos",
+            "mkohler"
         ]
     },
     "bugs": {
