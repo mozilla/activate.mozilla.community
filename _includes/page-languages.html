@@ -6,7 +6,7 @@
 <form id="lang_form" method="get" action="#">
   <select id="page-language-select" name="lang" class="form-control" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
     {% for page in pages %}
-      <option value="{{ page.url | prepend: site.url }}" lang="{{ page.lang }}" {% if page.lang contains lang %}selected{% endif %}>{{ page.lang }}</option>
+      <option value="{{ page.url | prepend: site.url }}" lang="{{ page.lang }}" {% if page.lang contains lang %}selected{% endif %}>{{ page.lang | upcase }}</option>
     {% endfor %}
   </select>
 </form>
