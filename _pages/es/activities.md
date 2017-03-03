@@ -32,12 +32,12 @@ _
   <header class="item-header">
     <img src="/assets/img/testpilot-header.png" alt="Header image">
   </header>
-  <h2><a href="/test-pilot/">Install Test Pilot</a></h2>
+  <h2><a href="/es/test-pilot/">Install Test Pilot</a></h2>
   <p class="retired-note">This activity is retired. What this means is that we don't recommend that you run the activity at this time and resources will no longer be available.</p>
   <div class="item-content" markdown="1">
 When building features for hundreds of millions of Firefox users worldwide, it’s important to get them right. Help us figure out which features should ship and how they should work. Install Test Pilot and give us feedback.
 
-[Descubre más](/test-pilot/).
+[Descubre más](/es/test-pilot/).
   </div>
   <footer class="item-footer">
     <div class="tags">Testing</div>
@@ -48,12 +48,12 @@ When building features for hundreds of millions of Firefox users worldwide, it�
   <header class="item-header">
     <img src="/assets/img/e10s-header.png" alt="Header image">
   </header>
-  <h2><a href="/e10s-addons/">e10s and Featured Add-ons</a></h2>
+  <h2><a href="/es/e10s-addons/">e10s and Featured Add-ons</a></h2>
   <p class="retired-note">This activity is retired. What this means is that we don't recommend that you run the activity at this time and resources will no longer be available.</p>
   <div class="item-content" markdown="1">
 With the emergence of multiprocess Firefox (e10s), we need to ensure featured add-ons on the Mozilla Add-ons site meet the highest levels of browser compatibility and functionality. Help us test these add-ons so that e10s can be rolled out to more of our millions of users.
 
-[Descubre más](/e10s-addons/).
+[Descubre más](/es/e10s-addons/).
   </div>
   <footer class="item-footer">
     <div class="tags">Testing</div>
