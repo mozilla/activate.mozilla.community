@@ -55,7 +55,7 @@ Esta actividad está separada en pequeños módulos de aprender y compartir, con
 
 **1. ¿Que es el PPC?**
 
- Lee el boceto de las [Pautas de Participacion Comunitarias 2.0](https://docs.google.com/document/d/1sElGXuZ0W31iPshvmj0CR2f6woF6V8wqrrJHzJ0pnpU/edit#heading=h.rf21kwgxk0hb).
+ Lee el boceto de las [Pautas de Participacion Comunitarias 2.0](/assets/pdf/MozillaCommunityParticipationGuidelines-ES.pdf).
 
 {: .label .timebox}
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> 30 Minutos, Tarea conectada.
