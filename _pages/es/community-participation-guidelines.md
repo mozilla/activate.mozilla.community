@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Pautas de Participación Comunitaria (Draft) Review"
+title:  "Pautas de Participación Comunitaria (Borrador) revision"
 permalink: /es/community-participation-guideline/
 lang: es
 ref: community-participation-guidelines
@@ -12,7 +12,7 @@ redirect_from: "/experiments/community-participation-guidelines/"
 {:toc}
 
 {: .label .timebox}
-<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 2-3 horas total
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 2-3 horas totales
 
 {: .clear}
 _
@@ -23,7 +23,7 @@ _
 *Diversidad e Inclusión ayuda a lograr nuestra misión:
 ”Asegurar que el Internet sea un recurso público global abierto accesible a todos.”*
 
-Las Pautas de Participación Comunitarias, son pautas globales que se aplican a todos en la comunidad de Mozilla - personal y voluntarios. Las PPC presentan una visión para la comunidad de Mozilla, y establece expectativas de comportamiento, procesos para plantear inquietudes, y consecuencias. Las PPC están regidas por los propietarios de foros, eventos y actividades apoyadas por Relaciones de empleados y el equipo de D&I.
+Las Pautas de Participación Comunitarias, son pautas globales que se aplican a todos en la comunidad de Mozilla - empleados y voluntarios. Las PPC presentan una visión para la comunidad de Mozilla, y establece expectativas de comportamiento, procesos para plantear inquietudes, y consecuencias. Las PPC están regidas por los propietarios de foros, eventos y actividades apoyadas por Relaciones de empleados y el equipo de D&I.
 
 ## Impacto y Métricas
 
@@ -42,7 +42,6 @@ __Fortaleza:__
 
 La audiencia para esta actividad son todos los Mozillians que les importa construir comunidades saludables y empoderadas.
 
-*We acknowledge that this first draft is provided in English only , however future releases are planned in other languages with feedback opportunities with each available.*
 
 ## Formato de actividades
 
