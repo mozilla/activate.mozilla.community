@@ -81,7 +81,7 @@ Puedes registrarte para una llamada usando Calendy. Por favor seleccione uno:
 
 **O...**
 
-* Unete al chat de Mozileros en vivo en Telegram y Twitter el [9 de Marzo](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CPG+Telegram+%26+Twitter+Chat&iso=20170309T07&p1=1091&ah=1) !
+* Unete al chat de #Mozillians en vivo en Telegram y Twitter el [9 de Marzo](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CPG+Telegram+%26+Twitter+Chat&iso=20170309T07&p1=1091&ah=1) !
 
 {: .label .timebox}
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span>
