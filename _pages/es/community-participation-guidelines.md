@@ -31,17 +31,16 @@ Las Pautas de Participación Comunitarias, son pautas globales que se aplican a 
 
 __Impacto:__
 
-* 100 Mozillians voluntarios han proporcionado comentarios sobre el borrador de las Pautas de Participación Comunitaria.
+* 100 Mozileros voluntarios han proporcionado comentarios sobre el borrador de las Pautas de Participación Comunitaria.
 
 __Fortaleza:__
 
-* 50 Mozillians voluntarios han completado esta actividad para Marzo 15.
-* 25 Mozillians han compartido las PPC con sus comunidades/regiones y han recibido retroalimentación
+* 50 Mozileros voluntarios han completado esta actividad para Marzo 15.
+* 25 Mozileros han compartido las PPC con sus comunidades/regiones y han recibido retroalimentación
 
 ## Audiencia para esta actividad
 
-La audiencia para esta actividad son todos los Mozillians que les importa construir comunidades saludables y empoderadas.
-
+La audiencia para esta actividad son todos los Mozileros que les importa construir comunidades saludables y empoderadas.
 
 ## Formato de actividades
 
@@ -82,7 +81,7 @@ Puedes registrarte para una llamada usando Calendy. Por favor seleccione uno:
 
 **O...**
 
-* Unete al chat de $Mozillians en vivo en Telegram y Twitter el [9 de Marzo](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CPG+Telegram+%26+Twitter+Chat&iso=20170309T07&p1=1091&ah=1) !
+* Unete al chat de #Mozillians en vivo en Telegram y Twitter el [9 de Marzo](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CPG+Telegram+%26+Twitter+Chat&iso=20170309T07&p1=1091&ah=1) !
 
 {: .label .timebox}
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span>
@@ -93,4 +92,4 @@ Puedes registrarte para una llamada usando Calendy. Por favor seleccione uno:
 
 Déjanos reconocer tu gran trabajo (prueba de cumplimiento requerida.)
 
-[Porfavor llena este formulario para recibir credito por completar esta actividad.](https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSfXbZrra9m4V6Rf_8wKHuWRkeB6nVwaGhwrgWPibZc1uAqtXA/viewform).
+[Por favor llena este formulario para recibir credito por completar esta actividad.](https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSfXbZrra9m4V6Rf_8wKHuWRkeB6nVwaGhwrgWPibZc1uAqtXA/viewform).
