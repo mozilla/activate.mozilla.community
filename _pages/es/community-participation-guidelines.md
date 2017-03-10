@@ -8,16 +8,17 @@ parent: activities
 redirect_from: "/experiments/community-participation-guidelines/"
 ---
 
-*	TOC {:toc}
+*	TOC 
+{:toc}
 
 {: .label .timebox}
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> 2-3 horas totales
 
 {: .clear}
-
 _
 
-{: .alert .alert-info .impactbox}<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>Proporcionar a la comunidad mundial de Mozilla la oportunidad de revisar el borrador de las Pautas de Participación Comunitaria (PPC) 2.0, proporcionará retroalimentación crítica para la Diversidad e Inclusión (D&I) en Mozilla, así como proporcionar mayor conciencia a las comunidades de Mozilla de cómo PPC apoya comunidades saludables.
+{: .alert .alert-info .impactbox}
+<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>Proporcionar a la comunidad mundial de Mozilla la oportunidad de revisar el borrador de las Pautas de Participación Comunitaria (PPC) 2.0, proporcionará retroalimentación crítica para la Diversidad e Inclusión (D&I) en Mozilla, así como proporcionar mayor conciencia a las comunidades de Mozilla de cómo PPC apoya comunidades saludables.
 
 *La Diversidad e Inclusión ayudan a lograr nuestra misión: ”Asegurar que el Internet sea un recurso público mundial abierto y accesible a todos.”*
 
