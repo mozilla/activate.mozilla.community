@@ -1,17 +1,23 @@
 ---
-
-layout: page title: "Revisión de las Pautas de Participación Comunitaria (Borrador)" permalink: /es/community-participation-guideline/ lang: es ref: community-participation-guidelines parent: activities
-
+layout: page 
+title: "Revisión de las Pautas de Participación Comunitaria (Borrador)" 
+permalink: /es/community-participation-guideline/ 
+lang: es 
+ref: community-participation-guidelines 
+parent: activities
 redirect_from: "/experiments/community-participation-guidelines/"
------------------------------------------------------------------
+---
 
--	TOC {:toc}
+*	TOC {:toc}
 
-\{: .label .timebox}<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 2-3 horas totales
+{: .label .timebox}
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 2-3 horas totales
 
-\{: .clear}\_
+{: .clear}
 
-\{: .alert .alert-info .impactbox}<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>Proporcionar a la comunidad mundial de Mozilla la oportunidad de revisar el borrador de las Pautas de Participación Comunitaria (PPC) 2.0, proporcionará retroalimentación crítica para la Diversidad e Inclusión (D&I) en Mozilla, así como proporcionar mayor conciencia a las comunidades de Mozilla de cómo PPC apoya comunidades saludables.
+_
+
+{: .alert .alert-info .impactbox}<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>Proporcionar a la comunidad mundial de Mozilla la oportunidad de revisar el borrador de las Pautas de Participación Comunitaria (PPC) 2.0, proporcionará retroalimentación crítica para la Diversidad e Inclusión (D&I) en Mozilla, así como proporcionar mayor conciencia a las comunidades de Mozilla de cómo PPC apoya comunidades saludables.
 
 *La Diversidad e Inclusión ayudan a lograr nuestra misión: ”Asegurar que el Internet sea un recurso público mundial abierto y accesible a todos.”*
 
@@ -44,13 +50,15 @@ Esta actividad está separada en pequeños módulos de aprender y compartir, con
 Flujo de eventos
 ----------------
 
-\{: .label .timebox}<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 30 Minutos, Auto-Estudio.
+{: .label .timebox}
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 30 Minutos, Auto-Estudio.
 
 **1. ¿Que son las PPC?**
 
 Lee el boceto de las [Pautas de Participacion Comunitarias 2.0](/assets/pdf/MozillaCommunityParticipationGuidelines-ES.pdf).
 
-\{: .label .timebox}<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 30 Minutos, Tarea conectada.
+{: .label .timebox}
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 30 Minutos, Tarea conectada.
 
 **2. Tarea Conectada**
 
@@ -61,7 +69,8 @@ Elige una de estas 2 opciones para compartir tus comentarios:
 
 **NOTA**: El correo de Inclusión llega a nuestro VP de Personas, y al equipo de D&I.
 
-\{: .label .timebox}<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 1 Hora de Video o Discusión en Telegram
+{: .label .timebox}
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 1 Hora de Video o Discusión en Telegram
 
 **3.Discusión!**
 
@@ -75,7 +84,8 @@ Puedes registrarte para una llamada usando Calendly. Por favor selecciona una:
 
 -	Unete al chat de #Mozillians en vivo en Telegram y Twitter el [9 de Marzo](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CPG+Telegram+%26+Twitter+Chat&iso=20170309T07&p1=1091&ah=1) !
 
-\{: .label .timebox}<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 15 minutos, autorreflexión
+{: .label .timebox}
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 15 minutos, autorreflexión
 
 Reconocimiento
 --------------
