@@ -44,7 +44,7 @@ These are listed here for transparency, and you can also see our per-activity go
 
 You can ask directly creating a new topic at the [Participation Leaders forum](https://discourse.mozilla-community.org/c/participation-leaders).
 
-## Can I request budget or swag for these activities?
+## Can I request budget for these activities?
 
 We encourage you to run these as lean as possible, but realise that sometimes there can be some costs incurred for logistics or refreshments. If your event meets the requirements laid out in the activity, there is a fund available of up to $150 USD per event. This can be used for only the following items/services:
 
@@ -55,6 +55,8 @@ We encourage you to run these as lean as possible, but realise that sometimes th
 
 For some activities, extra budget is available for special needs. For example, VR headsets for the WebVR Camp activity. Details will be available on the relevant activity pages.
 
-Assets to use will be included in some activities. Unless explicitly mentioned in the activity, there will be no other swag available for the campaign.
-
 To make the request, you will need to make a Reps budget request. If you are not a Rep, please contact a local Rep to help you. We will fast-track valid requests, which are ones that meet the requirements of the activity. For larger budget requests, it will be processed like any other Reps budget request and there is no guarantee it will be approved and even if so, whether it will be on time.
+
+## Can I request swag for these activities?
+
+In the case you need swag you can either request it via the [swag request form](https://bugzilla.mozilla.org/form.reps.swag) or [produce on your own](https://wiki.mozilla.org/Participation/Projects/Activate_mozilla/Local_Swag). If you are not a Rep, you can also ask a nearby Rep to file the request for you. In all cases your request will be evaluated by the bug wrangler before being approved/rejected.
