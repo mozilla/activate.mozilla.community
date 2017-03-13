@@ -1,18 +1,18 @@
 ---
 layout: default
-title:  "Roadmap"
+title: "Roadmap"
 permalink: /es/roadmap/
 lang: es
 ref: roadmap
 ---
 
-# Roadmap
+# Hoja de ruta
 
-In this page we describe the past, current and future activities that we have on this site. If you have feedback, questions or suggestions please [chime in to this topic](https://discourse.mozilla-community.org/t/activate-mozilla-roadmap/10068).
+En esta página se describe, el pasado, presente y futuro de las actividades que aquí se incluyen. Si tienes alguna pregunta, comentario o sugerencias, escríbenos (https://discourse.mozilla-community.org/t/activate-mozilla-roadmap/10068).
 
-*Note that this roadmap is subject to change.*
+*Esta hoja de ruta puede sufrir cambios.*
 
-| Now (Q1 2017)  | Next (Q2 2017)   | Later (Beyond) |
+| Ahora (Q1 2017)  | Próximo (Q2 2017)   | Después (más adelante) |
 | --- | --- | --- |
 | [Dive Into Rust](/es/rust-hack/) | Host a Tech Speaker | Open Source Corpus |
 | [Web Compatibility Sprint](/es/webcompat-sprint/) |  | MLN |
