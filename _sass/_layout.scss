@@ -790,16 +790,21 @@ table.sortable > thead th:hover:not([data-defaultsort="disabled"]) {
 }
 
 @include media-query($on-laptop) {
-    .navbar-collapse.collapse {
-        display: none !important;
-    }
-    .navbar-collapse.collapse.in {
-        display: block !important;
-    }
-    .navbar-header .collapse, .navbar-toggle {
-        display: block !important;
-    }
-    .navbar-header {
-        float: none;
+    .site-header {
+      .navbar-collapse.collapse {
+          display: none !important;
+
+          &.in {
+            display: block !important;
+          }
+      }
+
+      .navbar-toggle {
+          display: block;
+      }
+
+      .navbar-header {
+          float: none;
+      }
     }
 }
