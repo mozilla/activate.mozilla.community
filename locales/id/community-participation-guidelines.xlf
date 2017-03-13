@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="_pages/community-participation-guidelines.md"
+    source-language="en-US" target-language="id" datatype="markdown">
+    <header>
+      <skl>
+        <external-file href="locales/id/community-participation-guidelines.slk.md"/>
+      </skl>
+    </header>
+    <body>
+<trans-unit id="1">
+  <source xml:lang="en-US">layout: page
+title:  "Community Participation Guidelines (Draft) Review"
+permalink: /community-participation-guideline/
+lang: en
+ref: community-participation-guidelines
+parent: activities</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="2">
+  <source xml:lang="en-US">redirect_from: "/experiments/community-participation-guidelines/"</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="3">
+  <source xml:lang="en-US">TOC</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="4">
+  <source xml:lang="en-US">{:toc}</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="5">
+  <source xml:lang="en-US">{: .label .timebox}
+&lt;span class=&quot;glyphicon glyphicon-time&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt; 2-3 hours total</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="6">
+  <source xml:lang="en-US">{: .clear}
+_</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="7">
+  <source xml:lang="en-US">{: .alert .alert-info .impactbox}
+&lt;span class=&quot;glyphicon glyphicon-ok-circle&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;Providing Mozilla’s global community the opportunity to review the 2.0 Community Participation Guidelines draft will provide critical feedback for Diversity & Inclusion at Mozilla as well as provide greater awareness to Mozilla’s communities of how the CPG supports healthy communities.</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="8">
+  <source xml:lang="en-US">*Diversity &amp; Inclusion helps us achieve our mission:
+”To ensure the Internet is a global public resource open and accessible to all.”*</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="9">
+  <source xml:lang="en-US">Community Participation Guidelines are global guidelines that apply to everyone in the Mozilla community - staff and volunteers</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="10">
+  <source xml:lang="en-US">  The CPG presents a vision for Mozilla's community, and lays out behavior expectations, processes to raise concerns, and consequences</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="11">
+  <source xml:lang="en-US"> The CPG is governed by owners of forums, events and activities supported by Employee Relations and the D&I team.</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="12">
+  <source xml:lang="en-US">Impact and Metrics</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="13">
+  <source xml:lang="en-US">Goals for this area</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="14">
+  <source xml:lang="en-US">__Impact:__</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="15">
+  <source xml:lang="en-US">100 volunteer Mozillians have provided feedback on the draft Community Participation Guidelines.</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="16">
+  <source xml:lang="en-US">__Strength:__</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="17">
+  <source xml:lang="en-US">50 volunteer Mozillians have completed this activity by March 15th.</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="18">
+  <source xml:lang="en-US">25 Mozillians have shared the CPG with their community/region and collected feedback.</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="19">
+  <source xml:lang="en-US">Audience for this activity</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="20">
+  <source xml:lang="en-US">The audience for this activity is all Mozillians who care about building empowered and healthy communities</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="21">
+  <source xml:lang="en-US">*We acknowledge that this first draft is provided in English only , however future releases are planned in other languages with feedback opportunities with each available.*</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="22">
+  <source xml:lang="en-US">Activity Format</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="23">
+  <source xml:lang="en-US">This activity is broken into small modules of learning and sharing, with associated times for completion</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="24">
+  <source xml:lang="en-US"> This format is intended to  help you pace your completion according to the time available in your week.</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="25">
+  <source xml:lang="en-US">Modules include self-study, sharing and a community call, with a choice of recognition options on completion.</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="26">
+  <source xml:lang="en-US">Event Flow</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="27">
+  <source xml:lang="en-US">{: .label .timebox}
+&lt;span class=&quot;glyphicon glyphicon-time&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt; 30 Minutes, Self-Study.</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="28">
+  <source xml:lang="en-US">**1</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="29">
+  <source xml:lang="en-US">What is the CPG?**</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="30">
+  <source xml:lang="en-US">To understsand the goals for Community Participation Guidlines 2.0 [please review this slidedeck](https://docs.google.com/presentation/d/1NLFwBlm0VSD12DUMt2kBeXctQeKXEYCD3VDEYxREG_c/edit#slide=id.g144e687e01_2_0).</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="31">
+  <source xml:lang="en-US"> Read the draft of the [Community Participation Guidelines 2.0](https://docs.google.com/document/d/1sElGXuZ0W31iPshvmj0CR2f6woF6V8wqrrJHzJ0pnpU/edit#heading=h.rf21kwgxk0hb), and as you do consider your answers to the following questions:</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="32">
+  <source xml:lang="en-US">What is the purpose of the CPG for Mozilla and our communities?</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="33">
+  <source xml:lang="en-US">How does this apply to my community?</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="34">
+  <source xml:lang="en-US">How does this apply to my own participation at Mozilla?</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="35">
+  <source xml:lang="en-US">What feels difficult to understand, or challenging to grasp in your region, language or part of the project?</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="36">
+  <source xml:lang="en-US">{: .label .timebox}
+&lt;span class=&quot;glyphicon glyphicon-time&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt; 30 Minutes - 2 hours, Connected Task.</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="37">
+  <source xml:lang="en-US">**2</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="38">
+  <source xml:lang="en-US">Connected Task**</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="39">
+  <source xml:lang="en-US"> A narrative is a way of taking something you learn and making it your own</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="40">
+  <source xml:lang="en-US">In reviewing the CPG, we are asking for your feedback, but also for how you personalize the value, impact and opportunity provided by clear and supported participation guidelines through narrative</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="41">
+  <source xml:lang="en-US"> Narrative can be produced in any format: text(blog, forum post), blog, video etc.</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="42">
+  <source xml:lang="en-US">*Learn more about creating Narrative, by reading [Julien Stodd&#39;s post on the topic](https://julianstodd.wordpress.com/2013/08/06/narrative/).*</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="43">
+  <source xml:lang="en-US">Choose from one of these 2 options for narrative:</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="44">
+  <source xml:lang="en-US">**Personal Narrative**: Share your narrative (in any format) and feedback on the CPG on this [Discourse topic](https://discourse.mozilla-community.org/t/community-participation-guidelines-draft-community-feedback/13816)</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="45">
+  <source xml:lang="en-US"> If you want to provide anonymous feedback on the CPG, please email inclusion@mozilla.com .</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="46">
+  <source xml:lang="en-US">**Community Co-Created Narrative**: Share the CPG draft with others in the community to co-create a narrative (in any format) to post on this [Discourse topic](https://discourse.mozilla-community.org/t/community-participation-guidelines-draft-community-feedback/13816) or share anonymously to inclusion@mozilla.com .</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="47">
+  <source xml:lang="en-US">**NOTE**: Inclusion email reaches our VP of People and D&I Team.</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="48">
+  <source xml:lang="en-US">{: .label .timebox}
+&lt;span class=&quot;glyphicon glyphicon-time&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt; 1 Hour Video or Telegram Discussion</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="49">
+  <source xml:lang="en-US">**3</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="50">
+  <source xml:lang="en-US">Face to Face**</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="51">
+  <source xml:lang="en-US">Come together to discuss the CPG draft feedback with Mozilla's D&I Lead Larissa Shapiro</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="52">
+  <source xml:lang="en-US"> The purpose of this call is to give you an opportunity to ask questions, provide insights and gain greater understanding of our role as a community in evolving this draft through feedback - and our goals for growing healthy communities.</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="53">
+  <source xml:lang="en-US">You can sign up for a call using calendly</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="54">
+  <source xml:lang="en-US"> Please select one of:</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="55">
+  <source xml:lang="en-US">[Vidyo Call](https://calendly.com/eirwin/cpg-face-to-face-call-vidyo/02-23-2017)</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="56">
+  <source xml:lang="en-US">[Telegram Call](https://calendly.com/eirwin/cpg-face-to-face-call-vidyo-clone/03-09-2017)</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="57">
+  <source xml:lang="en-US">{: .label .timebox}
+&lt;span class=&quot;glyphicon glyphicon-time&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+15 minutes, self-reflection</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="58">
+  <source xml:lang="en-US">**4</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="59">
+  <source xml:lang="en-US">Self Assessment**</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="60">
+  <source xml:lang="en-US">Reflect on this activity, and what you have learned:</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="61">
+  <source xml:lang="en-US">How might you change your own behaviors to be more inclusive?</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="62">
+  <source xml:lang="en-US">How might the CPG support you, and your community goals in 2017?</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="63">
+  <source xml:lang="en-US">{: .label .timebox}
+&lt;span class=&quot;glyphicon glyphicon-time&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+5 minutes, submit a form</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="64">
+  <source xml:lang="en-US">Recognition</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="65">
+  <source xml:lang="en-US"> Please let us recognize your good work (proof of accomplishment required.)</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+<trans-unit id="66">
+  <source xml:lang="en-US">[Please fill out this form  to receive credit for completion this activity](https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSfXbZrra9m4V6Rf_8wKHuWRkeB6nVwaGhwrgWPibZc1uAqtXA/viewform).</source>
+  <target xml:lang="id"></target>
+</trans-unit>
+    </body>
+ </file>
+</xliff>

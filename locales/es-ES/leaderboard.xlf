@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="../../_pages/leaderboard.md" source-language="en-US" target-language="es-ES" datatype="markdown">
+    <header>
+      <skl>
+        <external-file href="leaderboard.skl.md"/>
+      </skl>
+    </header>
+    <body>
+      <trans-unit id="1">
+        <source xml:lang="en-US">layout: leaderboard
+title:  "Leaderboard"
+permalink: /leaderboard/
+lang: en</source>
+        <target xml:lang="es-ES">layout: leaderboard title: "Leaderboard" permalink: /es/leaderboard/ lang: en</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source xml:lang="en-US">ref: leaderboard</source>
+        <target xml:lang="es-ES">ref: leaderboard</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source xml:lang="en-US">Leaderboard</source>
+        <target xml:lang="es-ES">Leaderboard</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source xml:lang="en-US">{: #loading .pull-right}
+&lt;span class="glyphicon glyphicon-refresh" aria-hidden="true"&gt;&lt;/span&gt; loading...</source>
+        <target>{: #loading .pull-right} &lt;span class="glyphicon glyphicon-refresh" aria-hidden="true"&gt;&lt;/span&gt; cargando...</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source xml:lang="en-US">{: #board .sortable}
+|</source>
+        <target xml:lang="es-ES">{: #board .sortable} |</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source xml:lang="en-US">Mozillian  |</source>
+        <target xml:lang="es-ES">Mozillian |</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source xml:lang="en-US">No.</source>
+        <target xml:lang="es-ES">No.</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source xml:lang="en-US">of Events |</source>
+        <target xml:lang="es-ES">de Eventos |</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source xml:lang="en-US">|</source>
+        <target xml:lang="es-ES">|</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source xml:lang="en-US">--- |</source>
+        <target xml:lang="es-ES">--- |</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source xml:lang="en-US">--- |</source>
+        <target xml:lang="es-ES">--- |</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source xml:lang="en-US">|</source>
+        <target xml:lang="es-ES">|</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source xml:lang="en-US"> |</source>
+        <target xml:lang="es-ES">|</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source xml:lang="en-US"> |</source>
+        <target xml:lang="es-ES">|</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
+

@@ -1,0 +1,28 @@
+{% assign l = site.data.l10n.[page.lang] %}
+
+<header class="site-header">
+
+  <div class="wrapper container">
+
+    <a class="site-title" href="/{{ l.lang-url }}">
+      <img src="/assets/img/activate.png" alt="{{ l.site-title }}" class="brand"></a>
+
+    <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#CollapsingNavbar" aria-controls="CollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation">
+      &#9776;
+    </button>
+
+    <div class="trigger collapse navbar-collapse" id="CollapsingNavbar">
+      <a class="page-link" href="/{{ l.lang-url }}activities/">{{ l.activities }}</a>
+      <a class="page-link" href="/{{ l.lang-url }}faq/">{{ l.faq }}</a>
+      <a class="page-link" href="/{{ l.lang-url }}leaderboard/">{{ l.leaderboard }}</a>
+      <a class="page-link" href="/{{ l.lang-url }}participation/">{{ l.participation }}</a>
+      <a class="page-link" href="/{{ l.lang-url }}roadmap/">{{ l.roadmap }}</a>
+    </div>
+
+    <div id="tabzilla" class="hidden-xs hidden-sm">
+      <a href="https://www.mozilla.org/" data-link-type="nav" data-link-name="tabzilla">Mozilla</a>
+    </div>
+
+  </div>
+
+</header>

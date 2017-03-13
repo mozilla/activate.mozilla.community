@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper container">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    {% include js.html %}
+    <script src="/assets/js/moment.min.js"></script>
+    <script src="/assets/js/bootstrap-sortable.js"></script>
+    <script src="/assets/js/underscore-min.js"></script>
+    <script src="/assets/js/leaderboard.js"></script>
+
+  </body>
+
+
+</html>

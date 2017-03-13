@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="../../_pages/webcompat-sprint.md"
+    source-language="en-US" target-language="ro" datatype="markdown">
+    <header>
+      <skl>
+        <external-file href="webcompat-sprint.skl.md"/>
+      </skl>
+    </header>
+    <body>
+<trans-unit id="1">
+  <source xml:lang="en-US">layout: page
+title:  "Web Compatibility Sprint"
+permalink: /webcompat-sprint/
+lang: en
+ref: webcompat-sprint
+parent: activities</source>
+  <target xml:lang="ro">layout: page
+title:  "Web Compatibility Sprint"
+permalink: /ro/webcompat-sprint/
+lang: en
+ref: webcompat-sprint
+parent: activities</target>
+</trans-unit>
+<trans-unit id="2">
+  <source xml:lang="en-US">redirect_from: "/developer-engagement/webcompat-sprint/"</source>
+  <target xml:lang="ro">redirect_from: "/ro/developer-engagement/webcompat-sprint/"</target>
+</trans-unit>
+<trans-unit id="3">
+  <source xml:lang="en-US">TOC</source>
+  <target xml:lang="ro">TOC</target>
+</trans-unit>
+<trans-unit id="4">
+  <source xml:lang="en-US">{:toc}</source>
+  <target xml:lang="ro">{:toc}</target>
+</trans-unit>
+<trans-unit id="5">
+  <source xml:lang="en-US">{: .label .timebox}
+&lt;span class=&quot;glyphicon glyphicon-time&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt; 2-3 hours</source>
+  <target xml:lang="ro">{: .label .timebox}
+&lt;span class=&quot;glyphicon glyphicon-time&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt; 2-3 hours</target>
+</trans-unit>
+<trans-unit id="6">
+  <source xml:lang="en-US">{: .clear}
+_</source>
+  <target xml:lang="ro">{: .clear}
+_</target>
+</trans-unit>
+<trans-unit id="7">
+  <source xml:lang="en-US">{: .alert .alert-info .impactbox}
+&lt;span class=&quot;glyphicon glyphicon-ok-circle&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+At Mozilla, we want the web running well for everyone, not just in one or two browsers.</source>
+  <target xml:lang="ro">{: .alert .alert-info .impactbox}
+&lt;span class=&quot;glyphicon glyphicon-ok-circle&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+At Mozilla, we want the web running well for everyone, not just in one or two browsers.</target>
+</trans-unit>
+<trans-unit id="8">
+  <source xml:lang="en-US">This means cross-browser, user-agent independent, and cross-device.</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="9">
+  <source xml:lang="en-US">Web Compatibility, the ability for all Web content to run in all browsers, is important.</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="10">
+  <source xml:lang="en-US">There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired.</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="11">
+  <source xml:lang="en-US">For more background and data on Web Compatibility, read the [recent blog post on Mozilla Hacks](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/).</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="12">
+  <source xml:lang="en-US">Impact and Metrics</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="13">
+  <source xml:lang="en-US">At Mozilla, we want the web running well for everyone, not just in one or two browsers.</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="14">
+  <source xml:lang="en-US">This means cross-browser, and cross-device.</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="15">
+  <source xml:lang="en-US">Our global community can give visibility to this that no team could ever match!</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="16">
+  <source xml:lang="en-US">Goals for this area</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="17">
+  <source xml:lang="en-US">__Impact:__</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="18">
+  <source xml:lang="en-US">300 Add-on installs</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="19">
+  <source xml:lang="en-US">200 compatibility issues filed</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="20">
+  <source xml:lang="en-US">__Strength:__</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="21">
+  <source xml:lang="en-US">50 Mozillians run events</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="22">
+  <source xml:lang="en-US">50 signups to the [compatibility list](https://www.mozilla.org/en-US/about/forums/#compatibility)</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="23">
+  <source xml:lang="en-US">Audience for this activity</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="24">
+  <source xml:lang="en-US">The audience this activity is anyone who is passionate on the topic, but being somewhat Web tech savvy is a help.</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="25">
+  <source xml:lang="en-US">No programming skills are necessary.</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="26">
+  <source xml:lang="en-US">It is for people who care about diversity on the Web.</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="27">
+  <source xml:lang="en-US">Activity Format</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="28">
+  <source xml:lang="en-US">While this activity can be run solo, we encourage you to run an event in your community to get together people who care about the Web.</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="29">
+  <source xml:lang="en-US">The goal is to test sites, diagnose problems, and discuss how to evangelise locally to developers about a Web that works for everyone.</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="30">
+  <source xml:lang="en-US">Put an event team together</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="31">
+  <source xml:lang="en-US">Choose a date and secure a venue</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="32">
+  <source xml:lang="en-US">Setup the event on Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting))</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="33">
+  <source xml:lang="en-US">For duration, we recommend a half-day (or full evening) event with a minimum of 10-15 attendees.</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="34">
+  <source xml:lang="en-US">Event Flow</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="35">
+  <source xml:lang="en-US">Set yourself up with Firefox.</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="36">
+  <source xml:lang="en-US">Any or all of the following versions:</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="37">
+  <source xml:lang="en-US">[Firefox](https://www.mozilla.org/firefox/channel/)</source>
+  <target xml:lang="ro">[Firefox](https://www.mozilla.org/firefox/channel/)</target>
+</trans-unit>
+<trans-unit id="38">
+  <source xml:lang="en-US">[Firefox for Android](https://www.mozilla.org/firefox/channel/)</source>
+  <target xml:lang="ro">[Firefox for Android](https://www.mozilla.org/firefox/channel/)</target>
+</trans-unit>
+<trans-unit id="39">
+  <source xml:lang="en-US">[Firefox for iOS](https://www.mozilla.org/firefox/ios/)</source>
+  <target xml:lang="ro">[Firefox for iOS](https://www.mozilla.org/firefox/ios/)</target>
+</trans-unit>
+<trans-unit id="40">
+  <source xml:lang="en-US">[Install the Webcompat.com Reporter add-on](https://addons.mozilla.org/addon/webcompatcom-reporter?src=external-activatewebcompat1)</source>
+  <target xml:lang="ro">[Install the Webcompat.com Reporter add-on](https://addons.mozilla.org/addon/webcompatcom-reporter?src=external-activatewebcompat1)</target>
+</trans-unit>
+<trans-unit id="41">
+  <source xml:lang="en-US">Firefox for Android Nightly and Aurora already have a "Report Site Issue" option in the main menu;</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="42">
+  <source xml:lang="en-US">no add-on needed.</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="43">
+  <source xml:lang="en-US">No add-ons support for iOS, but people can report bugs manually at [webcompat.com](https://webcompat.com)</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="44">
+  <source xml:lang="en-US">Choose the sites you want to test</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="45">
+  <source xml:lang="en-US">We recommend the top sites in your country, as measured by a reputable local source or using the [Alexa Top Sites by Country](http://www.alexa.com/topsites/countries) reference</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="46">
+  <source xml:lang="en-US">Also sites that you need or use frequently in your communities!</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="47">
+  <source xml:lang="en-US">Test and Report!</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="48">
+  <source xml:lang="en-US">If you encounter a site that does not work in Firefox, but works in another browser, then click the add-on button and follow the steps to report</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="49">
+  <source xml:lang="en-US">Pay special attention to what we are looking for [in reported issues](https://wiki.mozilla.org/Compatibility/Guide#Reporting_a_Web_compatibility_issue)</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="50">
+  <source xml:lang="en-US">If you want to become an expert in web compatibility, [go here](https://wiki.mozilla.org/Compatibility/Guide)</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="51">
+  <source xml:lang="en-US">Output</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="52">
+  <source xml:lang="en-US">In addition to the recommended event flow here are some things we’d like you, the event organizer, to do.</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="53">
+  <source xml:lang="en-US">Fill out the post-event metrics on the event page you setup on the Reps portal</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="54">
+  <source xml:lang="en-US">Optionally, tell us about your event.</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="55">
+  <source xml:lang="en-US">This can be before or after.</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="56">
+  <source xml:lang="en-US">We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two!</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="57">
+  <source xml:lang="en-US">[Here is the Discourse post to write to](https://discourse.mozilla-community.org/t/activate-mozilla-web-compatibility-sprint/10074/1)</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="58">
+  <source xml:lang="en-US">Encourage attendees who want to continue to work on Web Compat to sign up to the [mailing list](https://www.mozilla.org/en-US/about/forums/#compatibility)</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="59">
+  <source xml:lang="en-US">Extra</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="60">
+  <source xml:lang="en-US">While the focus of this activity should be on testing sprints, there are other ways to stay more involved with the community after.</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="61">
+  <source xml:lang="en-US">Bug diagnosis: This is about trying to understand the underlying issues behind bug reports, and where possible, providing suggested fixes for site owners.</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="62">
+  <source xml:lang="en-US">[More information](https://github.com/mozilla/participation-org/issues/237#issuecomment-163632354)</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="63">
+  <source xml:lang="en-US">Site outreach: This is about trying to get in contact with websites that have issues and (politely!) providing ways that they can improve compatibility or fix their bugs.</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="64">
+  <source xml:lang="en-US">[More information](https://github.com/mozilla/participation-org/issues/237#issuecomment-163632626)</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+<trans-unit id="65">
+  <source xml:lang="en-US">[Webcompat's contributors page](https://webcompat.com/contributors) has more basic information on how to get started and join the community.</source>
+  <target xml:lang="ro"></target>
+</trans-unit>
+    </body>
+ </file>
+</xliff>
