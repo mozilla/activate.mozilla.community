@@ -1,6 +1,6 @@
 {
     "name": "Activate Mozilla",
-    "description": "Activite Campaign website",
+    "description": "Activate Campaign website",
     "repository": {
         "url": "https://github.com/mozilla/activate.mozilla.community",
         "license": "MPLv2"
