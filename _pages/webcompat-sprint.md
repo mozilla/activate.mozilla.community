@@ -51,7 +51,7 @@ While this activity can be run solo, we encourage you to run an event in your co
 
 1. Put an event team together
 2. Choose a date and secure a venue
-3. Setup the event on Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting))
+3. Setup the event on Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting)). Please make sure the initiative is set to "MozActivate" and the functional area indicates "Web Compatibility".
 
 For duration, we recommend a half-day (or full evening) event with a minimum of 10-15 attendees.
 
