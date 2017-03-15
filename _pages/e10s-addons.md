@@ -10,8 +10,12 @@ parent: activities
 redirect_from: "/experiments/e10s-addons/"
 ---
 
+<div class="col-md-3 pull-right" markdown="1">
 * TOC
 {:toc}
+</div>
+
+<div class="col-md-9" markdown="1">
 
 {: .retired}
 This activity is retired. What this means is that we don't recommend that you run the activity at this time and resources will no longer be available.
@@ -83,3 +87,4 @@ Additional to the recommended event flow here are some things we’d like you, t
 ## Extra
 
 If you’re interested in add-ons and want to learn more about ways you can get involved with addons.mozilla.org, please visit: [https://wiki.mozilla.org/Add-ons/Contribute](https://wiki.mozilla.org/Add-ons/Contribute)
+</div>

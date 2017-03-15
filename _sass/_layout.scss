@@ -323,7 +323,33 @@
     }
 
     .activity-page {
-      padding: 0;
+      padding: 0 0 20px 0;
+      background-color: #DAE3E7;
+
+      .alert {
+        border-radius: 0;
+      }
+
+      .post-content {
+        .col-md-9 {
+          width: 74%;
+          margin-left: 1%;
+          background-color: #FFFFFF;
+          padding: 20px;
+        }
+
+        @media(max-width: 768px) {
+          .col-md-9 {
+            width: 100%;
+          }
+        }
+        .col-md-3 {
+          width: 24%;
+          margin-right: -1%;
+          background-color: #FFFFFF;
+          padding: 20px;
+        }
+      }
     }
 
     .activity-img {
@@ -491,6 +517,7 @@
     padding: 30px 0;
     background: #f5f5f5;
     border-top: 10px solid #778492;
+    margin-right: 0px;
 }
 
 .post-title {
@@ -511,16 +538,7 @@
     float: right;
 }
 
-.post-content > #markdown-toc {
-    width: 230px;
-    position: fixed;
-    background-color: $brand-color;
-    color: #ccc;
 
-    a {
-        color: #eee;
-    }
-}
 @media all and (max-width: 1200px) {
     .post-content > h2,
     .post-content > h3,
@@ -547,10 +565,6 @@
     .post-content > ul {
         width: auto;
         float: none;
-    }
-
-    .post-content > #markdown-toc {
-        display: none;
     }
 }
 
@@ -699,22 +713,6 @@
 
 div.facebook {
     margin-top: -20px;
-}
-
-#markdown-toc {
-    padding: 15px 20px 15px 35px;
-    background: #f4f7f8;
-    margin-left: 0;
-    display: table;
-    border-left: solid 2px #acb0bd;
-    background-color: $brand-color;
-    color: #ccc;
-    z-index: 99;
-
-    a {
-        color: #eee;
-        font-weight: normal;
-    }
 }
 
 #back-top {

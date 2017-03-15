@@ -9,16 +9,12 @@ ref: webvr-camp
 parent: activities
 redirect_from: "/developer-engagement/webvr-camp/"
 ---
-
+<div class="col-md-3 hidden-xs pull-right" markdown="1">
 * TOC
 {:toc}
+</div>
 
-{: .label .timebox}
-<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 3-4 hours
-
-{: .clear}
-_
-
+<div class="col-md-9 col-xs-12" markdown="1">
 {: .alert .alert-info .impactbox}
 <span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
 Having more developers and content creators playing with WebVR is important for the future of virtual reality to help build towards a free and open virtual reality platform not owned by any individual entity.
@@ -126,3 +122,4 @@ Additional to the recommended event flow here are some things we’d like you, t
 ## Contact
 
 Want to find out more about the A-Frame community? Ping us on the [A-Frame Slack channel](https://aframevr-slack.herokuapp.com/) or Tweet at us [@aframevr](https://twitter.com/aframevr). Visit the [A-Frame community page](https://aframe.io/community/) for more details.
+</div>

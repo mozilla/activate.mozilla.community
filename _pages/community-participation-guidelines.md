@@ -10,14 +10,12 @@ parent: activities
 redirect_from: "/experiments/community-participation-guidelines/"
 ---
 
+<div class="col-md-3 pull-right" markdown="1">
 * TOC
 {:toc}
+</div>
 
-{: .label .timebox}
-<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 2-3 hours total
-
-{: .clear}
-_
+<div class="col-md-9" markdown="1">
 
 {: .alert .alert-info .impactbox}
 <span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>Providing Mozilla’s global community the opportunity to review the 2.0 Community Participation Guidelines draft will provide critical feedback for Diversity & Inclusion (D&I) at Mozilla as well as provide greater awareness to Mozilla’s communities of how the CPG supports healthy communities.
@@ -97,3 +95,4 @@ You can sign up for a call using calendly.  Please select one of:
  Please let us recognize your good work (proof of accomplishment required.)
 
 [Please fill out this form  to receive credit for completion this activity](https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSfXbZrra9m4V6Rf_8wKHuWRkeB6nVwaGhwrgWPibZc1uAqtXA/viewform).
+</div>

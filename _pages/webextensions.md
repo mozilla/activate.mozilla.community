@@ -9,14 +9,12 @@ ref: webextensions
 parent: activities
 ---
 
+<div class="col-md-3 pull-right" markdown="1">
 * TOC
 {:toc}
+</div>
 
-{: .label .timebox}
-<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 1-3 hours
-
-{: .clear}
-_
+<div class="col-md-9" markdown="1">
 
 {: .alert .alert-info .impactbox}
 <span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
@@ -162,3 +160,4 @@ __Tutorials__
 * [Create a Simple WebExtension by David Walsh](https://davidwalsh.name/web-extensions)
 * [Building Firefox Add-ons with Web Extensions by Viswaprasath Ks](http://www.slideshare.net/VISWAPRASATHKS)
 * [Open Innovation Toolkit](https://toolkit.mozilla.org/)
+</div>

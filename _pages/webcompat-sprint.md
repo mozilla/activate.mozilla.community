@@ -10,14 +10,12 @@ parent: activities
 redirect_from: "/developer-engagement/webcompat-sprint/"
 ---
 
+<div class="col-md-3 pull-right" markdown="1">
 * TOC
 {:toc}
+</div>
 
-{: .label .timebox}
-<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 2-3 hours
-
-{: .clear}
-_
+<div class="col-md-9" markdown="1">
 
 {: .alert .alert-info .impactbox}
 <span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
@@ -89,3 +87,4 @@ While the focus of this activity should be on testing sprints, there are other w
 * Site outreach: This is about trying to get in contact with websites that have issues and (politely!) providing ways that they can improve compatibility or fix their bugs. [More information](https://github.com/mozilla/participation-org/issues/237#issuecomment-163632626)
 
 [Webcompat's contributors page](https://webcompat.com/contributors) has more basic information on how to get started and join the community.
+</div>

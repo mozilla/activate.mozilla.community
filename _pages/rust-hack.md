@@ -10,14 +10,12 @@ parent: activities
 redirect_from: "/developer-engagement/rust-hack/"
 ---
 
+<div class="col-md-3 pull-right" markdown="1">
 * TOC
 {:toc}
+</div>
 
-{: .label .timebox}
-<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 2-3 hours
-
-{: .clear}
-_
+<div class="col-md-9" markdown="1">
 
 {: .alert .alert-info .impactbox}
 <span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
@@ -110,3 +108,4 @@ Additional to the recommended event flow here are some things we’d like you, t
 While the focus of this activity should be on these events, there are other ways to stay more involved with the Rust community after.
 
 * Follow up with attendees to highlight [more things happening in the community to get involved with](https://www.rust-lang.org/en-US/community.html)
+</div>

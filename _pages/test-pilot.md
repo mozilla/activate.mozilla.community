@@ -10,8 +10,12 @@ parent: activities
 redirect_from: "/experiments/test-pilot/"
 ---
 
+<div class="col-md-3 pull-right" markdown="1">
 * TOC
 {:toc}
+</div>
+
+<div class="col-md-9" markdown="1">
 
 {: .retired}
 This activity is retired. What this means is that we don't recommend that you run the activity at this time and resources will no longer be available.
@@ -70,3 +74,4 @@ Feel like doing more for Test Pilot?
 * Contributors are welcome to check out [our github repo](https://github.com/mozilla/testpilot/)
 * Here’s a [list of good first bugs](https://github.com/mozilla/testpilot/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-bug) if you would like to dive in
 * The [Test Pilot Wiki](https://wiki.mozilla.org/Test_Pilot) has lots of information about public meetings, communication and the Test Pilot roadmap
+</div>
