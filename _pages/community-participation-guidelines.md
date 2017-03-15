@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: activity
 title:  "Community Participation Guidelines (Draft) Review"
+subtitle: "In like 2-3 hours"
+image: "/assets/img/guidelines-post-header.png"
 permalink: /community-participation-guideline/
 lang: en
 ref: community-participation-guidelines
@@ -20,7 +22,7 @@ _
 {: .alert .alert-info .impactbox}
 <span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>Providing Mozilla’s global community the opportunity to review the 2.0 Community Participation Guidelines draft will provide critical feedback for Diversity & Inclusion (D&I) at Mozilla as well as provide greater awareness to Mozilla’s communities of how the CPG supports healthy communities.
 
-*Diversity & Inclusion helps us achieve our mission: 
+*Diversity & Inclusion helps us achieve our mission:
 ”To ensure the Internet is a global public resource open and accessible to all.”*
 
 Community Participation Guidelines are global guidelines that apply to everyone in the Mozilla community - staff and volunteers.   The CPG presents a vision for Mozilla's community, and lays out behavior expectations, processes to raise concerns, and consequences.  The CPG is governed by owners of forums, events and activities supported by Employee Relations and the D&I team.
@@ -40,7 +42,7 @@ __Strength:__
 
 ## Audience for this activity
 
-The audience for this activity is all Mozillians who care about building empowered and healthy communities. 
+The audience for this activity is all Mozillians who care about building empowered and healthy communities.
 
 *We acknowledge that this first draft is provided in English only , however future releases are planned in other languages with feedback opportunities with each available.*
 
@@ -83,10 +85,10 @@ You can sign up for a call using calendly.  Please select one of:
 
 **OR...**
 
-* Join our #Mozillians Telegram & Twitter live chat on [March 9th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CPG+Telegram+%26+Twitter+Chat&iso=20170309T07&p1=1091&ah=1) ! 
+* Join our #Mozillians Telegram & Twitter live chat on [March 9th](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CPG+Telegram+%26+Twitter+Chat&iso=20170309T07&p1=1091&ah=1) !
 
 {: .label .timebox}
-<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span>
 15 minutes, self-reflection
 
 
@@ -95,7 +97,3 @@ You can sign up for a call using calendly.  Please select one of:
  Please let us recognize your good work (proof of accomplishment required.)
 
 [Please fill out this form  to receive credit for completion this activity](https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSfXbZrra9m4V6Rf_8wKHuWRkeB6nVwaGhwrgWPibZc1uAqtXA/viewform).
-
-
-
-

@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: activity
 title:  "WebVR Camp"
+subtitle: "In like 3-4 hours"
+image: "/assets/img/webvr-post-header.png"
 permalink: /webvr-camp/
 lang: en
 ref: webvr-camp

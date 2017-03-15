@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: activity
 title:  "Build Your Own WebExtension Add-on for Firefox"
+subtitle: "In like 1-3 hours"
+image: "/assets/img/webextensions-post-header.png"
 permalink: /webextensions/
 lang: en
 ref: webextensions
@@ -109,10 +111,10 @@ __Part III (Bonus!)__
   * The list of currently supported [JavaScript APIs](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API) and [WebExtensions examples](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Examples) can provide inspiration.
   * Ask Chrome users to check if their favorite extensions are available in Firefox. If the extensions aren’t available, participants can try to build one for Firefox.
   * Build a WebExtension that solves any of your real-world problems, or that customizes the browser in a way that benefits you personally.
-2. [Publish your WebExtension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Publishing_your_WebExtension) to addons.mozilla.org. 
+2. [Publish your WebExtension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Publishing_your_WebExtension) to addons.mozilla.org.
 	* Once you have submitted your add-on, hover on Tools, then select "Manage My Submissions."
-	* From the actions menu, select "Edit Information." 
-	* Then click the "Edit" button on the Basic Information section. 
+	* From the actions menu, select "Edit Information."
+	* Then click the "Edit" button on the Basic Information section.
 	* Add the tag `mozactivate17` to your submission.
 	* Click the "Save Changes" button.
 3. Once your add-on has been approved (which might take a while), tweet a link to your published WebExtension! Here is a suggested message:
@@ -160,4 +162,3 @@ __Tutorials__
 * [Create a Simple WebExtension by David Walsh](https://davidwalsh.name/web-extensions)
 * [Building Firefox Add-ons with Web Extensions by Viswaprasath Ks](http://www.slideshare.net/VISWAPRASATHKS)
 * [Open Innovation Toolkit](https://toolkit.mozilla.org/)
-

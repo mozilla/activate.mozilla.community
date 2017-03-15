@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: activity
 title:  "e10s and Featured Add-ons"
+subtitle: "In like no time because it's retired"
+image: "/assets/img/e10s-post-header.png"
 permalink: /e10s-addons/
 lang: en
 ref: e10s-addons

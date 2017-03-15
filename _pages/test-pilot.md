@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: activity
 title:  "Install Test Pilot"
+subtitle: "In like no time because it's retired"
+image: "/assets/img/testpilot-post-header.png"
 permalink: /test-pilot/
 lang: en
 ref: test-pilot

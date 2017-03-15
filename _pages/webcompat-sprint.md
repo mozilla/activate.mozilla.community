@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: activity
 title:  "Web Compatibility Sprint"
 permalink: /webcompat-sprint/
+subtitle: "In like 2-3 hours"
+image: "/assets/img/webcompat-post-header.png"
 lang: en
 ref: webcompat-sprint
 parent: activities
