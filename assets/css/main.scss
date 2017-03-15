@@ -25,7 +25,7 @@ $text-color:       #373a3c;
 $text-color-light: #fff;
 $background-color: #fff;
 $brand-color:      #3f4b73;
-$brand-color-lighter: #586bab;
+$brand-color-light: lighten($brand-color, 20%);
 
 // Width of the content area
 $content-width:    960px;
@@ -53,6 +53,5 @@ $on-laptop:        992px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
-        "layout",
-        "syntax-highlighting"
+        "layout"
 ;
