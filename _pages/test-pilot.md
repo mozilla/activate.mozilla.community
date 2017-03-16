@@ -1,7 +1,7 @@
 ---
 layout: activity
 title:  "Install Test Pilot"
-subtitle: "In like no time because it's retired"
+subtitle: ""
 image: "/assets/img/testpilot-post-header.png"
 permalink: /test-pilot/
 lang: en
@@ -10,24 +10,7 @@ parent: activities
 redirect_from: "/experiments/test-pilot/"
 ---
 
-<div class="col-md-3 pull-right" markdown="1">
-* TOC
-{:toc}
-</div>
-
-<div class="col-md-9" markdown="1">
-
-{: .retired}
-This activity is retired. What this means is that we don't recommend that you run the activity at this time and resources will no longer be available.
-
-When building features for hundreds of millions of Firefox users worldwide, it’s important to get them right. To help figure out which features should ship and how they should work, we created the new Test Pilot program. Test Pilot is a way for you to try out experimental features and let us know what you think. You can turn them on and off at any time, and you’ll always know what information you’re sharing to help us understand how these features are used. Of course, you can also use Test Pilot to provide feedback and suggestions to the teams behind each new feature.
-
-[More info...](https://blog.mozilla.org/blog/2016/05/10/you-can-help-build-the-future-of-firefox-with-the-new-test-pilot-program/)
-
-<p>
-  <iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/0NCk8h5cfFI" frameborder="0" allowfullscreen></iframe>
-</p>
-
+<div class="col-md-3 hidden-xs pull-right" markdown="1">
 ## Impact and Metrics
 
 Firefox is key to how Mozilla expresses its values and makes the Web increasingly exciting in the face of walled gardens like individual apps. By testing new features and functionality, you help to keep Firefox on the leading edge and consumers engaged in our product. Additionally, it gives you a chance to go even deeper with specific feedback and ideas for Firefox.
@@ -46,6 +29,21 @@ __Strength:__
 ## Audience for this activity
 
 The audience this activity is anyone who is passionate about the Web and knows their way a little around Web browsers. No programming skills are necessary. It is for people who like to try new things and are not shy in telling us what they think.
+</div>
+
+<div class="col-md-9" markdown="1">
+
+{: .retired}
+This activity is retired. What this means is that we don't recommend that you run the activity at this time and resources will no longer be available.
+
+When building features for hundreds of millions of Firefox users worldwide, it’s important to get them right. To help figure out which features should ship and how they should work, we created the new Test Pilot program. Test Pilot is a way for you to try out experimental features and let us know what you think. You can turn them on and off at any time, and you’ll always know what information you’re sharing to help us understand how these features are used. Of course, you can also use Test Pilot to provide feedback and suggestions to the teams behind each new feature.
+
+[More info...](https://blog.mozilla.org/blog/2016/05/10/you-can-help-build-the-future-of-firefox-with-the-new-test-pilot-program/)
+
+<p>
+  <iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/0NCk8h5cfFI" frameborder="0" allowfullscreen></iframe>
+</p>
+
 
 ## Activity Format
 

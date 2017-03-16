@@ -1,7 +1,7 @@
 ---
 layout: activity
 title:  "Community Participation Guidelines (Draft) Review"
-subtitle: "In like 2-3 hours"
+subtitle: "in 2-3 hours"
 image: "/assets/img/guidelines-post-header.png"
 permalink: /community-participation-guideline/
 lang: en
@@ -10,21 +10,7 @@ parent: activities
 redirect_from: "/experiments/community-participation-guidelines/"
 ---
 
-<div class="col-md-3 pull-right" markdown="1">
-* TOC
-{:toc}
-</div>
-
-<div class="col-md-9" markdown="1">
-
-{: .alert .alert-info .impactbox}
-<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>Providing Mozilla’s global community the opportunity to review the 2.0 Community Participation Guidelines draft will provide critical feedback for Diversity & Inclusion (D&I) at Mozilla as well as provide greater awareness to Mozilla’s communities of how the CPG supports healthy communities.
-
-*Diversity & Inclusion helps us achieve our mission:
-”To ensure the Internet is a global public resource open and accessible to all.”*
-
-Community Participation Guidelines are global guidelines that apply to everyone in the Mozilla community - staff and volunteers.   The CPG presents a vision for Mozilla's community, and lays out behavior expectations, processes to raise concerns, and consequences.  The CPG is governed by owners of forums, events and activities supported by Employee Relations and the D&I team.
-
+<div class="col-md-3 hidden-xs pull-right" markdown="1">
 ## Impact and Metrics
 
 ### Goals for this area
@@ -43,6 +29,18 @@ __Strength:__
 The audience for this activity is all Mozillians who care about building empowered and healthy communities.
 
 *We acknowledge that this first draft is provided in English only , however future releases are planned in other languages with feedback opportunities with each available.*
+</div>
+
+<div class="col-md-9" markdown="1">
+
+{: .alert .alert-info .impactbox}
+<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>Providing Mozilla’s global community the opportunity to review the 2.0 Community Participation Guidelines draft will provide critical feedback for Diversity & Inclusion (D&I) at Mozilla as well as provide greater awareness to Mozilla’s communities of how the CPG supports healthy communities.
+
+*Diversity & Inclusion helps us achieve our mission:
+”To ensure the Internet is a global public resource open and accessible to all.”*
+
+Community Participation Guidelines are global guidelines that apply to everyone in the Mozilla community - staff and volunteers.   The CPG presents a vision for Mozilla's community, and lays out behavior expectations, processes to raise concerns, and consequences.  The CPG is governed by owners of forums, events and activities supported by Employee Relations and the D&I team.
+
 
 ## Activity Format
 

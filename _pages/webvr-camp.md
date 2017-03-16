@@ -1,7 +1,7 @@
 ---
 layout: activity
 title:  "WebVR Camp"
-subtitle: "In like 3-4 hours"
+subtitle: "in 3-4 hours"
 image: "/assets/img/webvr-post-header.png"
 permalink: /webvr-camp/
 lang: en
@@ -10,19 +10,6 @@ parent: activities
 redirect_from: "/developer-engagement/webvr-camp/"
 ---
 <div class="col-md-3 hidden-xs pull-right" markdown="1">
-* TOC
-{:toc}
-</div>
-
-<div class="col-md-9 col-xs-12" markdown="1">
-{: .alert .alert-info .impactbox}
-<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
-Having more developers and content creators playing with WebVR is important for the future of virtual reality to help build towards a free and open virtual reality platform not owned by any individual entity.
-
-[A-Frame](https://aframe.io/) is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality. Its goal is to onboard developers into 3D and advance WebVR, an open platform for virtual reality that leverages the Web. __Having more developers and content creators playing with WebVR is important for the future of virtual reality to help build towards a free and open virtual reality platform not owned by any individual entity__.
-
-A-Frame is used extensively by the Mozilla VR team to prototype and experiment with WebVR. __Having more contributors know A-Frame will give them a chance to get involved in one of the most exciting revolutions in the field of technology__.
-
 ## Impact and Metrics
 
 ### Goals for this area
@@ -43,6 +30,17 @@ __Strength:__
 ## Audience for this activity
 
 Your audience for this event should be anyone interested in virtual reality including web developers, designers and students. The audience should have a basic grasp of HTML.
+</div>
+
+<div class="col-md-9 col-xs-12" markdown="1">
+{: .alert .alert-info .impactbox}
+<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
+Having more developers and content creators playing with WebVR is important for the future of virtual reality to help build towards a free and open virtual reality platform not owned by any individual entity.
+
+[A-Frame](https://aframe.io/) is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality. Its goal is to onboard developers into 3D and advance WebVR, an open platform for virtual reality that leverages the Web. __Having more developers and content creators playing with WebVR is important for the future of virtual reality to help build towards a free and open virtual reality platform not owned by any individual entity__.
+
+A-Frame is used extensively by the Mozilla VR team to prototype and experiment with WebVR. __Having more contributors know A-Frame will give them a chance to get involved in one of the most exciting revolutions in the field of technology__.
+
 
 ## Activity Format
 

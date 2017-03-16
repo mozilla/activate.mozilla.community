@@ -326,33 +326,50 @@
     }
 
     .activity-page {
-      padding: 0 0 20px 0;
-      background-color: #DAE3E7;
+        padding: 0 0 20px;
+        background-color: $activity-background;
 
-      .alert {
-        border-radius: 0;
-      }
-
-      .post-content {
-        .col-md-9 {
-          width: 74%;
-          margin-left: 1%;
-          background-color: #FFFFFF;
-          padding: 20px;
+        h2 {
+            border-top: 20px solid $activity-background;
+            margin-right: -20px;
+            margin-left: -20px;
+            padding-left: 20px;
+            padding-top: 20px;
         }
 
-        @media(max-width: 768px) {
-          .col-md-9 {
-            width: 100%;
-          }
+        h2:first-child {
+            border: none;
+            margin-top: 0;
+            padding-top: 0;
         }
-        .col-md-3 {
-          width: 24%;
-          margin-right: -1%;
-          background-color: #FFFFFF;
-          padding: 20px;
+
+        .alert {
+            border-radius: 0;
         }
-      }
+
+        .post-content {
+            .col-md-9 {
+                width: 74%;
+                margin-left: 1%;
+                background-color: $post-content-background;
+                padding: 20px;
+            }
+            @media(max-width: 768px) {
+                .col-md-9 {
+                    width: 100%;
+                }
+
+                margin-right: 0;
+                text-align: justify;
+            }
+
+            .col-md-3 {
+                width: 24%;
+                margin-right: -1%;
+                background-color: $post-content-background;
+                padding: 20px;
+            }
+        }
     }
 
     .activity-img {
@@ -390,7 +407,6 @@
     }
 
     .timebox {
-        margin: 0 0 0 270px;
         display: inline-block;
         border-width: 0 0 0 2px;
         padding: 10px 12px;
@@ -401,22 +417,11 @@
         color: #3fb58e;
         background: #caf6e6;
         border-left: solid 2px #3fb58e;
-        float: left;
     }
 
     .impactbox {
         padding: 10px;
         border-left: solid 2px #31708f;
-    }
-    @media all and (max-width: 991px) {
-        .timebox {
-            margin-left: 260px;
-        }
-    }
-    @media all and (max-width: 768px) {
-        .timebox {
-            margin-left: 0;
-        }
     }
 }
 
@@ -518,9 +523,19 @@
 .post-header {
     margin-bottom: $spacing-unit;
     padding: 30px 0;
-    background: #f5f5f5;
-    border-top: 10px solid #778492;
-    margin-right: 0px;
+    background: $page-header-background;
+    border-top: 10px solid $page-header-border;
+    margin-right: 0;
+
+    .col-sm-3 {
+      img {
+        padding-bottom: 30px;
+      }
+    }
+
+    .col-sm-9 {
+      padding-left: 35px;
+    }
 }
 
 .post-title {
@@ -540,8 +555,6 @@
     width: 800px;
     float: right;
 }
-
-
 @media all and (max-width: 1200px) {
     .post-content > h2,
     .post-content > h3,
@@ -730,7 +743,6 @@ div.facebook {
     }
 }
 
-
 #leaderboard {
     display: inline-block;
 }
@@ -779,3 +791,7 @@ div.facebook {
     }
 }
 // Bootstrap Overwrites
+
+table.sortable > thead th:hover:not([data-defaultsort="disabled"]) {
+    background-color: $brand-color-light;
+}

@@ -2,7 +2,7 @@
 layout: activity
 title:  "Web Compatibility Sprint"
 permalink: /webcompat-sprint/
-subtitle: "In like 2-3 hours"
+subtitle: "in 2-3 hours"
 image: "/assets/img/webcompat-post-header.png"
 lang: en
 ref: webcompat-sprint
@@ -10,21 +10,7 @@ parent: activities
 redirect_from: "/developer-engagement/webcompat-sprint/"
 ---
 
-<div class="col-md-3 pull-right" markdown="1">
-* TOC
-{:toc}
-</div>
-
-<div class="col-md-9" markdown="1">
-
-{: .alert .alert-info .impactbox}
-<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
-At Mozilla, we want the web running well for everyone, not just in one or two browsers. This means cross-browser, user-agent independent, and cross-device.
-
-Web Compatibility, the ability for all Web content to run in all browsers, is important. There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired.
-
-For more background and data on Web Compatibility, read the [recent blog post on Mozilla Hacks](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/).
-
+<div class="col-md-3 hidden-xs pull-right" markdown="1">
 ## Impact and Metrics
 
 At Mozilla, we want the web running well for everyone, not just in one or two browsers. This means cross-browser, and cross-device. Our global community can give visibility to this that no team could ever match!
@@ -44,6 +30,18 @@ __Strength:__
 ## Audience for this activity
 
 The audience this activity is anyone who is passionate on the topic, but being somewhat Web tech savvy is a help. No programming skills are necessary. It is for people who care about diversity on the Web.
+</div>
+
+<div class="col-md-9" markdown="1">
+
+{: .alert .alert-info .impactbox}
+<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
+At Mozilla, we want the web running well for everyone, not just in one or two browsers. This means cross-browser, user-agent independent, and cross-device.
+
+Web Compatibility, the ability for all Web content to run in all browsers, is important. There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired.
+
+For more background and data on Web Compatibility, read the [recent blog post on Mozilla Hacks](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/).
+
 
 ## Activity Format
 
