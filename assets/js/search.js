@@ -86,32 +86,36 @@
     };
 
     createSearchInput = function() {
-        var label, searchInput, clearInput, container;
+        var label, searchInput, clearInput;
         
         label = document.createElement('label');
         label.setAttribute('for', 'activity-search');
+        label.style.marginBottom = '1em';
+        label.style.position = 'relative';
         label.textContent = 'Filter for …';
 
         searchInput = document.createElement('input');
         searchInput.setAttribute('type', 'search');
         searchInput.setAttribute('id', 'activity-search');
+        searchInput.setAttribute('placeholder', 'tag or headline');
+        searchInput.className = 'form-control';
         searchInput.addEventListener('keydown', onSeachChange, false);
 
         clearInput = document.createElement('input');
         clearInput.setAttribute('type', 'button');
         clearInput.setAttribute('id', 'clear-search');
         clearInput.setAttribute('value', '×');
+        clearInput.className = 'close';
         clearInput.style.backgroundColor = 'transparent';
         clearInput.style.borderStyle = 'none';
-        clearInput.style.left = '-1.5em';
-        clearInput.style.position = 'relative';
+        clearInput.style.position = 'absolute';
+        clearInput.style.right = '1%';
+        clearInput.style.top = '50%';
         clearInput.addEventListener('click', onClearSearch, false);
 
-        container = document.createElement('div');
-        container.appendChild(label);
-        container.appendChild(searchInput);
-        container.appendChild(clearInput);
-        return container;
+        label.appendChild(searchInput);
+        label.appendChild(clearInput);
+        return label;
     };
 
     searchInput = createSearchInput();
