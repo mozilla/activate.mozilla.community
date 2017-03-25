@@ -1,0 +1,20 @@
+/**
+ * Add styling used in search
+ */
+
+label[for="activity-search"] {
+    margin-bottom: 1em;
+    position: relative;
+}
+
+#clear-search {
+    background-color: transparent;
+    border-style: none;
+    position: absolute;
+    right: 1%;
+    top: 50%;
+}
+
+.activity-card[aria-hidden="true"] {
+    display: none !important;  // Like .hidden
+}

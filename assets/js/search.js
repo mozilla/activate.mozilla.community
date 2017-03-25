@@ -1,124 +1,126 @@
-(function() {
-    'use stict';
-    var activityCards, find, mapCardToClassName, mapCardToHeading, hideCard,
-        showCard, filterCards, onSeachChange, onClearSearch, createSearchInput,
-        activityContainer, searchInput;
+;(function () {
+    'use strict'
 
-    activityCards = [].slice.call(document.querySelectorAll('.activity-card'));
+    var activityCards = document.querySelectorAll('.activity-card')
+    activityCards = [].slice.call(activityCards)
 
-    find = function(needle, haystack) {
-        var regex;
+    if (activityCards.length === 0) {
+        // Nothing to do, if there is nothing to search/filter for
+        return
+    }
 
-        regex = new RegExp(needle);
-        return regex.test(haystack);
-    };
+    var find = function (needle, haystack) {
+        return (new RegExp(needle)).test(haystack)
+    }
 
-    mapCardToClassName = function(card) {
-        return card.className;
-    };
+    var mapCardToTag = function (card) {
+        return card.querySelector('.tags').textContent.toLowerCase()
+    }
 
-    mapCardToHeading = function(card) {
-        var heading;
+    var mapCardToHeading = function (card) {
+        return card.querySelector('h2').textContent.toLowerCase()
+    }
 
-        heading = card.querySelector('h2').textContent;
-        return heading.toLowerCase();
-    };
+    var onHideEnd = function (card) {
+        card.setAttribute('aria-hidden', true)
+    }
 
-    hideCard = function(card) {
-        if (card.className.split(' ').indexOf('fade') === -1) {
-            card.className += ' fade';
+    var hideCard = function (card) {
+        card.classList.add('fade')
+        setTimeout(function () { onHideEnd(card); }, 200)
+    }
+
+    var onShowEnd = function (card) {
+        card.setAttribute('aria-hidden', false)
+    }
+
+    var showCard = function (card) {
+        card.classList.remove('fade')
+        setTimeout(function () { onShowEnd(card); }, 150)
+    }
+
+    var showAllCards = function () {
+        activityCards.forEach(function (card) {
+            showCard(card)
+        })
+    }
+
+    var filterCards = function (searchTerm) {
+        searchTerm = searchTerm.toLowerCase()
+
+        if (!searchTerm) {
+            return showAllCards()
         }
-        // Bootstrap's .fade animates for 150 ms
-        setTimeout(function() { card.style.display = 'none'; }, 155);
-    };
 
-    showCard = function(card) {
-        // kudos https://gist.github.com/k-gun/c2ea7c49edf7b757fe9561ba37cb19ca
-        // resp. https://developer.mozilla.org/en-US/docs/Web/API/Element/classList#Polyfill
-        if (card.className.split(' ').indexOf('fade') > -1) {
-            card.className = card.className.replace(new RegExp('(^| )fade( |$)'), '');
-        }
-        // In order to kick in after async hideCard calls
-        // 300 ms is a magic limit, where effect becomes notable to humans
-        setTimeout(function() { card.style.display = ''; }, 300);
-    };
+        var tags = activityCards.map(mapCardToTag)
+        tags = tags.filter(function (tag) {
+            return find(searchTerm, tag)
+        })
 
-    filterCards = function(searchTerm) {
-        var classNames, headings;
+        var headings = activityCards.map(mapCardToHeading)
+        headings = headings.filter(function (heading) {
+            return find(searchTerm, heading)
+        })
 
-        searchTerm = searchTerm.toLowerCase();
-        classNames = activityCards.map(mapCardToClassName);
-        classNames = classNames.filter(function(className) {
-            return find(searchTerm, className);
-        });
-
-        headings = activityCards.map(mapCardToHeading);
-        headings = headings.filter(function(heading) {
-            return find(searchTerm, heading);
-        });
-
-        activityCards.forEach(function(card) {
-            if (find(searchTerm, mapCardToClassName(card))) {
-                showCard(card);
+        activityCards.forEach(function (card) {
+            if (find(searchTerm, mapCardToTag(card))) {
+                showCard(card)
             } else if (find(searchTerm, mapCardToHeading(card))) {
-                showCard(card);
+                showCard(card)
             } else {
-                hideCard(card);
+                hideCard(card)
             }
-        });
-    };
+        })
+    }
 
-    onSeachChange = function(event) {
-        var searchTerm, classNames;
+    var extractStrings = function () {
+        var scriptTag = document.querySelector('script[src$="search.js"]')
+        return {
+            labelText: scriptTag.dataset.labelText || 'Filter for …',
+            inputPlaceholder: scriptTag.dataset.inputPlaceholder || 'tag or headline'
+        }
+    }
 
+    var searchInputId = 'activity-search'
 
-        searchTerm = event.target.value;
-        filterCards(searchTerm);
-    };
+    var onSearchChange = function (event) {
+        filterCards(event.target.value)
+    }
 
-    onClearSearch = function(event) {
-        var searchInput;
+    var onClearSearch = function (event) {
+        var searchInput = document.getElementById(searchInputId)
+        searchInput.setAttribute('value', '')
+        searchInput.value = ''
+        filterCards('')
+    }
 
-        searchInput = document.getElementById('activity-search');
-        searchInput.setAttribute('value', '');
-        searchInput.value = '';
-        filterCards('');
-    };
+    var createSearchInput = function () {
+        var translations = extractStrings()
 
-    createSearchInput = function() {
-        var label, searchInput, clearInput;
-        
-        label = document.createElement('label');
-        label.setAttribute('for', 'activity-search');
-        label.style.marginBottom = '1em';
-        label.style.position = 'relative';
-        label.textContent = 'Filter for …';
+        var label = document.createElement('label')
+        label.setAttribute('for', searchInputId)
+        label.textContent = translations.labelText
 
-        searchInput = document.createElement('input');
-        searchInput.setAttribute('type', 'search');
-        searchInput.setAttribute('id', 'activity-search');
-        searchInput.setAttribute('placeholder', 'tag or headline');
-        searchInput.className = 'form-control';
-        searchInput.addEventListener('keydown', onSeachChange, false);
+        var searchInput = document.createElement('input')
+        searchInput.setAttribute('type', 'search')
+        searchInput.setAttribute('id', searchInputId)
+        searchInput.setAttribute('placeholder', translations.inputPlaceholder)
+        searchInput.className = 'form-control'
+        searchInput.addEventListener('input', onSearchChange, false)
 
-        clearInput = document.createElement('input');
-        clearInput.setAttribute('type', 'button');
-        clearInput.setAttribute('id', 'clear-search');
-        clearInput.setAttribute('value', '×');
-        clearInput.className = 'close';
-        clearInput.style.backgroundColor = 'transparent';
-        clearInput.style.borderStyle = 'none';
-        clearInput.style.position = 'absolute';
-        clearInput.style.right = '1%';
-        clearInput.style.top = '50%';
-        clearInput.addEventListener('click', onClearSearch, false);
+        var clearInput = document.createElement('input')
+        clearInput.setAttribute('type', 'button')
+        clearInput.setAttribute('id', 'clear-search')
+        clearInput.setAttribute('value', '×')
+        clearInput.className = 'close'
+        clearInput.addEventListener('click', onClearSearch, false)
 
-        label.appendChild(searchInput);
-        label.appendChild(clearInput);
-        return label;
-    };
+        label.appendChild(searchInput)
+        label.appendChild(clearInput)
+        return label
+    }
 
-    searchInput = createSearchInput();
-    activityContainer = activityCards[0].parentNode;
-    activityContainer.parentNode.insertBefore(searchInput, activityContainer);
-})();
+    var searchInput = createSearchInput()
+    var activityContainer = activityCards[0].parentNode
+    activityContainer.parentNode.insertBefore(searchInput, activityContainer)
+})()
