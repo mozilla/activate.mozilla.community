@@ -357,8 +357,8 @@
             @media(max-width: 768px) {
                 .col-md-9 {
                     width: 100%;
+                    margin-left: 0;
                 }
-
                 margin-right: 0;
                 text-align: justify;
             }
@@ -528,13 +528,16 @@
     margin-right: 0;
 
     .col-sm-3 {
-      img {
-        padding-bottom: 30px;
-      }
+        img {
+            padding-bottom: 30px;
+        }
     }
 
     .col-sm-9 {
-      padding-left: 35px;
+        padding-left: 35px;
+        @media(max-width: 768px) {
+                text-align: center;
+        }
     }
 }
 
@@ -791,6 +794,25 @@ div.facebook {
     }
 }
 // Bootstrap Overwrites
+@include media-query($on-laptop) {
+    .site-header {
+        .navbar-collapse.collapse {
+            display: none !important;
+
+            &.in {
+                display: block !important;
+            }
+        }
+
+        .navbar-toggle {
+            display: block;
+        }
+
+        .navbar-header {
+            float: none;
+        }
+    }
+}
 
 table.sortable > thead th:hover:not([data-defaultsort="disabled"]) {
     background-color: $brand-color-light;
