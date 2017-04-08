@@ -133,7 +133,7 @@ You can get a copy [here](https://docs.google.com/presentation/d/1n7FEBCxSJdbfui
 
 __Want to join the Mozilla add-on developer community?__
 
-If you enjoyed creating your own addon, the [dev-addons@mozilla.org mailing list](https://mail.mozilla.org/listinfo/dev-addons), IRC channels #addons, #webextensions and #extdev, Telegram group [@addons](https://telegram.me/addons), and [Add-ons Discourse Forum](https://discourse.mozilla-community.org/c/add-ons) are full of people just like you! Join these channels to ask questions, brainstorm ideas, and stay informed.
+If you enjoyed creating your own add-on, the [dev-addons@mozilla.org mailing list](https://mail.mozilla.org/listinfo/dev-addons), IRC channels #addons, #webextensions and #extdev, Telegram group [@addons](https://telegram.me/addons), and [Add-ons Discourse Forum](https://discourse.mozilla-community.org/c/add-ons) are full of people just like you! Join these channels to ask questions, brainstorm ideas, and stay informed.
 
 Also, keep your eyes on the [Add-ons Blog](https://blog.mozilla.org/addons/) to learn more about what’s going on in the world of add-ons.
 
