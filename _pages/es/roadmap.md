@@ -15,8 +15,8 @@ En esta página se describe, el pasado, presente y futuro de las actividades que
 | Ahora (Q1 2017)  | Próximo (Q2 2017)   | Después (más adelante) |
 | --- | --- | --- |
 | [Dive Into Rust](/es/rust-hack/) | Host a Tech Speaker | Open Source Corpus |
-| [Web Compatibility Sprint](/es/webcompat-sprint/) |  | MLN |
-| [WebVR Camp](/es/webvr-camp/) |  | Firefox Nightly |
+| [Web Compatibility Sprint](/es/webcompat-sprint/) | Firefox Nightly | MLN |
+| [WebVR Camp](/es/webvr-camp/) |  |  |
 | [Community Participation Guidelines Review](/es/community-participation-guideline/) |  |  |
 | [Build your own WebExtension](/es/webextensions/) |  |  |
 
