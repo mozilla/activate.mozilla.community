@@ -101,6 +101,14 @@ Isto é como você pode acabar com um formato de evento de 4 horas. Você pode t
 * Discutir delivery
 * Discutir planos de acção individuais e planos de acompanhamento
 
+## Directly at the end of the activity
+Immediately after the event don’t forget to share the link to the impact form with your attendees:
+
+{: .attention-link}
+[mzl.la/howwasit](http://mzl.la/howwasit)
+
+Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.
+
 ## Saída
 
 Adicional para o fluxo de eventos recomendado aqui estão algumas coisas que gostaríamos que você, o organizador do evento, para fazer.
