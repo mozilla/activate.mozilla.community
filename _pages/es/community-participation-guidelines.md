@@ -1,30 +1,16 @@
 ---
-layout: page 
-title: "Revisión de las Pautas de Participación Comunitaria (Borrador)" 
-permalink: /es/community-participation-guideline/ 
-lang: es 
-ref: community-participation-guidelines 
+layout: activity
+title: "Revisión de las Pautas de Participación Comunitaria (Borrador)"
+subtitle: "2-3 horas totales"
+image: "/assets/img/guidelines-post-header.png"
+permalink: /es/community-participation-guideline/
+lang: es
+ref: community-participation-guidelines
 parent: activities
 redirect_from: "/experiments/community-participation-guidelines/"
 ---
 
-* TOC
-{:toc}
-
-{: .label .timebox}
-<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 2-3 horas totales
-
-{: .clear}
-_
-
-{: .alert .alert-info .impactbox}
-<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>Proporcionar a la comunidad mundial de Mozilla la oportunidad de revisar el borrador de las Pautas de Participación Comunitaria (PPC) 2.0, proporcionará retroalimentación crítica para la Diversidad e Inclusión (D&I) en Mozilla, así como proporcionar mayor conciencia a las comunidades de Mozilla de cómo PPC apoya comunidades saludables.
-
-*La Diversidad e Inclusión ayudan a lograr nuestra misión: 
-”Asegurar que el Internet sea un recurso público mundial abierto y accesible a todos.”*
-
-Las Pautas de Participación Comunitaria, son pautas globales que se aplican a todos en la comunidad de Mozilla, tanto empleados como voluntarios. Las PPC presentan una visión para la comunidad de Mozilla, y establecen expectativas de comportamiento, procesos para plantear inquietudes, y consecuencias. Las PPC están regidas por los propietarios de foros, eventos y actividades apoyadas por Relaciones de empleados y el equipo de D&I.
-
+<div class="col-md-3 hidden-xs pull-right" markdown="1">
 ## Impacto y Métricas
 
 ### Metas de esta área:
@@ -41,6 +27,18 @@ __Fortaleza:__
 ## Audiencia para esta actividad
 
 La audiencia para esta actividad son todos los Mozilleros que les importa construir comunidades saludables y empoderadas.
+</div>
+
+<div class="col-md-9" markdown="1">
+
+{: .alert .alert-info .impactbox}
+<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>Proporcionar a la comunidad mundial de Mozilla la oportunidad de revisar el borrador de las Pautas de Participación Comunitaria (PPC) 2.0, proporcionará retroalimentación crítica para la Diversidad e Inclusión (D&I) en Mozilla, así como proporcionar mayor conciencia a las comunidades de Mozilla de cómo PPC apoya comunidades saludables.
+
+*La Diversidad e Inclusión ayudan a lograr nuestra misión:
+”Asegurar que el Internet sea un recurso público mundial abierto y accesible a todos.”*
+
+Las Pautas de Participación Comunitaria, son pautas globales que se aplican a todos en la comunidad de Mozilla, tanto empleados como voluntarios. Las PPC presentan una visión para la comunidad de Mozilla, y establecen expectativas de comportamiento, procesos para plantear inquietudes, y consecuencias. Las PPC están regidas por los propietarios de foros, eventos y actividades apoyadas por Relaciones de empleados y el equipo de D&I.
+
 
 ## Formato de actividades
 
@@ -90,3 +88,4 @@ Puedes registrarte para una llamada usando Calendly. Por favor selecciona una:
 Déjanos reconocer tu gran trabajo (prueba de cumplimiento requerida.)
 
 [Por favor llena este formulario para recibir credito por completar esta actividad.](https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSfXbZrra9m4V6Rf_8wKHuWRkeB6nVwaGhwrgWPibZc1uAqtXA/viewform).
+</div>
