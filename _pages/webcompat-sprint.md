@@ -70,6 +70,14 @@ For duration, we recommend a half-day (or full evening) event with a minimum of 
     * Pay special attention to what we are looking for [in reported issues](https://wiki.mozilla.org/Compatibility/Guide#Reporting_a_Web_compatibility_issue)
     * If you want to become an expert in web compatibility, [go here](https://wiki.mozilla.org/Compatibility/Guide)
 
+## Directly at the end of the activity
+Immediately after the event don’t forget to share the link to the impact form with your attendees:
+
+{: .attention-link}
+[mzl.la/howwasit](http://mzl.la/howwasit)
+
+Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.
+
 ## Output
 In addition to the recommended event flow here are some things we’d like you, the event organizer, to do.
 

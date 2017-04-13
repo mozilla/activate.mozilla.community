@@ -68,6 +68,14 @@ Para duração, recomendamos um evento de meio-dia (ou uma noite inteira), com u
     * Atenção especial para o que estamos procurando [em problemas reportados](https://wiki.mozilla.org/Compatibility/Guide#Reporting_a_Web_compatibility_issue)
     * Se você encontrar algo no site que não está apresentado corretamente ou funcionando corretamente, então clique no botão do complemento e siga os passos para reportar.
 
+## Directly at the end of the activity
+Immediately after the event don’t forget to share the link to the impact form with your attendees:
+
+{: .attention-link}
+[mzl.la/howwasit](http://mzl.la/howwasit)
+
+Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.
+
 ## Após o evento
 
 Adicionalmente nós recomendamos algumas coisas a fazer após o evento:
