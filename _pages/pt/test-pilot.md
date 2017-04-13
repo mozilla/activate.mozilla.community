@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: activity
 title:  "Instale o Test Pilot"
+subtitle: ""
+image: "/assets/img/testpilot-post-header.png"
 permalink: /pt/test-pilot/
 lang: pt
 ref: test-pilot
@@ -8,20 +10,7 @@ parent: activities
 redirect_from: "/pt/experiments/test-pilot/"
 ---
 
-* TOC
-{:toc}
-
-{: .retired}
-This activity is retired. What this means is that we don't recommend that you run the activity at this time and resources will no longer be available.
-
-Ao construir funcionalidades para centenas de milhões de usuários do Firefox ao redor do mundo, é importante fazer do jeito certo. Para ajudar a descobrir quais funcionalidades devem ser entregues e como devem funcionar, nós criamos o novo programa Teste Pilot. Test Pilot é a maneira para você experimentar as funcionalidades e nos dizer o que achou. Você pode ativá-lo e desativá-lo a qualquer momento, e você sempre saberá que informação você está compartilhando para nos ajudar a entender como essas funcionalidades são utilizadas. Claro, você também pode utilizar o Test Pilot para fornecer feedback e sugestão aos times por trás de cada nova funcionalidade.
-
-[Mais informações...](https://blog.mozilla.org/blog/2016/05/10/you-can-help-build-the-future-of-firefox-with-the-new-test-pilot-program/)
-
-<p>
-  <iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/0NCk8h5cfFI" frameborder="0" allowfullscreen></iframe>
-</p>
-
+<div class="col-md-3 hidden-xs pull-right" markdown="1">
 ## Impacto e Métricas
 
 Firefox é a chave pelo qual a Mozilla expressa seus valores e faz a Web cada vez mais emocionante a frente de jardins murados como aplicativos individuais. Ao testar os novos recursos e funcionalidades, você ajuda a manter o Firefox na linha de frente e os usuários envolvidos com nosso produto. Adicionalmente, ele te dá a chance de se envolver produndamente com feedbacks específicos e ideias para o Firefox.
@@ -40,6 +29,21 @@ __Força:__
 ## Público para esta atividade
 
 O público dessa atividade é qualquer um que seja apaixonado pela Web e sabe um pouco sobre navegadores Web. Nenhuma habilidade em programação é necessária. Esta atividade é para pessoas que gostam de tentar coisas novas e não tem medo de nos dizer o que pensam.
+</div>
+
+<div class="col-md-9" markdown="1">
+{: .retired}
+This activity is retired. What this means is that we don't recommend that you run the activity at this time and resources will no longer be available.
+
+Ao construir funcionalidades para centenas de milhões de usuários do Firefox ao redor do mundo, é importante fazer do jeito certo. Para ajudar a descobrir quais funcionalidades devem ser entregues e como devem funcionar, nós criamos o novo programa Teste Pilot. Test Pilot é a maneira para você experimentar as funcionalidades e nos dizer o que achou. Você pode ativá-lo e desativá-lo a qualquer momento, e você sempre saberá que informação você está compartilhando para nos ajudar a entender como essas funcionalidades são utilizadas. Claro, você também pode utilizar o Test Pilot para fornecer feedback e sugestão aos times por trás de cada nova funcionalidade.
+
+[Mais informações...](https://blog.mozilla.org/blog/2016/05/10/you-can-help-build-the-future-of-firefox-with-the-new-test-pilot-program/)
+
+<p>
+  <iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/0NCk8h5cfFI" frameborder="0" allowfullscreen></iframe>
+</p>
+
+
 
 ## Formato da atividade
 
@@ -68,3 +72,4 @@ Vontade de fazer mais pelo Test Pilot?
 * Contribuidores são bem-vindos para conferir o [nosso repositório no github](https://github.com/mozilla/testpilot/)
 * Aqui está uma [lista de bons primeiros erros](https://github.com/mozilla/testpilot/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-bug), se você estiver afim de conferir
 * A [Wiki do Test Pilot](https://wiki.mozilla.org/Test_Pilot) possui muitas informações sobre reuniões públicas, comunicação e um quadro de planejamento do Test Pilot
+</div>

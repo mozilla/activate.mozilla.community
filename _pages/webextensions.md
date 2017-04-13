@@ -1,31 +1,15 @@
 ---
-layout: page
+layout: activity
 title:  "Build Your Own WebExtension Add-on for Firefox"
+subtitle: "in 1-3 hours"
+image: "/assets/img/webextensions-post-header.png"
 permalink: /webextensions/
 lang: en
 ref: webextensions
 parent: activities
 ---
 
-* TOC
-{:toc}
-
-{: .label .timebox}
-<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 1-3 hours
-
-{: .clear}
-_
-
-{: .alert .alert-info .impactbox}
-<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
-Add-ons provide a safe, simple, and powerful way to personalize your browsing experience. With WebExtensions APIs, it’s easier than ever to create extensions that can be easily ported to Firefox, Chrome, Edge, and Opera. Through this activity you’ll help connect new developers with an opportunity to create add-ons to solve real problems and make their lives and the web better.
-
-Firefox is an open-source web browser that cares about user control and privacy, and add-ons provide a safe, simple, and powerful way to personalize your browsing experience. From blocking ads to organizing tabs, add-ons help make Firefox your own.
-
-It’s very easy to create add-ons for Firefox with [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions). This Web-based technology framework offers a powerful way to create browser extensions that can be easily ported to Chrome, Opera, and Edge, and you only need to know HTML, JavaScript and CSS to build them.
-
-Through this activity you’ll help connect new developers with an opportunity to create add-ons to solve real problems and make their lives and the web better.
-
+<div class="col-md-3 hidden-xs pull-right" markdown="1">
 ## Impact and Metrics
 
 Add-ons provide a safe, simple, and powerful way to personalize your browsing experience. With WebExtensions APIs, it’s easier than ever to create extensions that can be easily ported to Firefox, Chrome, Edge, and Opera. Throwing a workshop helps more people learn how to develop add-ons and help ensure that Firefox remains the most customizable browser.
@@ -54,6 +38,20 @@ __Strength:__
 Your audience for this event should be __people who have written HTML and JavaScript code in the past__.
 
 People with more JavaScript experience are encouraged to help beginners get started. If you have experience developing WebExtensions, you may skip the “Build Your First WebExtension” exercise and focus the activities listed in Part III.
+</div>
+
+<div class="col-md-9" markdown="1">
+
+{: .alert .alert-info .impactbox}
+<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
+Add-ons provide a safe, simple, and powerful way to personalize your browsing experience. With WebExtensions APIs, it’s easier than ever to create extensions that can be easily ported to Firefox, Chrome, Edge, and Opera. Through this activity you’ll help connect new developers with an opportunity to create add-ons to solve real problems and make their lives and the web better.
+
+Firefox is an open-source web browser that cares about user control and privacy, and add-ons provide a safe, simple, and powerful way to personalize your browsing experience. From blocking ads to organizing tabs, add-ons help make Firefox your own.
+
+It’s very easy to create add-ons for Firefox with [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions). This Web-based technology framework offers a powerful way to create browser extensions that can be easily ported to Chrome, Opera, and Edge, and you only need to know HTML, JavaScript and CSS to build them.
+
+Through this activity you’ll help connect new developers with an opportunity to create add-ons to solve real problems and make their lives and the web better.
+
 
 ## Planning Your Workshop
 
@@ -119,7 +117,15 @@ __Part III (Bonus!)__
   * I made an add-on using @MozWebExt for @mozamo! Check it out here: <link to add-on> #MozActivate
 4. Encourage attendees to continue the conversation by following @MozWebExt on Twitter, joining the mailing list dev-addons@mozilla.org, joining the IRC channels #addons and #extdev, joining the [Telegram group @addons](https://telegram.me/addons), and joining the [Add-ons Discourse Forum](https://discourse.mozilla-community.org/c/add-ons).
 
-## Event Follow-Up
+## Directly at the end of the activity
+Immediately after the event don’t forget to share the link to the impact form with your attendees:
+
+{: .attention-link}
+[mzl.la/howwasit](http://mzl.la/howwasit)
+
+Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.
+
+## Event Follow-Up (one day after)
 
 The day after the event, send a follow-up email to the attendees. Here is a template that you can customize to best reflect your event:
 
@@ -127,7 +133,7 @@ Thanks for attending \[name of event\]! I hope you had a great time learning how
 
 __We want to hear your thoughts about the event!__
 
-Please take a few minutes to fill out the survey [here](https://docs.google.com/a/mozilla.com/forms/d/1OrLfdAzVtLC2YyXexKCChBymuc8bR8mStDDujKaAUl8/edit).
+Please take a few minutes to fill out this impact form [here](http://mzl.la/howwasit).
 
 __Would you like a copy of the slides from the event?__
 
@@ -160,3 +166,4 @@ __Tutorials__
 * [Create a Simple WebExtension by David Walsh](https://davidwalsh.name/web-extensions)
 * [Building Firefox Add-ons with Web Extensions by Viswaprasath Ks](http://www.slideshare.net/VISWAPRASATHKS)
 * [Open Innovation Toolkit](https://toolkit.mozilla.org/)
+</div>

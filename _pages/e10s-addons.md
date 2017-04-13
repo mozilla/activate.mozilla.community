@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: activity
 title:  "e10s and Featured Add-ons"
+subtitle: ""
+image: "/assets/img/e10s-post-header.png"
 permalink: /e10s-addons/
 lang: en
 ref: e10s-addons
@@ -8,16 +10,7 @@ parent: activities
 redirect_from: "/experiments/e10s-addons/"
 ---
 
-* TOC
-{:toc}
-
-{: .retired}
-This activity is retired. What this means is that we don't recommend that you run the activity at this time and resources will no longer be available.
-
-Featured add-ons receive enhanced promotion on AMO, which results in greatly increased installs for this recommended content. With the emergence of multiprocess Firefox (e10s), we need to ensure these spotlighted add-ons meet the highest levels of browser compatibility and functionality.
-
-__NOTE: This activity is running only until November 4th, 2016__.
-
+<div class="col-md-3 hidden-xs pull-right" markdown="1">
 ## Impact and Metrics
 
 Millions of Firefox users have installed add-ons directly from the [Featured Add-ons collection](https://addons.mozilla.org/firefox/extensions/?sort=featured). They expect and trust Mozilla to guide them to the very best add-ons content. Ensuring compatibility with the latest browser technology, in this case e10s—which will be turned on for Firefox with Firefox 50 (November 8) who have compatible add-ons—is critical to the claim that these featured add-ons deserve their attention.
@@ -37,6 +30,17 @@ __Strength:__
 ## Audience for this activity
 
 This is for participants with an interest or passion for add-ons content from a user experience perspective. You do not need any particular technical skills, but rather an ability to install add-ons and test their features to ensure the content works as expected with multiprocess Firefox.
+</div>
+
+<div class="col-md-9" markdown="1">
+
+{: .retired}
+This activity is retired. What this means is that we don't recommend that you run the activity at this time and resources will no longer be available.
+
+Featured add-ons receive enhanced promotion on AMO, which results in greatly increased installs for this recommended content. With the emergence of multiprocess Firefox (e10s), we need to ensure these spotlighted add-ons meet the highest levels of browser compatibility and functionality.
+
+__NOTE: This activity is running only until November 4th, 2016__.
+
 
 ## Activity Format
 
@@ -81,3 +85,4 @@ Additional to the recommended event flow here are some things we’d like you, t
 ## Extra
 
 If you’re interested in add-ons and want to learn more about ways you can get involved with addons.mozilla.org, please visit: [https://wiki.mozilla.org/Add-ons/Contribute](https://wiki.mozilla.org/Add-ons/Contribute)
+</div>

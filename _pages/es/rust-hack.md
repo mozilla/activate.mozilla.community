@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: activity
 title:  "Dive Into Rust"
+title:  "Dive Into Rust"
+subtitle: "in 2-3 hours"
+image: "/assets/img/rust-post-header.png"
 permalink: /es/rust-hack/
 lang: es
 ref: rust-hack
@@ -8,25 +11,7 @@ parent: activities
 redirect_from: "/es/developer-engagement/rust-hack/"
 ---
 
-* TOC
-{:toc}
-
-{: .label .timebox}
-<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 2-3 hours
-
-{: .clear}
-_
-
-{: .alert .alert-info .impactbox}
-<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
-Having more developers understand, use and evangelize this language will advance make the web better and more secure.
-
-Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. [Find out more...](https://www.rust-lang.org)
-
-<p>
-  <iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/8EPsnf_ZYU0" frameborder="0" allowfullscreen></iframe>
-</p>
-
+<div class="col-md-3 hidden-xs pull-right" markdown="1">
 ## Impact and Metrics
 
 The Rust programming language will be important to the future of the web, making it safe and great. Having more developers understand, use and evangelize this language will advance make the web better and more secure.
@@ -48,6 +33,20 @@ __Strength:__
 ## Audience for this activity
 
 Your audience for this event should be **programmers and developers**. Focus on people who are technical and already know languages like C or Python or other similar languages.
+</div>
+
+<div class="col-md-9" markdown="1">
+
+{: .alert .alert-info .impactbox}
+<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
+Having more developers understand, use and evangelize this language will advance make the web better and more secure.
+
+Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. [Find out more...](https://www.rust-lang.org)
+
+<p>
+  <iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/8EPsnf_ZYU0" frameborder="0" allowfullscreen></iframe>
+</p>
+
 
 ## Activity Format
 
@@ -56,7 +55,7 @@ Get your community behind this exciting new programming language by running a le
 1. Put an event team together
 2. Choose a date and secure a venue
 3. Choose whether this will be self-facilitated or with someone who has Rust experience (see below)
-4. Setup the event on Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting))
+4. Setup the event on Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting)). Please make sure the initiative is set to "MozActivate" and the functional area indicates "Rust".
 
 For duration, we recommend a half-day (or full evening) event with a minimum of 15-25 attendees.
 
@@ -71,7 +70,7 @@ There are two options for facilitation:
 ## Event Flow
 
 * Install Rust
-    * [rustup](http://www.rustup.rs) - recommended
+    * [rustup](https://www.rustup.rs) - recommended
     * [Rust downloads](https://www.rust-lang.org/downloads.html) (alternative)
 * Read the [Rust book](https://doc.rust-lang.org/stable/book/)
 * Complete the [Rustlings](https://github.com/carols10cents/rustlings) (a great beginners course!)
@@ -88,6 +87,14 @@ There are two options for facilitation:
         * [Labeled easy](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AA-docs+label%3AE-easy)
         * [Standard library API docs](https://github.com/rust-lang/rust/issues/29329)
     * [This Week in Rust](https://this-week-in-rust.org/) also publishes a call for participation each week with hot contribution ideas.
+
+## Directly at the end of the activity
+Immediately after the event don’t forget to share the link to the impact form with your attendees:
+
+{: .attention-link}
+[mzl.la/howwasit](http://mzl.la/howwasit)
+
+Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.
 
 ## Other Resources
 
@@ -108,3 +115,4 @@ Additional to the recommended event flow here are some things we’d like you, t
 While the focus of this activity should be on these events, there are other ways to stay more involved with the Rust community after.
 
 * Follow up with attendees to highlight [more things happening in the community to get involved with](https://www.rust-lang.org/en-US/community.html)
+</div>

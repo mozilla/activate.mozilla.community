@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: activity
 title:  "Dive Into Rust"
+subtitle: "in 2-3 hours"
+image: "/assets/img/rust-post-header.png"
 permalink: /rust-hack/
 lang: en
 ref: rust-hack
@@ -8,25 +10,7 @@ parent: activities
 redirect_from: "/developer-engagement/rust-hack/"
 ---
 
-* TOC
-{:toc}
-
-{: .label .timebox}
-<span class="glyphicon glyphicon-time" aria-hidden="true"></span> 2-3 hours
-
-{: .clear}
-_
-
-{: .alert .alert-info .impactbox}
-<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
-Having more developers understand, use and evangelize this language will advance make the web better and more secure.
-
-Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. [Find out more...](https://www.rust-lang.org)
-
-<p>
-  <iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/8EPsnf_ZYU0" frameborder="0" allowfullscreen></iframe>
-</p>
-
+<div class="col-md-3 hidden-xs pull-right" markdown="1">
 ## Impact and Metrics
 
 The Rust programming language will be important to the future of the web, making it safe and great. Having more developers understand, use and evangelize this language will advance make the web better and more secure.
@@ -48,6 +32,20 @@ __Strength:__
 ## Audience for this activity
 
 Your audience for this event should be **programmers and developers**. Focus on people who are technical and already know languages like C or Python or other similar languages.
+</div>
+
+<div class="col-md-9" markdown="1">
+
+{: .alert .alert-info .impactbox}
+<span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
+Having more developers understand, use and evangelize this language will advance make the web better and more secure.
+
+Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. [Find out more...](https://www.rust-lang.org)
+
+<p>
+  <iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/8EPsnf_ZYU0" frameborder="0" allowfullscreen></iframe>
+</p>
+
 
 ## Activity Format
 
@@ -89,6 +87,14 @@ There are two options for facilitation:
         * [Standard library API docs](https://github.com/rust-lang/rust/issues/29329)
     * [This Week in Rust](https://this-week-in-rust.org/) also publishes a call for participation each week with hot contribution ideas.
 
+## Directly at the end of the activity
+Immediately after the event don’t forget to share the link to the impact form with your attendees:
+
+{: .attention-link}
+[mzl.la/howwasit](http://mzl.la/howwasit)
+
+Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.
+
 ## Other Resources
 
 ### Tutorials
@@ -108,3 +114,4 @@ Additional to the recommended event flow here are some things we’d like you, t
 While the focus of this activity should be on these events, there are other ways to stay more involved with the Rust community after.
 
 * Follow up with attendees to highlight [more things happening in the community to get involved with](https://www.rust-lang.org/en-US/community.html)
+</div>

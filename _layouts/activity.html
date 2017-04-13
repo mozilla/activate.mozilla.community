@@ -1,0 +1,34 @@
+---
+layout: activity-default
+---
+{% assign l = site.data.l10n.[page.lang] %}
+
+<article class="post">
+
+  <header class="post-header row">
+    <div class="col-xs-12 col-sm-3 text-center">
+      <header class="post-header-image">
+        <img src="{{ page.image }}" alt="Header image">
+      </header>
+    </div>
+    <div class="col-xs-12 col-sm-9">
+      <h1 class="post-title">{{ page.title }}</h1>
+      {% if page.subtitle %}
+        <h3>{{ page.subtitle }}</h3>
+      {% endif %}
+      <p class="grey-share">
+        <span class="grey-twitter"><a title="{{ l.twitter-text1 }}" href="https://twitter.com/home?status={{ l.twitter-text2 }} {{ page.title }} {{ l.twitter-text3 }} {{ page.url | prepend: site.url }}?utm_source=twitter.com%26utm_medium=social%26utm_campaign=moz-community-share" data-related="mozparticipate,mozilla" data-dnt="true" data-show-count="false">Tweet</a></span>
+        <span class="grey-facebook"><a title="{{ l.facebook-text }}" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url }}?utm_source=facebook.com%26utm_medium=social%26utm_campaign=moz-community-share" >{{ l.share }}</a></span>
+      </p>
+    </div>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <div id="back-top">
+    <a href="#top"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span></a>
+  </div>
+
+</article>

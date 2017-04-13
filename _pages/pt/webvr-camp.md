@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: activity
 title:  "WebVR Camp"
+subtitle: "in 3-4 hours"
+image: "/assets/img/webvr-post-header.png"
 permalink: /pt/webvr-camp/
 lang: pt
 ref: webvr-camp
@@ -8,13 +10,7 @@ parent: activities
 redirect_from: "/pt/developer-engagement/webvr-camp/"
 ---
 
-* TOC
-{:toc}
-
-[A-Frame](https://aframe.io/) é um framework web para a construção de experiências de realidade virtual, tornando mais fácil para que todos possam se envolver com a realidade virtual. O objetivo é apresentar aos desenvolvedores sobre 3D e promover o WebVR, uma plataforma aberta para a realidade virtual que irá alavancar a Web. __Ter mais desenvolvedores e criadores de conteúdo que usam o WebVR é importante para o futuro da realidade virtual, para ajudar a construir uma plataforma de realidade virtual livre e aberta não proprietária de qualquer entidade individual__.
-
-A-Frame é amplamente utilizado pela equipe Mozilla VR para prototipação e experimentos com WebVR. __Ter mais colaboradores que conheçam A-Frame, dará a eles a chance de se envolver em uma das revoluções mais emocionantes no campo da tecnologia__.
-
+<div class="col-md-3 hidden-xs pull-right" markdown="1">
 ## Impacto e Métricas
 
 ### Metas
@@ -35,6 +31,13 @@ __Vantagem:__
 ## Público para esta atividade
 
 Seu público para este evento deve ser alguém interessado em realidade virtual, incluindo desenvolvedores web, designers e estudantes. O público deve ter uma compreensão básica de HTML.
+</div>
+
+<div class="col-md-9 col-xs-12" markdown="1">
+
+[A-Frame](https://aframe.io/) é um framework web para a construção de experiências de realidade virtual, tornando mais fácil para que todos possam se envolver com a realidade virtual. O objetivo é apresentar aos desenvolvedores sobre 3D e promover o WebVR, uma plataforma aberta para a realidade virtual que irá alavancar a Web. __Ter mais desenvolvedores e criadores de conteúdo que usam o WebVR é importante para o futuro da realidade virtual, para ajudar a construir uma plataforma de realidade virtual livre e aberta não proprietária de qualquer entidade individual__.
+
+A-Frame é amplamente utilizado pela equipe Mozilla VR para prototipação e experimentos com WebVR. __Ter mais colaboradores que conheçam A-Frame, dará a eles a chance de se envolver em uma das revoluções mais emocionantes no campo da tecnologia__.
 
 ## Formato de Atividade
 
@@ -98,6 +101,14 @@ Isto é como você pode acabar com um formato de evento de 4 horas. Você pode t
 * Discutir delivery
 * Discutir planos de acção individuais e planos de acompanhamento
 
+## Directly at the end of the activity
+Immediately after the event don’t forget to share the link to the impact form with your attendees:
+
+{: .attention-link}
+[mzl.la/howwasit](http://mzl.la/howwasit)
+
+Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.
+
 ## Saída
 
 Adicional para o fluxo de eventos recomendado aqui estão algumas coisas que gostaríamos que você, o organizador do evento, para fazer.
@@ -114,3 +125,4 @@ Adicional para o fluxo de eventos recomendado aqui estão algumas coisas que gos
 ## Contato
 
 Quer saber mais sobre a comunidade de A-Frame? O ping-nos no canal [Slack A-Frame](https://aframevr-slack.herokuapp.com/) ou Tweet para nós []@aframevr](https://twitter.com/aframevr). Visite a página da [comunidade A-Frame](https://aframe.io/community/) para mais detalhes.
+</div>
