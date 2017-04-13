@@ -21,7 +21,7 @@ markdown: kramdown
 include: ['_pages']
 exclude: ['locales']
 
-disabled_languages: ['fr']
+disabled_languages: []
 
 gems:
   - jekyll-redirect-from
