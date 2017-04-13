@@ -31,6 +31,6 @@ Fazemos isso:
 * Recrutando e investindo nos principais colaboradores mobilizadores/líderes, e desenvolvendo diversas, locais e globais comunidades que fazem a contribuição individual mais impactante
 * Fornecendo software/sistemas e práticas que aumentam o impacto da participação em toda a Mozilla
 
-# Se envolva
+## Se envolva
 
 Saiba mais em nossa página da Wiki [Participation](https://wiki.mozilla.org/Participation) _(em inglês)_.

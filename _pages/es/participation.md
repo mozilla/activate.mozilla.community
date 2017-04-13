@@ -31,6 +31,6 @@ Cómo lo hacemos:
 * Contratando e invirtiendo en colaboradores claves y líderes y desarrollando comunidades diversas, tanto locales como globales, para conseguir que la colaboración individual tenga más impacto
 * Proporcionando /systems software y prácticas que aumenten el impacto de la participación en Mozilla
 
-# Involúcrate
+## Involúcrate
 
 Descubre más en la Wiki de Participación (https://wiki.mozilla.org/Participation).
