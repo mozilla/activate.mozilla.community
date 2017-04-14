@@ -31,6 +31,6 @@ We do this by:
 * Recruiting and investing in core contributors mobilizers/leaders, and developing diverse, local and global communities that make individual contribution more impactful
 * Delivering software/systems and practices that increase the impact of participation across Mozilla
 
-# Get Involved
+## Get Involved
 
 Find out more on the [Participation Wiki](https://wiki.mozilla.org/Participation).
