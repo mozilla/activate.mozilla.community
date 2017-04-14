@@ -105,6 +105,14 @@ This is how you can break up a 4 hour event format. You can try to shorten some 
 * Discuss takeaways
 * Discuss individual action plans and follow-up plans
 
+## Directly at the end of the activity
+Immediately after the event don’t forget to share the link to the impact form with your attendees:
+
+{: .attention-link}
+[mzl.la/howwasit](http://mzl.la/howwasit)
+
+Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.
+
 ## Output
 
 Additional to the recommended event flow here are some things we’d like you, the event organizer, to do.

@@ -88,6 +88,14 @@ There are two options for facilitation:
         * [Standard library API docs](https://github.com/rust-lang/rust/issues/29329)
     * [This Week in Rust](https://this-week-in-rust.org/) also publishes a call for participation each week with hot contribution ideas.
 
+## Directly at the end of the activity
+Immediately after the event don’t forget to share the link to the impact form with your attendees:
+
+{: .attention-link}
+[mzl.la/howwasit](http://mzl.la/howwasit)
+
+Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.
+
 ## Other Resources
 
 ### Tutorials

@@ -117,7 +117,15 @@ __Part III (Bonus!)__
   * I made an add-on using @MozWebExt for @mozamo! Check it out here: <link to add-on> #MozActivate
 4. Encourage attendees to continue the conversation by following @MozWebExt on Twitter, joining the mailing list dev-addons@mozilla.org, joining the IRC channels #addons and #extdev, joining the [Telegram group @addons](https://telegram.me/addons), and joining the [Add-ons Discourse Forum](https://discourse.mozilla-community.org/c/add-ons).
 
-## Event Follow-Up
+## Directly at the end of the activity
+Immediately after the event don’t forget to share the link to the impact form with your attendees:
+
+{: .attention-link}
+[mzl.la/howwasit](http://mzl.la/howwasit)
+
+Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.
+
+## Event Follow-Up (one day after the event)
 
 The day after the event, send a follow-up email to the attendees. Here is a template that you can customize to best reflect your event:
 
@@ -125,7 +133,7 @@ Thanks for attending \[name of event\]! I hope you had a great time learning how
 
 __We want to hear your thoughts about the event!__
 
-Please take a few minutes to fill out the survey [here](https://docs.google.com/a/mozilla.com/forms/d/1OrLfdAzVtLC2YyXexKCChBymuc8bR8mStDDujKaAUl8/edit).
+Please take a few minutes to fill out the survey [here](http://mzl.la/howwasit).
 
 __Would you like a copy of the slides from the event?__
 

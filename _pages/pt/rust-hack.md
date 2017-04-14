@@ -48,8 +48,6 @@ Rust é uma linguagem de programação de sistemas que funciona rapidamente, evi
   <iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/8EPsnf_ZYU0" frameborder="0" allowfullscreen></iframe>
 </p>
 
-
-
 ## Formato de Atividade
 
 Obter sua comunidade por trás desta nova e excitante linguagem de programação, executando um evento de aprendizagem.
@@ -89,6 +87,14 @@ Existem duas opções para a facilitação:
         * [Etiquetado fácil](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AA-docs+label%3AE-easy)
         * [Padrão docs biblioteca API](https://github.com/rust-lang/rust/issues/29329)
     * [Semana da Rust](https://this-week-in-rust.org/) também publica uma chamada para a participação em cada semana com idéias contribuição quentes.
+
+## Directly at the end of the activity
+Immediately after the event don’t forget to share the link to the impact form with your attendees:
+
+{: .attention-link}
+[mzl.la/howwasit](http://mzl.la/howwasit)
+
+Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.
 
 ## Outros recursos
 
