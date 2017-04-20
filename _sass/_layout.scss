@@ -828,3 +828,9 @@ div.facebook {
 table.sortable > thead th:hover:not([data-defaultsort="disabled"]) {
     background-color: $brand-color-light;
 }
+
+// Slider overwrites
+.bx-wrapper {
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
