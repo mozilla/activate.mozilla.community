@@ -24,7 +24,7 @@ When considering where to hold your event, look for a comfortable, flexible spac
 Your event should feel like a party! A few simple tricks to help create a welcoming, creative atmosphere include playing music, bringing snacks and providing name tags. Having an intro activity or icebreaker is a great way to get everyone socializing.
 
 ## Schedule
-Plan your schedule ahead of time but be flexible; your participants might surprise you with interesting questions or challenges to explore. Identify early on what materials are needed for your scheduled activities to run smoothly. A checklist of things you will need for set-up/during/after is very useful. Don't forget to leave yourself adequate prep time and if you’re a Rep don’t forget to set up the event on the Reps Portal ([instructions)(https://www.google.com/url?q=https://wiki.mozilla.org/ReMo/SOPs/Event_hosting&sa=D&ust=1492521614749000&usg=AFQjCNEHTeA30sJ8bB8BUaaLJfCFpTwvew)).
+Plan your schedule ahead of time but be flexible; your participants might surprise you with interesting questions or challenges to explore. Identify early on what materials are needed for your scheduled activities to run smoothly. A checklist of things you will need for set-up/during/after is very useful. Don't forget to leave yourself adequate prep time and if you’re a Rep don’t forget to set up the event on the Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting)).
 
 ## Promotion
 There are many ways to promote your event that will create attention and draw more attendees.
