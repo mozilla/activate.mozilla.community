@@ -4,8 +4,8 @@ title:  "Mergulhe em Rust"
 title:  "Mergulhe em Rust"
 subtitle: "2-3 horas"
 image: "/assets/img/rust-post-header.png"
-permalink: /pt/rust-hack/
-lang: pt
+permalink: /pt-BR/rust-hack/
+lang: pt-BR
 ref: rust-hack
 parent: activities
 redirect_from: "/pt/developer-engagement/rust-hack/"

@@ -3,8 +3,8 @@ layout: activity
 title:  "Instale o Test Pilot"
 subtitle: ""
 image: "/assets/img/testpilot-post-header.png"
-permalink: /pt/test-pilot/
-lang: pt
+permalink: /pt-BR/test-pilot/
+lang: pt-BR
 ref: test-pilot
 parent: activities
 redirect_from: "/pt/experiments/test-pilot/"

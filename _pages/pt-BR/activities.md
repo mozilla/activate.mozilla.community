@@ -1,8 +1,8 @@
 ---
 layout: default
 title:  "Atividades"
-permalink: /pt/activities/
-lang: pt
+permalink: /pt-BR/activities/
+lang: pt-BR
 ref: activities
 redirect_from: "/pt/developer-engagement/"
 redirect_from: "/pt/experiments/"
@@ -20,7 +20,7 @@ Antes de você começar: Veja seus objetivos anuais, o que você e sua comunidad
 {: .clear}
 _
 
-{% include pt/activities.html %}
+{% include pt-BR/activities.html %}
 
 ## Atividades removidas
 
@@ -32,12 +32,12 @@ _
   <header class="item-header">
     <img src="/assets/img/testpilot-header.png" alt="Header image">
   </header>
-  <h2><a href="/pt/test-pilot/">Instalar Test Pilot</a></h2>
+  <h2><a href="/pt-BR/test-pilot/">Instalar Test Pilot</a></h2>
   <p class="retired-note">Esta atividade foi removida. Não recomendamos que você execute a atividade neste momento e os recursos não estarão mais disponíveis.</p>
   <div class="item-content" markdown="1">
 Quando se constrói funcionalidades para centenas de milhões de usuários Firefox no Mundo, é importante fazê-las certo. Ajude-nos a descobrir quais funcionalidades devem ser lançadas e como elas devem funcionar. Instale o Test Pilot e nos dê sua opinião.
 
-[Saiba mais](/pt/test-pilot/).
+[Saiba mais](/pt-BR/test-pilot/).
   </div>
   <footer class="item-footer">
     <div class="tags">Teste</div>
@@ -48,12 +48,12 @@ Quando se constrói funcionalidades para centenas de milhões de usuários Firef
   <header class="item-header">
     <img src="/assets/img/e10s-header.png" alt="Header image">
   </header>
-  <h2><a href="/pt/e10s-addons/">e10s and Featured Add-ons</a></h2>
+  <h2><a href="/pt-BR/e10s-addons/">e10s and Featured Add-ons</a></h2>
   <p class="retired-note">Esta atividade foi removida. Não recomendamos que você execute a atividade neste momento e os recursos não estarão mais disponíveis.</p>
   <div class="item-content" markdown="1">
 Com o surgimento do Firefox multi-processo (e10s), precisamos garantir que as principais extensões e o site Add-ons Mozilla alcancem o mais alto grau de compatibilidade e funcionalidade. Ajude-nos a testar estas extensões, assim o e10s poderá ser lançado para os nossos milhões de usuários.
 
-[Saiba mais](/pt/e10s-addons/).
+[Saiba mais](/pt-BR/e10s-addons/).
   </div>
   <footer class="item-footer">
     <div class="tags">Teste</div>

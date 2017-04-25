@@ -3,8 +3,8 @@ layout: activity
 title:  "WebVR Camp"
 subtitle: "in 3-4 hours"
 image: "/assets/img/webvr-post-header.png"
-permalink: /pt/webvr-camp/
-lang: pt
+permalink: /pt-BR/webvr-camp/
+lang: pt-BR
 ref: webvr-camp
 parent: activities
 redirect_from: "/pt/developer-engagement/webvr-camp/"
