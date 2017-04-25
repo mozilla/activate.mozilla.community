@@ -1,7 +1,7 @@
 ---
 layout: activity
-title:  "Mergulhe em Rust"
-subtitle: "em 2-3 horas"
+title:  "Dive Into Rust"
+subtitle: "in 2-3 hours"
 image: "/assets/img/rust-post-header.png"
 permalink: /rust-hack/
 lang: en
