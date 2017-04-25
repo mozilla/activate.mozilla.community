@@ -1,7 +1,7 @@
 ---
 layout: activity
-title:  "Host a Technology Talk with Tech Speakers!"
-subtitle: "Boost Mozilla's reputation as a technology leader among web developers by organizing an event and inviting a Tech Speaker."
+title:  "Organize uma palestra de tecnologia com Tech Speakers!"
+subtitle: "Impulsione a reputação da Mozilla como uma líder de tecnologia entre os desenvolvedores Web organizando um evento e convidando um Tech Speaker."
 image: "/assets/img/techspeakers-post-header.png"
 permalink: /pt/techspeakers/
 lang: pt
@@ -12,10 +12,10 @@ parent: activities
 <div class="col-md-3 hidden-xs pull-right" markdown="1">
 ## Goals for this Activity
 
-Your goal is to get more web developers excited and aware of Mozilla as an influential tech leader. Here are some of the outcomes of your event that you should be working towards:
+Seu objetivo é obter mais desenvolvedores web animados e ciente da Mozilla como uma líder influente de tecnologia. Você deve trabalhar em um evento para obter esses resultados:
 
-* **Organize** an event for ~50 web developers
-* **Activate** at least 40 of them to [share feedback](mzl.la/howwasit) after the talk
+* **Organizar** um evento para ~50 desenvolvedores web
+* **Ativar** pelo menos 40 deles para [dar feedback](mzl.la/howwasit) depois da palestra
 
 ## Target Audience
 
