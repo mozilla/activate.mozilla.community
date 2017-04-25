@@ -9,9 +9,9 @@ ref: index
 {% include pt/activities.html %}
 
 {: .center .index-notice}
-_Você está interessado(a) em outras áreas ? Veja [nosso roadmap](/pt/roadmap/) para ver o que está por vir._
+_Você está interessado(a) em outras atividades? Dê uma olhada no [cronograma](/pt/roadmap/) para conferir futuras atividades!_
 
 {: .frontpage-slider}
-* <span>Share your experience with the hashtag #MozActivate</span>
-* <span>Check out our newest activitiy about <a href="/webextensions/">WebExtensions</a></span>
-* <span>Help create the future, have a look at <a href="/webvr-camp/">WebVR Camp</a></span>
+* <span>Compartilhe suas experiências com a hashtag #MozActivate</span>
+* <span>Confira agora a nova atividade de <a href="/webextensions/">WebExtensions</a>!</span>
+* <span>Ajude a criar o futuro, dê uma olhada no <a href="/webvr-camp/">WebVR Camp</a>.</span>

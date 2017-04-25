@@ -53,7 +53,7 @@ Nós te encorajamos a executar estas atividades com o mínimo possível, mas sab
 * Aluguel do local (apenas se não houver outra alternativa)
 * Viagem para um especialista no assunto (atualmente permitido apenas para eventos de Rust)
 
-For some activities, extra budget is available for special needs. For example, VR headsets for the WebVR Camp activity. Details will be available on the relevant activity pages.
+Para algumas atividades, orçamento extra estará disponível, por exemplo, headsets de realidade virtual para a atividade de WebVR Camp, detalhes estarão disponíveis nas páginas de atividades relevantes.
 
 O material gráfico a ser utilizado será incluido em algumas atividades. Se não for mencionado explicitamente na atividade, não haverá outros disponíveis na campanha.
 

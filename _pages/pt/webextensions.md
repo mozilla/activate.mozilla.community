@@ -1,6 +1,6 @@
 ---
 layout: activity
-title:  "Build Your Own WebExtension Add-on for Firefox"
+title:  "Construa sua própria WebExtension para o Firefox"
 subtitle: "in 1-3 hours"
 image: "/assets/img/webextensions-post-header.png"
 permalink: /pt/webextensions/
@@ -12,7 +12,7 @@ parent: activities
 <div class="col-md-3 hidden-xs pull-right" markdown="1">
 ## Impact and Metrics
 
-Add-ons provide a safe, simple, and powerful way to personalize your browsing experience. With WebExtensions APIs, it’s easier than ever to create extensions that can be easily ported to Firefox, Chrome, Edge, and Opera. Throwing a workshop helps more people learn how to develop add-ons and help ensure that Firefox remains the most customizable browser.
+Os complementos fornecem uma maneira segura, simples e poderosa de personalizar sua experiência de navegação. Com as APIs do WebExtensions, é mais fácil do que nunca criar extensões que podem ser portadas facilmente para o Firefox, Chrome, Edge e Opera. Organizar uma oficina ajuda mais pessoas a aprender como desenvolver complementos e ajudar a garantir que o Firefox continue sendo o navegador mais personalizável.
 
 ### Campaign Goals
 
@@ -44,7 +44,7 @@ People with more JavaScript experience are encouraged to help beginners get star
 
 {: .alert .alert-info .impactbox}
 <span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
-Add-ons provide a safe, simple, and powerful way to personalize your browsing experience. With WebExtensions APIs, it’s easier than ever to create extensions that can be easily ported to Firefox, Chrome, Edge, and Opera. Through this activity you’ll help connect new developers with an opportunity to create add-ons to solve real problems and make their lives and the web better.
+Os complementos fornecem uma maneira segura, simples e poderosa de personalizar sua experiência de navegação. Com as APIs do WebExtensions, é mais fácil do que nunca criar extensões que podem ser portadas facilmente para o Firefox, Chrome, Edge e Opera. Através desta atividade você vai ajudar a conectar novos desenvolvedores com a oportunidade de criar complementos para resolver problemas reais e tornar suas vidas e a web melhor.
 
 Firefox is an open-source web browser that cares about user control and privacy, and add-ons provide a safe, simple, and powerful way to personalize your browsing experience. From blocking ads to organizing tabs, add-ons help make Firefox your own.
 
