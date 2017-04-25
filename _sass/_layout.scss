@@ -79,19 +79,25 @@
     text-align: center;
     border-radius: 0;
     min-height: 420px;
+    display: flex;
+    align-items: center;
 
-    h1 {
-        color: white;
-        display: block;
-        margin: auto;
-    }
+    .flex-container {
+        flex-direction: column;
 
-    .lead {
-        color: white;
-        margin: 20px auto;
-        font-weight: 300;
-        max-width: 75%;
-        text-align: center;
+        h1 {
+            color: white;
+            display: block;
+            margin: auto;
+        }
+
+        .lead {
+            color: white;
+            margin: 20px auto;
+            font-weight: 300;
+            max-width: 75%;
+            text-align: center;
+        }
     }
 }
 
