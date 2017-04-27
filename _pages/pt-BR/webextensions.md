@@ -3,8 +3,8 @@ layout: activity
 title:  "Construa sua própria WebExtension para o Firefox"
 subtitle: "in 1-3 hours"
 image: "/assets/img/webextensions-post-header.png"
-permalink: /pt/webextensions/
-lang: pt
+permalink: /pt-BR/webextensions/
+lang: pt-BR
 ref: webextensions
 parent: activities
 ---

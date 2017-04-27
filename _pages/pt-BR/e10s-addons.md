@@ -3,8 +3,8 @@ layout: activity
 title:  "e10s and Featured Add-ons"
 subtitle: ""
 image: "/assets/img/e10s-post-header.png"
-permalink: /pt/e10s-addons/
-lang: pt
+permalink: /pt-BR/e10s-addons/
+lang: pt-BR
 ref: e10s-addons
 parent: activities
 redirect_from: "/pt/experiments/e10s-addons/"

@@ -1,8 +1,8 @@
 ---
 layout: default
 title:  "Event Guide"
-permalink: /pt/eventguide/
-lang: pt
+permalink: /pt-BR/eventguide/
+lang: pt-BR
 ref: eventguide
 ---
 

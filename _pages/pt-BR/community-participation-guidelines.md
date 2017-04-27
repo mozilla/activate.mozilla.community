@@ -3,11 +3,11 @@ layout: activity
 title:  "Community Participation Guidelines (Draft) Review"
 subtitle: "in 2-3 hours"
 image: "/assets/img/guidelines-post-header.png"
-permalink: /pt/community-participation-guideline/
-lang: pt
+permalink: /pt-BR/community-participation-guideline/
+lang: pt-BR
 ref: community-participation-guidelines
 parent: activities
-redirect_from: "/experiments/community-participation-guidelines/"
+redirect_from: "/pt/experiments/community-participation-guidelines/"
 ---
 
 <div class="col-md-3 hidden-xs pull-right" markdown="1">

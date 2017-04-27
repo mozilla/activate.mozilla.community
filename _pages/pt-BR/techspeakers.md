@@ -3,8 +3,8 @@ layout: activity
 title:  "Organize uma palestra de tecnologia com Tech Speakers!"
 subtitle: "Impulsione a reputação da Mozilla como uma líder de tecnologia entre os desenvolvedores Web organizando um evento e convidando um Tech Speaker."
 image: "/assets/img/techspeakers-post-header.png"
-permalink: /pt/techspeakers/
-lang: pt
+permalink: /pt-BR/techspeakers/
+lang: pt-BR
 ref: techspeakers
 parent: activities
 ---

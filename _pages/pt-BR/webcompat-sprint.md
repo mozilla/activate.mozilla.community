@@ -3,8 +3,8 @@ layout: activity
 title:  "Web Compatibility Sprint"
 subtitle: "in 2-3 hours"
 image: "/assets/img/webcompat-post-header.png"
-permalink: /pt/webcompat-sprint/
-lang: pt
+permalink: /pt-BR/webcompat-sprint/
+lang: pt-BR
 ref: webcompat-sprint
 parent: activities
 redirect_from: "/pt/developer-engagement/webcompat-sprint/"

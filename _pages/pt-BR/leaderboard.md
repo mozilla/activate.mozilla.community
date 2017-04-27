@@ -1,8 +1,8 @@
 ---
 layout: leaderboard
 title:  "Leaderboard"
-permalink: /pt/leaderboard/
-lang: pt
+permalink: /pt-BR/leaderboard/
+lang: pt-BR
 ref: leaderboard
 ---
 
