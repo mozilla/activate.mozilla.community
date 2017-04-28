@@ -15,7 +15,7 @@ parent: activities
 Your goal is to get more web developers excited and aware of Mozilla as an influential tech leader. Here are some of the outcomes of your event that you should be working towards:
 
 * **Organize** an event for ~50 web developers
-* **Activate** at least 40 of them to [share feedback](mzl.la/howwasit) after the talk
+* **Activate** at least 40 of them to [share feedback](http://mzl.la/howwasit) after the talk
 
 ## Target Audience
 

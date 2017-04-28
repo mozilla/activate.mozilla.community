@@ -15,7 +15,7 @@ parent: activities
 Seu objetivo é obter mais desenvolvedores web animados e ciente da Mozilla como uma líder influente de tecnologia. Você deve trabalhar em um evento para obter esses resultados:
 
 * **Organizar** um evento para ~50 desenvolvedores web
-* **Ativar** pelo menos 40 deles para [dar feedback](mzl.la/howwasit) depois da palestra
+* **Ativar** pelo menos 40 deles para [dar feedback](http://mzl.la/howwasit) depois da palestra
 
 ## Target Audience
 
