@@ -83,6 +83,8 @@ When it's time to wrap-up, your attendees will be feeling inspired, energized an
 
 * Ask participants for feedback. What did they learn? What did they enjoy? If they have suggestions for improvement, be sure to take notes or invite them to blog about it. Be sure to ask what the participants would like to do next. Provide links to the campus websites where they can continue learning new skills. Later, conduct a debrief with participating organizations and volunteers, if you had any. Gather feedback and ask if the event was a good way for them to serve their communities. Discuss ways to continuing hacking together to keep the momentum going.
 
+* Share the centralized [feedback form](https://mzl.la/howwasit) link to all the participants at the end of the event for collecting feedbacks.
+
 **Clean-Up**
 
 * Build and maintain a good relationship with your venue by making sure you leave it as clean as when you arrived. That way, if you want to run another event next year they will be thrilled to have you back.
