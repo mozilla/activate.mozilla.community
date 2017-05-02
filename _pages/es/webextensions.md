@@ -115,7 +115,7 @@ __Part III (Bonus!)__
 	* Click the "Save Changes" button.
 3. Once your add-on has been approved (which might take a while), tweet a link to your published WebExtension! Here is a suggested message:
   * I made an add-on using @MozWebExt for @mozamo! Check it out here: <link to add-on> #MozActivate
-4. Encourage attendees to continue the conversation by following @MozWebExt on Twitter, joining the mailing list dev-addons@mozilla.org, joining the IRC channels #addons and #extdev, joining the [Telegram group @addons](https://telegram.me/addons), and joining the [Add-ons Discourse Forum](https://discourse.mozilla-community.org/c/add-ons).
+4. Encourage attendees to continue the conversation by following @MozWebExt on Twitter, joining the mailing list dev-addons@mozilla.org, joining the IRC channels #addons and #extdev, joining the Telegram groups [@addons](https://telegram.me/addons) and [@addonschat](https://t.me/addonschat), and joining the [Add-ons Discourse Forum](https://discourse.mozilla-community.org/c/add-ons).
 
 ## Directly at the end of the activity
 Immediately after the event don’t forget to share the link to the impact form with your attendees:
