@@ -71,7 +71,7 @@ Existem duas opções para a facilitação:
 
 * Instalar Rust
     * [rustup](rustup www.rustup.rs) - recomendadas
-    * [Rust de downloads](https://www.rust-lang.org/downloads.html) (alternativa)
+    * [Rust de downloads](https://www.rust-lang.org/en-US/other-installers.html) (alternativa)
 * Leia o [Rust livro](https://doc.rust-lang.org/stable/book/)
 * Concluir a [sussurros](https://github.com/carols10cents/rustlings) (um grande iniciantes claro!)
 * Alguns projetos com grandes primeiros erros:
