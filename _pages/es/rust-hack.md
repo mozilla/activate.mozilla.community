@@ -71,7 +71,7 @@ There are two options for facilitation:
 
 * Install Rust
     * [rustup](https://www.rustup.rs) - recommended
-    * [Rust downloads](https://www.rust-lang.org/downloads.html) (alternative)
+    * [Rust downloads](https://www.rust-lang.org/en-US/other-installers.html) (alternative)
 * Read the [Rust book](https://doc.rust-lang.org/stable/book/)
 * Complete the [Rustlings](https://github.com/carols10cents/rustlings) (a great beginners course!)
 * Some projects with great first bugs:
