@@ -29,16 +29,7 @@ The areas and activity described in this site are a result of a joint effort fro
 
 ## What are the goals of the campaign?
 
-The primary goal of the campaign is to launch activities that bring value everyone participating, from community mobilizers, to event attendees, to teams at Mozilla.
-
-We have set ourselves targets for Q3 (July-September), 2016. While they are not arbitrary numbers, they are meant to be aspirational and not exact. Whether we come in under target or way over, we will evaluate and iterate for future campaign.
-
-* 6 activities are launched.
-* 400 mobilizers activated. Primarily this is people organising events, assisting in logistics, and being the primary driver of an activity to bring more contributions.
-* 3500 unique contributions to the campaign. These are the people mobilized, such as those attending events, installing add-ons, and so on.
-* 2000 social shares of campaign activities.
-
-These are listed here for transparency, and you can also see our per-activity goals listed under the 'Goals for this area' section on each activity page.
+The goal is providing guidance to mobilizers on how to recruit contributors and create community around meaningful Mozilla projects.
 
 ## What should I do if I have questions?
 
