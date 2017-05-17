@@ -49,7 +49,7 @@ This activity is all about throwing a big event where a Tech Speaker can come an
 3. Once you’ve made sure your Tech Speaker is available and confirmed, find a venue that will fit the number of people you’re expecting (community centers, schools and co-working spaces are great places to consider).
 4. **Create an event page** on MeetUp (or Facebook) so you have somewhere for your attendees to register.
 5. Start reaching out to **web developers** in your area and inviting them to your event.  
-6. Set up the event on the Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting)). [Find a Rep](https://reps.mozilla.org/people/) closeby to do this if you are not one.
+6. Read the [event guide](/pt-BR/eventguide) on how to set up an event page and how to organize an event.
 
 ## After the Event
 Immediately after the event don’t forget to share the link to the impact form with your attendees:

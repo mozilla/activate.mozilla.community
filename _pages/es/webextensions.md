@@ -57,12 +57,10 @@ Through this activity you’ll help connect new developers with an opportunity t
 
 Help contribute to the open web by running a WebExtensions workshop. This activity can also be run solo.
 
-1. Put an event team together
-2. Choose a date and secure a venue
-3. Choose whether this will be self-facilitated or co-facilitated with someone who has experience developing WebExtensions
-4. Set up the event on the Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting)). Please make sure the initiative is set to "MozActivate" and the functional area indicates "Add-ons".
-5. Get the word out! Invite your community to the event. If this activity is run together with a Campus Club, they can customize a flyer with your event information for print or electronic distribution.
-6. 2 - 3 days before the event, ask participants to complete the Pre-Event section on their own.
+1. Read the [event guide](/es/eventguide) on how to set up an event page and how to organize an event.
+2. Choose whether this will be self-facilitated or co-facilitated with someone who has experience developing WebExtensions
+3. Get the word out! Invite your community to the event. If this activity is run together with a Campus Club, they can customize a flyer with your event information for print or electronic distribution.
+4. 2 - 3 days before the event, ask participants to complete the Pre-Event section on their own.
 
 __Duration:__ For duration, we recommend 1 - 3 hours with 5+ attendees. However you may choose to run the workshop as a series over a shorter time but multiple days.
 
@@ -125,7 +123,7 @@ Immediately after the event don’t forget to share the link to the impact form 
 
 Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.
 
-## Event Follow-Up (one day after the event)
+## Event Follow-Up (one day after)
 
 The day after the event, send a follow-up email to the attendees. Here is a template that you can customize to best reflect your event:
 
@@ -133,7 +131,7 @@ Thanks for attending \[name of event\]! I hope you had a great time learning how
 
 __We want to hear your thoughts about the event!__
 
-Please take a few minutes to fill out the survey [here](http://mzl.la/howwasit).
+Please take a few minutes to fill out this impact form [here](http://mzl.la/howwasit).
 
 __Would you like a copy of the slides from the event?__
 

@@ -51,10 +51,8 @@ Rust is a systems programming language that runs blazingly fast, prevents segfau
 
 Get your community behind this exciting new programming language by running a learning event.
 
-1. Put an event team together
-2. Choose a date and secure a venue
-3. Choose whether this will be self-facilitated or with someone who has Rust experience (see below)
-4. Setup the event on Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting)). Please make sure the initiative is set to "MozActivate" and the functional area indicates "Rust".
+1. Read the [event guide](/eventguide) on how to set up an event page and how to organize an event.
+2. Choose whether this will be self-facilitated or with someone who has Rust experience (see below)
 
 For duration, we recommend a half-day (or full evening) event with a minimum of 15-25 attendees.
 
