@@ -1,0 +1,116 @@
+<form id="input-form" action="" method="POST" target="no-target">
+  <div class="form-group">
+    <label>What kind of event was this?</label>
+    <div class="radio">
+      <label>
+        <input type="radio" name="q1" value="Rust">
+        Rust
+      </label>
+    </div>
+    <div class="radio">
+      <label>
+        <input type="radio" name="q1" value="Web Compat">
+        Web Compat
+      </label>
+    </div>
+    <div class="radio">
+      <label>
+        <input type="radio" name="q1" value="WebExtension">
+        WebExtension
+      </label>
+    </div>
+    <div class="radio">
+      <label>
+        <input type="radio" name="q1" value="Host a Tech Speaker">
+        Host a Tech Speaker
+      </label>
+    </div>
+    <div class="radio">
+      <label>
+        <input type="radio" name="q1" value="Web VR">
+        Web VR
+      </label>
+    </div>
+  </div>
+  <div class="form-group">
+    <label>Who was the main Rep who organized this event?</label>
+    <select class="form-control" id="input-q2" name="q2">
+      <option>Abbackar DIOMANDE</option>
+      <option>Abdelrahman Manna</option>
+      <option>Abdelrahman Samy</option>
+      <option>Abhilash A</option>
+      <option>Abhiram Ravikumar</option>
+    </select>
+  </div>
+  <div class="form-group">
+    <label>What is the date of the event you attended?</label>
+    <input class="form-control" id="date" name="date" data-toggle="datepicker" data-date-format="mm/dd/yyyy">
+    <p class="help-block">Example block-level help text here.</p>
+  </div>
+  <div class="form-group">
+    <label>How likely is it that you would recommend participating in this event to a friend or colleague?</label>
+    <div>
+      <label class="radio-inline">
+        Not likely at all
+      </label>
+      <label class="radio-inline">
+        <input type="radio" name="q4" value="1"> 1
+      </label>
+      <label class="radio-inline">
+        <input type="radio" name="q4" value="2"> 2
+      </label>
+      <label class="radio-inline">
+        <input type="radio" name="q4" value="3"> 3
+      </label>
+      <label class="radio-inline">
+        <input type="radio" name="q4" value="4"> 4
+      </label>
+      <label class="radio-inline">
+        <input type="radio" name="q4" value="5"> 5
+      </label>
+      <label class="radio-inline">
+        <input type="radio" name="q4" value="6"> 6
+      </label>
+      <label class="radio-inline">
+        <input type="radio" name="q4" value="7"> 7
+      </label>
+      <label class="radio-inline">
+        Extremely likely
+      </label>
+    </div>
+  </div>
+  <div class="form-group">
+    <label>Your name</label>
+    <input type="text" class="form-control" id="input-q5" name="q5" placeholder="Name">
+  </div>
+  <div class="form-group">
+    <label>Your e-mail (please add an email associated with your github account if you have one)</label>
+    <input type="email" class="form-control" id="input-q6" name="q6" placeholder="Email">
+  </div>
+  <div class="form-group">
+    <label>What is your profession?</label>
+    <div class="radio">
+      <label>
+        <input type="radio" name="q7" value="Web developer">
+        Web developer
+      </label>
+    </div>
+    <div class="radio">
+      <label>
+        <input type="radio" name="q7" value="Programmer">
+        Programmer
+      </label>
+    </div>
+    <div class="radio">
+      <label>
+        <input type="radio" name="q7" value="Student - Computer Science">
+        Student - Computer Science
+      </label>
+    </div>
+  </div>
+  <button id="form-submit" type="submit" class="btn btn-default">Submit</button>
+</form>
+
+<p id="input-feedback"></p>
+
+<iframe src="#" id="no-target" name="no-target" style="visibility:hidden"></iframe>
