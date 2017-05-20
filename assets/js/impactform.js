@@ -51,8 +51,6 @@ $('[data-toggle="datepicker"]').datepicker({
             q6ID + "=" + inputq6 + "&" + 
             q7ID + "=" + inputq7 + submitRef);
 
-        console.log(submitURL);
-
         $(this)[0].action=submitURL;
 
         $('#input-form').hide();
