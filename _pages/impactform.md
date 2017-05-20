@@ -6,8 +6,10 @@ lang: en
 ref: impactform
 ---
 
-## How was it?
+<div class="form-head">
+	<h2> How was it? </h2>
+	<P>Thanks for coming! We would love to hear your thoughts about the event you just participated in so we can do even better in the future. </P>
 
-Thanks for coming! We would love to hear your thoughts about the event you just participated in so we can do even better in the future. 
+</div>
 
 {% include formcontent.html %}
