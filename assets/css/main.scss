@@ -39,6 +39,10 @@ $on-mobile:        360px;
 $on-palm:          767px;
 $on-laptop:        992px;
 
+.form-group.required .control-label:after {
+    content:" *";
+    color:red;
+  }
 
 // Use media queries like this:
 // @include media-query($on-palm) {
