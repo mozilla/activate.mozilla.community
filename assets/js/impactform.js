@@ -1,7 +1,9 @@
 $('#input-feedback').hide();
 
+var today = new Date();
 $('[data-toggle="datepicker"]').datepicker({
     todayHighlight: true,
+    endDate: today, 
     dateFormat: 'dd/mm/yyyy' 
 });
 
@@ -25,6 +27,7 @@ $('#input-form').one('submit',function(){
 
 
     var inputq7 = $('input[name="q7"]:checked').val();
+    var inputq7o = encodeURIComponent($('#input-q7').val());
 
     // Question ID
     var q1IDo = "entry.336406139.other_option_response";
@@ -51,6 +54,20 @@ $('#input-form').one('submit',function(){
         q5ID + "=" + inputq5 + "&" + 
         q6ID + "=" + inputq6 + "&" + 
         q7ID + "=" + inputq7 + submitRef);
+
+    if(inputq7 == "Other"){
+        var submitURL = (baseURL + 
+        q1ID + "=" + inputq1 + "&" + 
+        q2ID + "=" + inputq2 + "&" + 
+        q3IDm + "=" + month + "&" + 
+        q3IDd + "=" + day + "&" + 
+        q3IDy + "=" + year + "&" + 
+        q4ID + "=" + inputq4 + "&" + 
+        q5ID + "=" + inputq5 + "&" + 
+        q6ID + "=" + inputq6 + "&" + 
+        q7IDo + "=" + inputq7o + "&" +
+        q7ID + "=" + "__other_option__" + submitRef);
+    }
 
     $(this)[0].action=submitURL;
     $('#input-form').hide();
