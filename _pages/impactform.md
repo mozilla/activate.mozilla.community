@@ -1,7 +1,7 @@
 ---
 layout: impactform
 title:  "Impact Form"
-permalink: /impactform/
+permalink: /howwasit/
 lang: en
 ref: impactform
 ---
