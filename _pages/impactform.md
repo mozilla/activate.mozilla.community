@@ -2,6 +2,7 @@
 layout: impactform
 title:  "Impact Form"
 permalink: /howwasit/
+redirect_from: "/impactform/"
 lang: en
 ref: impactform
 ---
