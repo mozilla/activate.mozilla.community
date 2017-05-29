@@ -3,7 +3,7 @@ layout: impactform
 title:  "Survey dampak"
 permalink: /id/howwasit/
 redirect_from: "/id/impactform/"
-lang: en
+lang: id
 ref: impactform
 ---
 
