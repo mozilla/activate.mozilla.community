@@ -38,6 +38,14 @@ ref: developer-engagement
 4. Then the localization team can translate the markdown files in their Language.
 5. Once the localization team signs off on the translations, we will enable the language on the website.
 
+## Localize the impact form
+1. Create a new issue using the following format on the title "Impact form localization (languageCode)"
+2. To be able to localize the impact form, you need to create a new folder (using your languageCode in the title) in the _include and _pages folder. 
+3. Once you create it, you need copy formcontent.html (from _include folder) into your new folder. You need to copy the impactform.md file (from the _pages folder) as well into your new folder. 
+4. Localize the new file you've just copied. 
+5. Send a PR and it will be evaluated before it goes online in the website. 
+
+
 ## Hack the site
 
 If you want to hack the site you need to download it and install Jekyll.
