@@ -157,13 +157,20 @@ Thanks again! We look forward to seeing you next time.
 * Tell us about your event. This can be before or after. We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two!
   * The Discourse thread can be found [here](https://discourse.mozilla-community.org/t/activate-build-your-own-webextension-add-on-for-firefox/13866)
 
-## Other Resources
+## Tutorials & Other Resources
 
 __Tutorials__
 
+* [Your first WebExtension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension)
 * [Let’s Write a Web Extension by Blake Winton](https://hacks.mozilla.org/2015/09/lets_write_a_webextension/)
 * [WebExtensions: An Example Add-on Repository with Test Harnesses by standard8](https://blog.mozilla.org/standard8/2016/11/11/webextensions-an-example-add-on-repository-with-test-harnesses/)
 * [Create a Simple WebExtension by David Walsh](https://davidwalsh.name/web-extensions)
 * [Building Firefox Add-ons with Web Extensions by Viswaprasath Ks](http://www.slideshare.net/VISWAPRASATHKS)
+* [Open Innovation Toolkit](https://toolkit.mozilla.org/)
+</div>
+
+__Other Resources__
+
+* [Example WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Examples)
 * [Open Innovation Toolkit](https://toolkit.mozilla.org/)
 </div>
