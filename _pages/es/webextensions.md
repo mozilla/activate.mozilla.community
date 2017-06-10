@@ -166,7 +166,7 @@ __Tutorials__
 * [WebExtensions: An Example Add-on Repository with Test Harnesses by standard8](https://blog.mozilla.org/standard8/2016/11/11/webextensions-an-example-add-on-repository-with-test-harnesses/)
 * [Create a Simple WebExtension by David Walsh](https://davidwalsh.name/web-extensions)
 * [Building Firefox Add-ons with Web Extensions by Viswaprasath Ks](http://www.slideshare.net/VISWAPRASATHKS)
-</div>
+
 
 __Other Resources__
 
