@@ -49,14 +49,12 @@ Help us build community around the A-Frame library by conducting a mobilizing / 
 
 **2-4 Weeks Before the Event**
 
-1. Put an event team together
-2. Choose a date and secure a venue
-3. Setup the event on Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting)). [Find a Rep](https://reps.mozilla.org/people/) closeby to do this if you are not one. Please make sure the initiative is set to "MozActivate" and the functional area indicates "WebVR".
-4. Give a thought whether it will be self-facilitated or with someone who has A-Frame experience. You can find help on the [Mozilla VR Telegram group](https://telegram.me/MozillaVR) or the [A-Frame Slack channel](https://aframevr-slack.herokuapp.com/)
-5. Create an event page on a platform popular in your locale, such as Facebook or Meetup.com, and keep posting interesting information about WebVR &amp; related topics to keep continue the conversation
-6. Download and customize the [A-Frame Presentation Kit](https://github.com/aframevr/aframe-presentation-kit)
-7. Create a few scenes for demo &amp; prototyping purposes. You can find examples on [awesome-aframe](https://github.com/aframevr/awesome-aframe)
-8. Acquire headsets to use and demo. Google Cardboard can be acquired in some locations for less than $5 a set. We recommend 5 headsets for an event of 20-30 people. You can request budget of up to $50 maximum for these headsets but you will have to buy them yourself.
+1. Read the [event guide](/es/eventguide) on how to set up an event page and how to organize an event.
+2. Give a thought whether it will be self-facilitated or with someone who has A-Frame experience. You can find help on the [Mozilla VR Telegram group](https://telegram.me/MozillaVR) or the [A-Frame Slack channel](https://aframevr-slack.herokuapp.com/)
+3. Create an event page on a platform popular in your locale, such as Facebook or Meetup.com, and keep posting interesting information about WebVR &amp; related topics to keep continue the conversation
+4. Download and customize the [A-Frame Presentation Kit](https://github.com/aframevr/aframe-presentation-kit)
+5. Create a few scenes for demo &amp; prototyping purposes. You can find examples on [awesome-aframe](https://github.com/aframevr/awesome-aframe)
+6. Acquire headsets to use and demo. Google Cardboard can be acquired in some locations for less than $5 a set. We recommend 5 headsets for an event of 20-30 people. You can request budget of up to $50 maximum for these headsets but you will have to buy them yourself.
 
 **1 Week Before the Event**
 

@@ -47,9 +47,7 @@ For more background and data on Web Compatibility, read the [recent blog post on
 
 While this activity can be run solo, we encourage you to run an event in your community to get together people who care about the Web. The goal is to test sites, diagnose problems, and discuss how to evangelise locally to developers about a Web that works for everyone.
 
-1. Put an event team together
-2. Choose a date and secure a venue
-3. Setup the event on Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting)). Please make sure the initiative is set to "MozActivate" and the functional area indicates "Web Compatibility".
+Read the [event guide](/eventguide) on how to set up an event page and how to organize an event.
 
 For duration, we recommend a half-day (or full evening) event with a minimum of 10-15 attendees.
 
