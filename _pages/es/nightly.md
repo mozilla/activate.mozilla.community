@@ -83,7 +83,7 @@ Remember this is how you’ll know who attended your event, and if you successfu
 Additional to the recommended event flow here are some things we’d like you, the event organizer, to do.
 
 * Fill out the post-event metrics on the event page you set-up on the Reps portal
-* Tell us about your event. We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two! This will also be instructional and inspirational to others who might do the event. [Here is the Discourse post to write to]().
+* Tell us about your event. We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two! This will also be instructional and inspirational to others who might do the event. [Here is the Discourse post to write to](https://discourse.mozilla-community.org/t/a-new-nightly-activity/16746).
 * Send an email to all participants with a summary and ask them to fill out the survey.
 * Encourage attendees who want to continue to work on Nightly to sign up to the [Discourse category](https://discourse.mozilla-community.org/c/nightly).
 
