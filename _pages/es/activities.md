@@ -28,6 +28,23 @@ _
 <a href="#" class="retired-activities-show-link">Show retired activities</a>
 
 <div class="row is-flex hidden" id="retired-activities-content">
+<div class="activity-card retired participation col-md-4">
+  <header class="item-header">
+    <img src="/assets/img/guidelines-header.png" alt="Header image">
+  </header>
+  <h2><a href="/es/community-participation-guideline/">Community Participation Guidelines</a></h2>
+  <div class="item-content" markdown="1">
+  <p class="retired-note">This activity is retired. What this means is that we don't recommend that you run the activity at this time and resources will no longer be available.</p>
+Larissa Shapiro, and the D&I Team at Mozilla have been busy this year, developing a 2.0 of the [Mozilla Community Participation](https://www.mozilla.org/en-US/about/governance/policies/participation/) Guidelines(CPG), and we are bringing [this draft to you](https://docs.google.com/document/d/1sElGXuZ0W31iPshvmj0CR2f6woF6V8wqrrJHzJ0pnpU/edit#heading=h.rf21kwgxk0hb), Mozilla's community, for feedback before release in early April. Completing this activity is a valuable contribution to Mozilla, and recognition of that contribution is included as a final step.
+
+[Find out more](/es/community-participation-guideline/).
+  </div>
+  <footer class="item-footer">
+    <div class="tags">Participation</div>
+    <div class="duration">2-3 hours</div>
+  </footer>
+</div>
+
 <div class="activity-card retired testing col-md-4">
   <header class="item-header">
     <img src="/assets/img/testpilot-header.png" alt="Header image">
