@@ -32,6 +32,8 @@ The audience for this activity is all Mozillians who care about building empower
 </div>
 
 <div class="col-md-9" markdown="1">
+{: .retired}
+This activity is retired. What this means is that we don't recommend that you run the activity at this time and resources will no longer be available.
 
 {: .alert .alert-info .impactbox}
 <span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>Providing Mozilla’s global community the opportunity to review the 2.0 Community Participation Guidelines draft will provide critical feedback for Diversity & Inclusion (D&I) at Mozilla as well as provide greater awareness to Mozilla’s communities of how the CPG supports healthy communities.

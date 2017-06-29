@@ -30,6 +30,8 @@ La audiencia para esta actividad son todos los Mozilleros que les importa constr
 </div>
 
 <div class="col-md-9" markdown="1">
+{: .retired}
+This activity is retired. What this means is that we don't recommend that you run the activity at this time and resources will no longer be available.
 
 {: .alert .alert-info .impactbox}
 <span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>Proporcionar a la comunidad mundial de Mozilla la oportunidad de revisar el borrador de las Pautas de Participación Comunitaria (PPC) 2.0, proporcionará retroalimentación crítica para la Diversidad e Inclusión (D&I) en Mozilla, así como proporcionar mayor conciencia a las comunidades de Mozilla de cómo PPC apoya comunidades saludables.
