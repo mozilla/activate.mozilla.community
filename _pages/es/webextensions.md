@@ -165,9 +165,10 @@ __Tutorials__
 * [Create a Simple WebExtension by David Walsh](https://davidwalsh.name/web-extensions)
 * [Building Firefox Add-ons with Web Extensions by Viswaprasath Ks](http://www.slideshare.net/VISWAPRASATHKS)
 
-
 __Other Resources__
 
-* [Example WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Examples)
+* [Example WebExtensions on MDN](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Examples)
+* [Examples of easy search using ContextMenu, simple alarm with notification, and simple tab closing by Viswaprasanth Ks](http://iamvp7.in/)
 * [Open Innovation Toolkit](https://toolkit.mozilla.org/)
+* [Presentation Example: Add-ons Development for Firefox by Santosh](http://slides.com/isantoshv/fx-addons/live#)
 </div>
