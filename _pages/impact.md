@@ -32,4 +32,19 @@ This lists all events that have gotten a response through the [Impact Form](/imp
     <tbody class="total-event-types">
     </tbody>
   </table>
+
+  <h2>Overview of all Events</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Event name</th>
+        <th>Event date</th>
+        <th>Organizer</th>
+        <th>NPS</th>
+        <th>Number of responses</th>
+      </tr>
+    </thead>
+    <tbody class="events-table">
+    </tbody>
+  </table>
 </div>
