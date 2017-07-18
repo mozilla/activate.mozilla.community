@@ -295,6 +295,38 @@
         .hidden {
             display: none;
         }
+
+        .impact-totals {
+            .dashboard {
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                align-content: space-between;
+                justify-content: space-between;
+
+                .column {
+                    text-align: center;
+
+                    span {
+                      font-size: 1.5em;
+                    }
+                }
+            }
+
+            @media all and (max-width: 768px) {
+                .dashboard {
+                  display: block;
+
+                  .column {
+                    text-align: left;
+                  }
+                }
+            }
+        }
     }
 
     h2 {
