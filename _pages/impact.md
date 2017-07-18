@@ -41,6 +41,12 @@ This lists all events that have gotten a response through the [Impact Form](/imp
     </tbody>
   </table>
 
+  <h2>Search</h2>
+  <form id="impact-event-search">
+    <select id="search-name"></select>
+    <input type="submit" />
+  </form>
+
   <h2>Overview of all Events</h2>
   <table>
     <thead>
