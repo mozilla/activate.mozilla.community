@@ -14,6 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://activate.mozilla.community" # the base hostname & protocol for your site
 twitter_username: mozparticipate
 github_username:  mozilla
+api_base_url: https://activateapi.michaelkohler.info
 
 # Build settings
 markdown: kramdown

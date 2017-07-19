@@ -1,7 +1,6 @@
 $(document).ready(function() {
   var response = {};
   var activities = [];
-  var BASE_URL = 'http://localhost:5500';
 
   var today = new Date();
   $('[data-toggle="datepicker"]').datepicker({
@@ -38,7 +37,7 @@ $(document).ready(function() {
      });
   }
 
-  get_responses(BASE_URL + '/');
+  get_responses(window.ACTIVATE_API_BASE_URL + '/');
 
   function get_repsnames(url) {
     return $.ajax({
@@ -58,7 +57,7 @@ $(document).ready(function() {
      });
   }
 
-  get_repsnames(BASE_URL + '/reps');
+  get_repsnames(window.ACTIVATE_API_BASE_URL + '/reps');
 
   $('#impact-event-search').submit(function (event) {
     event.preventDefault();
