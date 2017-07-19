@@ -10,7 +10,7 @@ const responses = require('./lib/responses');
 
 const app = express();
 
-const port = process.env.PORT || 5500;
+const port = process.env.PORT || 6500;
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));

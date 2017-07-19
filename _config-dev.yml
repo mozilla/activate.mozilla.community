@@ -14,7 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: mozparticipate
 github_username:  mozilla
-api_base_url: http://localhost:5500
+api_base_url: http://localhost:6500
 
 # Build settings
 markdown: kramdown
