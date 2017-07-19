@@ -3,6 +3,13 @@ $(document).ready(function() {
   var activities = [];
   var BASE_URL = 'http://localhost:5500';
 
+  var today = new Date();
+  $('[data-toggle="datepicker"]').datepicker({
+      todayHighlight: true,
+      endDate: today,
+      dateFormat: 'dd/mm/yyyy'
+  });
+
   function get_responses(url) {
     return $.ajax({
       type: 'GET',
@@ -58,9 +65,18 @@ $(document).ready(function() {
 
     var params = '?';
     var name = $('#search-name :selected').text();
+    var date = $('#date').val();
 
     if (name) {
       params += 'name=' + name;
+    }
+
+    if (name && date) {
+      params += '&';
+    }
+
+    if (date) {
+      params += 'eventDate=' + date;
     }
 
     $.ajax({

@@ -44,7 +44,8 @@ This lists all events that have gotten a response through the [Impact Form](/imp
   <h2>Search</h2>
   <form id="impact-event-search">
     <select id="search-name"></select>
-    <input type="submit" />
+    <input class="form-control" id="date" name="date" placeholder="2017-07-19" data-toggle="datepicker" data-date-format="yyyy-mm-dd" />
+    <input class="submit" type="submit" />
   </form>
 
   <h2>Overview of all Events</h2>

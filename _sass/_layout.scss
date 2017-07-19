@@ -327,6 +327,39 @@
                 }
             }
         }
+
+        #impact-event-search {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-wrap: nowrap;
+            -ms-flex-wrap: nowrap;
+            flex-wrap: nowrap;
+            align-content: space-between;
+            justify-content: space-between;
+
+            #date,
+            .submit {
+              margin-left: 10px;
+            }
+
+            @media all and (max-width: 768px) {
+                flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+
+                select {
+                  width: 100%;
+                }
+
+                #date,
+                .submit {
+                  margin-top: 10px;
+                  margin-left: 0;
+                }
+            }
+        }
     }
 
     h2 {
