@@ -19,6 +19,10 @@
     a.page-link:active,
     a.page-link:focus {
         color: white;
+
+        @media all and (max-width: 992px) {
+            width: 100%;
+        }
     }
 
     a.page-link:hover {
