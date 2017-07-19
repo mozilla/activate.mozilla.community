@@ -2,6 +2,7 @@
 
 const debug = require('debug')('ResponseParser');
 const dateFormat = require('dateformat');
+const sanitizeHtml = require('sanitize-html');
 const RemoUserHelper = require('../lib/remoUserHelper');
 const remoUserHelper = new RemoUserHelper();
 
@@ -56,8 +57,8 @@ module.exports = class ResponseParser {
       const eventResponse = this.getGeneralEventInfo(response);
 
       if (eventResponse) {
-        eventResponse.nps = response[3];
-        eventResponse.profession = response[4];
+        eventResponse.nps = this.sanitize(response[3]);
+        eventResponse.profession = this.sanitize(response[4]);
       }
 
       return eventResponse;
@@ -69,16 +70,23 @@ module.exports = class ResponseParser {
       return;
     }
 
-    const eventDate = new Date(response[2]);
+    const eventDate = new Date(this.sanitize(response[2]));
     const formattedEventDate = dateFormat(eventDate, "isoDate");
 
     return {
-      key: response[1] + '_' + response[2],
-      eventName: response[0],
+      key: this.sanitize(response[1] + '_' + response[2]),
+      eventName: this.sanitize(response[0]),
       eventDate: formattedEventDate,
-      organizerName: response[1],
-      organizerUrl: remoUserHelper.getRepUrlByFullName(response[1])
+      organizerName: this.sanitize(response[1]),
+      organizerUrl: remoUserHelper.getRepUrlByFullName(this.sanitize(response[1]))
     };
+  }
+
+  sanitize(input) {
+    return sanitizeHtml(input, {
+      allowedTags: [],
+      allowedAttributes: {}
+    });
   }
 
   prepareEventsData(responses) {
