@@ -1,14 +1,14 @@
 ---
 layout: impact
 title:  "Impact"
-permalink: /impact/
-lang: en
+permalink: /pt-BR/impact/
+lang: pt-BR
 ref: impact
 ---
 
 # Impact
 
-This lists all events that have gotten a response through the [Impact Form](/howwasit). We don't list any single responses, as this would violate the privacy of the attendees that filled the form.
+This lists all events that have gotten a response through the [Impact Form](/pt-BR/howwasit). We don't list any single responses, as this would violate the privacy of the attendees that filled the form.
 
 {: #loading }
 <span class="glyphicon glyphicon-refresh" aria-hidden="true"></span> loading...

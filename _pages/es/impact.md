@@ -1,8 +1,8 @@
 ---
 layout: impact
 title:  "Impact"
-permalink: /impact/
-lang: en
+permalink: /es/impact/
+lang: es
 ref: impact
 ---
 
