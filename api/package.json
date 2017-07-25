@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node index.js",
+    "start:debug": "node --inspect index.js",
     "fetch:users": "node tasks/fetchRepsUsers.js"
   },
   "dependencies": {

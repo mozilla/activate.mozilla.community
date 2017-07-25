@@ -43,3 +43,12 @@ $ npm run fetch:users
 ```/```: list all response summaries grouped by event as well as totals
 ```/search```: list all response summaries filtered by the search term. Example: ```/search?name=Michael Kohler&eventDate=2017-07-22
 ```/reps```: returns an array with all Rep names
+
+## Docker
+
+Once the app is set up as explained above, you can create a docker image with all the necessary data. The docker image will update itself regularly.
+
+```
+$ docker build -t activateapi .
+$ docker run -it -p 6500:6500 --name activate activateapi
+```
