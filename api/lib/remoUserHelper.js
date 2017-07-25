@@ -26,6 +26,10 @@ module.exports = class RemoUserHelper {
       return name === fullName;
     });
 
+    if (!rep) {
+      return '';
+    }
+
     return rep.remo_url;
   }
 
