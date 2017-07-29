@@ -6,13 +6,10 @@ WORKDIR /code
 COPY . .
 RUN npm install
 
-# Remove credentials if they existed before locally
 RUN rm -f client_secret.json
 RUN rm -rf .credentials
+RUN rm -f db.json
 
 EXPOSE 6500
-
-# TODO: add scheduler -> what happens when request comes in between updating reps data?
-#      --> https://www.npmjs.com/package/node-schedule
 
 CMD ["pm2-docker", "start", "/code/index.js"]

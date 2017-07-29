@@ -20,7 +20,7 @@ module.exports = class RemoUserHelper {
    * @return {Object} Rep with given full name
    */
   getRepUrlByFullName(fullName) {
-    const reps = storageHelper.getStorageItem(config.repsUserStorageKey);
+    const reps = storageHelper.getStorageItem(config.repsUserStorageKey) || [];
     const rep = reps.find((rep) => {
       const name = rep.first_name + ' ' + rep.last_name;
       return name === fullName;
@@ -34,7 +34,7 @@ module.exports = class RemoUserHelper {
   }
 
   getAllRepsNames() {
-    const reps = storageHelper.getStorageItem(config.repsUserStorageKey);
+    const reps = storageHelper.getStorageItem(config.repsUserStorageKey)  || [];
     return reps.map((rep) => {
       return rep.first_name + ' ' + rep.last_name;
     }).sort((a, b) => {
