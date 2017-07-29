@@ -19,12 +19,32 @@ module.exports = class SheetHelper {
    * @return {Promise} authorization promise
    */
   init() {
+    // We need to overwrite the locally saved credential files if they
+    // were passed in through ENV variables. This allows us to run it
+    // in a docker image without building the image with credentials.
+    this.writeCredentialsIfNecessary();
+
     debug('Authorizing..');
     return this.authorize()
       .catch((err) => {
         debug('Authorization failed', err);
         return new Error('AUTHORIZATION_FAILED');
       });
+  }
+
+  writeCredentialsIfNecessary() {
+    const credentials = process.env.CREDENTIALS;
+    const secret = process.env.SECRET;
+    const credentialsDir = '.credentials';
+
+    if (credentials && secret) {
+      if (!fs.existsSync(credentialsDir)) {
+          fs.mkdirSync(credentialsDir);
+      }
+
+      fs.writeFileSync(credentialsDir + '/sheets.json', credentials);
+      fs.writeFileSync('client_secret.json', secret);
+    }
   }
 
   /**
@@ -83,7 +103,7 @@ module.exports = class SheetHelper {
             scope: SCOPES
           });
 
-          debug('Authorize this app by visiting this url: ', authUrl);
+          console.log('Authorize this app by visiting this url: ', authUrl);
 
           const rl = readline.createInterface({
             input: process.stdin,

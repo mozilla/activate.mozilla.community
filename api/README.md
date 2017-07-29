@@ -30,6 +30,8 @@ $ npm install
 $ npm start
 ```
 
+The first time the API is started, it will ask you to visit a URL in the browser and paste back a code. This is from the Google Sheets authorization. It will be saved locally, so you don't need to do anything after that.
+
 You can now find the API on ```localhost:6500```.
 
 ## Update the Reps DB
@@ -41,14 +43,18 @@ $ npm run fetch:users
 
 ## The following endpoints are available
 ```/```: list all response summaries grouped by event as well as totals
-```/search```: list all response summaries filtered by the search term. Example: ```/search?name=Michael Kohler&eventDate=2017-07-22
+
+```/search```: list all response summaries filtered by the search term. Example: ```/search?name=Michael Kohler&eventDate=2017-07-22```
+
 ```/reps```: returns an array with all Rep names
 
 ## Docker
 
-Once the app is set up as explained above, you can create a docker image with all the necessary data. The docker image will update itself regularly.
+Once the app is set up as explained above, you can create a docker image with all the necessary data. The docker container will update itself regularly.
 
 ```
 $ docker build -t activateapi .
-$ docker run -it -p 6500:6500 --name activate activateapi
+$ docker run -d -p 6500:6500 -e CREDENTIALS="foo" -e SECRET="bar" --name activate activateapi
 ```
+
+where ```foo``` and ```bar``` are the credential strings as JSON with escaped quotes. ```CREDENTIALS``` is the content of the ```.credentials/sheets.json``` and ```SECRET``` is the content of ```client_secret.json```.

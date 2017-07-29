@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node index.js",
+    "start": "DEBUG=* node index.js",
     "start:debug": "node --inspect index.js",
     "fetch:users": "node tasks/fetchRepsUsers.js"
   },
