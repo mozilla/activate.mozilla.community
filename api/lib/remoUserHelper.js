@@ -5,13 +5,17 @@ const fetch = require('node-fetch');
 const mapSeries = require('promise-map-series')
 const config = require('../config.json');
 const StorageHelper = require('../lib/storageHelper');
-const storageHelper = new StorageHelper();
 
-module.exports = class RemoUserHelper {
+class RemoUserHelper {
   constructor() {
     this.url = 'https://reps.mozilla.org/api/remo/v1/users/?format=json';
     this.reps = [];
     this.fetchLength = 20;
+    this.storageHelper = new StorageHelper();
+  }
+
+  getStorage() {
+    return this.storageHelper;
   }
 
   /**
@@ -20,7 +24,7 @@ module.exports = class RemoUserHelper {
    * @return {Object} Rep with given full name
    */
   getRepUrlByFullName(fullName) {
-    const reps = storageHelper.getStorageItem(config.repsUserStorageKey) || [];
+    const reps = this.storageHelper.getStorageItem(config.repsUserStorageKey) || [];
     const rep = reps.find((rep) => {
       const name = rep.first_name + ' ' + rep.last_name;
       return name === fullName;
@@ -34,7 +38,7 @@ module.exports = class RemoUserHelper {
   }
 
   getAllRepsNames() {
-    const reps = storageHelper.getStorageItem(config.repsUserStorageKey)  || [];
+    const reps = this.storageHelper.getStorageItem(config.repsUserStorageKey)  || [];
     return reps.map((rep) => {
       return rep.first_name + ' ' + rep.last_name;
     }).sort((a, b) => {
@@ -83,7 +87,7 @@ module.exports = class RemoUserHelper {
 
       this.reps = this.reps.concat(results);
 
-      if (results && results.length === this.fetchLength) {
+      if (response.next) {
         debug(`we need to get more!`);
         this.fetchPagesRecursively(response.next, resolve, reject);
       } else {
@@ -112,3 +116,5 @@ module.exports = class RemoUserHelper {
     });
   }
 }
+
+module.exports = new RemoUserHelper();

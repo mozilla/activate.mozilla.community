@@ -2,9 +2,10 @@ const debug = require('debug')('index');
 const express = require('express');
 const bodyParser = require('body-parser');
 const http = require('http');
+const fs = require('fs');
+const cron = require('node-cron');
 
-const RemoUserHelper = require('./lib/remoUserHelper');
-const remoUserHelper = new RemoUserHelper();
+const remoUserHelper = require('./lib/remoUserHelper');
 
 const responses = require('./lib/responses');
 
@@ -91,5 +92,18 @@ server.listen(port);
 server.on('listening', () => {
   debug('listening on port ' + server.address().port);
 });
+
+if (!fs.existsSync('db.json')) {
+  fetch();
+}
+
+cron.schedule('0 13 * * *', function() {
+  fetch();
+});
+
+function fetch() {
+  // as this is a task, it will start automatically when being required
+  require('./tasks/fetchRepsUsers');
+}
 
 module.exports = app;

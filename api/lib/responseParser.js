@@ -3,8 +3,7 @@
 const debug = require('debug')('ResponseParser');
 const dateFormat = require('dateformat');
 const sanitizeHtml = require('sanitize-html');
-const RemoUserHelper = require('../lib/remoUserHelper');
-const remoUserHelper = new RemoUserHelper();
+const remoUserHelper = require('../lib/remoUserHelper');
 
 module.exports = class ResponseParser {
   /**
