@@ -47,7 +47,7 @@ For more background and data on Web Compatibility, read the [recent blog post on
 
 While this activity can be run solo, we encourage you to run an event in your community to get together people who care about the Web. The goal is to test sites, diagnose problems, and discuss how to evangelise locally to developers about a Web that works for everyone.
 
-Read the [event guide](/eventguide) on how to set up an event page and how to organize an event.
+Read the [event guide](/eventguide/) on how to set up an event page and how to organize an event.
 
 For duration, we recommend a half-day (or full evening) event with a minimum of 10-15 attendees.
 

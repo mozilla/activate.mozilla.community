@@ -49,7 +49,7 @@ Help us build community around the A-Frame library by conducting a mobilizing / 
 
 **2-4 Weeks Before the Event**
 
-1. Read the [event guide](/es/eventguide) on how to set up an event page and how to organize an event.
+1. Read the [event guide](/es/eventguide/) on how to set up an event page and how to organize an event.
 2. Give a thought whether it will be self-facilitated or with someone who has A-Frame experience. You can find help on the [Mozilla VR Telegram group](https://telegram.me/MozillaVR) or the [A-Frame Slack channel](https://aframevr-slack.herokuapp.com/)
 3. Create an event page on a platform popular in your locale, such as Facebook or Meetup.com, and keep posting interesting information about WebVR &amp; related topics to keep continue the conversation
 4. Download and customize the [A-Frame Presentation Kit](https://github.com/aframevr/aframe-presentation-kit)

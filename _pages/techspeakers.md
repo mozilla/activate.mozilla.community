@@ -40,7 +40,7 @@ Are you ready?
 ## Setting Up Your Event
 This activity is all about throwing a big event where a Tech Speaker can come and talk about open web products and technologies to interested developers, designers, & enthusiasts. Here are some of the basic pre-event steps you should take to make sure your event is a success.
 
-1. Look at the [list of Tech Speakers](https://wiki.mozilla.org/TechSpeakers#Mozilla_Tech_Speakers) and find someone in your local area who would be a good fit for your event.  
+1. Look at the [list of Tech Speakers](https://wiki.mozilla.org/TechSpeakers#Mozilla_Tech_Speakers) and find someone in your local area who would be a good fit for your event.
 2. Contact the Tech Speaker and agree on a date and topic for your event. We recommend one of the following topics (you can choose more than one):
   * Web VR
   * Rust
@@ -48,8 +48,8 @@ This activity is all about throwing a big event where a Tech Speaker can come an
 
 3. Once you’ve made sure your Tech Speaker is available and confirmed, find a venue that will fit the number of people you’re expecting (community centers, schools and co-working spaces are great places to consider).
 4. **Create an event page** on MeetUp (or Facebook) so you have somewhere for your attendees to register.
-5. Start reaching out to **web developers** in your area and inviting them to your event.  
-6. Read the [event guide](/eventguide) on how to set up an event page and how to organize an event.
+5. Start reaching out to **web developers** in your area and inviting them to your event.
+6. Read the [event guide](/eventguide/) on how to set up an event page and how to organize an event.
 
 ## After the Event
 Immediately after the event don’t forget to share the link to the impact form with your attendees:
