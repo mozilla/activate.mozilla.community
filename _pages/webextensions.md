@@ -20,7 +20,7 @@ __Impact:__
 
 * 125 developers are introduced to and building browser extensions either online or at regional events.
 * 50 add-ons tagged with mozactivate17 in addons.mozilla.org.
-* 50 social media posts (Twitter, Facebook, blogs, etc.) about that reference extension development and #MozActivate.
+* 50 social media posts (Twitter, Facebook, blogs, etc.) that reference extension development and #MozActivate.
 
 __Strength:__
 
