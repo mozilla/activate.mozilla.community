@@ -4,7 +4,7 @@ title:  "Build Your Own Extension for Firefox"
 subtitle: "in 1-3 hours"
 image: "/assets/img/webextensions-post-header.png"
 permalink: /webextensions/
-lang: en
+lang: id
 ref: webextensions
 parent: activities
 ---
@@ -18,9 +18,9 @@ Add-ons provide a safe, simple, and powerful way to personalize your browsing ex
 
 __Impact:__
 
-* 125 developers are introduced to and building browser either online or at regional events.
+* 125 developers are introduced to and building browser extensions either online or at regional events.
 * 50 add-ons tagged with mozactivate17 in addons.mozilla.org.
-* 50 social media posts (Twitter, Facebook, blogs, etc.) about that reference extension development and #Mozactivate.
+* 50 social media posts (Twitter, Facebook, blogs, etc.) that reference extension development and #MozActivate.
 
 __Strength:__
 
@@ -95,7 +95,7 @@ __Part II__
 
 1. Now it’s your turn. Using the tutorial on MDN [build your first extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension).
 2. After creating your first extension, move on to Step 5 or follow the tutorial to [build a more complex extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_second_WebExtension).
-3. Once everyone in the group has made an extension, take a few minutes to debrief. While you debrief, you can learn more about the [anatomy of a extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Anatomy_of_a_WebExtension), explore [more examples of APIs in action](https://github.com/mdn/webextensions-examples), continue to Part III, or conclude the event.
+3. Once everyone in the group has made an extension, take a few minutes to debrief. While you debrief, you can learn more about the [anatomy of an extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Anatomy_of_a_WebExtension), explore [more examples of APIs in action](https://github.com/mdn/webextensions-examples), continue to Part III, or conclude the event.
 
 __Part III (Bonus!)__
 
