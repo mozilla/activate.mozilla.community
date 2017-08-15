@@ -51,7 +51,7 @@ Rust is a systems programming language that runs blazingly fast, prevents segfau
 
 Get your community behind this exciting new programming language by running a learning event.
 
-1. Read the [event guide](/eventguide) on how to set up an event page and how to organize an event.
+1. Read the [event guide](/eventguide/) on how to set up an event page and how to organize an event.
 2. Choose whether this will be self-facilitated or with someone who has Rust experience (see below)
 
 For duration, we recommend a half-day (or full evening) event with a minimum of 15-25 attendees.

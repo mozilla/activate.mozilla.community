@@ -57,7 +57,7 @@ Through this activity you’ll help connect new developers with an opportunity t
 
 Help contribute to the open web by running a WebExtensions workshop. This activity can also be run solo.
 
-1. Read the [event guide](/pt-BR/eventguide) on how to set up an event page and how to organize an event.
+1. Read the [event guide](/pt-BR/eventguide/) on how to set up an event page and how to organize an event.
 2. Choose whether this will be self-facilitated or co-facilitated with someone who has experience developing WebExtensions
 3. Get the word out! Invite your community to the event. If this activity is run together with a Campus Club, they can customize a flyer with your event information for print or electronic distribution.
 4. 2 - 3 days before the event, ask participants to complete the Pre-Event section on their own.
