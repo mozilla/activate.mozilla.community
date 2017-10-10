@@ -1,0 +1,23 @@
+{
+  "name": "activate-impact-form-api",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "DEBUG=* node index.js",
+    "start:debug": "node --inspect index.js",
+    "fetch:users": "node tasks/fetchRepsUsers.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dateformat": "^3.0.2",
+    "debug": "^3.1.0",
+    "dom-storage": "^2.0.2",
+    "express": "^4.16.2",
+    "google-auth-library": "^0.11.0",
+    "googleapis": "^22.2.0",
+    "node-cron": "^1.2.1",
+    "node-fetch": "^1.7.3",
+    "promise-map-series": "^0.2.3",
+    "sanitize-html": "^1.14.1"
+  }
+}

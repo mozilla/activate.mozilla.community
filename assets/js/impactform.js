@@ -3,8 +3,32 @@ $('#input-feedback').hide();
 var today = new Date();
 $('[data-toggle="datepicker"]').datepicker({
     todayHighlight: true,
-    endDate: today, 
-    dateFormat: 'dd/mm/yyyy' 
+    endDate: today,
+    dateFormat: 'dd/mm/yyyy'
+});
+
+function get_repsnames(url) {
+  return $.ajax({
+    type: 'GET',
+    url: url,
+    dataType: 'json',
+
+    success: function(data) {
+      response = data;
+    },
+
+    error: function(err) {
+      console.log('err', err);
+    }
+   });
+}
+
+get_repsnames('http://localhost:5500/reps');
+
+$(document).ajaxStop(function() {
+  $.each(response, function(key, name) {
+    $('#input-q2').append('<option>' + name + '</option>');
+  });
 });
 
 $('#input-form').one('submit',function(){
@@ -33,7 +57,7 @@ $('#input-form').one('submit',function(){
     var q1IDo = "entry.336406139.other_option_response";
     var q1ID = "entry.336406139";
     var q2ID = "entry.933763970";
-    var q3IDm = "entry.1231619390_month"; 
+    var q3IDm = "entry.1231619390_month";
     var q3IDd = "entry.1231619390_day";
     var q3IDy = "entry.1231619390_year";
     var q4ID = "entry.266467272";
@@ -44,27 +68,27 @@ $('#input-form').one('submit',function(){
 
     var baseURL = 'https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSe47ShikqND1aL8rLtSvud-JWovRdB1MKlteGX_sneySQnbtw/formResponse?';
     var submitRef = '&submit=Submit';
-    var submitURL = (baseURL + 
-        q1ID + "=" + inputq1 + "&" + 
-        q2ID + "=" + inputq2 + "&" + 
-        q3IDm + "=" + month + "&" + 
-        q3IDd + "=" + day + "&" + 
-        q3IDy + "=" + year + "&" + 
-        q4ID + "=" + inputq4 + "&" + 
-        q5ID + "=" + inputq5 + "&" + 
-        q6ID + "=" + inputq6 + "&" + 
+    var submitURL = (baseURL +
+        q1ID + "=" + inputq1 + "&" +
+        q2ID + "=" + inputq2 + "&" +
+        q3IDm + "=" + month + "&" +
+        q3IDd + "=" + day + "&" +
+        q3IDy + "=" + year + "&" +
+        q4ID + "=" + inputq4 + "&" +
+        q5ID + "=" + inputq5 + "&" +
+        q6ID + "=" + inputq6 + "&" +
         q7ID + "=" + inputq7 + submitRef);
 
     if(inputq7 == "Other"){
-        var submitURL = (baseURL + 
-        q1ID + "=" + inputq1 + "&" + 
-        q2ID + "=" + inputq2 + "&" + 
-        q3IDm + "=" + month + "&" + 
-        q3IDd + "=" + day + "&" + 
-        q3IDy + "=" + year + "&" + 
-        q4ID + "=" + inputq4 + "&" + 
-        q5ID + "=" + inputq5 + "&" + 
-        q6ID + "=" + inputq6 + "&" + 
+        var submitURL = (baseURL +
+        q1ID + "=" + inputq1 + "&" +
+        q2ID + "=" + inputq2 + "&" +
+        q3IDm + "=" + month + "&" +
+        q3IDd + "=" + day + "&" +
+        q3IDy + "=" + year + "&" +
+        q4ID + "=" + inputq4 + "&" +
+        q5ID + "=" + inputq5 + "&" +
+        q6ID + "=" + inputq6 + "&" +
         q7IDo + "=" + inputq7o + "&" +
         q7ID + "=" + "__other_option__" + submitRef);
     }
