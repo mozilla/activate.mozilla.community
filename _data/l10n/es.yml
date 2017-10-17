@@ -1,11 +1,11 @@
 lang-url: 'es/'
-site-title: 'Actívate en Mozilla'
-activities: 'Activities'
+site-title: 'Activate en Mozilla'
+activities: 'Actividades'
 roadmap: 'Cronograma'
 participation: 'Participación'
-eventguide: 'Event Guide'
+eventguide: 'Guiá de eventos'
 faq: 'FAQ'
-leaderboard: 'Leaderboard'
+leaderboard: 'Lideres'
 languages: 'Idiomas'
 submit-translation: 'Enviar una traducción/mejora de esta página'
 twitter-text1: 'Compartir esta página en twitter'
@@ -14,4 +14,4 @@ twitter-text3: 'en %40Mozilla Comprueba lo fácil que es %23mozactivate'
 facebook-text: 'Compartir esta página en Facebook'
 share: "Compartir"
 activate: "Activate"
-activate-description: "The Activate Mozilla campaign aims at the grassroots of volunteer contributions. We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now by providing guidance to mobilizers on how to recruit contributors and create community around meaningful Mozilla projects."
+activate-description: "La campaña de Activate Mozilla, apunta a las raíces de las contribuciones de los voluntarios. Queremos brindar mas claridad a las áreas mas importantes para contribuir en Mozilla ahora mismo, otorgando guiás a los mobilizers en como reclutar nuevos contribuidores y crear comunidad sobre grandes proyectos de Mozilla."

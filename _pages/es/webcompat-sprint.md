@@ -1,7 +1,7 @@
 ---
 layout: activity
 title:  "Web Compatibility Sprint"
-subtitle: "in 2-3 hours"
+subtitle: "en 2 a 3 horas"
 image: "/assets/img/webcompat-post-header.png"
 permalink: /es/webcompat-sprint/
 lang: es
@@ -11,84 +11,83 @@ redirect_from: "/es/developer-engagement/webcompat-sprint/"
 ---
 
 <div class="col-md-3 hidden-xs pull-right" markdown="1">
-## Impact and Metrics
+## Impacto y métricas
 
-At Mozilla, we want the web running well for everyone, not just in one or two browsers. This means cross-browser, and cross-device. Our global community can give visibility to this that no team could ever match!
+En Mozilla, queremos una web corriendo bien para todos, no solo en uno o dos navegadores. Esto significa múltiples-navegadores, y  múltiples-dispositivos. Nuestra comunidad global puede dar la visibilidad a lo esto, mas de lo que cualquier equipo jamas haría!
 
-### Goals for this area
+### Metas para esta área
 
-__Impact:__
+__Impacto:__
 
-* 300 Add-on installs
-* 200 compatibility issues filed
+* 300 Complementos instalados
+* 200 issues de compatibilidad llenados
 
-__Strength:__
+__Fortaleza:__
 
-* 50 Mozillians run events
-* 50 signups to the [compatibility list](https://www.mozilla.org/en-US/about/forums/#compatibility)
+* 50 Mozileros ejecutan eventos
+* 50 registros para la [lista de compatibilidad](https://www.mozilla.org/en-US/about/forums/#compatibility)
 
-## Audience for this activity
-
-The audience this activity is anyone who is passionate on the topic, but being somewhat Web tech savvy is a help. No programming skills are necessary. It is for people who care about diversity on the Web.
+## Audiencia para esta actividad 
+La audiencia para esta actividad es cualquier que sea apasionado en el tema, pero teniendo algo de conocimiento de tecnología web ayuda mucho. No se necesita habilidades de programación. Es para las personas que se interesan en la diversidad web.
 </div>
 
 <div class="col-md-9" markdown="1">
 
 {: .alert .alert-info .impactbox}
 <span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
-At Mozilla, we want the web running well for everyone, not just in one or two browsers. This means cross-browser, user-agent independent, and cross-device.
+En Mozilla, queremos una web corriendo bien para todos, no solo en uno o dos navegadores. Esto significa múltiples-navegadores, independiente de user-agents y  múltiples-dispositivos.
 
-Web Compatibility, the ability for all Web content to run in all browsers, is important. There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired.
+La compatibilidad web, la habilidad de que todo el contenido Web, se ejecute en todos los navegadores es importante. Hay múltiples motores de contenido web, corriendo en múltiples dispositivos, y algunas veces con probar un poco, y unos ajustes a su sitio, los desarrolladores pueden asegurarse que mas usuarios puedan tener la experiencia completa.
 
-For more background and data on Web Compatibility, read the [recent blog post on Mozilla Hacks](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/).
+Para mas información sobre la compatibilidad web, lee el [articulo en Mozilla Hacks](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/).
 
 
-## Activity Format
+## Formato de actividades
 
-While this activity can be run solo, we encourage you to run an event in your community to get together people who care about the Web. The goal is to test sites, diagnose problems, and discuss how to evangelise locally to developers about a Web that works for everyone.
+Mientras que esta actividad se puede hacer solo, alentamos que lo hagas en un evento en tu comunidad, para juntar personas que les importa la web. La meta es probar sitios, y diagnosticar problemas, discutir como evangelizar localmente a desarrolladores sobre una web que funcione para todos.
 
-Read the [event guide](/es/eventguide/) on how to set up an event page and how to organize an event.
+Lee la [guiá de evento](/es/eventguide/) sobre como hacer una pagina de eventos y como organizar el evento.
 
-For duration, we recommend a half-day (or full evening) event with a minimum of 10-15 attendees.
+Para la duración, recomendamos que sea medio día, o una tarde completa con un mínimo de 10 a 15 participantes.
 
-## Event Flow
+## Flujo de eventos
 
-* Set yourself up with Firefox. Any or all of the following versions:
+* Descarga todas estas versiones de Firefox. Cualquiera o todas para las siguientes versiones:
     * [Firefox](https://www.mozilla.org/firefox/channel/)
-    * [Firefox for Android](https://www.mozilla.org/firefox/channel/)
-    * [Firefox for iOS](https://www.mozilla.org/firefox/ios/)
-* [Install the Webcompat.com Reporter add-on](https://addons.mozilla.org/addon/webcompatcom-reporter?src=external-activatewebcompat1)
-    * Firefox for Android Nightly and Aurora already have a "Report Site Issue" option in the main menu; no add-on needed.
-    * No add-ons support for iOS, but people can report bugs manually at [webcompat.com](https://webcompat.com)
-* Choose the sites you want to test
-    * We recommend the top sites in your country, as measured by a reputable local source or using the [Alexa Top Sites by Country](http://www.alexa.com/topsites/countries) reference
-    * Also sites that you need or use frequently in your communities!
-* Test and Report!
-    * If you encounter a site that does not work in Firefox, but works in another browser, then click the add-on button and follow the steps to report
-    * Pay special attention to what we are looking for [in reported issues](https://wiki.mozilla.org/Compatibility/Guide#Reporting_a_Web_compatibility_issue)
-    * If you want to become an expert in web compatibility, [go here](https://wiki.mozilla.org/Compatibility/Guide)
+    * [Firefox para Android](https://www.mozilla.org/firefox/channel/)
+    * [Firefox para iOS](https://www.mozilla.org/firefox/ios/)
+* [Instala el complemento para reportes en Webcompat.com](https://addons.mozilla.org/addon/webcompatcom-reporter?src=external-activatewebcompat1)
+    * Firefox para Android Nightly y Aurora ya tienen el botón "Report Site Issue" en el menú principal; no se necesita complemento.
+    * No hay soporte de complemento para iOS, pero las personas pueden reportar bugs manualmente en [webcompat.com](https://webcompat.com)
+* Elige los sitios que quieres probar
+    * Recomendamos el top de paginas web de tu país, como medidas de reputación utilizando [Alexa Top Sites by Country](http://www.alexa.com/topsites/countries) como referencia
+    * También, sitios que necesitas y usas frecuentemente en tus comunidades!
+* Prueba y reporta!
+    * Si encuentras un sitio web que no funciona en Firefox, pero si en otro navegador, haz click en el botón del complemento y sigue los pasos!
+    * Presta atención especial a lo que estas buscando[en problemas ya reportados](https://wiki.mozilla.org/Compatibility/Guide#Reporting_a_Web_compatibility_issue)
+    * Si quieres ser un experto en la compatibilidad web, [entra acá](https://wiki.mozilla.org/Compatibility/Guide)
 
-## Directly at the end of the activity
-Immediately after the event don’t forget to share the link to the impact form with your attendees:
+## Directamente al finalizar el evento
+Inmediatamente después del evento, no te olvides compartir el link del formulario de impacto con los asistentes:
 
 {: .attention-link}
 [mzl.la/howwasit](http://mzl.la/howwasit)
 
-Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.
+Recuerda, esto es como sabrás quien atendió a tu evento, y si los has inspirado a actuar! Recomendamos agregarlo a tu lamina final de la presentación, y enviarla por correo después de tu evento.
 
-## Output
-In addition to the recommended event flow here are some things we’d like you, the event organizer, to do.
+## Resultados
+En adición al flujo de evento recomendado, aquí hay algunas cosas que queremos que tu como organizador hagas.
 
-* Fill out the post-event metrics on the event page you setup on the Reps portal
-* Optionally, tell us about your event. This can be before or after. We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two!
-    * [Here is the Discourse post to write to](https://discourse.mozilla-community.org/t/activate-mozilla-web-compatibility-sprint/10074/1)
-* Encourage attendees who want to continue to work on Web Compat to sign up to the [mailing list](https://www.mozilla.org/en-US/about/forums/#compatibility)
+* Llena las métricas luego de finalizar el evento, en la pagina del evento que hiciste en el portal de Reps.
+* Opcionalmente, dinos sobre tu evento. Esto puede ser antes o después. Amamos escuchar sobre planes futuros, y por supuesto amamos escuchar sobre tus logros con una foto o dos!
+* [Aquí esta la publicación del Discourse donde puedes escribir](https://discourse.mozilla-community.org/t/activate-mozilla-web-compatibility-sprint/10074/1)
+* Alienta a los participantes a continuar trabajando en la compatibilidad web, y que se inscriban en la [lista de correos](https://www.mozilla.org/en-US/about/forums/#compatibility)
 
 ## Extra
-While the focus of this activity should be on testing sprints, there are other ways to stay more involved with the community after.
+Mientras que el foco de esta actividad sea probar sitios, hay otras maneras de mantenerse involucrado en la comunidad.
 
-* Bug diagnosis: This is about trying to understand the underlying issues behind bug reports, and where possible, providing suggested fixes for site owners. [More information](https://github.com/mozilla/participation-org/issues/237#issuecomment-163632354)
-* Site outreach: This is about trying to get in contact with websites that have issues and (politely!) providing ways that they can improve compatibility or fix their bugs. [More information](https://github.com/mozilla/participation-org/issues/237#issuecomment-163632626)
+* Diagnostico de bugs: Esto es acerca de tratar de entender el por que del problema reportad, y donde sea posible sugerir arreglos del sitio a arreglar el problema. [Mas información](https://github.com/mozilla/participation-org/issues/237#issuecomment-163632354)
+* Contacto con los sitios: Esto es sobre intentar contactar el dueño del sitio que tiene problemas, y (formalmente) ofrecerle formas en las cuales puede incrementar la compatibilidad o arreglar sus problemas. [Mas información](https://github.com/mozilla/participation-org/issues/237#issuecomment-163632626)
 
-[Webcompat's contributors page](https://webcompat.com/contributors) has more basic information on how to get started and join the community.
+[Pagina de contribuidores de Webcompat](https://webcompat.com/contributors) Tiene mas información básica sobre como iniciarte e ingresar a la comunidad.
 </div>
