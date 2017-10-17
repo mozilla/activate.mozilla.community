@@ -24,7 +24,7 @@ ref: developer-engagement
 ```
 
 * **layout:** Layout for the page. This has to be ``page``.
-* **title:** (Localizable) Main title for the page.
+* The **title:** (Localizable) Main title for the page.
 * **permalink:** (Unique, Localizable) URL for the page, can include lang code for localized pages.
 * **lang:** (Localizable) Language code for this page, usually ``en``.
 * **ref:** Reference for this page. Just use the permalink in English, all localized pages should have the same one.
@@ -43,7 +43,7 @@ ref: developer-engagement
 2. To be able to localize the impact form, you need to create a new folder (using your languageCode in the title) in the _include and _pages folder. 
 3. Once you create it, you need copy formcontent.html (from _include folder) into your new folder. You need to copy the impactform.md file (from the _pages folder) as well into your new folder. 
 4. Localize the new file you've just copied. 
-5. Send a PR and it will be evaluated before it goes online in the website. 
+5. Send a PR and it will be evaluated before it goes online on the website. 
 
 
 ## Hack the site
@@ -66,4 +66,4 @@ You will be able to access the site at [http://127.0.0.1:4000/
 ](http://127.0.0.1:4000/
 )
 
-Clone this repo, create a issue first and then a pull request to submit changes.
+Clone this repo, create an issue first and then a pull request to submit changes.
