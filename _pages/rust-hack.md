@@ -95,6 +95,8 @@ Remember this is how you’ll know who attended your event, and if you successfu
 
 ## Other Resources
 
+[Rust Kit](https://github.com/vyaspranjal33/rust) - A good place for new comers to start Hacking with rust
+
 ### Tutorials
 
 * [Niko Matsakis's excellent slide deck](https://github.com/nikomatsakis/rust-tutorials-keynote)
