@@ -28,7 +28,8 @@ $(document).ready(function() {
           $('.events-table').append('<tr><td>' + event.eventName + '</td><td>' + event.eventDate + '</td><td>' + event.organizerName + '</td><td>' + event.nps + '</td><td>' + event.numberOfResponses + '</td></tr>');
         });
 
-        $('#loading').hide();
+        $('#loading').addClass('hidden');
+        $('.impact-totals').removeClass('hidden');
       },
 
       error: function(err) {
