@@ -5,8 +5,6 @@ This reads from the impact form which is presented at the end of all activities 
 
 ## Run the API
 
-First you need to create a ```client_secret.json``` file as described [here](https://developers.google.com/sheets/api/quickstart/nodejs).
-
 ```
 $ cp config-sample.json config.json
 ```
@@ -18,7 +16,6 @@ Example config:
 ```
 {
   "sheetId": "1RT17Uar51jsm3g9tO3vhYu3euTsPl11Xq-Aswt34Q1b",
-  "range": "My Sheet Name!A:E",
   "repsUserStorageKey": "REPS_USERS"
 }
 ```
@@ -29,8 +26,6 @@ Now you can continue with your installation.
 $ npm install
 $ npm start
 ```
-
-The first time the API is started, it will ask you to visit a URL in the browser and paste back a code. This is from the Google Sheets authorization. It will be saved locally, so you don't need to do anything after that.
 
 You can now find the API on ```localhost:6500```.
 

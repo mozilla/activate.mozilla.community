@@ -15,7 +15,7 @@ module.exports = class ResponseParser {
     debug('Creating responses..');
     const fullEventResponses = this.gatherEventDataFromResponses(responses);
     const preparedEvents = this.prepareEventsData(fullEventResponses);
-    const events = this.convertEventObjectToArray(preparedEvents);
+    const events = this.convertToArray(preparedEvents);
     const scoredEvents = this.scoreEvents(events);
     const allScores = this.getAllScores(scoredEvents);
 
@@ -37,10 +37,8 @@ module.exports = class ResponseParser {
     };
   }
 
-  convertEventObjectToArray(object) {
-    return Object.keys(object).map((key) => {
-      return object[key];
-    });
+  convertToArray(objectLike) {
+    return Object.keys(objectLike).map((entry) => objectLike[entry]);
   }
 
   sanitizeResponse(response) {
@@ -54,10 +52,9 @@ module.exports = class ResponseParser {
   gatherEventDataFromResponses(responses) {
     return responses.map((response) => {
       const eventResponse = this.getGeneralEventInfo(response);
-
       if (eventResponse) {
-        eventResponse.nps = this.sanitize(response[3]);
-        eventResponse.profession = this.sanitize(response[4]);
+        eventResponse.nps = this.sanitize(response.nps);
+        eventResponse.profession = this.sanitize(response.profession);
       }
 
       return eventResponse;
@@ -65,19 +62,19 @@ module.exports = class ResponseParser {
   }
 
   getGeneralEventInfo(response) {
-    if (!response[1]) {
+    if (!response.eventName) {
       return;
     }
 
-    const eventDate = new Date(this.sanitize(response[2]));
+    const eventDate = new Date(this.sanitize(response.eventDate));
     const formattedEventDate = dateFormat(eventDate, "isoDate");
 
     return {
-      key: this.sanitize(response[1] + '_' + response[2]),
-      eventName: this.sanitize(response[0]),
+      key: this.sanitize(response.organizerName + '_' + response.eventDate),
+      eventName: this.sanitize(response.eventName),
       eventDate: formattedEventDate,
-      organizerName: this.sanitize(response[1]),
-      organizerUrl: remoUserHelper.getRepUrlByFullName(this.sanitize(response[1]))
+      organizerName: this.sanitize(response.organizerName),
+      organizerUrl: remoUserHelper.getRepUrlByFullName(this.sanitize(response.organizerName))
     };
   }
 
