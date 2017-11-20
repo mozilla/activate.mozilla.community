@@ -80,7 +80,7 @@ $(document).ready(function() {
 
     $.ajax({
       type: 'GET',
-      url: BASE_URL + '/search' + params,
+      url: window.ACTIVATE_API_BASE_URL + '/search' + params,
       dataType: 'json',
 
       success: function(response) {
