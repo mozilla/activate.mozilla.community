@@ -1,6 +1,6 @@
 'use strict';
 
-const debug = require('debug')('SheetHelper');
+const debug = require('debug')('Activate:SheetHelper');
 const GoogleSpeadsheet = require('google-spreadsheet');
 const config = require('../config.json');
 

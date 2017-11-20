@@ -1,6 +1,6 @@
 'use strict';
 
-const debug = require('debug')('ReMo:UserHelper');
+const debug = require('debug')('Activate:ReMo:UserHelper');
 const fetch = require('node-fetch');
 const mapSeries = require('promise-map-series')
 const config = require('../config.json');

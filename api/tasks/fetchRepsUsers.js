@@ -1,6 +1,6 @@
 'use strict';
 
-const debug = require('debug')('Tasks:ReMo:UserFetcher');
+const debug = require('debug')('Activate:Tasks:ReMo:UserFetcher');
 const config = require('../config.json');
 const remoUserHelper = require('../lib/remoUserHelper');
 

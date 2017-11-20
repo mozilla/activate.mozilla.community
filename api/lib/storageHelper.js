@@ -1,6 +1,6 @@
 'use strict';
 
-const debug = require('debug')('Storage');
+const debug = require('debug')('Activate:Storage');
 const Storage = require('dom-storage');
 
 module.exports = class StorageHandler {

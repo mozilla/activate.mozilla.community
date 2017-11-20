@@ -10,5 +10,5 @@ RUN rm -f db.json
 
 EXPOSE 6500
 
-ENV DEBUG *
+ENV DEBUG Activate:*
 CMD ["pm2-docker", "start", "/code/index.js"]

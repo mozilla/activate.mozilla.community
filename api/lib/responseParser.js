@@ -1,6 +1,6 @@
 'use strict';
 
-const debug = require('debug')('ResponseParser');
+const debug = require('debug')('Activate:ResponseParser');
 const dateFormat = require('dateformat');
 const sanitizeHtml = require('sanitize-html');
 const remoUserHelper = require('../lib/remoUserHelper');
