@@ -17,6 +17,6 @@
     "node-cron": "^1.2.1",
     "node-fetch": "^1.7.3",
     "promise-map-series": "^0.2.3",
-    "sanitize-html": "^1.14.1"
+    "sanitize-html": "^1.15.0"
   }
 }
