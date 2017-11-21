@@ -49,7 +49,5 @@ Once the app is set up as explained above, you can create a docker image with al
 
 ```
 $ docker build -t activateapi .
-$ docker run -d -p 6500:6500 -e CREDENTIALS="foo" -e SECRET="bar" --name activate activateapi
+$ docker run -d -p 6500:6500 --name activate activateapi
 ```
-
-where ```foo``` and ```bar``` are the credential strings as JSON with escaped quotes. ```CREDENTIALS``` is the content of the ```.credentials/sheets.json``` and ```SECRET``` is the content of ```client_secret.json```.
