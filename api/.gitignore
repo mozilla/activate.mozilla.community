@@ -3,6 +3,5 @@
 node_modules
 .vscode
 db.json
-config.json
 .credentials
 client_secret.json

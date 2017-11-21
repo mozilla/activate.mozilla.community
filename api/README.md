@@ -3,7 +3,9 @@ API for the view on how well activities from activate.mozilla.community were per
 
 This reads from the impact form which is presented at the end of all activities to participants. The frontend code will be implemented on [MozActivate](https://activate.mozilla.community).
 
-## Run the API
+## Configuration
+
+By default you will get the standard configuration. If you would like to change those, follow the rest of this step. Otherwise you can skip this step.
 
 ```
 $ cp config-sample.json config.json
@@ -20,6 +22,7 @@ Example config:
 }
 ```
 
+## Run the API
 Now you can continue with your installation.
 
 ```
