@@ -11,7 +11,7 @@ By default you will get the standard configuration. If you would like to change 
 $ cp config-sample.json config.json
 ```
 
-The ```config.json``` script holds the configuration values. This includes the spreadsheet ID as well as the range of cells to fetch. Please adapt it to your needs. The spreadsheet ID is the cryptic sequence of numbers and letters in the URL of your spreadsheet.
+The ```config.json``` script holds the configuration values. Please adapt it to your needs. The spreadsheet ID is the cryptic sequence of numbers and letters in the URL of your spreadsheet.
 
 Example config:
 
