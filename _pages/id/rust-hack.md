@@ -52,9 +52,9 @@ Rust is a systems programming language that runs blazingly fast, prevents segfau
 
 Get your community behind this exciting new programming language by running a learning event.
 
-1. Put an event team together. Going alone is fine, but at least two people is advisable. Get in touch with the [Rust Community Team](mailto:community@rust-lang.org) and check the [Rust Community Calendar](https://calendar.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc@group.calendar.google.com) - maybe there's already people in your area.
+1. Put an event team together. Going alone is fine, but at least two people is advisable. Get in touch with the [[Rust Community Team](mailto:community@rust-lang.org)] and check the [Rust Community Calendar](https://calendar.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc@group.calendar.google.com) - maybe there's already people in your area.
 2. Try to find people with Rust experience who want to help. If you find none, this is fine - many Hack and Learns started out by curious people.
-3. Choose a date and secure a venue. Ask the [Rust Community Team](mailto:community@rust-lang.org) for access to the calendar so that you can enter it there.  It will then be sent around with Rusts weekly newsletter and promoted in other fashions.
+3. Choose a date and secure a venue. Fill the [event template](https://github.com/rust-community/events-team/issues/new?template=new_meetup.md&labels=meetup) for access to the calendar so that you can enter it there.  It will then be sent around with Rusts weekly newsletter and promoted in other fashions.
 4. Setup the event on Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting)). Please make sure the initiative is set to "MozActivate" and the functional area indicates "Rust".
 5. Get [Material](https://github.com/rust-community/resources) and print them to hand them out. You can also ask the [Rust Community Team](mailto:community@rust-lang.org) if they can send some stickers.
 
