@@ -1,6 +1,6 @@
 ---
 layout: activity
-title:  "Build Your Own Extension for Firefox"
+title:  "Build Your Own Extension for Firefox Updated Version"
 subtitle: "in 1-3 hours"
 image: "/assets/img/webextensions-post-header.png"
 permalink: /webextensions/
@@ -12,160 +12,173 @@ parent: activities
 <div class="col-md-3 hidden-xs pull-right" markdown="1">
 ## Impact and Metrics
 
-Add-ons provide a safe, simple, and powerful way to personalize your browsing experience. With WebExtensions APIs, it’s easier than ever to create extensions that can be easily ported to Firefox, Chrome, Edge, and Opera. Throwing a workshop helps more people learn how to develop add-ons and help ensure that Firefox remains the most customizable browser.
+Throwing a workshop helps more people learn how to develop add-ons and help ensure that Firefox remains the most customizable browser.
+
 
 ### Campaign Goals
 
 __Impact:__
 
 * 125 developers are introduced to and building browser extensions either online or at regional events.
-* 50 add-ons tagged with mozactivate17 in addons.mozilla.org.
-* 50 social media posts (Twitter, Facebook, blogs, etc.) that reference extension development and #MozActivate.
+* 20 add-ons tagged with ‘#mozactivate17’ in addons.mozilla.org.
 
 __Strength:__
 
-* 25 Mozillians organize Build Your Own Extension workshops
+* 15 Mozillians organize Build Your Own Extension workshops 
 
 ### Goals for Your Workshop
 
 * Workshop is attended by five or more people
-* 100% of attendees successfully complete Part II of the activity
-* 10% or more of attendees go on to complete Part III of the activity
+* 60% of participants from the first workshop attend at least one other event in the series
 * 100% of attendees receive the event follow-up email
 
 ## Finding Participants
 
 Your audience for this event should be __people who have written HTML and JavaScript code in the past__.
 
-People with more JavaScript experience are encouraged to help beginners get started. If you have experience developing browser extensions, you may skip the “Build Your First Extension” exercise and focus the activities listed in Part III.
+New to JavaScript and HTML? Check out these tutorials by community members [Viswaprasath Ks](https://www.youtube.com/playlist?list=PLdIyyZgtQZ7CJR5XFB5xvZH0oaBIT_gTD) and [Trishul Goel](https://www.youtube.com/playlist?list=PLI08QU9qtPEJiBs7rVOT4FvXJlisDgTlS) to build your programming skills and create browser extensions! 
+
+
 </div>
 
 <div class="col-md-9" markdown="1">
 
 {: .alert .alert-info .impactbox}
 <span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
-Firefox is an open-source web browser that cares about user control and privacy, and add-ons provide a safe, simple, and powerful way to personalize your browsing experience. From blocking ads to organizing tabs, add-ons help make Firefox your own.
+Firefox is an open-source web browser that cares about user control and privacy, and extensions  provide a safe, simple, and powerful way to personalize your browsing experience. From blocking ads to organizing tabs, add-ons help make Firefox your own.
 
-It’s very easy to create add-ons for Firefox using [WebExtensions APIs](https://developer.mozilla.org/en-US/Add-ons/WebExtensions). This Web-based technology framework offers a powerful way to create browser extensions that can be easily ported to Chrome, Opera, and Edge, and you only need to know HTML, JavaScript and CSS to build them.
 
-Through this activity you’ll help connect new developers with an opportunity to create add-ons to solve real problems and make their lives and the web better.
+It’s very easy to create extensions for Firefox using [WebExtensions APIs](https://developer.mozilla.org/en-US/Add-ons/WebExtensions). This Web-based technology framework offers a powerful way to create browser extensions that can be easily ported to Chrome, Opera, and Edge, and you only need to know HTML, JavaScript and CSS to build them.
+
+In this series of workshops, you’ll help connect new developers with an opportunity to create extensions to solve real problems and make their lives and the web better.
 
 
 ## Planning Your Workshop
 
-Help contribute to the open web by running an extension development workshop. This activity can also be run solo.
-
-1. Read the [event guide](/eventguide/) on how to set up an event page and how to organize an event.
-2. Choose whether this will be self-facilitated or co-facilitated with someone who has experience developing browser extensions
-3. Get the word out! Invite your community to the event. If this activity is run together with a Campus Club, they can customize a flyer with your event information for print or electronic distribution.
-4. 2 - 3 days before the event, ask participants to complete the Pre-Event section on their own.
-
-__Duration:__ For duration, we recommend 1 - 3 hours with 5+ attendees. However you may choose to run the workshop as a series over a shorter time but multiple days.
+Read the [event guide](https://activate.mozilla.community/eventguide/) on how to set up an event page and how to organize an event. For this campaign, we recommend scheduling a series of 3 workshops and dedicating 1.5 - 4 hours for each workshop. Be sure to complete the actions listed in the Pre-Event section 2 - 3 days before hosting the event. 
 
 Attendees should bring their own laptops to the workshop, or the workshop should be held in a computer lab.
 
-You can make a copy and customize the [Build Your Own Extension Add-on template presentation](https://docs.google.com/presentation/d/1n7FEBCxSJdbfui2qjJv8vptsuchLB8-KES3SULVMI6w/edit#slide=id.g1bf30aaa6e_0_45) for your workshop.
+Interested in learning more about extension development or sharing additional information with workshop attendees? See the Resources section below. 
 
-There are two options for facilitation:
-1. Self-facilitate without a mentor.
-  * If questions arise or if help is needed during the event, feel free to join the IRC channels #extdev and #webextensions to ask the community for support.
 
-2. Ask a person with experience building browser extensions to provide guidance to attendees.
-  * Need help finding an experienced mentor? Send an email to cneiman \[at\] mozilla \[dot\] com with the link to your Reps event page and anticipated number of attendees.
-  * Depending on location and availability, Mozilla might be able to send a staff member or volunteer expert to co-facilitate.
+## Flow of Workshops 
 
-## Event Flow
+### Pre-Event
 
-__Pre-Event__
+To ensure that your participants get to focus on building extensions during the workshop
 
-1. Make sure you are using the most recent version of Firefox Developer Edition. Download copies of Firefox (Windows, Linux, Mac OS X) before the event to make sure participants don’t need to spend too much time installing them.
-2. In Firefox, go to addons.mozilla.org and browse Featured Extensions and other categories that look interesting.
-  * Install 1 - 2 extensions, test how they work, and leave a review.
-  * Think about the  extensions that were discovered and what you liked or didn’t like about the extensions you installed.
+* Ask registered participants to explore addons.mozilla.org, install a few extensions, and see how they work. 
 
-__Part I__
+* Make sure that computers being used for the workshop have the most recent version of Firefox Developer Edition (available for Windows, Linux, or Mac OS X). If attendees are bringing their own computers, ask them to install Firefox Developer Edition. 
 
-* Give a quick introduction to attendees about what we are doing and why it is important.
-  * “Welcome to the \[name of event\]! I am \[name\]. Today, we are going to customize our Firefox browsers by developing our own extensionsto solve real problems in our own lives. Add-ons are a great way to add extra features to your browser, like blocking time-wasting websites during study hours, or turning images into cat pictures. With WebExtensions APIs, it’s now easier to create add-ons that are compatible with Firefox, Chrome, and Opera. Add-ons help keep users to be in control of their online experience, so your support in building them and the community around them matter.”
-* Ask attendees to tweet about their attendance. Here is a suggested message:
-  * I’m creating my own browser extension using #WebExtensions! #MozActivate
-* Ask participants if they already use add-ons. If they do, ask them to share what add-ons they use and how they are used.
 
-__Part II__
 
-1. Now it’s your turn. Using the tutorial on MDN [build your first extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension).
-2. After creating your first extension, move on to Step 5 or follow the tutorial to [build a more complex extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_second_WebExtension).
-3. Once everyone in the group has made an extension, take a few minutes to debrief. While you debrief, you can learn more about the [anatomy of an extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Anatomy_of_a_WebExtension), explore [more examples of APIs in action](https://github.com/mdn/webextensions-examples), continue to Part III, or conclude the event.
+### First Meeting: Introduction to Browser Extensions 
 
-__Part III (Bonus!)__
+The focus of this meeting will be to introduce a general audience to browser extensions and the WebExtensions API. You can make a copy of the presentation [Introduction to Browser Extensions](https://docs.google.com/presentation/d/1SwKbcfI55DEgjQMAzNHvDY5e4ywCUgsWu-qtt2LsxeE/edit#slide=id.p) and customize it for your group. 
 
-1. As a group, brainstorm ideas for the kind of add-on you want to build using WebExtensions APIs. You can find samples of add-ons users have requested [here](https://discourse.mozilla-community.org/search?q=idea%20category%3A35).
-  * The list of currently supported [JavaScript APIs](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API) and [examples](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Examples) can provide inspiration.
-  * Ask Chrome users to check if their favorite extensions are available in Firefox. If the extensions aren’t available, participants can try to build one for Firefox.
-  * Build an extension that solves any of your real-world problems, or that customizes the browser in a way that benefits you personally.
-2. [Publish your extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Publishing_your_WebExtension) to addons.mozilla.org.
-	* Once you have submitted your add-on, hover on Tools, then select "Manage My Submissions."
-	* From the actions menu, select "Edit Information."
-	* Then click the "Edit" button on the Basic Information section.
-	* Add the tag `mozactivate17` to your submission.
-	* Click the "Save Changes" button.
-3. Once your add-on has been approved (which might take a while), tweet a link to your published extension! Here is a suggested message:
-  * I made an add-on using @MozWebExt for @mozamo! Check it out here: <link to add-on> #MozActivate
-4. Encourage attendees to continue the conversation by following @MozWebExt on Twitter, joining the mailing list dev-addons@mozilla.org, joining the IRC channels #addons and #extdev, joining the Telegram groups [@addons](https://telegram.me/addons) and [@addonschat](https://t.me/addonschat), and joining the [Add-ons Discourse Forum](https://discourse.mozilla.org/c/add-ons).
+We recommend the following agenda for this event: 
 
-## Directly at the end of the activity
-Immediately after the event don’t forget to share the link to the impact form with your attendees:
+* Introduce participants to browser extensions and why they are important.  Here is some sample language you can use: 
+---
+    *“Welcome to the [name of event]! I am [name]. Today, we are going to customize our Firefox browsers by developing our own extensions to solve real problems in our own lives. Add-ons are a great way to add extra features to your browser, like blocking time-wasting websites during study hours, or turning images into cat pictures. With WebExtensions APIs, it’s now easier to create add-ons that are compatible with Firefox, Chrome, and Opera. Add-ons help keep users to be in control of their online experience, so your support in building them and the community around them matter.”*
+---
+* Ask participants to share their experience using browser extensions. What are their favorite extensions and what do those extensions do? 
+* Walk participants through the tutorial for [building the borderify extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension) on MDN web docs. 
+* Discuss the [anatomy of an extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Anatomy_of_a_WebExtension). 
+* Have participants follow the MDN tutorial for [building a more complex extension](https://github.com/mdn/webextensions-examples). 
 
-{: .attention-link}
-[mzl.la/howwasit](http://mzl.la/howwasit)
+At the end of the session, tell attendees when the next event in the series will be held and encourage them to sign up for it in advance. See the ‘Event Followup’ section for more details about how to follow up after your event. 
 
-Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.
+### Second Meeting: APIs in Action, Part 1
 
-## Event Follow-Up (one day after)
+During the second event, participants will be introduced to WebExtensions APIs that can perform basic functionalities.  After reviewing the functionalities of these APIs, you will help the group put them in action to create an extension for Firefox. You can make a copy of the presentation [APIs in Action, Part One](https://docs.google.com/presentation/d/1GssoHmC0e7TArrqWz4DKBqL2f8CWel182tr5Y2RAr2k/edit#slide=id.p), and share it with your group. 
 
-The day after the event, send a follow-up email to the attendees. Here is a template that you can customize to best reflect your event:
+We recommend the following agenda for this meeting: 
 
-Thanks for attending \[name of event\]! I hope you had a great time learning how to create add-ons for Firefox using WebExtensions APIs.
+* 1st half of the meeting: provide overviews and demonstrations of the following topics: 
 
-__We want to hear your thoughts about the event!__
+| Topic                 | Extension Examples                    | Videos                        |
+| --------------------- |:-------------------------------------:|:-----------------------------:|
+| [Content scripts](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Content_scripts)               | [Borderify](https://github.com/mdn/webextensions-examples/tree/master/borderify)                    | [Content Script Tutorial](https://youtu.be/WrEgBDg56sM)       |
+| [browserAction API](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/browserAction)      | [Bookmark It](https://github.com/mdn/webextensions-examples/tree/master/bookmark-it)                              |   |
+| [pageAction API](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/pageAction)    | [Chill Out](https://github.com/mdn/webextensions-examples/tree/master/chill-out)                    | [pageAction tutorial ](https://www.youtube.com/watch?v=RBI-j8USuJs&feature=youtu.be)                      |
+|                       | [Apply CSS](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/pageAction)                                  |                               |
+|                       | [IP-Finder](https://github.com/tsl143/jsDemos/tree/master/ipFinder_webext)                                  |                               |
+|                       | [Inshorts](https://github.com/viswanathamsantosh/inshorts/tree/page-action)                                  |                               |
 
-Please take a few minutes to fill out this impact form [here](http://mzl.la/howwasit).
 
-__Would you like a copy of the slides from the event?__
 
-You can get a copy [here](https://docs.google.com/presentation/d/1n7FEBCxSJdbfui2qjJv8vptsuchLB8-KES3SULVMI6w/edit#slide=id.p). (NOTE: _Please update the link to your customized presentation._)
 
-__Want to join the Mozilla add-on developer community?__
+* 2nd half of the meeting: ask attendees to put these APIs to use by creating an original extension or by building one of the examples listed in the table above.  
 
-If you enjoyed creating your own add-on, the [dev-addons@mozilla.org mailing list](https://mail.mozilla.org/listinfo/dev-addons), IRC channels #addons, #webextensions and #extdev, Telegram group [@addonschat](https://telegram.me/addonschat), and [Add-ons Discourse Forum](https://discourse.mozilla.org/c/add-ons) are full of people just like you! Join these channels to ask questions, brainstorm ideas, and stay informed.
+💡 If your attendees need help coming up with an idea for building an original extension, ask them to visit the repository of extension ideas for inspiration. 
 
-Also, keep your eyes on the [Add-ons Blog](https://blog.mozilla.org/addons/) to learn more about what’s going on in the world of add-ons.
+⭐️ Ask attendees who build an original extension to submit it to addons.mozilla.org. Once it has been submitted, they can navigate to “Manage My Submissions” and “Edit Information” to tag their extension with ‘#mozactivate17.’ Be sure to click “Save Changes” after the tag it added! 
 
-__Are you interested in exploring other ways to contribute to the add-ons community?__
+At the end of the session, tell attendees when the next event in the series will be held and encourage them to sign up for it in advance. 
 
-Visit our [wiki](https://wiki.mozilla.org/Add-ons/Contribute) to learn more.
 
-Thanks again! We look forward to seeing you next time.
+### Third Meeting: APIs in Action, Part 2
+During the third event, participants will explore how their extensions can use the [tabs](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/tabs), [sidebarAction](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/sidebarAction), and [webRequest](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/webRequest) APIs to interact with the browser. You can make a copy of the presentation [APIs in Action, Part Two](https://docs.google.com/presentation/d/1_iP7TvHQxKbMynh3tjI1kHGh0gZ5ZElG-K9RYvYjbMk/edit), to customize and share with your group. 
 
-## Output
+We recommend the following agenda for this meeting: 
+
+* 1st half of the meeting: provide an overview and demonstration of the following topics:
+
+| Topic			| Extension Examples			| Videos 			|
+| ---------------------	|:-------------------------------------:|:-----------------------------:|
+| [Tabs API](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/tabs)		| [Tabs Tabs Tabs](https://github.com/mdn/webextensions-examples/tree/master/tabs-tabs-tabs)			| [Getting Started with Tabs](https://www.youtube.com/watch?v=GS1nM55iKZo&t=612s&list=PLdIyyZgtQZ7CJR5XFB5xvZH0oaBIT_gTD&index=5)	|
+|			| [Contextual Identities](https://github.com/mdn/webextensions-examples/tree/master/contextual-identities)			|				|
+|			| [Beastify](https://github.com/mdn/webextensions-examples/tree/master/beastify) 				|				|
+| [sidebarAction API](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/sidebarAction)	| [Annotate Page](https://github.com/mdn/webextensions-examples/tree/master/annotate-page)				| [How to create a Sidebar Menu](https://youtu.be/F6Up_yGfuJw)  |
+|			| [Context Menu Demo](https://github.com/mdn/webextensions-examples/tree/master/context-menu-copy-link-with-types) 			| [How to Create a Context Menu](https://www.youtube.com/watch?v=AIh47SUwAs0&feature=youtu.be)  |
+|			| [Facebook Messenger as a Sidebar](https://github.com/soapdog/webextension-facebook-messenger-as-a-sidebar)	|				|
+| [webRequest API](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/webRequest) 	| [Stored Credentials](https://github.com/mdn/webextensions-examples/tree/master/stored-credentials)			| 			|
+|			| [User Agent Rewriter](https://github.com/mdn/webextensions-examples/tree/master/user-agent-rewriter)					|				|
+
+
+
+
+
+
+* 2nd half of the meeting: ask attendees to put these APIs to use by creating an original extension or by building an example from MDN web docs. 
+  
+💡 If your attendees need help coming up with an idea for building an original extension, ask them to visit the repository of extension ideas for inspiration. 
+
+⭐️ Ask attendees who build an original extension to submit it to addons.mozilla.org. Once it has been submitted, they can navigate to “Manage My Submissions” and “Edit Information” to tag their extension with ‘#mozactivate17.’ Be sure to click “Save Changes” after the tag it added! 
+
+
+Resources
+Do you need help getting started with extension development or want to learn as much as possible? Check out these fantastic resources! 
+
+🎥 [Building Browser Extensions by Viswaprasanth Ks *Video Series*](https://www.youtube.com/playlist?list=PLdIyyZgtQZ7CJR5XFB5xvZH0oaBIT_gTD)
+
+🎥  [WebExtensions Tutorials by Trishul Goel *Video Series](https://www.youtube.com/playlist?list=PLI08QU9qtPEJiBs7rVOT4FvXJlisDgTlS)
+
+💃🏽 [More Examples of APIs in Action](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Examples) on MDN web docs 
+
+💃🏽 [Extension Examples and Walkthroughs by Viswaprasanth Ks](https://github.com/iamVP7/MyExtensions/blob/master/README.md)
+
+🔍  [Let’s Write a Web Extension by Blake Winton](https://hacks.mozilla.org/2015/09/lets_write_a_webextension/)
+
+🔍  [Create a Simple WebExtension by David Wals](https://davidwalsh.name/web-extensions)
+
+👍  [Browser Compatibility Table for APIs](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs)
+
+
+## Event Follow-Up 
+
+* Immediately after every event, share the link to the impact form with your attendees: [mzl.la/howwasit](mzl.la/howwasit). While you’re at it, why not also send a copy of your slide deck and invite the attendees to join the Telegram group [@addonchats](https://t.me/addonschat)? 
 
 * Fill out the post-event metrics on the event page you set up on the Reps portal.
-* Tell us about your event. This can be before or after. We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two!
-  * The Discourse thread can be found [here](https://discourse.mozilla.org/t/activate-build-your-own-webextension-add-on-for-firefox/13866)
 
-## Tutorials & Other Resources
+* [Tell us about your event](https://discourse.mozilla.org/t/activate-build-your-own-webextension-add-on-for-firefox/13866) on Discourse. We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two!
 
-__Tutorials__
 
-* [Your first WebExtension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension)
-* [Let’s Write a Web Extension by Blake Winton](https://hacks.mozilla.org/2015/09/lets_write_a_webextension/)
-* [WebExtensions: An Example Add-on Repository with Test Harnesses by standard8](https://blog.mozilla.org/standard8/2016/11/11/webextensions-an-example-add-on-repository-with-test-harnesses/)
-* [Create a Simple WebExtension by David Walsh](https://davidwalsh.name/web-extensions)
-* [Building Firefox Add-ons with Web Extensions by Viswaprasath Ks](http://www.slideshare.net/VISWAPRASATHKS)
+## Acknowledgements
+Thank you to Viswaprasanth Ks, Santosh Viswanatham, Trishul Goel, Karthic Keyan, Andre Garzia Daniele Scasciafratte, and Michael Kohler.
 
-__Other Resources__
 
-* [Example Extensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Examples)
-* [More documentation and resources on the Add-os Wiki](https://wiki.mozilla.org/Add-ons/developer/communication#Documentation_.26_Tutorials)
-* [Open Innovation Toolkit](https://toolkit.mozilla.org/)
 </div>
