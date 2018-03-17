@@ -1,6 +1,6 @@
 ---
 layout: activity
-title:  "Build Your Own Extension for Firefox Updated Version"
+title:  "Build Your Own Extension for Firefox"
 subtitle: "in 1-3 hours"
 image: "/assets/img/webextensions-post-header.png"
 permalink: /webextensions/
