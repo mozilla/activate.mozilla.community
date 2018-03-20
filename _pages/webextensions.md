@@ -20,7 +20,7 @@ Throwing a workshop helps more people learn how to develop add-ons and help ensu
 __Impact:__
 
 * 125 developers are introduced to and building browser extensions either online or at regional events.
-* 20 add-ons tagged with ‘#mozactivate17’ in addons.mozilla.org.
+* 20 add-ons tagged with ‘#mozactivate’ in addons.mozilla.org.
 
 __Strength:__
 
@@ -113,7 +113,7 @@ We recommend the following agenda for this meeting:
 
 * 2nd half of the meeting: ask attendees to put these APIs to use by creating an original extension or by building one of the examples listed in the table above.  
 
-💡 If your attendees need help coming up with an idea for building an original extension, ask them to visit the repository of extension ideas for inspiration. 
+💡 If your attendees need help coming up with an idea for building an original extension, ask them to visit the[ repository of extension ideas](https://github.com/firefox-addons/ideas/issues) for inspiration. 
 
 ⭐️ Ask attendees who build an original extension to submit it to addons.mozilla.org. Once it has been submitted, they can navigate to “Manage My Submissions” and “Edit Information” to tag their extension with ‘#mozactivate17.’ Be sure to click “Save Changes” after the tag it added! 
 
@@ -145,12 +145,12 @@ We recommend the following agenda for this meeting:
 
 * 2nd half of the meeting: ask attendees to put these APIs to use by creating an original extension or by building an example from MDN web docs. 
   
-💡 If your attendees need help coming up with an idea for building an original extension, ask them to visit the repository of extension ideas for inspiration. 
+💡 If your attendees need help coming up with an idea for building an original extension, ask them to visit the[ repository of extension ideas](https://github.com/firefox-addons/ideas) for inspiration. 
 
 ⭐️ Ask attendees who build an original extension to submit it to addons.mozilla.org. Once it has been submitted, they can navigate to “Manage My Submissions” and “Edit Information” to tag their extension with ‘#mozactivate17.’ Be sure to click “Save Changes” after the tag it added! 
 
 
-Resources
+## Resources
 Do you need help getting started with extension development or want to learn as much as possible? Check out these fantastic resources! 
 
 🎥 [Building Browser Extensions by Viswaprasanth Ks *Video Series*](https://www.youtube.com/playlist?list=PLdIyyZgtQZ7CJR5XFB5xvZH0oaBIT_gTD)
@@ -178,7 +178,7 @@ Do you need help getting started with extension development or want to learn as 
 
 
 ## Acknowledgements
-Thank you to Viswaprasanth Ks, Santosh Viswanatham, Trishul Goel, Karthic Keyan, Andre Garzia Daniele Scasciafratte, and Michael Kohler.
+Thank you to Viswaprasanth Ks, Santosh Viswanatham, Trishul Goel, Karthic Keyan, Andre Garzia, Daniele Scasciafratte, and Michael Kohler.
 
 
 </div>
