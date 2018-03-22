@@ -153,9 +153,9 @@ We recommend the following agenda for this meeting:
 ## Resources
 Do you need help getting started with extension development or want to learn as much as possible? Check out these fantastic resources! 
 
-🎥 [Building Browser Extensions by Viswaprasanth Ks *Video Series*](https://www.youtube.com/playlist?list=PLdIyyZgtQZ7CJR5XFB5xvZH0oaBIT_gTD)
+🎥  [Building Browser Extensions by Viswaprasanth Ks *Video Series*](https://www.youtube.com/playlist?list=PLdIyyZgtQZ7CJR5XFB5xvZH0oaBIT_gTD)
 
-🎥  [WebExtensions Tutorials by Trishul Goel *Video Series](https://www.youtube.com/playlist?list=PLI08QU9qtPEJiBs7rVOT4FvXJlisDgTlS)
+🎥  [WebExtensions Tutorials by Trishul Goel *Video Series*](https://www.youtube.com/playlist?list=PLI08QU9qtPEJiBs7rVOT4FvXJlisDgTlS)
 
 💃🏽 [More Examples of APIs in Action](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Examples) on MDN web docs 
 
