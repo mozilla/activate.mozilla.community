@@ -32,7 +32,7 @@ __Strength:__
 
 ## Audience for this activity
 
-Your audience for this event should be **programmers and developers**. Focus on people who are technical and already know languages like C or Python or other similar languages. Some outreach to beginners can be done.
+Your audience for this event should be **programmers of all kinds**. Some outreach to beginners can be done.
 </div>
 
 <div class="col-md-9" markdown="1">
