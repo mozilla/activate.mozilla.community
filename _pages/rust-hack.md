@@ -90,9 +90,25 @@ Remember this is how you’ll know who attended your event, and if you successfu
 
 ### Tutorials
 
-* [Niko Matsakis's excellent slide deck](https://github.com/nikomatsakis/rust-tutorials-keynote)
-* [Exercises to accompany that deck](https://github.com/nikomatsakis/rust-tutorializer)
-* [A screencast from Niko on ownership and borrowing](https://www.youtube.com/watch?v=TCUBSbJENO4)
+#### Learn by Example
+
+* [Getting used to reading and writing Rust code](https://github.com/carols10cents/rustlings)
+* ["Exercism" coding challenges](http://exercism.io/languages/rust/about)
+* ["Rust by Example"](https://rustbyexample.com/index.html)
+
+#### Visual learning
+
+* ["Into Rust", a series of introductory screencasts about Rust](http://intorust.com/)
+* [A video tutorial series about Rust](https://www.youtube.com/playlist?list=PL0Fqs05rod8D80WKBCeT326CT8vcAm_N9)
+
+#### Coming from other programming languages
+
+* [Ruby developers](http://www.rustforrubyists.com/book/book.html)
+* [node.js developers](https://github.com/Mercateo/rust-for-node-developers#rust-for-node-developers)
+* [Java developers](https://mixitconf.org/en/2017/rust-for-java-developers)
+* [C++ developers](https://github.com/nrc/r4cppp#rust-for-systems-programmers)
+* [Python developers](http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/)
+
 
 ## Output
 In addition to the recommended event flow here are some things we’d like you, the event organizer, to do:
