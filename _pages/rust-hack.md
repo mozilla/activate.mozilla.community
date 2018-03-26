@@ -90,11 +90,17 @@ Remember this is how you’ll know who attended your event, and if you successfu
 * [A screencast from Niko on ownership and borrowing](https://www.youtube.com/watch?v=TCUBSbJENO4)
 
 ## Output
-Additional to the recommended event flow here are some things we’d like you, the event organizer, to do.
+In addition to the recommended event flow here are some things we’d like you, the event organizer, to do:
 
 * Fill out the post-event metrics on the event page you setup on the Reps portal
-* Optionally, tell us about your event. This can be before or after. We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two! This will also be instructional and inspirational to others who might do the event.
-    * [Here is the Discourse post to write to](https://discourse.mozilla-community.org/t/activate-mozilla-dive-into-rust/10073/1)
+* Share your own experience on social media and encourage your attendees to do so as well:
+  * use the hashtag [#RustActivate]
+  * mention the [@rustlang] account so they can RT you!
+  * link to a GitHub project or blogpost to show off your work!
+  * take a "family photo" of your group members (make sure to get permission from everyone first!)
+
+[#RustActivate]: https://twitter.com/search?f=tweets&q=%23RustActivate&src=typd
+[@rustlang]: https://twitter.com/rustlang
 
 ## Extra
 While the focus of this activity should be on these events, people can get more involved more involved with the Rust community after.
