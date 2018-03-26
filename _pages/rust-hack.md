@@ -23,12 +23,17 @@ Rust is also a good project to be engaged in for people that don't want or can't
 
 __Impact:__
 
-* 1,000 programmers/developers are introduced to and are well on their way to learning Rust
+* 1,000 programmers are introduced to and are well on their way to learning Rust
 * 10 ongoing Rust Hack and Learn events
+* 500 social media shares
+* Each organizer schedules 3 Rust Hack and Learn events
 
 __Strength:__
 
 * 50 Mozillians organize Rust Hack and Learn events
+* 1-2 people join [Rust teams]
+
+[Rust teams]: https://www.rust-lang.org/en-US/team.html
 
 ## Audience for this activity
 
