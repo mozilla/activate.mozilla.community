@@ -88,14 +88,12 @@ Remember this is how you’ll know who attended your event, and if you successfu
 #### Learn by Example
 
 * [Getting used to reading and writing Rust code](https://github.com/carols10cents/rustlings)
-* [A screencast from Niko on ownership and borrowing](https://www.youtube.com/watch?v=TCUBSbJENO4)
 * ["Exercism" coding challenges](http://exercism.io/languages/rust/about)
 * ["Rust by Example"](https://rustbyexample.com/index.html)
 
 #### Visual learning
 
-* [Niko Matsakis's excellent slide deck](https://github.com/nikomatsakis/rust-tutorials-keynote)
-* [Exercises to accompany that deck](https://github.com/nikomatsakis/rust-tutorializer)
+* ["Into Rust", a series of introductory screencasts about Rust](http://intorust.com/)
 * [A video tutorial series about Rust](https://www.youtube.com/playlist?list=PL0Fqs05rod8D80WKBCeT326CT8vcAm_N9)
 
 #### Coming from other programming languages
