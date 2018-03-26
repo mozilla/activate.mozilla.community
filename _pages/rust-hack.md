@@ -64,14 +64,21 @@ Some Mozillians have already done such sessions. For example our [Community Spac
 
 ## Event Flow
 
-* Install Rust
-    * [rustup](https://www.rustup.rs) - recommended
-    * [Rust downloads](https://www.rust-lang.org/en-US/other-installers.html) (alternative)
-- Get started!
-    * Read the [Rust book](https://doc.rust-lang.org/stable/book/)
-    * Check [Rust by Example](https://rustbyexample.com/)
-    * Complete some [Rustlings](https://github.com/carols10cents/rustlings) (a great beginners course!)
-    * Try to form some groups to find things they'd like to program.
+Hack & Learn are mainly structureless, which allows for people of all experience levels to feel great. They can follow their interests and can interact with people. As an organiser, you can try to also bring your own project, please note that you will the first point of contact for problems.
+
+* Give people some time to get in and wait 5-10 minutes to get them set up and comfortable
+* Do an intro round (5 minutes). Ask everyone for:
+  - Who they are
+  - What previous programming experiences they have
+  - What they intend to work on (or if they are searching for a project)
+* Encourage people to group up or work alone
+* Introduce new people to the existing resources
+* Help people that don't have a project to find one
+* Open time: people should just work on whatever they have. Some people will just chat, make sure they don't disturb others.
+* Closing: go through the group again and ask people for their progress.
+  - If time allows, make a [Show \& Tell](https://en.wikipedia.org/wiki/Show_and_tell_(education)) and have people actually present their learnings in a very short talk.
+
+If the event is just 2 hours long, keep the intro and the closing short. If you spend 2.5 hours or more, you can spend more time on the closing. If the event is even longer, consider running something by the middle of it, to give people a moment to step away from the project.
 
 ## Directly at the end of the activity
 Immediately after the event don’t forget to share the link to the impact form with your attendees:
