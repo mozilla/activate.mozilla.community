@@ -60,14 +60,13 @@ For duration, we recommend at least 2-3 hours event with a minimum of 10 attende
 1. Put an event team together. Going alone is fine, but at least two people is advisable. Check the [Rust Community Calendar](https://calendar.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc@group.calendar.google.com) - maybe there's already people in your area. You can also get in touch with  the [Rust Community Team](mailto:community@rust-lang.org) for additional support.
 2. Try to find people with Rust experience who want to help. If you find none, this is fine - many Hack and Learns started out by curious people.
 
-
 Some Mozillians have already done such sessions. For example see [past Mozilla Reps events](https://reps.mozilla.org/events/#/period/past/category/rust/).
 
 **2-4 Weeks Before the Event**
 
 1. Read the [event guide](/eventguide/) on how to set up an event page and how to organize an event.
 1. Choose a date and secure a venue.
-1. Fill the [event template](https://github.com/rust-community/events-team/issues/new?template=new_meetup.md&labels=meetup,mozilla-activities) for access to the calendar so that you can enter it there.  It will then be sent around with Rust's weekly newsletter and promoted in other fashions. You can also ask the [Rust Swag Distributors](mailto:community-swag@rust-lang.org) if they can send some stickers.
+1. Fill the [event template](https://github.com/rust-community/events-team/issues/new?template=new_meetup.md&labels=meetup,mozilla-activities) for access to the calendar so that you can enter it there.  It will then be sent around with Rust's weekly newsletter and promoted in other fashions. You can also ask the [Rust Community Team](mailto:community@rust-lang.org?subject=[SWAG]) if they can send some stickers.
 1. Setup the event on the Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting)). Please make sure the initiative is set to "MozActivate" and the functional area indicates "Rust".
 
 **1 Week Before the Event**
