@@ -62,12 +62,12 @@ Some Mozillians have already done such sessions. For example see [past Mozilla R
 
 1. Read the [event guide](/eventguide/) on how to set up an event page and how to organize an event.
 1. Choose a date and secure a venue.
-1. Fill the [event template](https://github.com/rust-community/events-team/issues/new?template=new_meetup.md&labels=meetup) for access to the calendar so that you can enter it there.  It will then be sent around with Rust's weekly newsletter and promoted in other fashions.
+1. Fill the [event template](https://github.com/rust-community/events-team/issues/new?template=new_meetup.md&labels=meetup) for access to the calendar so that you can enter it there.  It will then be sent around with Rust's weekly newsletter and promoted in other fashions. You can also ask the [Rust Community Team](mailto:community@rust-lang.org) if they can send some stickers.
 1. Setup the event on the Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting)). Please make sure the initiative is set to "MozActivate" and the functional area indicates "Rust".
 
 **1 Week Before the Event**
 
-1. Get [Material](https://github.com/rust-community/resources) and print them to hand them out. You can also ask the [Rust Community Team](mailto:community@rust-lang.org) if they can send some stickers.
+1. Get [Material](https://github.com/rust-community/resources) and print them to hand them out.
 1. Promote your event locally and online.
 
 ## Event Flow
