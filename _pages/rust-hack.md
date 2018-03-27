@@ -88,7 +88,7 @@ Hack & Learn are mainly structureless, which allows for people of all experience
 * Help people that don't have a project to find one
 * Open time: people should just work on whatever they have. Some people will just chat, make sure they don't disturb others.
 * Closing: go through the group again and ask people for their progress.
-  - If time allows, make a [Show \& Tell](https://en.wikipedia.org/wiki/Show_and_tell_(education)) and have people actually present their learnings in a very short talk.
+  - If time allows, make a [Show & Tell](https://en.wikipedia.org/wiki/Show_and_tell_(education)) and have people actually present their learnings in a very short talk.
 * If this is the first time you run it: ask people about their schedules and try to find a regular date for repeats.
 
 If the event is just 2 hours long, keep the intro and the closing short. If you spend 2.5 hours or more, you can spend more time on the closing. If the event is even longer, consider running something by the middle of it, to give people a moment to step away from the project.
