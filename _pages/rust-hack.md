@@ -67,7 +67,7 @@ Some Mozillians have already done such sessions. For example see [past Mozilla R
 
 1. Read the [event guide](/eventguide/) on how to set up an event page and how to organize an event.
 1. Choose a date and secure a venue.
-1. Fill the [event template](https://github.com/rust-community/events-team/issues/new?template=new_meetup.md&labels=meetup) for access to the calendar so that you can enter it there.  It will then be sent around with Rust's weekly newsletter and promoted in other fashions. You can also ask the [Rust Community Team](mailto:community@rust-lang.org) if they can send some stickers.
+1. Fill the [event template](https://github.com/rust-community/events-team/issues/new?template=new_meetup.md&labels=meetup,mozilla-activities) for access to the calendar so that you can enter it there.  It will then be sent around with Rust's weekly newsletter and promoted in other fashions. You can also ask the [Rust Swag Distributors](mailto:community-swag@rust-lang.org) if they can send some stickers.
 1. Setup the event on the Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting)). Please make sure the initiative is set to "MozActivate" and the functional area indicates "Rust".
 
 **1 Week Before the Event**
@@ -90,6 +90,7 @@ Hack & Learn are mainly structureless, which allows for people of all experience
 * Open time: people should just work on whatever they have. Some people will just chat, make sure they don't disturb others.
 * Closing: go through the group again and ask people for their progress.
   - If time allows, make a [Show \& Tell](https://en.wikipedia.org/wiki/Show_and_tell_(education)) and have people actually present their learnings in a very short talk.
+* If this is the first time you run it: ask people about their schedules and try to find a regular date for repeats.
 
 If the event is just 2 hours long, keep the intro and the closing short. If you spend 2.5 hours or more, you can spend more time on the closing. If the event is even longer, consider running something by the middle of it, to give people a moment to step away from the project.
 
