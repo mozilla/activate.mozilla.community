@@ -81,9 +81,9 @@ The focus of this meeting will be to introduce a general audience to browser ext
 We recommend the following agenda for this event: 
 
 * Introduce participants to browser extensions and why they are important.  Here is some sample language you can use: 
----
+
     *“Welcome to the [name of event]! I am [name]. Today, we are going to customize our Firefox browsers by developing our own extensions to solve real problems in our own lives. Add-ons are a great way to add extra features to your browser, like blocking time-wasting websites during study hours, or turning images into cat pictures. With WebExtensions APIs, it’s now easier to create add-ons that are compatible with Firefox, Chrome, and Opera. Add-ons help keep users to be in control of their online experience, so your support in building them and the community around them matter.”*
----
+
 * Ask participants to share their experience using browser extensions. What are their favorite extensions and what do those extensions do? 
 * Walk participants through the tutorial for [building the borderify extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension) on MDN web docs. 
 * Discuss the [anatomy of an extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Anatomy_of_a_WebExtension). 
@@ -113,7 +113,7 @@ We recommend the following agenda for this meeting:
 
 * 2nd half of the meeting: ask attendees to put these APIs to use by creating an original extension or by building one of the examples listed in the table above.  
 
-💡 If your attendees need help coming up with an idea for building an original extension, ask them to visit the[ repository of extension ideas](https://github.com/firefox-addons/ideas/issues) for inspiration. 
+💡 If your attendees need help coming up with an idea for building an original extension, ask them to visit the [repository of extension ideas](https://github.com/firefox-addons/ideas/issues) for inspiration. 
 
 ⭐️ Ask attendees who build an original extension to submit it to addons.mozilla.org. Once it has been submitted, they can navigate to “Manage My Submissions” and “Edit Information” to tag their extension with ‘#mozactivate17.’ Be sure to click “Save Changes” after the tag it added! 
 
@@ -145,9 +145,9 @@ We recommend the following agenda for this meeting:
 
 * 2nd half of the meeting: ask attendees to put these APIs to use by creating an original extension or by building an example from MDN web docs. 
   
-💡 If your attendees need help coming up with an idea for building an original extension, ask them to visit the[ repository of extension ideas](https://github.com/firefox-addons/ideas) for inspiration. 
+💡 If your attendees need help coming up with an idea for building an original extension, ask them to visit the [repository of extension ideas](https://github.com/firefox-addons/ideas) for inspiration. 
 
-⭐️ Ask attendees who build an original extension to submit it to addons.mozilla.org. Once it has been submitted, they can navigate to “Manage My Submissions” and “Edit Information” to tag their extension with ‘#mozactivate17.’ Be sure to click “Save Changes” after the tag it added! 
+⭐️ Ask attendees who build an original extension to submit it to addons.mozilla.org. Once it has been submitted, they can navigate to “Manage My Submissions” and “Edit Information” to tag their extension with ‘#mozactivate.’ Be sure to click “Save Changes” after the tag it added! 
 
 
 ## Resources
