@@ -17,7 +17,7 @@ The Rust programming language will be important to the future of the web, making
 
 Rust is used extensively for Mozilla projects -- including this year as Servo (written in Rust) is advanced even further, and parts of it are moved into Gecko/Firefox. Having more Mozilla contributors know Rust will give them a chance to contribute to the most exciting and important technical projects coming up for Mozilla.
 
-Rust is also a good project to be engaged in for people that don't want or can't participate in a Mozilla project, but like to be involved with something close.
+Rust is also a good subject to get people closer to Mozilla gradually, as it has smaller project sizes and potential for individual contribution - for example by writing a useful library.
 
 ### Goals for this area
 
@@ -55,9 +55,9 @@ Rust is a systems programming language that runs blazingly fast, prevents segfau
 
 ## Activity Format
 
-For duration, we recommend at least 2-3 hours event with a minimum of 10 attendees.
+For duration, we recommend at least a 2-3 hours event with a minimum of 10 attendees.
 
-1. Put an event team together. Going alone is fine, but at least two people is advisable. Check the [Rust Community Calendar](https://calendar.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc@group.calendar.google.com) - maybe there's already people in your area. You can also get in touch with  the [Rust Community Team](mailto:community@rust-lang.org) for additional support.
+1. Put an event team together. Going alone is fine, but at least two people is advisable. Check the [Rust Community Calendar](https://calendar.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc@group.calendar.google.com) - maybe there's already people in your area. You can also get in touch with the [Rust Community Team](mailto:community@rust-lang.org) for additional support.
 2. Try to find people with Rust experience who want to help. If you find none, this is fine - many Hack and Learns started out by curious people.
 
 Some Mozillians have already done such sessions. For example see [past Mozilla Reps events](https://reps.mozilla.org/events/#/period/past/category/rust/).
@@ -139,7 +139,7 @@ In addition to the recommended event flow here are some things we’d like you, 
 [@rustlang]: https://twitter.com/rustlang
 
 ## Extra
-While the focus of this activity should be on these events, people can get more involved more involved with the Rust community after.
+While the focus of this activity should be on these events, people can get more involved with the Rust community after.
 
 * Follow up with attendees to highlight [more things happening in the community to get involved with](https://www.rust-lang.org/en-US/community.html)
 </div>
