@@ -100,6 +100,7 @@ Remember this is how you’ll know who attended your event, and if you successfu
 * [Niko Matsakis's excellent slide deck](https://github.com/nikomatsakis/rust-tutorials-keynote)
 * [Exercises to accompany that deck](https://github.com/nikomatsakis/rust-tutorializer)
 * [A screencast from Niko on ownership and borrowing](https://www.youtube.com/watch?v=TCUBSbJENO4)
+* [Dive Into Rust resources for Beginners](https://github.com/vyasspranjal33/rust)
 
 ## Output
 Additional to the recommended event flow here are some things we’d like you, the event organizer, to do.
