@@ -1,7 +1,7 @@
 ---
 layout: activity
 title:  "Build Your Own Extension for Firefox"
-subtitle: "in 1-3 hours"
+subtitle: "in 1.5-3 hours"
 image: "/assets/img/webextensions-post-header.png"
 permalink: /webextensions/
 lang: en
@@ -45,7 +45,7 @@ New to JavaScript and HTML? Check out these tutorials by community members [Visw
 
 {: .alert .alert-info .impactbox}
 <span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
-Firefox is an open-source web browser that cares about user control and privacy, and extensions  provide a safe, simple, and powerful way to personalize your browsing experience. From blocking ads to organizing tabs, add-ons help make Firefox your own.
+Firefox is an open-source web browser that cares about user control and privacy, and extensions provide a safe, simple, and powerful way to personalize your browsing experience. From blocking ads to organizing tabs, add-ons help make Firefox your own.
 
 
 It’s very easy to create extensions for Firefox using [WebExtensions APIs](https://developer.mozilla.org/en-US/Add-ons/WebExtensions). This Web-based technology framework offers a powerful way to create browser extensions that can be easily ported to Chrome, Opera, and Edge, and you only need to know HTML, JavaScript and CSS to build them.
@@ -55,7 +55,7 @@ In this series of workshops, you’ll help connect new developers with an opport
 
 ## Planning Your Workshop
 
-Read the [event guide](https://activate.mozilla.community/eventguide/) on how to set up an event page and how to organize an event. For this campaign, we recommend scheduling a series of 3 workshops and dedicating 1.5 - 4 hours for each workshop. Be sure to complete the actions listed in the Pre-Event section 2 - 3 days before hosting the event. 
+Read the [event guide](https://activate.mozilla.community/eventguide/) on how to set up an event page and how to organize an event. For this campaign, we recommend scheduling a series of 3 workshops and dedicating 1.5 - 3 hours for each workshop. Be sure to complete the actions listed in the Pre-Event section 2 - 3 days before hosting the event. 
 
 Attendees should bring their own laptops to the workshop, or the workshop should be held in a computer lab.
 
@@ -71,8 +71,6 @@ To ensure that your participants get to focus on building extensions during the 
 * Ask registered participants to explore addons.mozilla.org, install a few extensions, and see how they work. 
 
 * Make sure that computers being used for the workshop have the most recent version of Firefox Developer Edition (available for Windows, Linux, or Mac OS X). If attendees are bringing their own computers, ask them to install Firefox Developer Edition. 
-
-
 
 ### First Meeting: Introduction to Browser Extensions 
 
@@ -99,7 +97,7 @@ We recommend the following agenda for this meeting:
 
 * 1st half of the meeting: provide overviews and demonstrations of the following topics: 
 
-| Topic                 | Extension Examples                    | Videos                        |
+| Topic | Extension Examples | Videos |
 | --------------------- |:-------------------------------------:|:-----------------------------:|
 | [Content scripts](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Content_scripts)               | [Borderify](https://github.com/mdn/webextensions-examples/tree/master/borderify)                    | [Content Script Tutorial](https://youtu.be/WrEgBDg56sM)       |
 | [browserAction API](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/browserAction)      | [Bookmark It](https://github.com/mdn/webextensions-examples/tree/master/bookmark-it)                              |   |
@@ -127,7 +125,7 @@ We recommend the following agenda for this meeting:
 
 * 1st half of the meeting: provide an overview and demonstration of the following topics:
 
-| Topic			| Extension Examples			| Videos 			|
+| Topic | Extension Examples | Videos |
 | ---------------------	|:-------------------------------------:|:-----------------------------:|
 | [Tabs API](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/tabs)		| [Tabs Tabs Tabs](https://github.com/mdn/webextensions-examples/tree/master/tabs-tabs-tabs)			| [Getting Started with Tabs](https://www.youtube.com/watch?v=GS1nM55iKZo&t=612s&list=PLdIyyZgtQZ7CJR5XFB5xvZH0oaBIT_gTD&index=5)	|
 |			| [Contextual Identities](https://github.com/mdn/webextensions-examples/tree/master/contextual-identities)			|				|
