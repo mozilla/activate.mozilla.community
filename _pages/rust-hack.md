@@ -15,30 +15,36 @@ redirect_from: "/developer-engagement/rust-hack/"
 
 The Rust programming language will be important to the future of the web, making it safe and great. Having more developers understand, use and evangelize this language will advance make the web better and more secure.
 
-Rust will also be used extensively for Mozilla projects -- including this year as Servo (written in Rust) is advanced even further, and parts of it are moved into Gecko/Firefox. Having more Mozilla contributors know Rust will give them a chance to contribute to the most exciting and important technical projects coming up for Mozilla.
+Rust is used extensively for Mozilla projects -- including this year as Servo (written in Rust) is advanced even further, and parts of it are moved into Gecko/Firefox. Having more Mozilla contributors know Rust will give them a chance to contribute to the most exciting and important technical projects coming up for Mozilla.
+
+Rust is also a good subject to get people closer to Mozilla gradually, as it has smaller project sizes and potential for individual contribution - for example by writing a useful library.
 
 ### Goals for this area
 
 __Impact:__
 
-* 1,000 programmers/developers are introduced to and are well on their way to learning Rust
-* 10 blog posts about events or other local Rust activities
+* 1,000 programmers are introduced to and are well on their way to learning Rust
+* 10 ongoing Rust Hack and Learn events
+* 500 social media shares
+* Each organizer schedules 3 Rust Hack and Learn events
 
 __Strength:__
 
 * 50 Mozillians organize Rust Hack and Learn events
-* 50 new people signed up to [Rust developer list](https://users.rust-lang.org)
+* 1-2 people join [Rust teams]
+
+[Rust teams]: https://www.rust-lang.org/en-US/team.html
 
 ## Audience for this activity
 
-Your audience for this event should be **programmers and developers**. Focus on people who are technical and already know languages like C or Python or other similar languages.
+Your audience for this event should be **programmers of all kinds**. Some outreach to beginners can be done.
 </div>
 
 <div class="col-md-9" markdown="1">
 
 {: .alert .alert-info .impactbox}
 <span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
-Having more developers understand, use and evangelize this language will advance make the web better and more secure.
+Having more developers understand, use and evangelize this language will advance make the web better and more secure. Rust is also a great way to learn about WebAssembly.
 
 Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. [Find out more...](https://www.rust-lang.org)
 
@@ -49,41 +55,43 @@ Rust is a systems programming language that runs blazingly fast, prevents segfau
 
 ## Activity Format
 
-Get your community behind this exciting new programming language by running a learning event.
+For duration, we recommend at least a 2-3 hours event with a minimum of 10 attendees.
+
+1. Put an event team together. Going alone is fine, but at least two people is advisable. Check the [Rust Community Calendar](https://calendar.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc@group.calendar.google.com) - maybe there's already people in your area. You can also get in touch with the [Rust Community Team](mailto:community@rust-lang.org) for additional support.
+2. Try to find people with Rust experience who want to help. If you find none, this is fine - many Hack and Learns started out by curious people.
+
+Some Mozillians have already done such sessions. For example see [past Mozilla Reps events](https://reps.mozilla.org/events/#/period/past/category/rust/).
+
+**2-4 Weeks Before the Event**
 
 1. Read the [event guide](/eventguide/) on how to set up an event page and how to organize an event.
-2. Choose whether this will be self-facilitated or with someone who has Rust experience (see below)
+1. Choose a date and secure a venue.
+1. Fill the [event template](https://github.com/rust-community/events-team/issues/new?template=new_meetup.md&labels=meetup,mozilla-activate) for access to the calendar so that you can enter it there.  It will then be sent around with Rust's weekly newsletter and promoted in other fashions. You can also ask the [Rust Community Team](mailto:community@rust-lang.org?subject=[SWAG]) if they can send some stickers.
+1. Setup the event on the Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting)). Please make sure the initiative is set to "MozActivate" and the functional area indicates "Rust".
 
-For duration, we recommend a half-day (or full evening) event with a minimum of 15-25 attendees.
+**1 Week Before the Event**
 
-There are two options for facilitation:
-
-1. Ask a person with experience with Rust to attend and provide guidance to attendees. There are a few ways to try to find local Rust experts to invite:
-    * Reach out to the [Community Team](https://www.rust-lang.org/en-US/team.html#Community-team) - community-team [at] rust-lang [dot] org - they know the most active people in most regions.
-    * Via the [user groups](https://www.rust-lang.org/en-US/user-groups.html)
-    * At [rustaceans.org](http://www.rustaceans.org/)
-2. If the facilitators have little or no Rust experience, turn it into a learning session for everyone, where you go through the steps together. Some Mozillians have already done such sessions. For example our [Community Spaces](https://wiki.mozilla.org/Participation/Community_Spaces) have, so you can reach out the them to ask for some guidance.
+1. Get [Material](https://github.com/rust-community/resources) and print them to hand them out.
+1. Promote your event locally and online.
 
 ## Event Flow
 
-* Install Rust
-    * [rustup](https://www.rustup.rs) - recommended
-    * [Rust downloads](https://www.rust-lang.org/en-US/other-installers.html) (alternative)
-* Read the [Rust book](https://doc.rust-lang.org/stable/book/)
-* Complete the [Rustlings](https://github.com/carols10cents/rustlings) (a great beginners course!)
-* Some projects with great first bugs:
-    * The Rust language and compiler
-        * [Labeled easy](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy)
-        * [Labeled mentor](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-mentor)
-    * [clippy - the popular Rust static analysis tool](https://github.com/Manishearth/rust-clippy)
-    * [Cargo - Rust’s package manager](https://github.com/rust-lang/cargo/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy)
-    * [rustfmt - the Rust source code formatting tool](https://github.com/rust-lang-nursery/rustfmt/issues)
-        * Though some are without clear instructions, the domain is easy to understand (it's mostly manipulating strings), and potentially engaging.
-    * [rustup - the Rust installer](https://github.com/rust-lang-nursery/rustup.rs/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
-    * Rust documentation
-        * [Labeled easy](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AA-docs+label%3AE-easy)
-        * [Standard library API docs](https://github.com/rust-lang/rust/issues/29329)
-    * [This Week in Rust](https://this-week-in-rust.org/) also publishes a call for participation each week with hot contribution ideas.
+Hack & Learn are mainly structureless, which allows for people of all experience levels to feel great. They can follow their interests and can interact with people. As an organiser, you can try to also bring your own project, please note that you will the first point of contact for problems.
+
+* Give people some time to get in and wait 5-10 minutes to get them set up and comfortable
+* Do an intro round (5 minutes). Ask everyone for:
+  - Who they are
+  - What previous programming experiences they have
+  - What they intend to work on (or if they are searching for a project)
+* Encourage people to group up or work alone
+* Introduce new people to the existing resources
+* Help people that don't have a project to find one
+* Open time: people should just work on whatever they have. Some people will just chat, make sure they don't disturb others.
+* Closing: go through the group again and ask people for their progress.
+  - If time allows, make a [Show & Tell](https://en.wikipedia.org/wiki/Show_and_tell_(education)) and have people actually present their learnings in a very short talk.
+* If this is the first time you run it: ask people about their schedules and try to find a regular date for repeats.
+
+If the event is just 2 hours long, keep the intro and the closing short. If you spend 2.5 hours or more, you can spend more time on the closing. If the event is even longer, consider running something by the middle of it, to give people a moment to step away from the project.
 
 ## Directly at the end of the activity
 Immediately after the event don’t forget to share the link to the impact form with your attendees:
@@ -97,19 +105,41 @@ Remember this is how you’ll know who attended your event, and if you successfu
 
 ### Tutorials
 
-* [Niko Matsakis's excellent slide deck](https://github.com/nikomatsakis/rust-tutorials-keynote)
-* [Exercises to accompany that deck](https://github.com/nikomatsakis/rust-tutorializer)
-* [A screencast from Niko on ownership and borrowing](https://www.youtube.com/watch?v=TCUBSbJENO4)
+#### Learn by Example
+
+* [Getting used to reading and writing Rust code](https://github.com/carols10cents/rustlings)
+* ["Exercism" coding challenges](http://exercism.io/languages/rust/about)
+* ["Rust by Example"](https://rustbyexample.com/index.html)
+
+#### Visual learning
+
+* ["Into Rust", a series of introductory screencasts about Rust](http://intorust.com/)
+* [A video tutorial series about Rust](https://www.youtube.com/playlist?list=PL0Fqs05rod8D80WKBCeT326CT8vcAm_N9)
+
+#### Coming from other programming languages
+
+* [Ruby developers](http://www.rustforrubyists.com/book/book.html)
+* [node.js developers](https://github.com/Mercateo/rust-for-node-developers#rust-for-node-developers)
+* [Java developers](https://mixitconf.org/en/2017/rust-for-java-developers)
+* [C++ developers](https://github.com/nrc/r4cppp#rust-for-systems-programmers)
+* [Python developers](http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/)
+
 
 ## Output
-Additional to the recommended event flow here are some things we’d like you, the event organizer, to do.
+In addition to the recommended event flow here are some things we’d like you, the event organizer, to do:
 
 * Fill out the post-event metrics on the event page you setup on the Reps portal
-* Optionally, tell us about your event. This can be before or after. We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two! This will also be instructional and inspirational to others who might do the event.
-    * [Here is the Discourse post to write to](https://discourse.mozilla-community.org/t/activate-mozilla-dive-into-rust/10073/1)
+* Share your own experience on social media and encourage your attendees to do so as well:
+  * use the hashtag [#RustActivate]
+  * mention the [@rustlang] account so they can RT you!
+  * link to a GitHub project or blogpost to show off your work!
+  * take a "family photo" of your group members (make sure to get permission from everyone first!)
+
+[#RustActivate]: https://twitter.com/search?f=tweets&q=%23RustActivate&src=typd
+[@rustlang]: https://twitter.com/rustlang
 
 ## Extra
-While the focus of this activity should be on these events, there are other ways to stay more involved with the Rust community after.
+While the focus of this activity should be on these events, people can get more involved with the Rust community after.
 
 * Follow up with attendees to highlight [more things happening in the community to get involved with](https://www.rust-lang.org/en-US/community.html)
 </div>
