@@ -14,3 +14,8 @@
     ga('send', 'pageview');
   }
 </script>
+
+<!-- Set API base URL as global variable so we don't need to put it in every single layout -->
+<script>
+  window.ACTIVATE_API_BASE_URL = '{{ site.api_base_url }}';
+</script>

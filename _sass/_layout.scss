@@ -19,6 +19,10 @@
     a.page-link:active,
     a.page-link:focus {
         color: white;
+
+        @media all and (max-width: 992px) {
+            width: 100%;
+        }
     }
 
     a.page-link:hover {
@@ -294,6 +298,71 @@
 
         .hidden {
             display: none;
+        }
+
+        .impact-totals {
+            .dashboard {
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                align-content: space-between;
+                justify-content: space-between;
+
+                .column {
+                    text-align: center;
+
+                    span {
+                      font-size: 1.5em;
+                    }
+                }
+            }
+
+            @media all and (max-width: 768px) {
+                .dashboard {
+                  display: block;
+
+                  .column {
+                    text-align: left;
+                  }
+                }
+            }
+        }
+
+        #impact-event-search {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-wrap: nowrap;
+            -ms-flex-wrap: nowrap;
+            flex-wrap: nowrap;
+            align-content: space-between;
+            justify-content: space-between;
+
+            #date,
+            .submit {
+              margin-left: 10px;
+            }
+
+            @media all and (max-width: 768px) {
+                flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+
+                select {
+                  width: 100%;
+                }
+
+                #date,
+                .submit {
+                  margin-top: 10px;
+                  margin-left: 0;
+                }
+            }
         }
     }
 
