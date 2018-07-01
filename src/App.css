@@ -1,0 +1,294 @@
+@font-face {
+    font-family: "Zilla Slab";
+    font-style: normal;
+    font-weight: 400;
+    src: url("/assets/fonts/ZillaSlab-Regular.woff2") format("woff2"), url("/assets/fonts/ZillaSlab-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Zilla Slab Highlight";
+    font-style: normal;
+    font-weight: 400;
+    src: url("/assets/fonts/ZillaSlabHighlight-Regular.woff2") format("woff2"), url("/assets/fonts/ZillaSlabHighlight-Regular.woff") format("woff");
+}
+
+:root {
+    --base-font-family: 'Open Sans', sans-serif;
+    --base-font-size: 18px;
+    --base-font-weight: 300;
+    --small-font-size: var(--base-font-size) * 0.875;
+    --base-line-height: 1.5;
+    --spacing-unit: 30px;
+    --grey-color: #828282;
+    --grey-color-light: #dcdcdc;
+    --grey-color-dark: #4f4f4f;
+    --green-color: #6d7c23;
+    --red-color: #c07578;
+    --blue-color: #3161a8;
+    --purple-color: #9194b0;
+    --text-color: #000;
+    --text-color-light: #fff;
+    --background-color: #fff;
+    --brand-color: #00458b;
+    --brand-color-light: #aae3c6;
+    --page-header-background: #f5f5f5;
+    --page-header-border: #778492;
+    --activity-background: #DAE3E7;
+    --post-content-background: #FFFFFF; // Width of the content area
+    --content-width: 960px;
+    --on-mobile: 360px;
+    --on-palm: 767px;
+    --on-laptop: 992px;
+}
+
+/**
+ * Reset some basic elements
+ */
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+hr,
+dl,
+dd,
+ol,
+ul,
+figure {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+/**
+ * Basic styling
+ */
+
+body {
+    font-family: var(--base-font-family);
+    font-weight: var(--base-font-weight);
+    font-size: var(--base-font-size);
+    color: var(--text-color);
+    background-color: var(--background-color);
+    font-kerning: normal;
+}
+
+/**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+ul,
+ol,
+dl,
+figure {
+    margin-bottom: calc(var(--spacing-unit) / 2);
+}
+
+/**
+ * Images
+ */
+
+img {
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+/**
+ * Figures
+ */
+
+figure>img {
+    display: block;
+}
+
+figcaption {
+    font-size: var(--small-font-size);
+}
+
+/**
+ * Lists
+ */
+
+ul,
+ol {
+    margin-left: var(--spacing-unit);
+}
+
+li {
+    >ul,
+    >ol {
+        margin-bottom: 0;
+    }
+}
+
+/**
+ * Headings
+ */
+
+h1 {
+    font-family: 'Zilla Slab Highlight', cursive;
+    font-weight: 400;
+}
+
+h2 {
+    font-size: 3rem;
+    color: black;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Zilla Slab', serif;
+    font-weight: 400;
+}
+
+h1,
+h3,
+h4,
+h5,
+h6 {
+    display: block;
+    margin: 0 0 12px 0;
+    line-height: 1;
+}
+
+/**
+ * Links
+ */
+
+a {
+    color: var(--brand-color);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:focus,
+a:active {
+    text-decoration: none;
+    color: var(--brand-color);
+}
+
+a:hover {
+    color: var(--brand-color);
+    text-decoration: none;
+}
+
+/**
+ * Blockquotes
+ */
+
+blockquote {
+    color: var(--grey-color);
+    border-left: 4px solid var(--grey-color-light);
+    padding-left: calc(var(--spacing-unit) / 2);
+    font-size: 18px;
+    letter-spacing: -1px;
+    font-style: italic;
+}
+
+blockquote::last-child {
+    margin-bottom: 0;
+}
+
+/**
+ * Code formatting
+ */
+
+pre,
+code {
+    font-size: 15px;
+    border: 1px solid var(--grey-color-light);
+    border-radius: 3px;
+    background-color: #eef;
+}
+
+code {
+    padding: 1px 5px;
+}
+
+pre {
+    padding: 8px 12px;
+    overflow-x: auto;
+}
+
+pre code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+/**
+ * Wrapper
+ */
+
+.wrapper {
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: var(--spacing-unit);
+    padding-left: var(--spacing-unit);
+}
+
+@media all and (max-width: var(--on-laptop)) {
+    .wrapper {
+        padding-right: calc(var(--spacing-unit) / 2);
+        padding-left: calc(var(--spacing-unit) / 2);
+    }
+}
+
+@media all and (max-width: var(--on-laptop)) {
+    wrapper .trigger {
+        background-color: var(--brand-color);
+        z-index: 99;
+        width: 150px;
+        border: none;
+        position: absolute;
+        right: 0px;
+        top: 58px;
+        margin-right: 0;
+        border: none;
+        border-top-color: var(--brand-color) !important;
+    }
+}
+
+.wrapper:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/**
+ * Icons
+ */
+
+.icon svg {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+}
+
+.icon svg path {
+    fill: var(--grey-color);
+}
