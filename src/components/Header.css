@@ -23,21 +23,21 @@ img.brand {
     color: var(--brand-color);
 }
 
-a.page-link,
-a.page-link:active,
-a.page-link:focus {
+header a.page-link,
+header a.page-link:active,
+header a.page-link:focus {
     color: var(--brand-color);
 }
 
 @media all and (max-width: 992px) {
-    a.page-link,
-    a.page-link:active,
-    a.page-link:focus {
+    header a.page-link,
+    header a.page-link:active,
+    header a.page-link:focus {
         color: #FFF;
     }
 }
 
-a.page-link:hover {
+header a.page-link:hover {
     border-bottom: 2px solid var(--brand-color);
     box-shadow: inset 0 -2px 0 var(--brand-color);
 }
