@@ -1,4 +1,6 @@
+import 'babel-polyfill';
 import React, { Component } from 'react';
+import { Localized } from 'fluent-react/compat';
 
 import './Header.css';
 
@@ -22,11 +24,21 @@ class Header extends Component {
           </button>
 
           <div className="trigger collapse navbar-collapse" id="CollapsingNavbar">
-            <a className="page-link" href="/activities/">Activities</a>
-            <a className="page-link" href="/eventguide/">Event Guide</a>
-            <a className="page-link" href="/faq/">FAQ</a>
-            <a className="page-link" href="/impact/">Impact</a>
-            <a className="page-link" href="/howwasit/">Impact Form</a>
+            <Localized id="nav-activities">
+              <a className="page-link" href="/activities/">Activities</a>
+            </Localized>
+            <Localized id="nav-event-guide">
+              <a className="page-link" href="/eventguide/">Event Guide</a>
+            </Localized>
+            <Localized id="nav-faq">
+              <a className="page-link" href="/faq/">FAQ</a>
+            </Localized>
+            <Localized id="nav-impact">
+              <a className="page-link" href="/impact/">Impact</a>
+            </Localized>
+            <Localized id="nav-impact-form">
+              <a className="page-link" href="/howwasit/">Impact Form</a>
+            </Localized>
           </div>
         </div>
       </header>
