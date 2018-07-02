@@ -10,7 +10,7 @@ class Header extends Component {
       <header>
         <div className="wrapper container">
           <a className="site-title" href="/">
-            <img src="/activate.png" alt="Logo" class="brand" />
+            <img src="/activate.png" alt="Logo" className="brand" />
           </a>
 
           <button className="navbar-toggle collapsed"

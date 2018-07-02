@@ -12,7 +12,7 @@ class Footer extends Component {
           <div className="icons">
             <div className="icon-container">
               <div className="icon">
-                <img src="/icons/icon-twitter.svg" alt="" class="footer-icon" />
+                <img src="/icons/icon-twitter.svg" alt="" className="footer-icon" />
                 <Localized id="twitter">
                   <a href="https://twitter.com/MozParticipate" rel="noopener noreferrer" target="_blank">Twitter</a>
                 </Localized>
@@ -20,7 +20,7 @@ class Footer extends Component {
             </div>
             <div className="icon-container">
               <div className="icon">
-                <img src="/icons/icon-irc.svg" alt="" class="footer-icon" />
+                <img src="/icons/icon-irc.svg" alt="" className="footer-icon" />
                 <Localized id="discussion">
                   <a href="https://discourse.mozilla-community.org/c/participation-leaders" rel="noopener noreferrer" target="_blank">Discussion</a>
                 </Localized>
@@ -28,7 +28,7 @@ class Footer extends Component {
             </div>
             <div className="icon-container">
               <div className="icon">
-                <img src="/icons/icon-code.svg" alt="" class="footer-icon" />
+                <img src="/icons/icon-code.svg" alt="" className="footer-icon" />
                 <Localized id="contribute">
                   <a href="https://github.com/mozilla/activate.mozilla.community" rel="noopener noreferrer" target="_blank">Contribute</a>
                 </Localized>
@@ -36,7 +36,7 @@ class Footer extends Component {
             </div>
             <div className="icon-container">
               <div className="icon">
-                <img src="/icons/icon-terms.svg" alt="" class="footer-icon" />
+                <img src="/icons/icon-terms.svg" alt="" className="footer-icon" />
                 <Localized id="legal">
                   <a href="https://www.mozilla.org/en-US/about/legal.html" rel="noopener noreferrer" target="_blank">Legal</a>
                 </Localized>
@@ -45,7 +45,7 @@ class Footer extends Component {
           </div>
 
           <div className="footer-content">
-            <a href="https://www.mozilla.org/" class="logo" rel="noopener noreferrer" target="_blank">
+            <a href="https://www.mozilla.org/" className="logo" rel="noopener noreferrer" target="_blank">
               <img src="/mozilla-wordmark.svg" alt="Mozilla Logo" height="30" width="105" />
             </a>
             <Localized id="footer-description">
@@ -55,6 +55,22 @@ class Footer extends Component {
                 at <a target="_blank"  rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a>
               </p>
             </Localized>
+            <form className="languages" id="lang_form">
+              <select id="language-select"
+                      name="lang"
+                      defaultValue="{this.props.currentLocales[0]}"
+                      className="form-control"
+                      onChange={this.props.handleLocaleChange}
+              >
+                {
+                  this.props.availableLocales.map((locale) => {
+                    return (
+                      <option key={locale} value={locale}>{locale}</option>
+                    )
+                  })
+                }
+              </select>
+            </form>
           </div>
         </div>
       </footer>

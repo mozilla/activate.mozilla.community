@@ -74,3 +74,15 @@ footer a:hover {
   text-align: left;
   width: calc(100% - 10.375rem);
 }
+
+.languages {
+  clear: both;
+  padding-left: 10px;
+  margin-left: 10px;
+  border-left: 1px solid #666;
+}
+
+.languages .form-control {
+  width: auto;
+  padding: 0;
+}

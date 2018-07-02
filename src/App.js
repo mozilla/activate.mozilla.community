@@ -10,6 +10,8 @@ import './App.css';
 
 class App extends Component {
   render() {
+    const { currentLocales, handleLocaleChange, availableLocales } = this.props;
+
     return (
       <Fragment>
         <Header></Header>
@@ -19,7 +21,10 @@ class App extends Component {
             <Route path='/faq' component={FAQ}/>
           </Switch>
         </BrowserRouter>
-        <Footer></Footer>
+        <Footer currentLocales={currentLocales}
+                availableLocales={availableLocales}
+                handleLocaleChange={handleLocaleChange}
+        ></Footer>
       </Fragment>
     );
   }

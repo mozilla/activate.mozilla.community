@@ -1,9 +1,11 @@
-import React, { Component } from 'react';
+import React, { Component, Children, cloneElement } from 'react';
 import 'babel-polyfill';
 import 'fluent-intl-polyfill/compat';
 import { MessageContext } from 'fluent/compat';
 import { LocalizationProvider } from 'fluent-react/compat';
 import { negotiateLanguages } from 'fluent-langneg/compat';
+
+const AVAILABLE_LOCALES = ['en-US', 'es'];
 
 async function fetchMessages(locale) {
   const response = await fetch(`/locales/${locale}.ftl`);
@@ -37,7 +39,7 @@ export class AppLocalizationProvider extends Component {
 
     const currentLocales = negotiateLanguages(
       userLocales,
-      ['en-US', 'es'],
+      AVAILABLE_LOCALES,
       { defaultLocale: 'en-US' }
     );
 
@@ -46,24 +48,40 @@ export class AppLocalizationProvider extends Component {
     };
   }
 
+  handleLocaleChange(locale) {
+    this.generateMessages([locale]);
+    this.setState({
+      currentLocales: [locale]
+    });
+  }
+
   async componentWillMount() {
-    const { currentLocales } = this.state;
-    const generateMessages  = await createMessagesGenerator(currentLocales);
+    await this.generateMessages(this.state.currentLocales);
+  }
+
+  async generateMessages(locales) {
+    const generateMessages  = await createMessagesGenerator(locales);
     this.setState({ messages: generateMessages() });
   }
 
   render() {
-    const { children } = this.props;
-    const { messages } = this.state;
+    const child = Children.only(this.props.children);
+    const { messages, currentLocales } = this.state;
+
+
+    const l10nProps = {
+      currentLocales,
+      availableLocales: AVAILABLE_LOCALES,
+      handleLocaleChange: (e) => this.handleLocaleChange(e.target.value),
+    };
 
     if (!messages) {
-      // Show a loader.
       return <div>…</div>;
     }
 
     return (
       <LocalizationProvider messages={messages}>
-        {children}
+        { cloneElement(child, l10nProps) }
       </LocalizationProvider>
     );
   }
