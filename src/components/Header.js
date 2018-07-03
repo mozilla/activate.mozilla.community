@@ -8,9 +8,9 @@ class Header extends Component {
   render() {
     return (
       <header>
-        <div className="wrapper container">
+        <div className="container">
           <a className="site-title" href="/">
-            <img src="/activate.png" alt="Logo" className="brand" />
+            <img src="/activate.png" alt="" className="brand" />
           </a>
 
           <button className="navbar-toggle collapsed"
