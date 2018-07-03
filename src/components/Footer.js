@@ -48,11 +48,12 @@ class Footer extends Component {
             <a href="https://www.mozilla.org/" className="logo" rel="noopener noreferrer" target="_blank">
               <img src="/mozilla-wordmark.svg" alt="Mozilla Logo" height="30" width="105" />
             </a>
-            <Localized id="footer-description">
+            <Localized id="footer-description"
+                       mozillaLink={<a target="_blank" rel="noopener noreferrer" href="//mozilla.org"></a>}>
               <p>
                 Mozilla is a global non-profit dedicated to putting you in control of your online
                 experience and shaping the future of the web for the public good. Visit us
-                at <a target="_blank"  rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a>
+                at <mozillaLink>mozilla.org</mozillaLink>.
               </p>
             </Localized>
             <form className="languages" id="lang_form">
