@@ -53,7 +53,7 @@ class Footer extends Component {
               <p>
                 Mozilla is a global non-profit dedicated to putting you in control of your online
                 experience and shaping the future of the web for the public good. Visit us
-                at <mozillaLink>mozilla.org</mozillaLink>.
+                at <a target="_blank" rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a>
               </p>
             </Localized>
             <form className="languages" id="lang_form">
