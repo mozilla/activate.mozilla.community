@@ -246,8 +246,7 @@ pre code {
 .wrapper {
     margin-right: auto;
     margin-left: auto;
-    padding-right: var(--spacing-unit);
-    padding-left: var(--spacing-unit);
+    padding: var(--spacing-unit) var(--spacing-unit);
 }
 
 @media all and (max-width: var(--on-laptop)) {
