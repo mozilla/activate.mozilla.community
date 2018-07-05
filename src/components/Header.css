@@ -60,6 +60,7 @@ button.navbar-toggle {
     margin-right: 23px;
     float: left;
     color: #e29fa0;
+    min-width: 260px;
 }
 
 .site-title:visited {
