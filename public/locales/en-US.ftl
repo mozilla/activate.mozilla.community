@@ -8,6 +8,31 @@ discussion = Discussion
 contribute = Contribute
 legal = Legal
 footer-description = Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a target="_blank"  rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a>
+
+faq-title = Frequently Asked Questions
+faq-what-title = What is Activate Mozilla?
+faq-what-answer = Activate Mozilla is a campaign for Mozillians around the world to have impact in areas key to Mozilla’s mission. We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now, and provide clear steps on how to get involved right away. These will be presented in the form of activities.
+faq-who-title = Who can be involved in the activities?
+faq-who-answer = Anyone who wants to support Mozilla.
+faq-how-title = How do I get involved?
+faq-how-answer = Just navigate the site and read the different areas and activities described. There you will find more information on why the activities have been chosen, and concrete instructions on how to contribute to each of them.
+faq-why-title = Why should I get involved?
+faq-why-answer = The areas and activity described in this site are a result of a joint effort from the Mozilla Participation team and other teams to surface what is imporant for the organization right now. If you want to support Mozilla and you are unsure about what to do, this campaign is for you.
+faq-goals-title = What are the goals of the campaign?
+faq-goals-answer = The goal is providing guidance to mobilizers on how to recruit contributors and create community around meaningful Mozilla projects.
+faq-questions-title = What should I do if I have questions?
+faq-questions-answer = You can ask directly creating a new topic at the <leadersLink>Participation Leaders forum</leadersLink>.
+faq-budget-title = Can I request budget for these activities?
+faq-budget-answer = We encourage you to run these as lean as possible, but realise that sometimes there can be some costs incurred for logistics or refreshments. If your event meets the requirements laid out in the activity, there is a fund available of up to $150 USD per event. This can be used for only the following items/services:
+faq-budget-answer-2 = Locally produced stickers and/or other small items (only for an event for over 50 people)
+faq-budget-answer-3 = Food for participants for an event over than 5 hours
+faq-budget-answer-4 = Venue rental (in the case of the no other alternative)
+faq-budget-answer-5 = Travel for expert on the field (currently allowed only for Rust events)
+faq-budget-answer-6 = For some activities, extra budget is available for special needs. For example, VR headsets for the WebVR Camp activity. Details will be available on the relevant activity pages.
+faq-budget-answer-7 = To make the request, you will need to make a Reps budget request. If you are not a Rep, please contact a local Rep to help you. We will fast-track valid requests, which are ones that meet the requirements of the activity. For larger budget requests, it will be processed like any other Reps budget request and there is no guarantee it will be approved and even if so, whether it will be on time.
+faq-swag-title = Can I request swag for these activities?
+faq-swag-answer = In the case you need swag you can either request it via the <formLink>swag request form</formLink> or <produceLink>produce on your own</produceLink>. If you are not a Rep, you can also ask a nearby Rep to file the request for you. In all cases your request will be evaluated by the bug wrangler before being approved/rejected.
+
 eg-title = Activate Event Planning Guide
 eg-started = Get Started
 eg-started-content = Who you target, where you host and how you promote your event will all depend on the type of event you’re running.
