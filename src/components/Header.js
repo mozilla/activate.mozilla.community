@@ -1,46 +1,49 @@
 import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
+import { Navbar, Nav, NavItem } from 'react-bootstrap';
 
 import './Header.css';
 
 class Header extends Component {
   render() {
     return (
-      <header>
-        <div className="container">
-          <a className="site-title" href="/">
+      <Navbar collapseOnSelect>
+        <Navbar.Header>
+          <Navbar.Brand>
             <img src="/activate.png" alt="" className="brand" />
-          </a>
-
-          <button className="navbar-toggle collapsed"
-                  type="button"
-                  data-toggle="collapse"
-                  data-target="#CollapsingNavbar"
-                  aria-controls="CollapsingNavbar"
-                  aria-expanded="false"
-                  aria-label="Toggle navigation">
-            &#9776;
-          </button>
-
-          <div className="trigger collapse navbar-collapse" id="CollapsingNavbar">
+          </Navbar.Brand>
+          <Navbar.Toggle />
+        </Navbar.Header>
+        <Navbar.Collapse>
+          <Nav>
             <Localized id="nav-activities">
-              <a className="page-link" href="/activities/">Activities</a>
+              <NavItem className="page-link" href="/activities/">
+                Activities
+              </NavItem>
             </Localized>
             <Localized id="nav-event-guide">
-              <a className="page-link" href="/eventguide/">Event Guide</a>
+              <NavItem className="page-link" href="/eventguide/">
+                Event Guide
+              </NavItem>
             </Localized>
             <Localized id="nav-faq">
-              <a className="page-link" href="/faq/">FAQ</a>
+              <NavItem className="page-link" href="/faq/">
+                FAQ
+              </NavItem>
             </Localized>
             <Localized id="nav-impact">
-              <a className="page-link" href="/impact/">Impact</a>
+              <NavItem className="page-link" href="/impact/">
+                Impact
+              </NavItem>
             </Localized>
             <Localized id="nav-impact-form">
-              <a className="page-link" href="/howwasit/">Impact Form</a>
+              <NavItem className="page-link" href="/howwasit/">
+                Impact Form
+              </NavItem>
             </Localized>
-          </div>
-        </div>
-      </header>
+          </Nav>
+        </Navbar.Collapse>
+      </Navbar>
     );
   }
 }
