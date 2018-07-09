@@ -10,7 +10,7 @@ class Header extends Component {
       <Navbar collapseOnSelect>
         <Navbar.Header>
           <Navbar.Brand>
-          <img src="/activate.png" alt="" className="brand" />
+            <img src="/activate.png" alt="" className="brand" />
           </Navbar.Brand>
           <Navbar.Toggle />
         </Navbar.Header>
@@ -18,27 +18,27 @@ class Header extends Component {
           <Nav>
             <Localized id="nav-activities">
               <NavItem className="page-link" href="/activities/">
-              Activities
+                Activities
               </NavItem>
             </Localized>
             <Localized id="nav-event-guide">
               <NavItem className="page-link" href="/eventguide/">
-              Activities2
+                Activities2
               </NavItem>
             </Localized>
             <Localized id="nav-faq">
               <NavItem className="page-link" href="/faq/">
-              FAQ
+                FAQ
               </NavItem>
             </Localized>
             <Localized id="nav-impact">
               <NavItem className="page-link" href="/impact/">
-              Impact
+                Impact
               </NavItem>
             </Localized>
             <Localized id="nav-impact-form">
               <NavItem className="page-link" href="/howwasit/">
-              Impact Form
+                Impact Form
               </NavItem>
             </Localized>
           </Nav>
