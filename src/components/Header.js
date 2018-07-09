@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
-import { Navbar, Nav, NavItem, NavDropdown, MenuItem } from 'react-bootstrap';
+import { Navbar, Nav, NavItem } from 'react-bootstrap';
 
 import './Header.css';
 
