@@ -23,7 +23,7 @@ class Header extends Component {
             </Localized>
             <Localized id="nav-event-guide">
               <NavItem className="page-link" href="/eventguide/">
-                Activities2
+                Event Guide
               </NavItem>
             </Localized>
             <Localized id="nav-faq">
