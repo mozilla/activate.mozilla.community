@@ -7,7 +7,7 @@ footer {
   width: 100%;
   margin: 0;
   bottom: 0;
-  position: absolute;
+  position: relative;
 }
 
 footer .icons {
@@ -22,12 +22,14 @@ footer .icon-container {
   font-size: 1.1em;
 }
 
-footer .icon .footer-icon {
-  max-width: 18px;
-  margin-right: 5px;
+@media all and (min-width: 560px) {
+  footer .icon .footer-icon {
+    max-width: 18px;
+    margin-right: 5px;
+  }
 }
 
-@media all and (max-width: var(--on-palm)) {
+@media all and (max-width: 560px) {
   footer .icon-container {
       display: block;
       width: 100%;
@@ -40,6 +42,7 @@ footer .icon .footer-icon {
   footer .footer-icon {
       display: block;
       margin: 5px auto;
+      margin-right: auto;
       width: 20px;
   }
 }
@@ -65,7 +68,7 @@ footer a:hover {
 .footer-content a.logo {
   color: white;
   display: inline-block;
-  border-right: 0.0625rem solid #666;
+  border-right: 1px solid #666;
   padding-right: 1.25rem;
   margin-right: 1.25rem;
   margin-top: 0;
@@ -75,12 +78,13 @@ footer a:hover {
 .footer-content p {
   text-align: left;
   width: calc(100% - 10.375rem);
+  margin-bottom: 0;
 }
 
 .languages {
   clear: both;
-  padding-left: 10px;
-  margin-left: 10px;
+  padding-left: 1.25rem;
+  margin-left: 1.25rem;
   border-left: 1px solid #666;
 }
 
