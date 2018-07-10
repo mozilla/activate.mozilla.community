@@ -6,8 +6,12 @@ footer {
   line-height: 1.3;
   width: 100%;
   margin: 0;
+
+  position: absolute;
+  right: 0;
   bottom: 0;
-  position: relative;
+  left: 0;
+  padding: 2rem 0;
 }
 
 footer .icons {
@@ -22,14 +26,14 @@ footer .icon-container {
   font-size: 1.1em;
 }
 
-@media all and (min-width: 560px) {
+@media all and (min-width: 767px) {
   footer .icon .footer-icon {
     max-width: 18px;
     margin-right: 5px;
   }
 }
 
-@media all and (max-width: 560px) {
+@media all and (max-width: 767px) {
   footer .icon-container {
       display: block;
       width: 100%;
