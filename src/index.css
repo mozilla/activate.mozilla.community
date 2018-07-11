@@ -8,21 +8,3 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
-
-#root {
-  position: relative;
-  padding-bottom: 24rem;
-  min-height: 100%;
-}
-
-@media all and (max-width: 767px) {
-  #root {
-    padding-bottom: calc(var(--spacing-unit) * 19);
-  }
-}
-
-@media all and (max-width: 360px) {
-  #root {
-    padding-bottom: calc(var(--spacing-unit) * 24);
-  }
-}
