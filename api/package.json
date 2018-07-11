@@ -8,15 +8,15 @@
     "fetch:users": "node tasks/fetchRepsUsers.js"
   },
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "dateformat": "^3.0.2",
+    "body-parser": "^1.18.3",
+    "dateformat": "^3.0.3",
     "debug": "^3.1.0",
-    "dom-storage": "^2.0.2",
-    "express": "^4.16.2",
-    "google-spreadsheet": "^2.0.4",
+    "dom-storage": "^2.1.0",
+    "express": "^4.16.3",
+    "google-spreadsheet": "^2.0.5",
     "node-cron": "^1.2.1",
-    "node-fetch": "^1.7.3",
+    "node-fetch": "^2.1.2",
     "promise-map-series": "^0.2.3",
-    "sanitize-html": "^1.15.0"
+    "sanitize-html": "^1.18.2"
   }
 }
