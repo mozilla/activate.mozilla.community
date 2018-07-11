@@ -126,4 +126,8 @@ footer a:hover {
     margin: 0 auto;
     text-align: center;
   }
+
+  footer .form-control {
+    display: initial;
+  }
 }
