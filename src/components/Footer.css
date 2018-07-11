@@ -23,34 +23,6 @@ footer .icon-container {
   font-size: 1.1em;
 }
 
-@media all and (min-width: 767px) {
-  footer .icon .footer-icon {
-    max-width: 18px;
-    margin-right: 5px;
-  }
-}
-
-@media all and (max-width: 767px) {
-  footer .icon-container {
-      display: block;
-      width: 100%;
-  }
-
-  footer .icons {
-    margin-bottom: 40px;
-  }
-
-  footer .icon {
-      text-align: center;
-  }
-
-  footer .footer-icon {
-      display: block;
-      margin: 5px auto;
-      width: 20px;
-  }
-}
-
 footer a {
   color: var(--text-color-light);
   font-weight: normal;
@@ -95,4 +67,63 @@ footer a:hover {
 .languages .form-control {
   width: auto;
   padding: 0;
+}
+
+@media all and (min-width: 767px) {
+  footer .icon .footer-icon {
+    max-width: 18px;
+    margin-right: 5px;
+  }
+}
+
+@media all and (max-width: 767px) {
+  footer .icon-container {
+      display: block;
+      width: 100%;
+      margin: 0;
+  }
+
+  footer .icons {
+    margin-bottom: 40px;
+  }
+
+  footer .icon {
+      text-align: center;
+  }
+
+  footer .footer-icon {
+      display: block;
+      margin: 5px auto;
+      width: 20px;
+  }
+
+  footer .footer-content {
+    display: inline-block;
+    text-align: center;
+  }
+
+  .footer-content a.logo {
+    border-bottom: 1px solid #666;
+    padding-bottom: 1.25rem;
+    border-right: none;
+    padding-right: 0;
+    margin-right: 0;
+  }
+
+  .footer-content p {
+    width: inherit;
+    margin: 15px;
+    text-align: center;
+  }
+  
+  .languages {
+    padding-top: 1.25rem;
+    border-top: 1px solid #666;
+    margin-left: 0;
+    padding-left: 0;
+    border-left: none;
+    width: 25%;
+    margin: 0 auto;
+    text-align: center;
+  }
 }
