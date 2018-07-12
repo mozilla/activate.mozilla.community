@@ -10,6 +10,10 @@ img.brand {
     height: 100%;
 }
 
+.navbar {
+    margin-bottom: 0;
+}
+
 .navbar-nav {
     margin: 10px;
 }
@@ -18,13 +22,17 @@ img.brand {
     display: inline-block;
 }
 
+.navbar-default {
+    border-radius: 0;
+}
+
 /* Mobile toggle button */
 .navbar-default .navbar-toggle {
     border: 0;
     margin: 15px;
 }
 
-.navbar-default .navbar-toggle:hover, 
+.navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
     background: none;
 }

@@ -9,6 +9,9 @@ contribute = ESContribute
 legal = ESLegal
 footer-description = ESMozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a target="_blank"  rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a>
 
+activate = Activate
+activate-description = The Activate Mozilla campaign aims at the grassroots of volunteer contributions. We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now by providing guidance to mobilizers on how to recruit contributors and create community around meaningful Mozilla projects.
+
 faq-title = ESFrequently Asked Questions
 faq-what-title = ESWhat is Activate Mozilla?
 faq-what-answer = ESActivate Mozilla is a campaign for Mozillians around the world to have impact in areas key to Mozilla’s mission. We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now, and provide clear steps on how to get involved right away. These will be presented in the form of activities.
