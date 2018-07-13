@@ -12,7 +12,7 @@ class ActivityTile extends Component {
       titleKey,
       descriptionKey,
       tagKey,
-      durationInHours,
+      durationKey,
     } = this.props;
 
     const cardClassNames = [
@@ -45,9 +45,8 @@ class ActivityTile extends Component {
             <div className="tags">Testing</div>
           </Localized>
           <div className="duration">
-            <span>{durationInHours}&nbsp;</span>
-            <Localized id="hours">
-              <span>hours</span>
+            <Localized id={durationKey}>
+              <span></span>
             </Localized>
           </div>
         </footer>

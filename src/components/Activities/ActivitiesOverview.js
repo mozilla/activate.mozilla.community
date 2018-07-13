@@ -14,42 +14,42 @@ class ActivitiesOverview extends Component {
             titleKey="nightly-title"
             descriptionKey="nightly-description"
             tagKey="testing"
-            durationInHours="1-3"
+            durationKey="nightly-duration"
           ></ActivityTile>
           <ActivityTile
             titleImage="/images/techspeakers-header.png"
             titleKey="techspeakers-title"
             descriptionKey="techspeakers-description"
             tagKey="programming"
-            durationInHours="1-2"
+            durationKey="techspeakers-duration"
           ></ActivityTile>
           <ActivityTile
             titleImage="/images/webextensions-header.png"
             titleKey="webextensions-title"
             descriptionKey="webextensions-description"
             tagKey="programming"
-            durationInHours="1-3"
+            durationKey="webextensions-duration"
           ></ActivityTile>
           <ActivityTile
             titleImage="/images/rust-header.png"
             titleKey="rust-title"
             descriptionKey="rust-description"
             tagKey="programming"
-            durationInHours="2-3"
+            durationKey="rust-duration"
           ></ActivityTile>
           <ActivityTile
             titleImage="/images/webvr-header.png"
             titleKey="webvr-title"
             descriptionKey="webvr-description"
             tagKey="programming"
-            durationInHours="3-4"
+            durationKey="webvr-duration"
           ></ActivityTile>
           <ActivityTile
             titleImage="/images/webcompat-header.png"
             titleKey="webcompat-title"
             descriptionKey="webcompat-description"
             tagKey="testing"
-            durationInHours="2-3"
+            durationKey="webcompat-duration"
           ></ActivityTile>
         </Row>
       </Grid>

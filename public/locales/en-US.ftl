@@ -21,16 +21,22 @@ participation = Participation
 
 nightly-title = Using & Testing Nightly
 nightly-description = This activity has great potential to make an impact by increasing overall involvement in Nightly, simply by introducing community to tasks that they can engage in related to Nightly. Finding and filing issues early in the cycle means by the time Firefox gets to release, the code is in good shape.
+nightly-duration = 1-3 hours
 techspeakers-title = Host a Technology Talk with Tech Speakers!
 techspeakers-description = As Mozilla we’re working to help to keep the internet healthy, open and accessible to all but we can’t do it alone. We need to engage with people who are on the front lines of building the internet: web developers, designers, and other technologists who care about the open web. We need to get them excited about Mozilla as a technology leader.
+techspeakers-duration = 1-2 hours
 webextensions-title = Build Your Own Extension for Firefox
 webextensions-description = Add-ons provide a safe, simple, and powerful way to personalize your browsing experience. With WebExtensions APIs, it’s easier than ever to create extensions that can be easily ported to Firefox, Chrome, Edge, and Opera. Through this activity you’ll help connect new developers with an opportunity to create browser extensions to solve real problems and make their lives and the web better.
+webextensions-duration= 1-3 hours
 rust-title = Dive Into Rust
 rust-description = Rust is a systems programming language important to the future of the web. It runs blazingly fast, prevents segfaults, and guarantees thread safety. With your help, we want more developers to understand, use and evangelize this language in order to make the web better and more secure.
+rust-duration = 2-3 hours
 webvr-title = WebVR Camp
 webvr-description = A-Frame is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality. Run events to onboard developers into 3D and write some great demos. This will advance WebVR, an open platform for virtual reality that leverages the Web.
+webvr-duration = 3-4 hours
 webcompat-title = Web Compatibility Sprint
 webcompat-description = Web Compatibility, the ability for all Web content to run in all browsers, is important. There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired. Test sites and spread the message about compatibility.
+webcompat-duration = 2-3 hours
 
 faq-title = Frequently Asked Questions
 faq-what-title = What is Activate Mozilla?
