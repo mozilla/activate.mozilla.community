@@ -5,6 +5,7 @@
   min-height: 300px;
   padding-bottom: 32px;
   margin-bottom: 32px;
+  max-width: 336px;
 }
 
 .activity-card .item-header {
