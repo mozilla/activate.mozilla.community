@@ -9,6 +9,40 @@ contribute = ESContribute
 legal = ESLegal
 footer-description = ESMozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a target="_blank"  rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a>
 
+activate = ESActivate
+activate-description = ESThe Activate Mozilla campaign aims at the grassroots of volunteer contributions. We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now by providing guidance to mobilizers on how to recruit contributors and create community around meaningful Mozilla projects.
+
+learn-more = ESFind out more
+
+hours = ESHours
+testing = ESTesting
+programming = ESProgramming
+participation = ESParticipation
+
+activities-intro = ESThese activities were designed with 2 things in mind:
+activities-goals-1 = ESThat they have the potential to have a direct impact on Mozilla’s work right now
+activities-goals-2 = ESThat they bring value to you and your community. While we have specific metrics for each activity, one of the main overall goals is that we all get better at mobilising and building communities.
+activities-community = ESBefore you jump right in: Look at your goals for the year, what do you and your community want to accomplish in each of the impact areas? Which of the following activities best map to those goal? And very importantly, ask yourself if by doing these activities you can expose new people to the work that Mozilla is doing and we can build new communities around them.
+
+nightly-title = ESUsing & Testing Nightly
+nightly-description = ESThis activity has great potential to make an impact by increasing overall involvement in Nightly, simply by introducing community to tasks that they can engage in related to Nightly. Finding and filing issues early in the cycle means by the time Firefox gets to release, the code is in good shape.
+nightly-duration = ES1-3 hours
+techspeakers-title = ESHost a Technology Talk with Tech Speakers!
+techspeakers-description = ESAs Mozilla we’re working to help to keep the internet healthy, open and accessible to all but we can’t do it alone. We need to engage with people who are on the front lines of building the internet: web developers, designers, and other technologists who care about the open web. We need to get them excited about Mozilla as a technology leader.
+techspeakers-duration = ES1-2 hours
+webextensions-title = ESBuild Your Own Extension for Firefox
+webextensions-description = ESAdd-ons provide a safe, simple, and powerful way to personalize your browsing experience. With WebExtensions APIs, it’s easier than ever to create extensions that can be easily ported to Firefox, Chrome, Edge, and Opera. Through this activity you’ll help connect new developers with an opportunity to create browser extensions to solve real problems and make their lives and the web better.
+webextensions-duration= ES1-3 hours
+rust-title = ESDive Into Rust
+rust-description = ESRust is a systems programming language important to the future of the web. It runs blazingly fast, prevents segfaults, and guarantees thread safety. With your help, we want more developers to understand, use and evangelize this language in order to make the web better and more secure.
+rust-duration = ES2-3 hours
+webvr-title = ESWebVR Camp
+webvr-description = ESA-Frame is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality. Run events to onboard developers into 3D and write some great demos. This will advance WebVR, an open platform for virtual reality that leverages the Web.
+webvr-duration = ES3-4 hours
+webcompat-title = ESWeb Compatibility Sprint
+webcompat-description = ESWeb Compatibility, the ability for all Web content to run in all browsers, is important. There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired. Test sites and spread the message about compatibility.
+webcompat-duration = ES2-3 hours
+
 faq-title = ESFrequently Asked Questions
 faq-what-title = ESWhat is Activate Mozilla?
 faq-what-answer = ESActivate Mozilla is a campaign for Mozillians around the world to have impact in areas key to Mozilla’s mission. We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now, and provide clear steps on how to get involved right away. These will be presented in the form of activities.

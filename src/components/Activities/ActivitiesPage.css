@@ -1,0 +1,66 @@
+.activity-card {
+  text-align: left;
+  border: 1px solid var(--grey-color-light);
+  border-bottom: 3px solid var(--grey-color);
+  min-height: 300px;
+  padding-bottom: 32px;
+  margin-bottom: 32px;
+  max-width: 336px;
+  margin: 2vh;
+}
+
+.activity-card .item-header {
+  margin-right: -15px;
+  margin-left: -15px;
+  display: flex;
+  justify-content: center;
+}
+
+.activity-card  h2 {
+  font-family: 'Zilla Slab Highlight', serif;
+  font-size: 3rem;
+  text-align: left;
+  margin-top: 2rem;
+}
+
+.activity-card footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  font-size: 0.75em;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 25px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  justify-content: space-around;
+  padding: 0 0 0 0;
+  background-color: transparent;
+}
+
+.activity-card.programming {
+  border-bottom: 3px solid var(--green-color);
+}
+
+.activity-card.programming footer {
+  color: var(--green-color);
+}
+
+.activity-card.testing {
+  border-bottom: 3px solid var(--red-color);
+}
+
+.activity-card.testing footer {
+  color: var(--red-color);
+}
+
+.activity-card .participation {
+  border-bottom: 3px solid var(--purple-color);
+}
+
+.activity-card.participation footer {
+  color: var(--purple-color);
+}
