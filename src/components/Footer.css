@@ -5,9 +5,7 @@ footer {
   font-size: 0.9em;
   line-height: 1.3;
   width: 100%;
-  position: relative;
   margin: 0;
-  bottom: 0;
   padding: 2rem 0;
 }
 
@@ -78,9 +76,9 @@ footer a:hover {
 
 @media all and (max-width: 767px) {
   footer .icon-container {
-      display: block;
-      width: 100%;
-      margin: 0;
+    display: block;
+    width: 100%;
+    margin: 0;
   }
 
   footer .icons {
@@ -88,18 +86,19 @@ footer a:hover {
   }
 
   footer .icon {
-      text-align: center;
+    text-align: center;
   }
 
   footer .footer-icon {
-      display: block;
-      margin: 5px auto;
-      width: 20px;
+    display: block;
+    margin: 5px auto;
+    width: 20px;
   }
 
   footer .footer-content {
     display: inline-block;
     text-align: center;
+    max-width: initial;
   }
 
   .footer-content a.logo {
