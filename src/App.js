@@ -1,6 +1,7 @@
 import React, { Component, Fragment } from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
+import AppLocalizationProvider from './l10n';
 import Header from './components/Header.js';
 import Footer from './components/Footer.js';
 import Home from './components/Home/Home.js';
@@ -15,16 +16,18 @@ class App extends Component {
     return (
       <Fragment>
         <BrowserRouter>
-          <main>
-            <Header></Header>
-            <Switch>
-              <Route exact path='/' component={Home}/>
-              <Route path='/activities' component={ActivitiesPage}/>
-              <Route path='/faq' component={FAQ}/>
-              <Route path='/eventguide' component={EventGuide}/>
-            </Switch>
-            <Footer></Footer>
-          </main>
+          <AppLocalizationProvider userLocales={navigator.languages}>
+            <main>
+              <Header></Header>
+              <Switch>
+                <Route exact path='/' component={Home}/>
+                <Route path='/activities' component={ActivitiesPage}/>
+                <Route path='/faq' component={FAQ}/>
+                <Route path='/eventguide' component={EventGuide}/>
+              </Switch>
+              <Footer></Footer>
+            </main>
+          </AppLocalizationProvider>
         </BrowserRouter>
       </Fragment>
     );
