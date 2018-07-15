@@ -1,4 +1,4 @@
-import React, { Component, Fragment } from 'react';
+import React, { Component } from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
 import AppLocalizationProvider from './l10n';
@@ -14,22 +14,20 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <Fragment>
-        <BrowserRouter>
-          <AppLocalizationProvider userLocales={navigator.languages}>
-            <main>
-              <Header></Header>
-              <Switch>
-                <Route exact path='/' component={Home}/>
-                <Route path='/activities' component={ActivitiesPage}/>
-                <Route path='/faq' component={FAQ}/>
-                <Route path='/eventguide' component={EventGuide}/>
-              </Switch>
-              <Footer></Footer>
-            </main>
-          </AppLocalizationProvider>
-        </BrowserRouter>
-      </Fragment>
+      <BrowserRouter>
+        <AppLocalizationProvider userLocales={navigator.languages}>
+          <main>
+            <Header></Header>
+            <Switch>
+              <Route exact path='/' component={Home}/>
+              <Route path='/activities' component={ActivitiesPage}/>
+              <Route path='/faq' component={FAQ}/>
+              <Route path='/eventguide' component={EventGuide}/>
+            </Switch>
+            <Footer></Footer>
+          </main>
+        </AppLocalizationProvider>
+      </BrowserRouter>
     );
   }
 }
