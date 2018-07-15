@@ -1,10 +1,19 @@
 import React, { Component } from 'react';
+import { connect} from 'react-redux';
 import { Localized } from 'fluent-react/compat';
+
+import { changeLocales } from '../actions/language.js';
 
 import './Footer.css';
 
 class Footer extends Component {
   render() {
+    const {
+      availableLocales,
+      currentLocales,
+      changeLocales,
+    } = this.props;
+
     return (
       <footer>
         <div className="wrapper container row">
@@ -58,12 +67,12 @@ class Footer extends Component {
             <form className="languages" id="lang_form">
               <select id="language-select"
                       name="lang"
-                      defaultValue="{this.props.currentLocales[0]}"
+                      defaultValue={currentLocales[0]}
                       className="form-control"
-                      onChange={this.props.handleLocaleChange}
+                      onChange={(event) => changeLocales([event.target.value])}
               >
                 {
-                  this.props.availableLocales.map((locale) => {
+                  availableLocales.map((locale) => {
                     return (
                       <option key={locale} value={locale}>{locale}</option>
                     )
@@ -78,4 +87,12 @@ class Footer extends Component {
   }
 }
 
-export default Footer;
+const mapStateToProps = (state) => ({
+  currentLocales: state.currentLocales,
+  availableLocales: state.availableLocales,
+});
+const mapDispatchToProps = {
+  changeLocales,
+};
+
+export default connect(mapStateToProps, mapDispatchToProps)(Footer);
