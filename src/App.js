@@ -12,23 +12,29 @@ import './App.css';
 
 class App extends Component {
   render() {
-    const { currentLocales, handleLocaleChange, availableLocales } = this.props;
+    const {
+      currentLocales,
+      handleLocaleChange,
+      availableLocales,
+    } = this.props;
 
     return (
       <Fragment>
-        <Header></Header>
         <BrowserRouter>
-          <Switch>
-            <Route exact path='/' component={Home}/>
-            <Route path='/activities' component={ActivitiesPage}/>
-            <Route path='/faq' component={FAQ}/>
-            <Route path='/eventguide' component={EventGuide}/>
-          </Switch>
+          <main>
+            <Header></Header>
+            <Switch>
+              <Route exact path='/' component={Home}/>
+              <Route path='/activities' component={ActivitiesPage}/>
+              <Route path='/faq' component={FAQ}/>
+              <Route path='/eventguide' component={EventGuide}/>
+            </Switch>
+            <Footer currentLocales={currentLocales}
+                  availableLocales={availableLocales}
+                  handleLocaleChange={handleLocaleChange}
+            ></Footer>
+          </main>
         </BrowserRouter>
-        <Footer currentLocales={currentLocales}
-                availableLocales={availableLocales}
-                handleLocaleChange={handleLocaleChange}
-        ></Footer>
       </Fragment>
     );
   }

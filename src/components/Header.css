@@ -1,11 +1,11 @@
 .navbar-default {
     color: #000;
-    min-height: 40px;
+    min-height: 75px;
     border-bottom: 5px var(--brand-color) solid;
 }
 
 img.brand {
-    max-width: 250px;
+    max-width: 200px;
     margin: 7px 50px 10px 0;
 }
 
@@ -19,6 +19,10 @@ img.brand {
 
 .nav > li > a {
     display: inline-block;
+}
+
+.navbar-brand {
+    padding: 15px 0 15px 15px;
 }
 
 .navbar-default {
