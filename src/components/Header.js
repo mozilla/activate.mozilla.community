@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
+import { connect} from 'react-redux';
 import { Localized } from 'fluent-react/compat';
 import { Navbar, Nav } from 'react-bootstrap';
 
@@ -7,6 +8,8 @@ import './Header.css';
 
 class Header extends Component {
   render() {
+    const currentLocale = this.props.currentLocales[0];
+
     return (
       <Navbar collapseOnSelect>
         <Navbar.Header>
@@ -20,35 +23,35 @@ class Header extends Component {
         <Navbar.Collapse>
           <Nav>
             <li className="page-link">
-              <Link to={`/activities/`}>
+              <Link to={`/${currentLocale}/activities/`}>
                 <Localized id="nav-activities">
                   <span>Activities</span>
                 </Localized>
               </Link>
             </li>
             <li className="page-link">
-              <Link to={`/eventguide/`}>
+              <Link to={`/${currentLocale}/eventguide/`}>
                 <Localized id="nav-event-guide">
                   <span>Event Guide</span>
                 </Localized>
               </Link>
             </li>
             <li className="page-link">
-              <Link to={`/faq/`}>
+              <Link to={`/${currentLocale}/faq/`}>
                 <Localized id="nav-faq">
                   <span>FAQ</span>
                 </Localized>
               </Link>
             </li>
             <li className="page-link">
-              <Link to={`/impact/`}>
+              <Link to={`/${currentLocale}/impact/`}>
                 <Localized id="nav-impact">
                   <span>Impact</span>
                 </Localized>
               </Link>
             </li>
             <li className="page-link">
-              <Link to={`/howwasit/`}>
+              <Link to={`/${currentLocale}/howwasit/`}>
                 <Localized id="nav-impact-form">
                   <span>Impact Form</span>
                 </Localized>
@@ -61,4 +64,9 @@ class Header extends Component {
   }
 }
 
-export default Header;
+const mapStateToProps = (state) => ({
+  currentLocales: state.currentLocales,
+});
+const mapDispatchToProps = {};
+
+export default connect(mapStateToProps, mapDispatchToProps)(Header);
