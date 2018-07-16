@@ -19,11 +19,19 @@ class App extends Component {
           <main>
             <Header></Header>
             <Switch>
+              {/* TODO: This is not ideal, we should write our own component that returns both the normal
+                  and localized path route.
+              */}
               <Route exact path='/' component={Home}/>
               <Route path='/activities' component={ActivitiesPage}/>
               <Route path='/faq' component={FAQ}/>
               <Route path='/eventguide' component={EventGuide}/>
-            </Switch>
+
+              <Route exact path='/:lang' component={Home}/>
+              <Route path='/:lang/activities' component={ActivitiesPage}/>
+              <Route path='/:lang/faq' component={FAQ}/>
+              <Route path='/:lang/eventguide' component={EventGuide}/>
+              </Switch>
             <Footer></Footer>
           </main>
         </AppLocalizationProvider>
