@@ -22,14 +22,14 @@ class App extends Component {
               and localized path route.
           */}
           <Route exact path='/' component={Home}/>
-          <Route path='/activities' render={(props) => (<Content><ActivitiesPage {...props} /></Content>)} />
+          <Route path='/activities' component={ActivitiesPage} />
           <Route path='/faq' component={FAQ}/>
           <Route path='/eventguide' component={EventGuide}/>
 
-          <Route exact path='/:lang' component={Home}/>
+          <Route exact path='/:lang' render={(props) => (<Content><Home {...props} /></Content>)} />
           <Route path='/:lang/activities' render={(props) => (<Content><ActivitiesPage {...props} /></Content>)} />
-          <Route path='/:lang/faq' component={FAQ}/>
-          <Route path='/:lang/eventguide' component={EventGuide}/>
+          <Route path='/:lang/faq' render={(props) => (<Content><FAQ {...props} /></Content>)} />
+          <Route path='/:lang/eventguide' render={(props) => (<Content><EventGuide {...props} /></Content>)} />
           </Switch>
         <Footer></Footer>
       </main>
