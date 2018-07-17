@@ -4,10 +4,10 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Content from './Content.js';
 import Header from './components/Header.js';
 import Footer from './components/Footer.js';
-import Home from './components/Home/Home.js';
+import Home from './components/Home.js';
+import FAQ from './components/FAQ.js';
+import EventGuide from './components/EventGuide.js';
 import ActivitiesPage from './components/Activities/ActivitiesPage.js';
-import FAQ from './components/FAQ/FAQ.js';
-import EventGuide from './components/EventGuide/EventGuide.js';
 
 import './App.css';
 
