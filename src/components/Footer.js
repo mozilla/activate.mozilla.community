@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { connect} from 'react-redux';
+import { connect } from 'react-redux';
 import { Localized } from 'fluent-react/compat';
 
 import { changeLocales } from '../actions/language.js';
