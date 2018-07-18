@@ -43,20 +43,6 @@ class Header extends Component {
                 </Localized>
               </Link>
             </li>
-            <li className="page-link">
-              <Link to={`/${currentLocale}/impact/`}>
-                <Localized id="nav-impact">
-                  <span>Impact</span>
-                </Localized>
-              </Link>
-            </li>
-            <li className="page-link">
-              <Link to={`/${currentLocale}/howwasit/`}>
-                <Localized id="nav-impact-form">
-                  <span>Impact Form</span>
-                </Localized>
-              </Link>
-            </li>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
