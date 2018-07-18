@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Grid, Row } from 'react-bootstrap';
+
 import ActivityTile from './ActivityTile.js';
 
 import './ActivitiesOverview.css';

@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
+
 import ActivitiesOverview from './ActivitiesOverview.js';
 
 import './ActivitiesPage.css';
