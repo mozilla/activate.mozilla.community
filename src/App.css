@@ -1,17 +1,3 @@
-@font-face {
-    font-family: "Zilla Slab";
-    font-style: normal;
-    font-weight: 400;
-    src: url("/assets/fonts/ZillaSlab-Regular.woff2") format("woff2"), url("/assets/fonts/ZillaSlab-Regular.woff") format("woff");
-}
-
-@font-face {
-    font-family: "Zilla Slab Highlight";
-    font-style: normal;
-    font-weight: 400;
-    src: url("/assets/fonts/ZillaSlabHighlight-Regular.woff2") format("woff2"), url("/assets/fonts/ZillaSlabHighlight-Regular.woff") format("woff");
-}
-
 :root {
     --base-font-family: 'Open Sans', sans-serif;
     --base-font-size: 18px;
