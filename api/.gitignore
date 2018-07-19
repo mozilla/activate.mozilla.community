@@ -1,7 +1,0 @@
-.DS_Store
-.idea
-node_modules
-.vscode
-db.json
-.credentials
-client_secret.json
