@@ -4,7 +4,7 @@ import { negotiateLanguages } from 'fluent-langneg/compat';
 const AVAILABLE_LOCALES = ['en-US', 'es'];
 
 async function fetchMessages(locale) {
-  const response = await fetch(`/locales/${locale}.ftl`);
+  const response = await fetch(`/locales/${locale}/activate.ftl`);
   const messages = await response.text();
 
   return { [locale]: messages };
