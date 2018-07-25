@@ -42,4 +42,10 @@ $ npm run build
 
 ### How deployment works
 
-tbd
+This website is hosted on GitHub Pages. To deploy you can simply run
+
+```
+$ npm run deploy
+```
+
+if you have write access to the repository. This will build the production version and commit it to GitHub pages. This is then available through [https://rewrite.michaelkohler.info](https://rewrite.michaelkohler.info). Please note that currently the github.io link would not work as there are static / dependent links.
