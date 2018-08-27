@@ -5,6 +5,7 @@
 }
 
 img.brand {
+    width: 100px;
     max-width: 200px;
     margin: 7px 50px 10px 0;
 }

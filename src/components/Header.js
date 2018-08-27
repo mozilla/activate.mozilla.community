@@ -15,7 +15,7 @@ class Header extends Component {
         <Navbar.Header>
           <Navbar.Brand>
             <Link to={`/`}>
-              <img src="/activate.png" alt="" className="brand" />
+              <img src="/activate.svg" alt="" className="brand" />
             </Link>
           </Navbar.Brand>
           <Navbar.Toggle />
