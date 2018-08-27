@@ -157,7 +157,7 @@ Do you need help getting started with extension development or want to learn as 
 
 💃🏽 [More Examples of APIs in Action](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Examples) on MDN web docs
 
-💃🏽 [Webextensions.tech](https://webextensions.tech/) - a scaffolding tool for browser extensions by Shivam , Trishul and Tushar.
+💃🏽 [Webextensions.tech](https://webextensions.tech/) - a scaffolding tool for browser extensions by Shivam , Trishul and Tushar
 
 💃🏽 [Extension Examples and Walkthroughs by Viswaprasanth Ks](https://github.com/iamVP7/MyExtensions/blob/master/README.md)
 
@@ -178,7 +178,7 @@ Do you need help getting started with extension development or want to learn as 
 
 
 ## Acknowledgements
-Thank you to Viswaprasanth Ks, Santosh Viswanatham, Trishul Goel, Karthic Keyan, Andre Garzia, Daniele Scasciafratte, Michael Kohler, Shivam Singhal and Tushar Arora
+Thank you to Viswaprasanth Ks, Santosh Viswanatham, Trishul Goel, Karthic Keyan, Andre Garzia, Daniele Scasciafratte, Michael Kohler, Shivam Singhal and Tushar Arora.
 
 
 </div>
