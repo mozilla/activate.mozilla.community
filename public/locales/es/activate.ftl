@@ -11,6 +11,11 @@ footer-description = ESMozilla is a global non-profit dedicated to putting you i
 
 activate = ESActivate
 activate-description = ESThe Activate Mozilla campaign aims at the grassroots of volunteer contributions. We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now by providing guidance to mobilizers on how to recruit contributors and create community around meaningful Mozilla projects.
+activities = ESActivities
+
+ongoing-campaign = ESXXX Ongoing campaign
+ongoing-campaign-description = ESFoo bar baz...
+ongoing-campaign-learn-more = ESLearn more...
 
 learn-more = ESFind out more
 

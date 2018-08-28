@@ -1,5 +1,5 @@
 .jumbotron {
-  background-image: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url('/images/top-header.png');
+  background-color: var(--brand-color);
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
@@ -7,6 +7,7 @@
   min-height: 420px;
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 .flex-container {
@@ -21,8 +22,16 @@
 
 .flex-container .lead {
   color: white;
-  margin: 20px auto;
+  margin: 20px auto 50px auto;
   font-weight: 300;
   max-width: 75%;
   text-align: center;
+}
+
+.button {
+  text-color: var(--brand-color);
+  background-color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
 }

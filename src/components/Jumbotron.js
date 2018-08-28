@@ -8,13 +8,15 @@ class Jumbotron extends Component {
     return (
       <div className="jumbotron">
         <section className="flex-container">
-          <Localized id="activate">
-            <h1>Activate</h1>
+          <Localized id="ongoing-campaign">
+            <h1>XXX Campaign ongoing!</h1>
           </Localized>
-          <Localized id="activate-description">
+          <Localized id="ongoing-campaign-description">
             <p className="lead">
-              The Activate Mozilla campaign aims at the grassroots of volunteer contributions. We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now by providing guidance to mobilizers on how to recruit contributors and create community around meaningful Mozilla projects.
             </p>
+          </Localized>
+          <Localized id="ongoing-campaign-learn-more">
+            <a href="//mozilla.org" class="button">Learn more</a>
           </Localized>
         </section>
       </div>
