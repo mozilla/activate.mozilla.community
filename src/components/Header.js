@@ -14,7 +14,7 @@ class Header extends Component {
       <Navbar collapseOnSelect>
         <Navbar.Header>
           <Navbar.Brand>
-            <Link to={`/`}>
+            <Link to={`/${currentLocale}`}>
               <img src="/activate.svg" alt="" className="brand" />
             </Link>
           </Navbar.Brand>
