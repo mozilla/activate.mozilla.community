@@ -9,11 +9,11 @@ import './ActivitiesOverview.css';
 class ActivitiesOverview extends Component {
   render() {
     return (
-      <section>
+      <section className="activities">
         <Localized id="activities">
           <h1>Activities</h1>
         </Localized>
-        <section class="full-width-description">
+        <section className="full-width">
           <Localized id="activate-description">
             <p className="lead">
             </p>

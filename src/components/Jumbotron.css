@@ -27,11 +27,3 @@
   max-width: 75%;
   text-align: center;
 }
-
-.button {
-  text-color: var(--brand-color);
-  background-color: white;
-  padding: 10px 20px;
-  border-radius: 10px;
-  cursor: pointer;
-}

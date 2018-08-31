@@ -17,6 +17,13 @@ ongoing-campaign = XXX Ongoing campaign
 ongoing-campaign-description = Foo bar baz...
 ongoing-campaign-learn-more = Learn more...
 
+newsletter-title = Keep up to date!
+newsletter-email = E-mail
+newsletter-submit = Sign up now
+newsletter-subscribed-title = Thanks!
+newsletter-subscribed-text = If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+newsletter-privacy = I'm okay with Mozilla handling my info as explained in this <privacyLink>Privacy Policy</privacyLink>.
+
 learn-more = Find out more
 
 hours = Hours
