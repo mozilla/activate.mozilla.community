@@ -9,7 +9,7 @@ export default function reducer(state = {
     case 'CHANGE_LOCALES_REQUEST': {
       return {
         ...state,
-        isFetching: true
+        isFetching: true,
       };
     }
     case 'CHANGE_LOCALES_RESPONSE': {
@@ -26,7 +26,7 @@ export default function reducer(state = {
         userLocales,
         currentLocales,
         availableLocales,
-        messages
+        messages,
       };
     }
     default:

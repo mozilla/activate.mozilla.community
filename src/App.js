@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import { Router, Switch, Route } from 'react-router-dom';
 
+import history from './history';
 import Content from './Content.js';
 import Header from './components/Header.js';
 import Footer from './components/Footer.js';
@@ -13,7 +14,7 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <BrowserRouter>
+      <Router history={history}>
         <main>
           <Header></Header>
           <Switch>
@@ -30,7 +31,7 @@ class App extends Component {
           </Switch>
         <Footer></Footer>
       </main>
-      </BrowserRouter>
+      </Router>
     );
   }
 }

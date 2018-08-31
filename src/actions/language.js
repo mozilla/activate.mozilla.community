@@ -1,6 +1,8 @@
 import { MessageContext } from 'fluent/compat';
 import { negotiateLanguages } from 'fluent-langneg/compat';
 
+import history from '../history';
+
 const AVAILABLE_LOCALES = ['en-US', 'es'];
 
 async function fetchMessages(locale) {
@@ -43,5 +45,21 @@ export function changeLocales(userLocales) {
       availableLocales: AVAILABLE_LOCALES,
       messages: generateMessages()
     });
+  };
+}
+
+export function changeLocalesWithURL(previousLocale, userLocales) {
+  return async function(dispatch) {
+    let newPath;
+    const path = history.location.pathname;
+
+    if (path.includes(previousLocale)) {
+      newPath = path.replace(previousLocale, userLocales[0]);
+    } else {
+      newPath = `/${userLocales[0]}${path}`;
+    }
+
+    history.push(newPath);
+    changeLocales(userLocales)(dispatch);
   };
 }

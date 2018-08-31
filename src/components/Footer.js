@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { Localized } from 'fluent-react/compat';
 
-import { changeLocales } from '../actions/language.js';
+import { changeLocalesWithURL } from '../actions/language.js';
 
 import './Footer.css';
 
@@ -11,7 +11,7 @@ class Footer extends Component {
     const {
       availableLocales,
       currentLocales,
-      changeLocales,
+      changeLocalesWithURL,
     } = this.props;
 
     return (
@@ -69,7 +69,7 @@ class Footer extends Component {
                       name="lang"
                       value={currentLocales[0]}
                       className="form-control"
-                      onChange={(event) => changeLocales([event.target.value])}
+                      onChange={(event) => changeLocalesWithURL(currentLocales[0], [event.target.value])}
               >
                 {
                   availableLocales.map((locale) => {
@@ -92,7 +92,7 @@ const mapStateToProps = (state) => ({
   availableLocales: state.availableLocales,
 });
 const mapDispatchToProps = {
-  changeLocales,
+  changeLocalesWithURL,
 };
 
 export default connect(mapStateToProps, mapDispatchToProps)(Footer);
