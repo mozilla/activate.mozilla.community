@@ -67,7 +67,7 @@ class Footer extends Component {
             <form className="languages" id="lang_form">
               <select id="language-select"
                       name="lang"
-                      defaultValue={currentLocales[0]}
+                      value={currentLocales[0]}
                       className="form-control"
                       onChange={(event) => changeLocales([event.target.value])}
               >
