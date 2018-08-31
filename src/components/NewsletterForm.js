@@ -133,7 +133,7 @@ class NewsletterForm extends Component {
 
           <div id="newsletter_email" className="form_group">
             <Localized id="newsletter-email">
-              <label for="email" className="form_label">E-mail</label>
+              <label htmlFor="email" className="form_label">E-mail</label>
             </Localized>
             <input type="email" id="email" name="email" className="form_input" required placeholder="you@example.com" />
           </div>
@@ -142,7 +142,7 @@ class NewsletterForm extends Component {
             <input type="checkbox" id="privacy" name="privacy" required />
             <Localized id="newsletter-privacy"
               privacyLink={<a target="_blank" rel="noopener noreferrer" href="https://www.mozilla.org/privacy/">Privacy Policy</a>}>
-              <label for="privacy">
+              <label htmlFor="privacy">
                   I'm okay with Mozilla handling my info as explained in this <a href="https://www.mozilla.org/privacy/">Privacy Policy</a>.
               </label>
             </Localized>
