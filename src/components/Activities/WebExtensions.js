@@ -77,40 +77,40 @@ class WebExtensions extends Component {
             <thead>
               <tr>
                 <th>Topic</th>
-                <th style={{'text-align': 'center'}}>Extension Examples</th>
-                <th style={{'text-align': 'center'}}>Videos</th>
+                <th>Extension Examples</th>
+                <th>Videos</th>
               </tr>
             </thead>
             <tbody>
               <tr>
                 <td><a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Content_scripts">Content scripts</a></td>
-                <td style={{'text-align': 'center'}}><a href="https://github.com/mdn/webextensions-examples/tree/master/borderify">Borderify</a></td>
-                <td style={{'text-align': 'center'}}><a href="https://youtu.be/WrEgBDg56sM">Content Script Tutorial</a></td>
+                <td><a href="https://github.com/mdn/webextensions-examples/tree/master/borderify">Borderify</a></td>
+                <td><a href="https://youtu.be/WrEgBDg56sM">Content Script Tutorial</a></td>
               </tr>
               <tr>
                 <td><a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/browserAction">browserAction API</a></td>
-                <td style={{'text-align': 'center'}}><a href="https://github.com/mdn/webextensions-examples/tree/master/bookmark-it">Bookmark It</a></td>
-                <td style={{'text-align': 'center'}}>&nbsp;</td>
+                <td><a href="https://github.com/mdn/webextensions-examples/tree/master/bookmark-it">Bookmark It</a></td>
+                <td>&nbsp;</td>
               </tr>
               <tr>
                 <td><a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/pageAction">pageAction API</a></td>
-                <td style={{'text-align': 'center'}}><a href="https://github.com/mdn/webextensions-examples/tree/master/chill-out">Chill Out</a></td>
-                <td style={{'text-align': 'center'}}><a href="https://www.youtube.com/watch?v=RBI-j8USuJs&amp;feature=youtu.be">pageAction tutorial </a></td>
+                <td><a href="https://github.com/mdn/webextensions-examples/tree/master/chill-out">Chill Out</a></td>
+                <td><a href="https://www.youtube.com/watch?v=RBI-j8USuJs&amp;feature=youtu.be">pageAction tutorial </a></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
-                <td style={{'text-align': 'center'}}><a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/pageAction">Apply CSS</a></td>
-                <td style={{'text-align': 'center'}}>&nbsp;</td>
+                <td><a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/pageAction">Apply CSS</a></td>
+                <td>&nbsp;</td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
-                <td style={{'text-align': 'center'}}><a href="https://github.com/tsl143/jsDemos/tree/master/ipFinder_webext">IP-Finder</a></td>
-                <td style={{'text-align': 'center'}}>&nbsp;</td>
+                <td><a href="https://github.com/tsl143/jsDemos/tree/master/ipFinder_webext">IP-Finder</a></td>
+                <td>&nbsp;</td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
-                <td style={{'text-align': 'center'}}><a href="https://github.com/viswanathamsantosh/inshorts/tree/page-action">Inshorts</a></td>
-                <td style={{'text-align': 'center'}}>&nbsp;</td>
+                <td><a href="https://github.com/viswanathamsantosh/inshorts/tree/page-action">Inshorts</a></td>
+                <td>&nbsp;</td>
               </tr>
             </tbody>
           </table>
@@ -138,50 +138,50 @@ class WebExtensions extends Component {
             <thead>
               <tr>
                 <th>Topic</th>
-                <th style={{'text-align': 'center'}}>Extension Examples</th>
-                <th style={{'text-align': 'center'}}>Videos</th>
+                <th>Extension Examples</th>
+                <th>Videos</th>
               </tr>
             </thead>
             <tbody>
               <tr>
                 <td><a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/tabs">Tabs API</a></td>
-                <td style={{'text-align': 'center'}}><a href="https://github.com/mdn/webextensions-examples/tree/master/tabs-tabs-tabs">Tabs Tabs Tabs</a></td>
-                <td style={{'text-align': 'center'}}><a href="https://www.youtube.com/watch?v=GS1nM55iKZo&amp;t=612s&amp;list=PLdIyyZgtQZ7CJR5XFB5xvZH0oaBIT_gTD&amp;index=5">Getting Started with Tabs</a></td>
+                <td><a href="https://github.com/mdn/webextensions-examples/tree/master/tabs-tabs-tabs">Tabs Tabs Tabs</a></td>
+                <td><a href="https://www.youtube.com/watch?v=GS1nM55iKZo&amp;t=612s&amp;list=PLdIyyZgtQZ7CJR5XFB5xvZH0oaBIT_gTD&amp;index=5">Getting Started with Tabs</a></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
-                <td style={{'text-align': 'center'}}><a href="https://github.com/mdn/webextensions-examples/tree/master/contextual-identities">Contextual Identities</a></td>
-                <td style={{'text-align': 'center'}}>&nbsp;</td>
+                <td><a href="https://github.com/mdn/webextensions-examples/tree/master/contextual-identities">Contextual Identities</a></td>
+                <td>&nbsp;</td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
-                <td style={{'text-align': 'center'}}><a href="https://github.com/mdn/webextensions-examples/tree/master/beastify">Beastify</a></td>
-                <td style={{'text-align': 'center'}}>&nbsp;</td>
+                <td><a href="https://github.com/mdn/webextensions-examples/tree/master/beastify">Beastify</a></td>
+                <td>&nbsp;</td>
               </tr>
               <tr>
                 <td><a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/sidebarAction">sidebarAction API</a></td>
-                <td style={{'text-align': 'center'}}><a href="https://github.com/mdn/webextensions-examples/tree/master/annotate-page">Annotate Page</a></td>
-                <td style={{'text-align': 'center'}}><a href="https://youtu.be/F6Up_yGfuJw">How to create a Sidebar Menu</a></td>
+                <td><a href="https://github.com/mdn/webextensions-examples/tree/master/annotate-page">Annotate Page</a></td>
+                <td><a href="https://youtu.be/F6Up_yGfuJw">How to create a Sidebar Menu</a></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
-                <td style={{'text-align': 'center'}}><a href="https://github.com/mdn/webextensions-examples/tree/master/context-menu-copy-link-with-types">Context Menu Demo</a></td>
-                <td style={{'text-align': 'center'}}><a href="https://www.youtube.com/watch?v=AIh47SUwAs0&amp;feature=youtu.be">How to Create a Context Menu</a></td>
+                <td><a href="https://github.com/mdn/webextensions-examples/tree/master/context-menu-copy-link-with-types">Context Menu Demo</a></td>
+                <td><a href="https://www.youtube.com/watch?v=AIh47SUwAs0&amp;feature=youtu.be">How to Create a Context Menu</a></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
-                <td style={{'text-align': 'center'}}><a href="https://github.com/soapdog/webextension-facebook-messenger-as-a-sidebar">Facebook Messenger as a Sidebar</a></td>
-                <td style={{'text-align': 'center'}}>&nbsp;</td>
+                <td><a href="https://github.com/soapdog/webextension-facebook-messenger-as-a-sidebar">Facebook Messenger as a Sidebar</a></td>
+                <td>&nbsp;</td>
               </tr>
               <tr>
                 <td><a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/webRequest">webRequest API</a></td>
-                <td style={{'text-align': 'center'}}><a href="https://github.com/mdn/webextensions-examples/tree/master/stored-credentials">Stored Credentials</a></td>
-                <td style={{'text-align': 'center'}}>&nbsp;</td>
+                <td><a href="https://github.com/mdn/webextensions-examples/tree/master/stored-credentials">Stored Credentials</a></td>
+                <td>&nbsp;</td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
-                <td style={{'text-align': 'center'}}><a href="https://github.com/mdn/webextensions-examples/tree/master/user-agent-rewriter">User Agent Rewriter</a></td>
-                <td style={{'text-align': 'center'}}>&nbsp;</td>
+                <td><a href="https://github.com/mdn/webextensions-examples/tree/master/user-agent-rewriter">User Agent Rewriter</a></td>
+                <td>&nbsp;</td>
               </tr>
             </tbody>
           </table>
