@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 import { Localized } from 'fluent-react/compat';
 import { Col } from 'react-bootstrap';
 
@@ -13,6 +14,7 @@ class ActivityTile extends Component {
       descriptionKey,
       tagKey,
       durationKey,
+      linkTarget,
     } = this.props;
 
     const cardClassNames = [
@@ -22,34 +24,32 @@ class ActivityTile extends Component {
 
     return (
       <Col lg={4} md={4} sm={12} xs={12} className={cardClassNames}>
-        <header className="item-header">
-          <img src={ titleImage } alt="" />
-        </header>
+        <Link to={`/${linkTarget}`}>
+          <header className="item-header">
+            <img src={ titleImage } alt="" />
+          </header>
 
-        {/* TODO: add link once activity detail is done */}
-        <Localized id={titleKey}>
-          <h2></h2>
-        </Localized>
-
-        <div className="item-content">
-          <Localized id={descriptionKey}>
-            <p></p>
-          </Localized>
           {/* TODO: add link once activity detail is done */}
-          <Localized id="learn-more">
-            <p>Find out more</p>
+          <Localized id={titleKey}>
+            <h2></h2>
           </Localized>
-        </div>
-        <footer>
-          <Localized id={tagKey}>
-            <div className="tags">Testing</div>
-          </Localized>
-          <div className="duration">
-            <Localized id={durationKey}>
-              <span></span>
+
+          <div className="item-content">
+            <Localized id={descriptionKey}>
+              <p></p>
             </Localized>
           </div>
-        </footer>
+          <footer>
+            <Localized id={tagKey}>
+              <div className="tags">Testing</div>
+            </Localized>
+            <div className="duration">
+              <Localized id={durationKey}>
+                <span></span>
+              </Localized>
+            </div>
+          </footer>
+        </Link>
       </Col>
     );
   }

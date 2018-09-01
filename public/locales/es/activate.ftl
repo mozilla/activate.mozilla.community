@@ -24,8 +24,6 @@ newsletter-subscribed-title = ESThanks!
 newsletter-subscribed-text = ESIf you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 newsletter-privacy = ESI'm okay with Mozilla handling my info as explained in this <privacyLink>Privacy Policy</privacyLink></a>.
 
-learn-more = ESFind out more
-
 hours = ESHours
 testing = ESTesting
 programming = ESProgramming

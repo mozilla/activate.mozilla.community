@@ -1,0 +1,88 @@
+.activity-page .post-header {
+  padding: 30px 0;
+  background: white;
+  margin-right: 0;
+}
+
+.activity-page .post-title {
+  font-size: 42px;
+  line-height: 1;
+}
+
+.activity-page .post-content {
+  padding-bottom: 10vh;
+}
+
+.activity-page h1 {
+  text-align: left;
+}
+
+.activity-page h2 {
+  border-top: 10px solid var(--brand-color);
+  margin-top: 40px;
+  margin-right: -20px;
+  margin-left: -20px;
+  padding-top: 40px;
+  padding-left: 20px;
+}
+
+.activity-page .sidebar h2 {
+  border-top: none;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.activity-page h2:first-child {
+  border: none;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.activity-page .alert {
+  border-radius: 0;
+}
+
+.activity-page .alert-info {
+  color: white;
+  background: var(--brand-color);
+  border: none;
+}
+
+.activity-page .attention-link {
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.activity-page .post-header-image {
+  max-width: 10vw;
+}
+
+@media all and (max-width: 767px) {
+  .activity-page .post-header-image {
+    max-width: 75vw;
+  }
+
+  .activity-page .post-title {
+    font-size: 32px;
+    text-align: center;
+  }
+
+  .activity-page .post-header h3 {
+    text-align: center;
+  }
+
+  .activity-page .post-header-image {
+    padding-bottom: 10vh;
+  }
+
+  .activity-page .alert  {
+    width: 100%;
+  }
+}
+
+@media all and (min-width: 400px) and (max-width: 767px) {
+  .activity-page .post-header-image {
+    max-width: 25vw;
+  }
+}

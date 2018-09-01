@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { connect} from 'react-redux';
 import { Localized } from 'fluent-react/compat';
 import { Grid, Row } from 'react-bootstrap';
 
@@ -8,6 +9,8 @@ import './ActivitiesOverview.css';
 
 class ActivitiesOverview extends Component {
   render() {
+    const locale = this.props.currentLocales[0];
+
     return (
       <section className="activities">
         <Localized id="activities">
@@ -27,6 +30,7 @@ class ActivitiesOverview extends Component {
               descriptionKey="nightly-description"
               tagKey="testing"
               durationKey="nightly-duration"
+              linkTarget={`${locale}/nightly`}
             ></ActivityTile>
             <ActivityTile
               titleImage="/images/techspeakers-header.png"
@@ -34,6 +38,7 @@ class ActivitiesOverview extends Component {
               descriptionKey="techspeakers-description"
               tagKey="programming"
               durationKey="techspeakers-duration"
+              linkTarget={`${locale}/techspeakers`}
             ></ActivityTile>
             <ActivityTile
               titleImage="/images/webextensions-header.png"
@@ -41,6 +46,7 @@ class ActivitiesOverview extends Component {
               descriptionKey="webextensions-description"
               tagKey="programming"
               durationKey="webextensions-duration"
+              linkTarget={`${locale}/webextensions`}
             ></ActivityTile>
             <ActivityTile
               titleImage="/images/rust-header.png"
@@ -48,6 +54,7 @@ class ActivitiesOverview extends Component {
               descriptionKey="rust-description"
               tagKey="programming"
               durationKey="rust-duration"
+              linkTarget={`${locale}/rust-hack`}
             ></ActivityTile>
             <ActivityTile
               titleImage="/images/webvr-header.png"
@@ -55,6 +62,7 @@ class ActivitiesOverview extends Component {
               descriptionKey="webvr-description"
               tagKey="programming"
               durationKey="webvr-duration"
+              linkTarget={`${locale}/webvr-camp`}
             ></ActivityTile>
             <ActivityTile
               titleImage="/images/webcompat-header.png"
@@ -62,6 +70,7 @@ class ActivitiesOverview extends Component {
               descriptionKey="webcompat-description"
               tagKey="testing"
               durationKey="webcompat-duration"
+              linkTarget={`${locale}/webcompat-sprint`}
             ></ActivityTile>
           </Row>
         </Grid>
@@ -70,4 +79,10 @@ class ActivitiesOverview extends Component {
   }
 }
 
-export default ActivitiesOverview;
+const mapStateToProps = (state) => ({
+  currentLocales: state.currentLocales,
+});
+const mapDispatchToProps = {};
+
+export default connect(mapStateToProps, mapDispatchToProps)(ActivitiesOverview);
+

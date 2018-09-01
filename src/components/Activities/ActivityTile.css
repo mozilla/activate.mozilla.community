@@ -9,6 +9,14 @@
   margin: 2vh;
 }
 
+.activity-card a {
+  color: inherit;
+}
+
+.activity-card a p {
+  font-weight: 400;
+}
+
 .activity-card .item-header {
   margin-right: -15px;
   margin-left: -15px;
