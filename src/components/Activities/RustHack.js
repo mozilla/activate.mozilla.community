@@ -13,60 +13,69 @@ class RustHack extends Component {
         durationKey="rust-duration">
 
         <Col lg={9} md={9} sm={9} xs={12}>
+
           <p class="alert alert-info impactbox"><span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
-            This activity has great potential to make an impact by increasing overall involvement in Nightly, simply by introducing community to tasks that they can engage in related to Nightly. Finding and filing issues early in the cycle means by the time Firefox gets to release, the code is in good shape.
+          Having more developers understand, use and evangelize this language will advance make the web better and more secure. Rust is also a great way to learn about WebAssembly.</p>
+
+            <p>Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. <a href="https://www.rust-lang.org">Find out more…</a></p>
+
+            <p>
+            <iframe src="https://www.youtube.com/embed/8EPsnf_ZYU0" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
           </p>
 
-          <p>Every day, Mozilla developers write code that is merged into a common code repository (mozilla-central) and every day that code is compiled so as to create a pre-release version of Firefox based on this code for testing purposes - this is what we call a Nightly build. Once this code matures, it is merged into stabilization repositories (Beta) where that code will be polished until we reach a level of quality that allows us to ship a new final release version of Firefox to hundreds of millions of people. This development process used to ship a new version of Firefox every 5 to 8 weeks is called the Train Model.</p>
+          <h2 id="activity-format">Activity Format</h2>
 
-          <h2 id="event-flow">Event Flow</h2>
+          <p>For duration, we recommend at least a 2-3 hours event with a minimum of 10 attendees.</p>
 
-          <p>While this activity can be run solo, we encourage you to run an event in your community.</p>
+          <ol>
+            <li>Put an event team together. Going alone is fine, but at least two people is advisable. Check the <a href="https://calendar.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc@group.calendar.google.com">Rust Community Calendar</a> - maybe there’s already people in your area. You can also get in touch with the <a href="mailto:community@rust-lang.org">Rust Community Team</a> for additional support.</li>
+            <li>Try to find people with Rust experience who want to help. If you find none, this is fine - many Hack and Learns started out by curious people.</li>
+          </ol>
+
+          <p>Some Mozillians have already done such sessions. For example see <a href="https://reps.mozilla.org/events/#/period/past/category/rust/">past Mozilla Reps events</a>.</p>
 
           <p><strong>2-4 Weeks Before the Event</strong></p>
 
           <ol>
-            <li>Read the <a href="https://activate.mozilla.community/eventguide/">Event Guide</a> which helps you to organize the activity</li>
-            <li>Copy and adapt the <a href="https://docs.google.com/presentation/d/1dnl5jShMYDO-f_SDGM3yRr3Ac3XRF4XCZqlVwGcYm34/edit?usp=sharing">Introduction to Nightly slides</a></li>
-            <li>Give a thought whether it will be self-facilitated or with someone who has Nightly experience. You can find help on the Mozilla Nightly Testers Telegram group or the irc.mozilla.org Nightly channel.</li>
-            <li>Create an event page on a platform popular in your locale, such as Facebook or Meetup.com, and keep posting interesting information about Nightly &amp; related topics to keep continue the conversation on Twitter.</li>
+            <li>Read the <a href="/eventguide/">event guide</a> on how to set up an event page and how to organize an event.</li>
+            <li>Choose a date and secure a venue.</li>
+            <li>Fill the <a href="https://github.com/rust-community/events-team/issues/new?template=new_meetup.md&amp;labels=meetup,mozilla-activate">event template</a> for access to the calendar so that you can enter it there.  It will then be sent around with Rust’s weekly newsletter and promoted in other fashions. You can also ask the <a href="mailto:community@rust-lang.org?subject=[SWAG]">Rust Community Team</a> if they can send some stickers.</li>
+            <li>Setup the event on the Reps Portal (<a href="https://wiki.mozilla.org/ReMo/SOPs/Event_hosting">instructions</a>). Please make sure the initiative is set to “MozActivate” and the functional area indicates “Rust”.</li>
           </ol>
-
-          <p><strong>TIP:</strong>
-        In case you expect bandwidth issues  you can download copies of <a href="https://www.mozilla.org/en-US/firefox/nightly/all/">Nightly for every platform</a> as well as <a href="https://www.mozilla.org/en-US/firefox/channel/android/">Android builds</a> to an USB stick in case you don’t have enough bandwidth for downloads at the event.</p>
-
-          <p><strong>Duration:</strong> For duration, we recommend 1-3 hours with at least 5 attendees.</p>
 
           <p><strong>1 Week Before the Event</strong></p>
 
           <ol>
-            <li>Confirmed selected attendees through email</li>
-            <li>Distribute the following list of tasks to do before event:
-              <ul>
-                <li>Tell the audience to bring laptops and all mobile devices to the event</li>
-                <li>Check bugzilla credentials for organizers (if needed, ask for edit bugs/can confirm permissions)</li>
-              </ul>
-            </li>
+            <li>Get <a href="https://github.com/rust-community/resources">Material</a> and print them to hand them out.</li>
+            <li>Promote your event locally and online.</li>
           </ol>
 
-          <p><strong>During the event</strong></p>
+          <h2 id="event-flow">Event Flow</h2>
 
-          <ol>
-            <li>Briefly introduce Nightly channel and why it is important to use in your locale using your slide deck</li>
-            <li>Get people to install Nightly on their devices
+          <p>Hack &amp; Learn are mainly structureless, which allows for people of all experience levels to feel great. They can follow their interests and can interact with people. As an organiser, you can try to also bring your own project, please note that you will the first point of contact for problems.</p>
+
+          <ul>
+            <li>Give people some time to get in and wait 5-10 minutes to get them set up and comfortable</li>
+            <li>Do an intro round (5 minutes). Ask everyone for:
               <ul>
-                <li>Explain telemetry</li>
+                <li>Who they are</li>
+                <li>What previous programming experiences they have</li>
+                <li>What they intend to work on (or if they are searching for a project)</li>
               </ul>
             </li>
-            <li>According to your audience background
+            <li>Encourage people to group up or work alone</li>
+            <li>Introduce new people to the existing resources</li>
+            <li>Help people that don’t have a project to find one</li>
+            <li>Open time: people should just work on whatever they have. Some people will just chat, make sure they don’t disturb others.</li>
+            <li>Closing: go through the group again and ask people for their progress.
               <ul>
-                <li>Explain how to <a href="https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines">file Nightly bugs</a></li>
-                <li>Explain how to install <a href="https://mozilla.github.io/mozregression/">mozregression</a></li>
-                <li>Explain how to triage or test bugs</li>
+                <li>If time allows, make a <a href="https://en.wikipedia.org/wiki/Show_and_tell_(education)">Show &amp; Tell</a> and have people actually present their learnings in a very short talk.</li>
               </ul>
             </li>
-            <li>Encourage participants to keep using Nightly</li>
-          </ol>
+            <li>If this is the first time you run it: ask people about their schedules and try to find a regular date for repeats.</li>
+          </ul>
+
+          <p>If the event is just 2 hours long, keep the intro and the closing short. If you spend 2.5 hours or more, you can spend more time on the closing. If the event is even longer, consider running something by the middle of it, to give people a moment to step away from the project.</p>
 
           <h2 id="directly-at-the-end-of-the-activity">Directly at the end of the activity</h2>
           <p>Immediately after the event don’t forget to share the link to the impact form with your attendees:</p>
@@ -75,51 +84,89 @@ class RustHack extends Component {
 
           <p>Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.</p>
 
-          <h2 id="output">Output</h2>
+          <h2 id="other-resources">Other Resources</h2>
 
-          <p>Additional to the recommended event flow here are some things we’d like you, the event organizer, to do.</p>
+          <h3 id="tutorials">Tutorials</h3>
+
+          <h4 id="learn-by-example">Learn by Example</h4>
 
           <ul>
-            <li>Fill out the post-event metrics on the event page you set-up on the Reps portal</li>
-            <li>Tell us about your event. We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two! This will also be instructional and inspirational to others who might do the event. <a href="https://discourse.mozilla-community.org/t/a-new-nightly-activity/16746">Here is the Discourse post to write to</a>.</li>
-            <li>Send an email to all participants with a summary and ask them to fill out the survey.</li>
-            <li>Encourage attendees who want to continue to work on Nightly to sign up to the <a href="https://discourse.mozilla-community.org/c/nightly">Discourse category</a>.</li>
+            <li><a href="https://github.com/carols10cents/rustlings">Getting used to reading and writing Rust code</a></li>
+            <li><a href="http://exercism.io/languages/rust/about">“Exercism” coding challenges</a></li>
+            <li><a href="https://rustbyexample.com/index.html">“Rust by Example”</a></li>
           </ul>
 
-          <h2 id="content">Content</h2>
+          <h4 id="visual-learning">Visual learning</h4>
 
-          <p>Want to find out more about the Firefox Nightly community? Ping us on the #nightly channel on irc.mozilla.org or join the <a href="https://t.me/joinchat/AAAAAAeCegHxTCZHWhYm3A">Telegram Nightly channel</a>. You can also find us on Twitter <a href="http://twitter.com/FirefoxNightly">@FirefoxNightly</a>.</p>
+          <ul>
+            <li><a href="http://intorust.com/">“Into Rust”, a series of introductory screencasts about Rust</a></li>
+            <li><a href="https://www.youtube.com/playlist?list=PL0Fqs05rod8D80WKBCeT326CT8vcAm_N9">A video tutorial series about Rust</a></li>
+          </ul>
+
+          <h4 id="coming-from-other-programming-languages">Coming from other programming languages</h4>
+
+          <ul>
+            <li><a href="http://www.rustforrubyists.com/book/book.html">Ruby developers</a></li>
+            <li><a href="https://github.com/Mercateo/rust-for-node-developers#rust-for-node-developers">node.js developers</a></li>
+            <li><a href="https://mixitconf.org/en/2017/rust-for-java-developers">Java developers</a></li>
+            <li><a href="https://github.com/nrc/r4cppp#rust-for-systems-programmers">C++ developers</a></li>
+            <li><a href="http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/">Python developers</a></li>
+          </ul>
+
+          <h2 id="output">Output</h2>
+          <p>In addition to the recommended event flow here are some things we’d like you, the event organizer, to do:</p>
+
+          <ul>
+            <li>Fill out the post-event metrics on the event page you setup on the Reps portal</li>
+            <li>Share your own experience on social media and encourage your attendees to do so as well:
+              <ul>
+                <li>use the hashtag <a href="https://twitter.com/search?f=tweets&amp;q=%23RustActivate&amp;src=typd">#RustActivate</a></li>
+                <li>mention the <a href="https://twitter.com/rustlang">@rustlang</a> account so they can RT you!</li>
+                <li>link to a GitHub project or blogpost to show off your work!</li>
+                <li>take a “family photo” of your group members (make sure to get permission from everyone first!)</li>
+              </ul>
+            </li>
+          </ul>
 
           <h2 id="extra">Extra</h2>
-
-          <p>Additional information about Nightly can be found on the <a href="https://wiki.mozilla.org/Nightly">Nightly Wiki page</a>. You can also help Firefox by <a href="https://wiki.mozilla.org/Foxfooding">Foxfooding</a>!</p>
-
-          <p>If your session was a success, there are two other Activities that require pre-release builds, how about running one of those as well?</p>
+          <p>While the focus of this activity should be on these events, people can get more involved with the Rust community after.</p>
 
           <ul>
-            <li><a href="https://activate.mozilla.community/webextensions/">Build Your Own WebExtension Add-on for Firefox</a></li>
-            <li><a href="https://activate.mozilla.community/webvr-camp/">WebVR Camp</a></li>
+            <li>Follow up with attendees to highlight <a href="https://www.rust-lang.org/en-US/community.html">more things happening in the community to get involved with</a></li>
           </ul>
+
         </Col>
 
         <Col lg={3} md={3} sm={3} className="sidebar hidden-xs">
           <h2 id="impact-and-metrics">Impact and Metrics</h2>
 
-          <p>This activity has great potential to make an impact by increasing overall involvement in Nightly, simply by introducing community to tasks that they can engage in related to Nightly. Finding and filing issues early in the cycle means by the time Firefox gets to release, the code is in good shape.</p>
+          <p>The Rust programming language will be important to the future of the web, making it safe and great. Having more developers understand, use and evangelize this language will advance make the web better and more secure.</p>
 
-          <h3 id="campaign-goals">Campaign Goals</h3>
+          <p>Rust is used extensively for Mozilla projects – including this year as Servo (written in Rust) is advanced even further, and parts of it are moved into Gecko/Firefox. Having more Mozilla contributors know Rust will give them a chance to contribute to the most exciting and important technical projects coming up for Mozilla.</p>
+
+          <p>Rust is also a good subject to get people closer to Mozilla gradually, as it has smaller project sizes and potential for individual contribution - for example by writing a useful library.</p>
+
+          <h3 id="goals-for-this-area">Goals for this area</h3>
 
           <p><strong>Impact:</strong></p>
 
           <ul>
-            <li>500 Nightly installs</li>
-            <li>50 Bugzilla IDs actively filing bugs (or participating in Bugzilla)</li>
-            <li>50 Mozillians run events</li>
-            <li>100 new followers to Nightly Twitter account</li>
+            <li>1,000 programmers are introduced to and are well on their way to learning Rust</li>
+            <li>10 ongoing Rust Hack and Learn events</li>
+            <li>500 social media shares</li>
+            <li>Each organizer schedules 3 Rust Hack and Learn events</li>
           </ul>
 
-          <h2 id="audience">Audience</h2>
-          <p>Your audience for this activity are people that are comfortable using the different features of Firefox and would like to dive a little deeper.  Maybe they want to learn some useful core skills that will help them as Mozillians or perhaps are comfortable using Developer Edition and want to learn more about Nightly. As just using Nightly gives us important information such as crashes, this is not only for developers or technical persons.</p>
+          <p><strong>Strength:</strong></p>
+
+          <ul>
+            <li>50 Mozillians organize Rust Hack and Learn events</li>
+            <li>1-2 people join <a href="https://www.rust-lang.org/en-US/team.html">Rust teams</a></li>
+          </ul>
+
+          <h2 id="audience-for-this-activity">Audience for this activity</h2>
+
+          <p>Your audience for this event should be <strong>programmers of all kinds</strong>. Some outreach to beginners can be done.</p>
         </Col>
 
       </ActivityDetail>
