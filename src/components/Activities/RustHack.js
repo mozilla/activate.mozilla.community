@@ -20,7 +20,7 @@ class RustHack extends Component {
             <p>Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. <a href="https://www.rust-lang.org">Find out more…</a></p>
 
             <p>
-            <iframe src="https://www.youtube.com/embed/8EPsnf_ZYU0" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+            <iframe src="https://www.youtube.com/embed/8EPsnf_ZYU0" title="Rust intro" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
           </p>
 
           <h2 id="activity-format">Activity Format</h2>

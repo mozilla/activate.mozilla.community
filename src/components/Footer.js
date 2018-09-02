@@ -57,7 +57,7 @@ class Footer extends Component {
               <img src="/mozilla-wordmark.svg" alt="Mozilla Logo" height="30" width="105" />
             </a>
             <Localized id="footer-description"
-                       mozillaLink={<a target="_blank" rel="noopener noreferrer" href="//mozilla.org"></a>}>
+                       mozillaLink={<a target="_blank" rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a>}>
               <p>
                 Mozilla is a global non-profit dedicated to putting you in control of your online
                 experience and shaping the future of the web for the public good. Visit us

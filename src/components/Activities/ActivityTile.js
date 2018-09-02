@@ -31,7 +31,7 @@ class ActivityTile extends Component {
 
           {/* TODO: add link once activity detail is done */}
           <Localized id={titleKey}>
-            <h2></h2>
+            <h2>Tile Title</h2>
           </Localized>
 
           <div className="item-content">

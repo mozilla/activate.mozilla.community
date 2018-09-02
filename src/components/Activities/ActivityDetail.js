@@ -27,11 +27,11 @@ class ActivityDetail extends Component {
           </Col>
           <Col lg={9} md={9} sm={9} xs={12}>
             <Localized id={titleKey}>
-              <h1 className="post-title"></h1>
+              <h1 className="post-title">Activity Title</h1>
             </Localized>
 
             <Localized id={durationKey}>
-              <h3></h3>
+              <h3>Activity Duration</h3>
             </Localized>
           </Col>
         </header>

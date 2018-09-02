@@ -25,7 +25,7 @@ class TechSpeakers extends Component {
             </p>
           </Localized>
 
-          <p><img src="/images/techspeakers.jpg" alt="TechSpeakers Group picture" /></p>
+          <p><img src="/images/techspeakers.jpg" alt="TechSpeakers Group" /></p>
 
           <Localized id="techspeakers-activity-ready">
             <p>Are you ready?</p>
