@@ -6,6 +6,7 @@
     --base-line-height: 1.5;
     --spacing-unit: 30px;
     --grey-color: #828282;
+    --grey-color-very-light: #f0f0f0;
     --grey-color-light: #dcdcdc;
     --grey-color-dark: #4f4f4f;
     --green-color: #005e5e;
@@ -287,7 +288,6 @@ pre code {
 
 .button {
     padding: 10px 20px;
-    border-radius: 10px;
     cursor: pointer;
 }
 
@@ -300,6 +300,11 @@ pre code {
     text-color: var(--dark-color);
     background-color: transparent;
     border: 1px var(--dark-color) solid;
+}
+
+.button-white:hover,
+.button-transparent:hover {
+    background-color: var(--grey-color-very-light);
 }
 
 .content-center {
