@@ -53,5 +53,11 @@
 @media all and (max-width: 767px) {
   .newsletter .form_group  {
     flex-direction: column;
+    width: 90vw;
+  }
+
+  #newsletter_privacy {
+    display: flex;
+    flex-direction: row;
   }
 }
