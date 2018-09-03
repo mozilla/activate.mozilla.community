@@ -16,7 +16,7 @@ class WebExtensions extends Component {
           <p class="alert alert-info impactbox"><span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
         Firefox is an open-source web browser that cares about user control and privacy, and extensions provide a safe, simple, and powerful way to personalize your browsing experience. From blocking ads to organizing tabs, add-ons help make Firefox your own.</p>
 
-          <p>It’s very easy to create extensions for Firefox using <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions">WebExtensions APIs</a>. This Web-based technology framework offers a powerful way to create browser extensions that can be easily ported to Chrome, Opera, and Edge, and you only need to know HTML, JavaScript and CSS to build them.</p>
+          <p>It’s very easy to create extensions for Firefox using <a href="https://developer.mozilla.org/Add-ons/WebExtensions">WebExtensions APIs</a>. This Web-based technology framework offers a powerful way to create browser extensions that can be easily ported to Chrome, Opera, and Edge, and you only need to know HTML, JavaScript and CSS to build them.</p>
 
           <p>In this series of workshops, you’ll help connect new developers with an opportunity to create extensions to solve real problems and make their lives and the web better.</p>
 
@@ -56,8 +56,8 @@ class WebExtensions extends Component {
               <p><em>“Welcome to the [name of event]! I am [name]. Today, we are going to customize our Firefox browsers by developing our own extensions to solve real problems in our own lives. Add-ons are a great way to add extra features to your browser, like blocking time-wasting websites during study hours, or turning images into cat pictures. With WebExtensions APIs, it’s now easier to create add-ons that are compatible with Firefox, Chrome, and Opera. Add-ons help keep users to be in control of their online experience, so your support in building them and the community around them matter.”</em></p>
             </li>
             <li>Ask participants to share their experience using browser extensions. What are their favorite extensions and what do those extensions do?</li>
-            <li>Walk participants through the tutorial for <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension">building the borderify extension</a> on MDN web docs.</li>
-            <li>Discuss the <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Anatomy_of_a_WebExtension">anatomy of an extension</a>.</li>
+            <li>Walk participants through the tutorial for <a href="https://developer.mozilla.org/Add-ons/WebExtensions/Your_first_WebExtension">building the borderify extension</a> on MDN web docs.</li>
+            <li>Discuss the <a href="https://developer.mozilla.org/Add-ons/WebExtensions/Anatomy_of_a_WebExtension">anatomy of an extension</a>.</li>
             <li>Have participants follow the MDN tutorial for <a href="https://github.com/mdn/webextensions-examples">building a more complex extension</a>.</li>
           </ul>
 
@@ -83,23 +83,23 @@ class WebExtensions extends Component {
             </thead>
             <tbody>
               <tr>
-                <td><a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Content_scripts">Content scripts</a></td>
+                <td><a href="https://developer.mozilla.org/Add-ons/WebExtensions/Content_scripts">Content scripts</a></td>
                 <td><a href="https://github.com/mdn/webextensions-examples/tree/master/borderify">Borderify</a></td>
                 <td><a href="https://youtu.be/WrEgBDg56sM">Content Script Tutorial</a></td>
               </tr>
               <tr>
-                <td><a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/browserAction">browserAction API</a></td>
+                <td><a href="https://developer.mozilla.org/Add-ons/WebExtensions/API/browserAction">browserAction API</a></td>
                 <td><a href="https://github.com/mdn/webextensions-examples/tree/master/bookmark-it">Bookmark It</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
-                <td><a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/pageAction">pageAction API</a></td>
+                <td><a href="https://developer.mozilla.org/Add-ons/WebExtensions/API/pageAction">pageAction API</a></td>
                 <td><a href="https://github.com/mdn/webextensions-examples/tree/master/chill-out">Chill Out</a></td>
                 <td><a href="https://www.youtube.com/watch?v=RBI-j8USuJs&amp;feature=youtu.be">pageAction tutorial </a></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
-                <td><a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/pageAction">Apply CSS</a></td>
+                <td><a href="https://developer.mozilla.org/Add-ons/WebExtensions/API/pageAction">Apply CSS</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -126,7 +126,7 @@ class WebExtensions extends Component {
           <p>At the end of the session, tell attendees when the next event in the series will be held and encourage them to sign up for it in advance.</p>
 
           <h3 id="third-meeting-apis-in-action-part-2">Third Meeting: APIs in Action, Part 2</h3>
-          <p>During the third event, participants will explore how their extensions can use the <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/tabs">tabs</a>, <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/sidebarAction">sidebarAction</a>, and <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/webRequest">webRequest</a> APIs to interact with the browser. You can make a copy of the presentation <a href="https://docs.google.com/presentation/d/1_iP7TvHQxKbMynh3tjI1kHGh0gZ5ZElG-K9RYvYjbMk/edit">APIs in Action, Part Two</a>, to customize and share with your group.</p>
+          <p>During the third event, participants will explore how their extensions can use the <a href="https://developer.mozilla.org/Add-ons/WebExtensions/API/tabs">tabs</a>, <a href="https://developer.mozilla.org/Add-ons/WebExtensions/API/sidebarAction">sidebarAction</a>, and <a href="https://developer.mozilla.org/Add-ons/WebExtensions/API/webRequest">webRequest</a> APIs to interact with the browser. You can make a copy of the presentation <a href="https://docs.google.com/presentation/d/1_iP7TvHQxKbMynh3tjI1kHGh0gZ5ZElG-K9RYvYjbMk/edit">APIs in Action, Part Two</a>, to customize and share with your group.</p>
 
           <p>We recommend the following agenda for this meeting:</p>
 
@@ -144,7 +144,7 @@ class WebExtensions extends Component {
             </thead>
             <tbody>
               <tr>
-                <td><a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/tabs">Tabs API</a></td>
+                <td><a href="https://developer.mozilla.org/Add-ons/WebExtensions/API/tabs">Tabs API</a></td>
                 <td><a href="https://github.com/mdn/webextensions-examples/tree/master/tabs-tabs-tabs">Tabs Tabs Tabs</a></td>
                 <td><a href="https://www.youtube.com/watch?v=GS1nM55iKZo&amp;t=612s&amp;list=PLdIyyZgtQZ7CJR5XFB5xvZH0oaBIT_gTD&amp;index=5">Getting Started with Tabs</a></td>
               </tr>
@@ -159,7 +159,7 @@ class WebExtensions extends Component {
                 <td>&nbsp;</td>
               </tr>
               <tr>
-                <td><a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/sidebarAction">sidebarAction API</a></td>
+                <td><a href="https://developer.mozilla.org/Add-ons/WebExtensions/API/sidebarAction">sidebarAction API</a></td>
                 <td><a href="https://github.com/mdn/webextensions-examples/tree/master/annotate-page">Annotate Page</a></td>
                 <td><a href="https://youtu.be/F6Up_yGfuJw">How to create a Sidebar Menu</a></td>
               </tr>
@@ -174,7 +174,7 @@ class WebExtensions extends Component {
                 <td>&nbsp;</td>
               </tr>
               <tr>
-                <td><a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/webRequest">webRequest API</a></td>
+                <td><a href="https://developer.mozilla.org/Add-ons/WebExtensions/API/webRequest">webRequest API</a></td>
                 <td><a href="https://github.com/mdn/webextensions-examples/tree/master/stored-credentials">Stored Credentials</a></td>
                 <td>&nbsp;</td>
               </tr>
@@ -201,7 +201,7 @@ class WebExtensions extends Component {
 
           <p>🎥  <a href="https://www.youtube.com/playlist?list=PLI08QU9qtPEJiBs7rVOT4FvXJlisDgTlS">WebExtensions Tutorials by Trishul Goel <em>Video Series</em></a></p>
 
-          <p>💃🏽 <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Examples">More Examples of APIs in Action</a> on MDN web docs</p>
+          <p>💃🏽 <a href="https://developer.mozilla.org/Add-ons/WebExtensions/Examples">More Examples of APIs in Action</a> on MDN web docs</p>
 
           <p>💃🏽 <a href="https://github.com/iamVP7/MyExtensions/blob/master/README.md">Extension Examples and Walkthroughs by Viswaprasanth Ks</a></p>
 
@@ -209,7 +209,7 @@ class WebExtensions extends Component {
 
           <p>🔍  <a href="https://davidwalsh.name/web-extensions">Create a Simple WebExtension by David Wals</a></p>
 
-          <p>👍  <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs">Browser Compatibility Table for APIs</a></p>
+          <p>👍  <a href="https://developer.mozilla.org/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs">Browser Compatibility Table for APIs</a></p>
 
           <h2 id="event-follow-up">Event Follow-Up</h2>
 

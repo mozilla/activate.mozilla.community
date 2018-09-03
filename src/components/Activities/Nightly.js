@@ -57,7 +57,7 @@ class Nightly extends Component {
               downloadLink={<a href="https://www.mozilla.org/firefox/nightly/all/">Nightly for every platform</a>}
               androidLink={<a href="https://www.mozilla.org/firefox/channel/android/">Android builds</a>}>
               <p>
-                In case you expect bandwidth issues you can download copies of <a href="https://www.mozilla.org/en-US/firefox/nightly/all/">Nightly for every platform</a> as well as <a href="https://www.mozilla.org/en-US/firefox/channel/android/">Android builds</a> to an USB stick in case you don’t have enough bandwidth for downloads at the event.
+                In case you expect bandwidth issues you can download copies of <a href="https://www.mozilla.org/firefox/nightly/all/">Nightly for every platform</a> as well as <a href="https://www.mozilla.org/firefox/channel/android/">Android builds</a> to an USB stick in case you don’t have enough bandwidth for downloads at the event.
               </p>
             </Localized>
 
@@ -105,8 +105,8 @@ class Nightly extends Component {
               </Localized>
               <ul>
                 <Localized id="nightly-activity-during-5"
-                  bugsLink={<a href="https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines">file Nightly bugs</a>}>
-                  <li>Explain how to <a href="https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines">file Nightly bugs</a></li>
+                  bugsLink={<a href="https://developer.mozilla.org/docs/Mozilla/QA/Bug_writing_guidelines">file Nightly bugs</a>}>
+                  <li>Explain how to <a href="https://developer.mozilla.org/docs/Mozilla/QA/Bug_writing_guidelines">file Nightly bugs</a></li>
                 </Localized>
                 <Localized id="nightly-activity-during-6"
                   regressionLink={<a href="https://mozilla.github.io/mozregression/">mozregression</a>}>

@@ -146,8 +146,8 @@ class WebcompatSprint extends Component {
               </Localized>
             </ul>
             <Localized id="webcompat-activity-output-5"
-              mailingLink={<a href="https://www.mozilla.org/en-US/about/forums/#compatibility">mailing list</a>}>
-              <li>Encourage attendees who want to continue to work on Web Compat to sign up to the <a href="https://www.mozilla.org/en-US/about/forums/#compatibility">mailing list</a></li>
+              mailingLink={<a href="https://www.mozilla.org/about/forums/#compatibility">mailing list</a>}>
+              <li>Encourage attendees who want to continue to work on Web Compat to sign up to the <a href="https://www.mozilla.org/about/forums/#compatibility">mailing list</a></li>
             </Localized>
           </ul>
 
@@ -212,8 +212,8 @@ class WebcompatSprint extends Component {
               <li>50 Mozillians run events</li>
             </Localized>
             <Localized id="webcompat-activity-strength-2"
-              compatList={<a href="https://www.mozilla.org/en-US/about/forums/#compatibility">compatibility list</a>}>
-              <li>50 signups to the <a href="https://www.mozilla.org/en-US/about/forums/#compatibility">compatibility list</a></li>
+              compatList={<a href="https://www.mozilla.org/about/forums/#compatibility">compatibility list</a>}>
+              <li>50 signups to the <a href="https://www.mozilla.org/about/forums/#compatibility">compatibility list</a></li>
             </Localized>
           </ul>
 

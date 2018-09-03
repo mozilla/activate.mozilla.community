@@ -46,7 +46,7 @@ class Footer extends Component {
               <div className="icon">
                 <img src="/icons/icon-terms.svg" alt="" className="footer-icon" />
                 <Localized id="legal">
-                  <a href="https://www.mozilla.org/en-US/about/legal.html" rel="noopener noreferrer" target="_blank">Legal</a>
+                  <a href="https://www.mozilla.org/about/legal.html" rel="noopener noreferrer" target="_blank">Legal</a>
                 </Localized>
               </div>
             </div>

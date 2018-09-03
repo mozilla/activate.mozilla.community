@@ -269,8 +269,8 @@ class RustHack extends Component {
 
           <ul>
             <Localized id="rust-activity-extra-2"
-              moreLink={<a href="https://www.rust-lang.org/en-US/community.html">more things happening in the community to get involved with</a>}>
-              <li>Follow up with attendees to highlight <a href="https://www.rust-lang.org/en-US/community.html">more things happening in the community to get involved with</a></li>
+              moreLink={<a href="https://www.rust-lang.org/community.html">more things happening in the community to get involved with</a>}>
+              <li>Follow up with attendees to highlight <a href="https://www.rust-lang.org/community.html">more things happening in the community to get involved with</a></li>
             </Localized>
           </ul>
 
@@ -325,8 +325,8 @@ class RustHack extends Component {
               <li>50 Mozillians organize Rust Hack and Learn events</li>
             </Localized>
             <Localized id="rust-activity-strength-2"
-              rustTeamLink={<a href="https://www.rust-lang.org/en-US/team.html">Rust teams</a>}>
-              <li>1-2 people join <a href="https://www.rust-lang.org/en-US/team.html">Rust teams</a></li>
+              rustTeamLink={<a href="https://www.rust-lang.org/team.html">Rust teams</a>}>
+              <li>1-2 people join <a href="https://www.rust-lang.org/team.html">Rust teams</a></li>
             </Localized>
           </ul>
 
