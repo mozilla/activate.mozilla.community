@@ -1,0 +1,65 @@
+.navbar-default {
+    color: #000;
+    min-height: 75px;
+    border-bottom: 5px var(--brand-color) solid;
+}
+
+img.brand {
+    width: 100px;
+    max-width: 200px;
+    margin: 7px 50px 10px 0;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.navbar-nav {
+    margin: 10px;
+}
+
+.nav > li > a {
+    display: inline-block;
+}
+
+.navbar-brand {
+    padding: 15px 0 15px 15px;
+}
+
+.navbar-default {
+    border-radius: 0;
+}
+
+/* Mobile toggle button */
+.navbar-default .navbar-toggle {
+    border: 0;
+    margin: 15px;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background: none;
+}
+
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-nav > li > a:active,
+.navbar-default .navbar-nav > li > a:focus {
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: var(--brand-color);
+    padding-bottom: 10px;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: var(--brand-color);
+    border-bottom: 2px solid var(--brand-color);
+    box-shadow: inset 0 -2px 0 var(--brand-color);
+}
+
+/* Phones */
+@media only screen and (max-width : 400px) {
+    img.brand {
+        max-width: 180px;
+    }
+}
