@@ -1,4 +1,4 @@
-import { MessageContext, FluentBundle } from 'fluent/compat';
+import { FluentBundle } from 'fluent/compat';
 import { negotiateLanguages } from 'fluent-langneg/compat';
 
 import history from '../history';
