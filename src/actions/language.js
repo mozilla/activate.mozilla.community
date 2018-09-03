@@ -3,7 +3,7 @@ import { negotiateLanguages } from 'fluent-langneg/compat';
 
 import history from '../history';
 
-const AVAILABLE_LOCALES = ['en-US', 'es'];
+const AVAILABLE_LOCALES = ['en-US'];
 
 async function fetchMessages(locale) {
   const response = await fetch(`/locales/${locale}/activate.ftl`);
