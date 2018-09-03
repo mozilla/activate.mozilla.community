@@ -16,7 +16,7 @@ export default function reducer(state = {
       const {
         userLocales,
         currentLocales,
-        messages,
+        bundles,
         availableLocales
       } = action;
 
@@ -26,7 +26,7 @@ export default function reducer(state = {
         userLocales,
         currentLocales,
         availableLocales,
-        messages,
+        bundles,
       };
     }
     default:
