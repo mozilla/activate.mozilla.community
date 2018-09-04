@@ -15,7 +15,7 @@ class Jumbotron extends Component {
             <p className="lead">
             </p>
           </Localized>
-          <Localized id="ongoing-campaign-learn-more">
+          <Localized id="ongoing-campaign-learn-more" attrs={{href: true}}>
             <a href="//mozilla.org" className="button button-white">Learn more</a>
           </Localized>
         </section>

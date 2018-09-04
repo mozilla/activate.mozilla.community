@@ -16,6 +16,7 @@ activities = Activities
 ongoing-campaign = XXX Ongoing campaign
 ongoing-campaign-description = Foo bar baz...
 ongoing-campaign-learn-more = Learn more...
+  .href = http://www.mozilla.org/en-US
 
 newsletter-title = Keep up to date!
 newsletter-email = E-mail
