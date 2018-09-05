@@ -9,14 +9,15 @@ class Jumbotron extends Component {
       <div className="jumbotron">
         <section className="flex-container">
           <Localized id="ongoing-campaign">
-            <h1>XXX Campaign ongoing!</h1>
+            <h1>Become a Dark Funnel Detective!</h1>
           </Localized>
           <Localized id="ongoing-campaign-description">
             <p className="lead">
+              Shed light on the Dark Funnel by searching for and reporting websites that have unauthorized download buttons as part of the Dark Funnel Campaign!
             </p>
           </Localized>
           <Localized id="ongoing-campaign-learn-more" attrs={{href: true}}>
-            <a href="//mozilla.org" className="button button-white">Learn more</a>
+            <a href="https://events.mozilla.org/darkfunnelEN" className="button button-white">Learn more...</a>
           </Localized>
         </section>
       </div>
