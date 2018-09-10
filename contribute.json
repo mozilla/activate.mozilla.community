@@ -25,6 +25,7 @@
         "html",
         "javascript",
         "css",
-        "markdown"
+        "react",
+        "fluent"
     ]
 }
