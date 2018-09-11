@@ -330,7 +330,7 @@ class WebExtensions extends Component {
             </Localized>
             <Localized id="webext-activity-resources-9"
               rLink={<a href="https://webextensions.tech">WebExtensions.tech</a>}>
-              <li><a href="https://webextensions.tech">Webextensions.tech- a scaffolding tool for browser extensions</a>  by Shivam Singhal, Tushar Arora &amp Trishul</li>
+              <li><a href="https://webextensions.tech">Webextensions.tech - a scaffolding tool for browser extensions</a>  by Shivam Singhal, Tushar Arora & Trishul</li>
             </Localized>
           </ul>
 
