@@ -356,7 +356,7 @@ class WebExtensions extends Component {
           <Localized id="webext-activity-ack">
             <h2 id="acknowledgements">Acknowledgements</h2>
           </Localized>
-          <Localized id="webext-activity-ack-1">
+          <Localized id="webext-activity-new-ack">
             <p>Thank you to Viswaprasanth Ks, Santosh Viswanatham, Trishul Goel, Karthic Keyan, Andre Garzia, Daniele Scasciafratte, Michael Kohler, Shivam Singhal and Tushar Arora.</p>
           </Localized>
         </Col>
