@@ -1,0 +1,10 @@
+nav-activities = Irmuden
+nav-event-guide = Amnir n tedyant
+nav-faq = Isteqsiyen FAQ
+twitter = Twitter
+discussion = Asqerdec
+contribute = Ttekki
+legal = Usḍif
+activate = Rmed
+nightly-activity-content = Agbur
+nightly-activity-extra = Ayen-nniḍen
