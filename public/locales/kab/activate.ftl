@@ -12,5 +12,7 @@ ongoing-campaign-learn-more = Issin ugar...
 newsletter-email = Imayl
 newsletter-submit = Jerred tura
 newsletter-subscribed-title = Tanemmirt!
+hours = Isragen
+testing = Asekyed
 nightly-activity-content = Agbur
 nightly-activity-extra = Ayen-nniḍen
