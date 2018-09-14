@@ -328,6 +328,10 @@ class WebExtensions extends Component {
               rLink={<a href="https://developer.mozilla.org/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs">Browser Compatibility Table for APIs</a>}>
               <li><a href="https://developer.mozilla.org/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs">Browser Compatibility Table for APIs</a></li>
             </Localized>
+            <Localized id="webext-activity-resources-9"
+              rLink={<a href="https://webextensions.tech">WebExtensions.tech</a>}>
+              <li><a href="https://webextensions.tech">Webextensions.tech - a scaffolding tool for browser extensions</a>  by Shivam Singhal, Tushar Arora & Trishul</li>
+            </Localized>
           </ul>
 
           <Localized id="webext-activity-followup">
@@ -352,8 +356,8 @@ class WebExtensions extends Component {
           <Localized id="webext-activity-ack">
             <h2 id="acknowledgements">Acknowledgements</h2>
           </Localized>
-          <Localized id="webext-activity-ack-1">
-            <p>Thank you to Viswaprasanth Ks, Santosh Viswanatham, Trishul Goel, Karthic Keyan, Andre Garzia, Daniele Scasciafratte, and Michael Kohler.</p>
+          <Localized id="webext-activity-new-ack">
+            <p>Thank you to Viswaprasanth Ks, Santosh Viswanatham, Trishul Goel, Karthic Keyan, Andre Garzia, Daniele Scasciafratte, Michael Kohler, Shivam Singhal and Tushar Arora.</p>
           </Localized>
         </Col>
 
