@@ -1,0 +1,16 @@
+nav-activities = Kegiatan
+twitter = Twitter
+activate = Aktifkan
+activities = Kegiatan
+ongoing-campaign-learn-more = Pelajari lebih lanjut...
+    .href = https://events.mozilla.org/darkfunnelEN
+newsletter-title = Jangan pernah lewatkan kesempatan untuk mendukung Mozilla!
+newsletter-email = Surel
+newsletter-submit = Daftar sekarang
+newsletter-subscribed-title = Terima kasih!
+nightly-duration = 1-3 jam
+techspeakers-duration = 1-2 jam
+webextensions-duration = 1-3 jam
+rust-duration = 2-3 jam
+webvr-duration = 3-4 jam
+webcompat-duration = 2-3 jam
