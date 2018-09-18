@@ -1,0 +1,13 @@
+nav-activities = 活动
+nav-event-guide = 活动指南
+nav-faq = 常见问题
+twitter = Twitter
+discussion = 讨论
+contribute = 贡献
+legal = 法律
+hours = 小时
+testing = 测试
+programming = 编程
+participation = 参与
+nightly-title = 使用和测试 Nightly
+faq-title = 常见问题解答
