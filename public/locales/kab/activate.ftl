@@ -35,6 +35,7 @@ techspeakers-activity-ready = Twejḍeḍ?
 techspeakers-activity-setup-5 = Asiɣzef Web
 techspeakers-activity-extra = Ayen-nniḍen
 webcompat-activity-extra = Ayen-nniḍen
+rust-activity-resources-14 = <rLink>Ineflayen n Python </rLink>
 webext-activity-second-4 = Asentel
 webext-activity-second-6 = Tividyutin
 webext-activity-third-4 = Asentel
