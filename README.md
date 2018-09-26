@@ -79,8 +79,6 @@ $ npm start
 
 You will be able to access the site at [http://127.0.0.1:3000/](http://127.0.0.1:3000/)
 
-If you want to develop pages requiring the API locally, follow the steps in the ```api/README.md``` to install and start the API locally.
-
 ### Building the site for production
 
 To build the site like it is in production, you can run the following npm script:
