@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
 
-import 'babel-polyfill';
 import 'fluent-intl-polyfill/compat';
 
 import 'bootstrap/dist/css/bootstrap.css';
