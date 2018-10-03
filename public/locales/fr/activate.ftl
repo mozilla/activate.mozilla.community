@@ -7,6 +7,7 @@ twitter = Twitter
 discussion = Discussion
 contribute = Contribuer
 legal = Mentions légales
+footer-description = Mozilla est une organisation internationale à but non lucratif, déterminée à vous faire reprendre le contrôle de votre vie numérique en ligne et à définir l’avenir du Web dans l’intérêt de tous. Plus d’informations sur <a target="_blank" rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a>
 activate = Activer
 activities = Ateliers
 ongoing-campaign = Faites la chasse aux pandas roux rebelles !
@@ -14,6 +15,7 @@ ongoing-campaign-description = Certains sites hébergent des boutons de téléch
 ongoing-campaign-learn-more = En savoir plus…
     .href = https://events.mozilla.org/darkfunnelEN
 newsletter-title = Ne manquez jamais une occasion pour soutenir Mozilla !
+newsletter-description = Rejoignez des Mozilliens du monde entier et découvrez les possibilités de soutenir efficacement la mission de Mozilla.
 newsletter-email = Adresse électronique
 newsletter-submit = Je m’inscris
 newsletter-subscribed-title = Merci !
