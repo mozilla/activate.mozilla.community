@@ -1,5 +1,7 @@
 nav-activities = Kegiatan
+nav-faq = Tanya Jawab
 twitter = Twitter
+discussion = Diskusi
 activate = Aktifkan
 activities = Kegiatan
 ongoing-campaign-learn-more = Pelajari lebih lanjut...
