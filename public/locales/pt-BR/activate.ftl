@@ -1,9 +1,12 @@
 nav-activities = Atividades
 nav-event-guide = Guia de eventos
+nav-faq = FAQ
 nav-impact = Impacto
+nav-impact-form = Formulário de Impacto
 twitter = Twitter
 discussion = Discussão
 contribute = Contribuir
+footer-description = A Mozilla é uma organização global sem fins lucrativos dedicada a colocar você no controle de sua experiência on-line e moldar o futuro da Web para o bem público. Visite-nos em <a target="_blank"  rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a>
 activate = Ativar
 activities = Atividades
 ongoing-campaign-learn-more = Saiba mais...
@@ -15,7 +18,14 @@ hours = Horas
 testing = Testando
 programming = Programação
 participation = Participação
+nightly-duration = 1-3 horas
+techspeakers-duration = 1-2 horas
 webextensions-title = Construa sua própria extensão para o Firefox
+webextensions-duration = 1-3 horas
+rust-duration = 2-3 horas
+webvr-duration = 3-4 horas
+webcompat-duration = 2-3 horas
+faq-title = Perguntas frequentes
 faq-what-title = O que é Activate Mozilla?
 faq-goals-title = Quais são os objetivos da campanha?
 faq-questions-title = O que devo fazer se tiver dúvidas?
