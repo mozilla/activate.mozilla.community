@@ -33,6 +33,7 @@ faq-why-title = Iwacu ara ttekkiɣ?
 faq-questions-title = Acu ilaq ad xedmeƔ ma sƐiƔ isteqsiyen?
 eg-started = Bdu
 eg-venue = Af-d amḍiq i temlilit
+eg-schedule = Asiher
 eg-setup = Sebded
 eg-welcome-welcome = Ansuf
 eg-signin = Qqen
