@@ -8,6 +8,7 @@ contribute = 贡献
 legal = 法律
 footer-description = Mozilla 是一个全球性的的非营利组织，致力于让您掌控自己的网络体验，并为了公众利益塑造 Web 的未來。欢迎访问 <a target="_blank" rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a> 了解更多信息。
 activate = 激活
+activate-description = Active Mozilla 运动呼吁民众参与。我们期望借此列明 Mozilla 当下的重点领域，指导动员者偕同贡献者围绕有意义的 Moizilla 项目创造社群。
 activities = 活动
 ongoing-campaign-learn-more = 详细了解……
     .href = https://events.mozilla.org/darkfunnelEN
@@ -23,6 +24,7 @@ programming = 编程
 participation = 参与
 nightly-title = 使用并测试 Nightly
 nightly-duration = 1-3 小时
+techspeakers-title = 协同技术人员主持技术演说会
 techspeakers-duration = 1-2 小时
 webextensions-title = 构建你自己的 Firefox 扩展
 webextensions-duration = 1-3 小时
