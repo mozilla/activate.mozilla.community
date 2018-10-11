@@ -32,6 +32,7 @@ faq-who-title = Qui pote collaborar in le activitates?
 faq-how-title = Como pote io collaborar?
 eg-started = Comenciar
 eg-promotion = Promotion
+eg-equipment = Logistica
 eg-setup = Preparation
 eg-signin = Authenticar se
 eg-documentation = Documentation
