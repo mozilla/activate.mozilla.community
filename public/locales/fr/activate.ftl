@@ -82,6 +82,7 @@ techspeakers-activity-ready = Êtes-vous prêt ?
 techspeakers-activity-setup-3 = Web VR
 techspeakers-activity-setup-4 = Rust
 techspeakers-activity-setup-5 = Web Extension
+techspeakers-activity-goals = Objectifs de l'atelier
 techspeakers-activity-audience = Public visé
 webcompat-activity-setup-1 = <firefoxLink>Firefox</firefoxLink>
 webcompat-activity-setup-2 = <firefoxLink>Firefox pour Android</firefoxLink>
