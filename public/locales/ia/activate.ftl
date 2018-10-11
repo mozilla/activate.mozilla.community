@@ -30,6 +30,7 @@ faq-title = Demandas frequente
 faq-what-title = Qiue es Activate Mozilla?
 faq-who-title = Qui pote collaborar in le activitates?
 faq-how-title = Como pote io collaborar?
+eg-started = Comenciar
 eg-promotion = Promotion
 eg-setup = Preparation
 eg-signin = Authenticar se
