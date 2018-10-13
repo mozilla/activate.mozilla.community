@@ -32,6 +32,7 @@ webextensions-title = Créer sa propre extension Firefox
 webextensions-description = Les modules complémentaires offrent un moyen sûr, simple et puissant de personnaliser votre navigation. Avec les API WebExtensions, il est plus facile que jamais de créer des extensions qui peuvent être facilement adaptées à Firefox, Chrome, Edge et Opera. Par cette activité, vous donnerez à de nouveaux développeurs l’occasion de créer des extensions de navigateur pour résoudre de vrais problèmes et améliorer leur vie et le web.
 webextensions-duration = 1-3 heures
 rust-title = Découvrir Rust
+rust-description = Rust est un langage de programmation système important pour le futur du Web. Il est ultra-rapide, prévient les erreurs de segmentation et garantit la sûreté entre threads. Avec votre aide, nous souhaitons que davantage de développeurs comprennent, utilisent et promeuvent ce langage afin de contribuer à rendre le Web meilleur et plus sûr.
 rust-duration = 2-3 heures
 webvr-duration = 3-4 heures
 webcompat-description = La compatibilité web, la possibilité pour tout contenu web de fonctionner dans tous les navigateurs, est primordiale. Il existe de nombreux moteurs de rendu web tournant sur de nombreux appareils et, parfois, avec quelques petits tests de leur site et de légers ajustements, les développeurs peuvent s’assurer que davantage d’utilisateurs obtiendront l’expérience complète voulue. Testez des sites et relayez ce message sur la compatibilité.
