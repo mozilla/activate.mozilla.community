@@ -1,6 +1,8 @@
 nav-activities = Irmuden
 nav-event-guide = Amnir n tedyant
 nav-faq = Isteqsiyen FAQ
+nav-impact = Asemdu
+nav-impact-form = Talɣa n usemdu
 twitter = Twitter
 discussion = Asqerdec
 contribute = Ttekki
