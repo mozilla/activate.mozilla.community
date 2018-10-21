@@ -37,6 +37,7 @@ faq-questions-title = Acu ilaq ad xedmeƔ ma sƐiƔ isteqsiyen?
 faq-budget-title = Zemreɣ ad sutreɣ tadrimt i leqdicat agi?
 faq-budget-answer-3 = Tagella i yimttekkiyen n temliliyin n ugar 5 n yisragen
 eg-started = Bdu
+eg-started-content-1 = Fren anwa leqdic ara tsedduḍ
 eg-started-content-3 = Sbadu iswiyen
 eg-venue = Af-d amḍiq i temlilit
 eg-schedule = Asiher
