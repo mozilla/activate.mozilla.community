@@ -34,6 +34,7 @@ webextensions-duration = 1-3 小时
 rust-title = 深入 Rust
 rust-duration = 2-3 小时
 webvr-title = WebVR 大本营
+webvr-description = A-Frame 是一个构建虚拟现实体验的 Web 框架，让任何人都能轻松地参与到虚拟现实中来。给相关开发者举办活动，以及写一些不错的 demo，引领他们进入 3D 世界。这将增强 WebVR —— 一个面向 Web 的虚拟现实开放平台。
 webvr-duration = 3-4 小时
 webcompat-title = Web 兼容性冲刺
 webcompat-duration = 2-3 小时
