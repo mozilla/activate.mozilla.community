@@ -1,5 +1,7 @@
 nav-activities = Kegiatan
+nav-event-guide = Panduan Acara
 nav-faq = Tanya Jawab
+nav-impact = Dampak
 twitter = Twitter
 discussion = Diskusi
 activate = Aktifkan
