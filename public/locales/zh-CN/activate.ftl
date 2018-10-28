@@ -114,6 +114,7 @@ techspeakers-activity-setup-5 = Web Extension
 techspeakers-activity-after = 会后
 techspeakers-activity-extra = 更多
 techspeakers-activity-goals = 此活动的目标
+techspeakers-activity-goals-2 = 组织一场约 50 位 Web 开发者参与的活动
 techspeakers-activity-goals-3 = 在谈话结束后，鼓励至少 40 个人分享反馈
 techspeakers-activity-audience = 目标受众
 webcompat-activity-flow = 活动流程
