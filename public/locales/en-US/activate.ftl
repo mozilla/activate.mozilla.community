@@ -19,7 +19,7 @@ ongoing-campaign-learn-more = Learn more...
   .href = https://events.mozilla.org/darkfunnelEN
 
 newsletter-title = Never miss a chance to support Mozilla!
-newsletter-description = Join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission.
+newsletter-description-subscribe = Subscribe to our newsletter and join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission.
 newsletter-email = Email
 newsletter-submit = Sign up now
 newsletter-subscribed-title = Thanks!

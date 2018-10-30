@@ -125,13 +125,13 @@ class NewsletterForm extends Component {
           <h1>Never miss a chance to support Mozilla!</h1>
         </Localized>
 
-        <Localized id="newsletter-description">
-          <p class="text-center">Join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission.</p>
+        <Localized id="newsletter-description-subscribe">
+          <p class="text-center">Subscribe to our newsletter and join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission.</p>
         </Localized>
 
         <form id="newsletter_form" name="newsletter_form" action="https://www.mozilla.org/en-US/newsletter/" method="post">
           <input type="hidden" id="fmt" name="fmt" value="H" />
-          <input type="hidden" id="newsletters" name="newsletters" value="mozilla-and-you" />
+          <input type="hidden" id="newsletters" name="newsletters" value="about-mozilla" />
 
           <div id="newsletter_errors" className="newsletter_errors" />
 
