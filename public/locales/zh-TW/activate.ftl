@@ -1,10 +1,14 @@
+nav-activities = 活動
 nav-event-guide = 活動指南
 nav-faq = 常見問題
+nav-impact = 影響
+nav-impact-form = 影響表單
 twitter = Twitter
 discussion = 討論
 contribute = 貢獻
 legal = 法律資訊
 activate = Activate
+activities = 活動
 ongoing-campaign-learn-more = 了解更多…
     .href = https://events.mozilla.org/darkfunnelEN
 newsletter-title = 不要錯過任何幫助 Mozilla 的機會！
