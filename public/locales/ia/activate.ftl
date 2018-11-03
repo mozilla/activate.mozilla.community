@@ -42,6 +42,7 @@ eg-strategy = Strategia de recrutamento
 eg-online-promotion = Promotion online  e stampa
 eg-tech = Technologia
 eg-equipment = Logistica
+eg-backup = Plan de soccorso
 eg-setup = Preparation
 eg-welcome = Benvenite & registration
 eg-welcome-welcome = Benvenite
