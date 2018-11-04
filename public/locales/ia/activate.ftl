@@ -7,8 +7,11 @@ twitter = Twitter
 discussion = Discussion
 contribute = Contribuer
 legal = Legal
+footer-description = Mozilla es un organisation global non-lucrative dedicate a poner te in controlo de tu experientia online e imbuccar le futuro del web pro le bon public. Visita nos a <a target="_blank" <s0/>rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a>
 activate = Activar
+activate-description = Le campania Activate Mozilla mira al bases de contributiones voluntari. Nos desira apportar plus claritate sur illo que es le plus importante areas pro contribuer a Mozilla subito per fornir guida al promotores sur como recrutar collaboratores e crear un communitate circum significative projectos de Mozilla.
 activities = Activitates
+ongoing-campaign = Deveni un Detective del cammino obscur!
 ongoing-campaign-learn-more = Saper plus...
     .href = hrefhttps://events.mozilla.org/darkfunnelEN
 newsletter-title = Jammais mancar le occasion de supportar Mozilla!
