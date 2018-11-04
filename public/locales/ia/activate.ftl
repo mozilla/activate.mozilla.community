@@ -26,6 +26,7 @@ testing = Test
 programming = Programmation
 participation = Participation
 nightly-title = Uso e test de Nightly
+nightly-description = Iste activitate ha grande potential pro facer un impacto per accrescer le interesse general in Nightly, simplemente per introducer communitate a labores que illos pote collaborar in activitates correlate a Nightly. Trovar e denunciar problemas de bon hora in le cyclo significa que Firefox per tempore obtene versiones con codice in bon forma.
 nightly-duration = 1-3 horas
 techspeakers-duration = 1-2 horas
 webextensions-duration = 1-3 horas
