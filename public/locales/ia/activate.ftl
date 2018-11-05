@@ -64,6 +64,7 @@ faq-budget-answer-3 = Alimento pro participantes a un evento de ultra que 5 hora
 faq-budget-answer-4 = Location del loco de reunion  (in caso de nulle altere alternative)
 faq-budget-answer-5 = Viage sur le campo pro un experto (actualmente consentite solmente pro eventos de Rust)
 faq-budget-answer-6 = Pro alcun activitates, extra budget es disponibile pro besonios special. Per exemplo, bonettos VR pro le activitate de campo WebVR. Detalios sera disponibile sur le paginas de activitate pertinente.
+faq-budget-answer-7 = Pro facer le requesta, tu debera facer un requesta de budget de Reps. Si tu non es un Rep, per favor continge pro te adjutar un Rep local. Nos traciara rapidemente le requestas valide, que es solo illos que satisface le requisitos del activitate. Pro requestas budget plus grande, il sera processate como ulle altere requesta de budget de Reps e il ha nulle garantia que illo sera approbate e mesmo si approbate, si illo sera per tempore.
 eg-title = Activar le guida de planification de evento
 eg-started = Comenciar
 eg-started-content-1 = Decide qual activitate tu desira facer fluer
