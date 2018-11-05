@@ -74,6 +74,7 @@ eg-started-content-1 = Decide qual activitate tu desira facer fluer
 eg-started-content-2 = Estima quante personas assistera
 eg-started-content-3 = Definir objectivos
 eg-venue = Trovar un loco de rendez-vous
+eg-venue-content = Quando tu considera ubi tener tu evento, cerca un spatio confortabile e flexibile que es appropriate al numero de participantes que tu expecta. Esser creative – caffes, centros de communitate, spatios de labor commun, bibliothecas e spatios hacker es grande locos pro initiar.
 eg-experience = Projectar un experientia agradabile
 eg-schedule = Planificar
 eg-promotion = Promotion
