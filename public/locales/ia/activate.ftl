@@ -115,6 +115,7 @@ eg-feedback-content-1 = Demanda le commentario al participantes. Que ha illes ap
 eg-feedback-content-2 = Comparti le ligamine del <feedbackLink>formulario de commentario</feedbackLink> con tote le participantes al fin del  evento pro colliger le commentarios.
 eg-cleanup = Munditia
 eg-cleanup-content = Crea e mantene un bon relation con tu loco de reunion per curar de lassar illo munde como quando tu arrivava. In iste maniera, si tu desira facer fluer un altere evento le anno proxime illes sera enthusiasta de haber te retro.
+nightly-activity-intro = Iste activitate ha grande potential de facer un impacto per accrescer le interesse general in Nightly, simplemente per introducer le communitate a labores que illos pote collaborar in activitates correlate a NightlyTrovar e denunciar problemas de bon hora in le cyclo significa que Firefox per tempore obtene versiones con codice in bon forma.
 nightly-activity-event-flow = Fluxo de eventos
 nightly-activity-before2 = un septimana ante le evento
 nightly-activity-content = Contento
