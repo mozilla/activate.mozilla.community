@@ -103,6 +103,7 @@ eg-welcome-content = Un bon prime impression va multo avante a adjutar alcuno a 
 eg-welcome-welcome = Benvenite
 eg-welcome-welcome-content = Regratia totes pro esser venite. Da le benvenite a tu nove e vetere participantes e cura que de facer le introductiones del nove personas.
 eg-signin = Authenticar se
+eg-signin-content = Un vice que tu evento initia il pote ser multo difficile tener tracia de qui es illac. Preparar un tabella de firmas te da le opportunitate pro registrar le personas tosto que illes arriva, assi que tu pote obtener le nomines de participantes e lor detalios de contacto e tu pote les inviar regratiamentos, ligamines, actualisationes, e invitationes a futur eventos. Tu pote alsi desirar de exponer le etiquettas de nomine assi que il es plus facile al personas initiar a parlar. Tu pote jocar le joco del etiquetta de nomine e demandar al personas de listar lor favorite technologia, video joco, spectaculo tv et cetera, sub lor nomine pro adjutar a initiar le conversationes. Non haber timor de devenir creative e de adjutar le personas a rumper le glacie!
 eg-documentation = Documentation
 eg-demos = Demonstrationes
 nightly-activity-event-flow = Fluxo de eventos
