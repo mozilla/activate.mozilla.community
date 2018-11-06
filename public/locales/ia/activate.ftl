@@ -107,6 +107,7 @@ eg-signin-content = Un vice que tu evento initia il pote ser multo difficile ten
 eg-documentation = Documentation
 eg-documentation-content = Eventos eveni rapidemente e il  es sovente impossibile capturar o obtener ligamines de tote le stupende cosas facite. Identifica un processo pro capturar e compartir presto le ideas e comparti illo con voluntarios, facilitatores e participantes.
 eg-wrapup = Restitution
+eg-wrapup-content = Quando il es tempore pro le restitution, tu participantes se sentira inspirate, stimulate e preste a compartir lo que illes ha apprendite. Tu desirara prender avantage de iste momento.
 eg-demos = Demonstrationes
 nightly-activity-event-flow = Fluxo de eventos
 nightly-activity-before2 = un septimana ante le evento
