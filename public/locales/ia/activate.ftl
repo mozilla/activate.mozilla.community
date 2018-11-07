@@ -124,6 +124,7 @@ nightly-activity-before-1 = Leger le <eventGuideLink>Guida al evento</eventGuide
 nightly-activity-before-2 = Copia e adapta le <nightlyIntroLink>diapositivas de introduction a Nightly </nightlyIntroLink>
 nightly-activity-before-3 = Da un pensata si illo sera auto-facilitate o con alcuno qui ha experientia de Nightly. Tu pote trovar auxilio sur le canal irc.mozilla.org de Nightly o illo Telegram del Mozilla Nightly Testers.
 nightly-activity-before-4 = Crea un pagina del evento sur un platteforma popular in tu region, como Facebook o Meetup.com, e continua a postar informationes interessante circa Nightly & topicos correlate pro continuar le conversation sur Twitter.
+nightly-activity-tip = In caso que tu expecta problemas de largessa de banda tu pote discargar copias de <downloadLink">Nightly pro cata systema operative</downloadLink> tam ben como <androidLink>Compilationes de Android</androidLink> a un clave USB in caso tu non ha bastante largessa de banda pro le discargamentos al evento.
 nightly-activity-before2 = un septimana ante le evento
 nightly-activity-content = Contento
 nightly-activity-extra = Extra
