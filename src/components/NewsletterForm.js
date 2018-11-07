@@ -145,9 +145,9 @@ class NewsletterForm extends Component {
           <div id="newsletter_privacy" className="form_group">
             <input type="checkbox" id="privacy" name="privacy" required />
             <Localized id="newsletter-privacy"
-              privacyLink={<a target="_blank" rel="noopener noreferrer" href="https://www.mozilla.org/privacy/">this Privacy Policy</a>}>
+              privacyLink={<a target="_blank" rel="noopener noreferrer" href="https://www.mozilla.org/privacy/websites/">Privacy Policy</a>}>
               <label htmlFor="privacy">
-                  I'm okay with Mozilla handling my info as explained in <a href="https://www.mozilla.org/privacy/">this Privacy Policy</a>.
+                  I'm okay with Mozilla handling my info as explained in this <a href="https://www.mozilla.org/privacy/websites/">Privacy Policy</a>.
               </label>
             </Localized>
           </div>
