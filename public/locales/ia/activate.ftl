@@ -144,6 +144,7 @@ nightly-activity-end = Directemente al fin del activitate
 nightly-activity-end-1 = Immediatemente post le evento non oblidar de compartir le ligamine al formulario de impacto con tu participantes:
 nightly-activity-end-2 = Rememora que isto es como tu sapera qui participava a tu evento, e si tu inspirava con bon successo illes al action! Nos recommenda de adder illo a tu diapositiva final E de inviar illo per email post le evento.
 nightly-activity-output = Egresso
+nightly-activity-output-1 = Ultra al fluxo de evento recommendate ecce alcun cosas que nos place que tu, le organisator de evento, face.
 nightly-activity-content = Contento
 nightly-activity-extra = Extra
 nightly-activity-impact = Impacto & metrica
