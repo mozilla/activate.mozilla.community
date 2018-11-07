@@ -148,6 +148,7 @@ nightly-activity-output-1 = Ultra al fluxo de evento recommendate ecce alcun cos
 nightly-activity-output-2 = Plena le metrica post-evento sur le pagina del evento que tu prepara sur le portal del Reps
 nightly-activity-output-3 = Conta nos circa tu evento. Nos ama audir circa le planos approchante, e naturalmente ama audir circa lo que esseva complite al evento con un pictura o duo! Isto essera alsi esser instructive e fonte de inspiration pro alteres qui pote refacer le evento. <discourseLink>Ecce le Discurso</discourseLink>.
 nightly-activity-output-4 = Mitte un email a tote le participantes con un summario e demanda les de plenar le questionario.
+nightly-activity-output-5 = Incoragia le participantes qui desira continuar a labora sur Nightly pro registrar se al <discourseLink>Categoria del discurso</discourseLink>.
 nightly-activity-content = Contento
 nightly-activity-extra = Extra
 nightly-activity-impact = Impacto & metrica
