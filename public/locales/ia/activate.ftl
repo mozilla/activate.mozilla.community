@@ -280,6 +280,7 @@ rust-activity-resources-4 = <rLink>Habituar se al lectura e scriptura del codice
 rust-activity-resources-5 = <rLink>“Rust per exemplo”</rLink>
 rust-activity-resources-6 = Apprendimento visual
 rust-activity-resources-7 = <rLink>“In Rust”, un serie de breve instruction video circa Rust</rLink>
+rust-activity-resources-8 = <rLink>Un serie de breve instructiones video circa Rust</rLink>
 rust-activity-output = Egresso
 rust-activity-extra = Extra
 rust-activity-impact-4 = Impacto:
