@@ -408,6 +408,7 @@ webext-activity-first-9 = Al fin del session, dice al participantes quando le ev
 webext-activity-second = Secunde incontro: APIs in Action, Parte 1
 webext-activity-second-1 = Durante le secunde evento, le participantes sera introducite al APIs de WebExtensions que pote exequer functionalitates de base. Post le revision del functionalitates de iste APIs, tu adjutara le gruppo a poner illos in action pro crear un extension pro Firefox. Tu pote facer un copia del presentation <actionLink>APIs in action, parte 1</actionLink> e compartir illo con tu gruppo.
 webext-activity-second-2 = Nos recommenda le sequente agenda pro iste incontro:
+webext-activity-second-3 = Prime medietate del incontro - forni summarios e demonstrationes del sequente topicos:
 webext-activity-second-4 = Subjecto
 webext-activity-second-5 = Exemplos de extension
 webext-activity-second-6 = Videos
