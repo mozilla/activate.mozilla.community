@@ -4,14 +4,23 @@ import { connect} from 'react-redux';
 import { Localized } from 'fluent-react/compat';
 import { Navbar, Nav, NavItem } from 'react-bootstrap';
 
+import { changeLocalesWithURL } from '../actions/language.js';
+
 import './Header.css';
 
 class Header extends Component {
   render() {
+
+    const {
+      availableLocales,
+      currentLocales,
+      changeLocalesWithURL,
+    } = this.props;
+
     const currentLocale = this.props.currentLocales[0];
 
     return (
-      <Navbar collapseOnSelect>
+      <Navbar>
         <Navbar.Header>
           <Navbar.Brand>
             <Link to={`/${currentLocale}`}>
@@ -38,6 +47,26 @@ class Header extends Component {
               </Localized>
             </NavItem>
           </Nav>
+          <Nav>
+            <NavItem>
+              <form className="languages" id="lang_form">
+                <select id="language-select"
+                        name="lang"
+                        value={currentLocales[0]}
+                        className="form-control"
+                        onChange={(event) => changeLocalesWithURL(currentLocales[0], [event.target.value])}
+                >
+                  {
+                    availableLocales.map((locale) => {
+                      return (
+                        <option key={locale} value={locale}>{locale}</option>
+                      )
+                    })
+                  }
+                </select>
+              </form>
+            </NavItem>
+          </Nav>
         </Navbar.Collapse>
       </Navbar>
     );
@@ -46,7 +75,10 @@ class Header extends Component {
 
 const mapStateToProps = (state) => ({
   currentLocales: state.currentLocales,
+  availableLocales: state.availableLocales,
 });
-const mapDispatchToProps = {};
+const mapDispatchToProps = {
+  changeLocalesWithURL,
+};
 
 export default connect(mapStateToProps, mapDispatchToProps)(Header);
