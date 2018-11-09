@@ -126,7 +126,7 @@ class NewsletterForm extends Component {
         </Localized>
 
         <Localized id="newsletter-description-subscribe">
-          <p class="text-center">Subscribe to our newsletter and join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission.</p>
+          <p className="text-center">Subscribe to our newsletter and join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission.</p>
         </Localized>
 
         <form id="newsletter_form" name="newsletter_form" action="https://www.mozilla.org/en-US/newsletter/" method="post">
