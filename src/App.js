@@ -7,6 +7,8 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import Home from './components/Home';
 import FAQ from './components/FAQ';
+import ActivitiesList from './components/Activities/ActivitiesList';
+import CampaignsListing from "./components/Campaigns/CampaignsListing";
 import EventGuide from './components/EventGuide';
 import NotFound from './components/NotFound';
 
@@ -19,6 +21,7 @@ import WebcompatSprint from './components/Activities/WebcompatSprint';
 
 import './App.css';
 
+
 class App extends Component {
   render() {
     return (
@@ -30,6 +33,8 @@ class App extends Component {
                 and localized path route.
             */}
             <Route exact path='/' component={Home}/>
+            <Route path='/activities' component={ActivitiesList}/>
+            <Route path='/campaigns' component={CampaignsListing}/>
             <Route path='/faq' component={FAQ}/>
             <Route path='/eventguide' component={EventGuide}/>
             <Route path='/nightly' component={Nightly}/>
@@ -40,6 +45,8 @@ class App extends Component {
             <Route path='/webcompat-sprint' component={WebcompatSprint}/>
 
             <Route exact path='/:lang' render={(props) => (<Content><Home {...props} /></Content>)} />
+            <Route path='/:lang/activities' render={(props) => (<Content><ActivitiesList {...props} /></Content>)} />
+            <Route path='/:lang/campaigns' render={(props) => (<Content><CampaignsListing {...props} /></Content>)} />
             <Route path='/:lang/faq' render={(props) => (<Content><FAQ {...props} /></Content>)} />
             <Route path='/:lang/eventguide' render={(props) => (<Content><EventGuide {...props} /></Content>)} />
             <Route path='/:lang/nightly' render={(props) => (<Content><Nightly {...props} /></Content>)} />

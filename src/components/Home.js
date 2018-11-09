@@ -12,7 +12,7 @@ class Home extends Component {
         <Jumbotron></Jumbotron>
         <NewsletterForm></NewsletterForm>
         <hr/>
-        <ActivitiesOverview></ActivitiesOverview>
+        <ActivitiesOverview shortView={true}></ActivitiesOverview>
       </section>
     );
   }

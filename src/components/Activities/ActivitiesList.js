@@ -3,11 +3,11 @@ import { connect} from 'react-redux';
 import { Localized } from 'fluent-react/compat';
 import { Grid, Row } from 'react-bootstrap';
 
-import ActivityTileShort from './ActivityTileShort.js';
+import ActivityTile from './ActivityTile.js';
 
-import './ActivitiesOverview.css';
+import './ActivitiesList.css';
 
-class ActivitiesOverview extends Component {
+class ActivitiesList extends Component {
   render() {
     const locale = this.props.currentLocales[0];
 
@@ -24,48 +24,54 @@ class ActivitiesOverview extends Component {
         </section>
         <Grid>
           <Row className="activity-row">
-            <ActivityTileShort
+            <ActivityTile
               titleImage="/images/nightly-header.png"
               titleKey="nightly-title"
+              descriptionKey="nightly-description"
               tagKey="testing"
               durationKey="nightly-duration"
-              linkTarget={`${locale}/nightly`}
-            ></ActivityTileShort>
-            <ActivityTileShort
+              linkTarget={`${locale}/nightly`}z
+            ></ActivityTile>
+            <ActivityTile
               titleImage="/images/techspeakers-header.png"
               titleKey="techspeakers-title"
+              descriptionKey="techspeakers-description"
               tagKey="programming"
               durationKey="techspeakers-duration"
               linkTarget={`${locale}/techspeakers`}
-            ></ActivityTileShort>
-            <ActivityTileShort
+            ></ActivityTile>
+            <ActivityTile
               titleImage="/images/webextensions-header.png"
               titleKey="webextensions-title"
+              descriptionKey="webextensions-description"
               tagKey="programming"
               durationKey="webextensions-duration"
               linkTarget={`${locale}/webextensions`}
-            ></ActivityTileShort>
-            <ActivityTileShort
+            ></ActivityTile>
+            <ActivityTile
               titleImage="/images/rust-header.png"
               titleKey="rust-title"
+              descriptionKey="rust-description"
               tagKey="programming"
               durationKey="rust-duration"
               linkTarget={`${locale}/rust-hack`}
-            ></ActivityTileShort>
-            <ActivityTileShort
+            ></ActivityTile>
+            <ActivityTile
               titleImage="/images/webvr-header.png"
               titleKey="webvr-title"
+              descriptionKey="webvr-description"
               tagKey="programming"
               durationKey="webvr-duration"
               linkTarget={`${locale}/webvr-camp`}
-            ></ActivityTileShort>
-            <ActivityTileShort
+            ></ActivityTile>
+            <ActivityTile
               titleImage="/images/webcompat-header.png"
               titleKey="webcompat-title"
+              descriptionKey="webcompat-description"
               tagKey="testing"
               durationKey="webcompat-duration"
               linkTarget={`${locale}/webcompat-sprint`}
-            ></ActivityTileShort>
+            ></ActivityTile>
           </Row>
         </Grid>
       </section>
@@ -78,5 +84,5 @@ const mapStateToProps = (state) => ({
 });
 const mapDispatchToProps = {};
 
-export default connect(mapStateToProps, mapDispatchToProps)(ActivitiesOverview);
+export default connect(mapStateToProps, mapDispatchToProps)(ActivitiesList);
 

@@ -21,8 +21,8 @@
     --page-header-background: #f5f5f5;
     --page-header-border: #778492;
     --activity-background: #DAE3E7;
-    --post-content-background: #FFFFFF; // Width of the content area
-    --content-width: 960px;
+    --post-content-background: #FFFFFF;
+    --content-width: 960px; // Width of the content area
     --on-mobile: 360px;
     --on-palm: 767px;
     --on-laptop: 992px;

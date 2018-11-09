@@ -22,9 +22,14 @@ class Header extends Component {
         </Navbar.Header>
         <Navbar.Collapse>
           <Nav>
-            <NavItem className="page-link" href={`/${currentLocale}/eventguide/`}>
-              <Localized id="nav-event-guide">
-                <span>Event Guide</span>
+            <NavItem className="page-link" href={`/${currentLocale}/campaigns/`}>
+              <Localized id="nav-campaigns">
+                <span>Campaigns</span>
+              </Localized>
+            </NavItem>
+            <NavItem className="page-link" href={`/${currentLocale}/activities/`}>
+              <Localized id="nav-activities">
+                <span>Activities</span>
               </Localized>
             </NavItem>
             <NavItem className="page-link" href={`/${currentLocale}/faq/`}>
