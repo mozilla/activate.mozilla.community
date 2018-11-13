@@ -26,4 +26,6 @@ faq-why-title = Perché dovrei collaborare?
 faq-goals-title = Quali sono gli scopi della campagna?
 faq-budget-title = Posso richiedere budget per queste attività?
 eg-started = Per iniziare
+eg-started-content-1 = Decidere quali attività svolgere
+eg-started-content-3 = Definire gli obiettivi
 eg-venue = Trovare un luogo di incontro
