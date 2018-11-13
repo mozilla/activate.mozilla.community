@@ -1,0 +1,13 @@
+.title {
+  font-family: var(--alternate-font-family);
+  font-weight: var(--title-font-weight);
+  font-size: var(--title-font-size);
+  line-height: var(--base-line-height);
+  color: var(--dark-blue-grey-color);
+  letter-spacing: 0.3px;
+}
+
+.title--medium {
+  font-size: var(--title-medium-font-size);
+  letter-spacing: -0.1px;
+}

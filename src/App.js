@@ -20,6 +20,8 @@ import WebVRCamp from './components/Activities/WebVRCamp';
 import WebcompatSprint from './components/Activities/WebcompatSprint';
 
 import './App.css';
+import './title.css';
+import './text.css';
 
 
 class App extends Component {

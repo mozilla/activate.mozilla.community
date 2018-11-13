@@ -1,8 +1,12 @@
 :root {
     --base-font-family: 'Open Sans', sans-serif;
-    --base-font-size: 18px;
+    --base-font-size: 16px;
     --base-font-weight: 300;
-    --small-font-size: var(--base-font-size) * 0.875;
+    --alternate-font-family: 'ZillaSlab', sans-serif;
+    --title-font-size: calc(var(--base-font-size) * 4.25); // 65px
+    --title-medium-font-size: calc(var(--base-font-size) * 1.625); // 26px
+    --title-font-weight: 500;
+    --small-font-size: calc(var(--base-font-size) * 0.875); // 14px
     --base-line-height: 1.5;
     --spacing-unit: 30px;
     --grey-color: #828282;
@@ -16,7 +20,9 @@
     --dark-color: #000000;
     --text-color: #000;
     --text-color-light: #fff;
+    --text-large-font-size: calc(var(--base-font-size) * 1.25); // 20px
     --background-color: #fff;
+    --dark-blue-grey-color: #1f2f57;
     --brand-color: #00458b;
     --page-header-background: #f5f5f5;
     --page-header-border: #778492;

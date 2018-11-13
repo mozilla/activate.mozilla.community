@@ -14,11 +14,11 @@ class ActivitiesOverview extends Component {
     return (
       <section className="activities">
         <Localized id="activities">
-          <h1>Activities</h1>
+          <h1 className="title text--centered">Activities</h1>
         </Localized>
         <section className="full-width">
           <Localized id="activate-description">
-            <p className="lead">
+            <p className="text text--lead text--centered">
             </p>
           </Localized>
         </section>

@@ -3,7 +3,6 @@ import { connect } from 'react-redux';
 import { Localized } from 'fluent-react/compat';
 
 import { changeLocalesWithURL } from '../actions/language.js';
-
 import './Footer.css';
 
 class Footer extends Component {
@@ -64,22 +63,6 @@ class Footer extends Component {
                 at <a target="_blank" rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a>
               </p>
             </Localized>
-            <form className="languages" id="lang_form">
-              <select id="language-select"
-                      name="lang"
-                      value={currentLocales[0]}
-                      className="form-control"
-                      onChange={(event) => changeLocalesWithURL(currentLocales[0], [event.target.value])}
-              >
-                {
-                  availableLocales.map((locale) => {
-                    return (
-                      <option key={locale} value={locale}>{locale}</option>
-                    )
-                  })
-                }
-              </select>
-            </form>
           </div>
         </div>
       </footer>

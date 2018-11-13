@@ -17,16 +17,14 @@
   font-weight: 400;
 }
 
-.activity-card .item-header {
+.activity-card header {
   margin-right: -15px;
   margin-left: -15px;
   display: flex;
   justify-content: center;
 }
 
-.activity-card  h2 {
-  font-family: 'Zilla Slab Highlight', serif;
-  font-size: 3rem;
+.activity-card .activity-card__title {
   text-align: left;
   margin-top: 2rem;
 }
@@ -49,26 +47,23 @@
   background-color: transparent;
 }
 
-.activity-card.programming {
+.activity-card--programming {
   border-bottom: 3px solid var(--green-color);
 }
-
-.activity-card.programming footer {
+.activity-card--programming footer {
   color: var(--green-color);
 }
 
-.activity-card.testing {
+.activity-card--testing {
   border-bottom: 3px solid var(--red-color);
 }
-
-.activity-card.testing footer {
+.activity-card--testing footer {
   color: var(--red-color);
 }
 
-.activity-card .participation {
+.activity-card--participation {
   border-bottom: 3px solid var(--purple-color);
 }
-
-.activity-card.participation footer {
+.activity-card--participation footer {
   color: var(--purple-color);
 }
