@@ -25,3 +25,5 @@ faq-who-answer = Chiunque desideri sostenere Mozilla.
 faq-why-title = Perché dovrei collaborare?
 faq-goals-title = Quali sono gli scopi della campagna?
 faq-budget-title = Posso richiedere budget per queste attività?
+eg-started = Per iniziare
+eg-venue = Trovare un luogo di incontro
