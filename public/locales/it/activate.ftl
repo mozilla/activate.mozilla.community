@@ -29,3 +29,4 @@ eg-started = Per iniziare
 eg-started-content-1 = Decidere quali attività svolgere
 eg-started-content-3 = Definire gli obiettivi
 eg-venue = Trovare un luogo di incontro
+eg-cleanup = Pulizia
