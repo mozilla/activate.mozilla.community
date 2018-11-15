@@ -94,3 +94,4 @@ nightly-activity-intro = Un’attività con un grande potenziale per aumentare i
 nightly-activity-event-flow = Flusso dell’evento
 nightly-activity-solo = Sebbene questa attività possa essere anche svolta individualmente, incoraggiamo i volontari a trasformarla in un evento a cui far partecipare tutta la propria comunità.
 nightly-activity-before = 2-4 settimane prima dell’evento
+nightly-activity-output = Produzione
