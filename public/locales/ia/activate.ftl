@@ -1,13 +1,13 @@
 nav-activities = Activitates
-nav-event-guide = Guida al evento
+nav-event-guide = Guida al eventos
 nav-faq = Questiones frequente
 nav-impact = Impacto
 nav-impact-form = Formulario del impacto
 twitter = Twitter
 discussion = Discussion
-contribute = Contribuer
-legal = Legal
-footer-description = Mozilla es un organisation non-lucrative mundial dedicate a poner te in controlo de tu experientia online e a forgiar le futuro del web pro le bon public. Visita nos a <a target="_blank" rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a>
+contribute = Collabora
+legal = Notas legal
+footer-description = Mozilla es un organisation non-lucrative mundial con le mission de poner te in controlo de tu experientia online e a forgiar le futuro del Web pro le bon public. Visita nos sur <a target="_blank" rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a>
 activate = Activar
 activate-description = Le campania Activar Mozilla mira al bases de contributiones voluntari. Nos desira apportar plus claritate sur le plus importante areas pro contribuer a Mozilla subito per fornir guida al promotores sur como recrutar collaboratores e crear un communitate circum projectos significative de Mozilla.
 activities = Activitates
