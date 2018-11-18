@@ -58,7 +58,7 @@ new-key = This is my completely new text that needs re-translation
 
 To submit a new localization:
 
-1) Check on [Pontoon](http://pontoon.mozilla.org/) if the language is already being translated
+1) Check on [Pontoon](https://pontoon.mozilla.org/) if the language is already being translated
 2) If not, open an issue in this repository to add the new language to Pontoon
 3) Somebody with access will add the new language to Pontoon to be translated
 4) Once the language translation is at >95% we will activate it on the website
