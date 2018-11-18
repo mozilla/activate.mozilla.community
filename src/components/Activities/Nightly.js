@@ -128,7 +128,7 @@ class Nightly extends Component {
               <p>Immediately after the event don’t forget to share the link to the impact form with your attendees:</p>
             </Localized>
 
-            <p class="attention-link"><a href="http://mzl.la/howwasit">mzl.la/howwasit</a></p>
+            <p class="attention-link"><a href="https://mzl.la/howwasit">mzl.la/howwasit</a></p>
 
             <Localized id="nightly-activity-end-2">
               <p>Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.</p>
@@ -165,8 +165,8 @@ class Nightly extends Component {
 
             <Localized id="nightly-activity-content-1"
               telegramLink={<a href="https://t.me/joinchat/AAAAAAeCegHxTCZHWhYm3A">Telegram Nightly channel</a>}
-              twitterLink={<a href="http://twitter.com/FirefoxNightly">@FirefoxNightly</a>}>
-              <p>Want to find out more about the Firefox Nightly community? Ping us on the #nightly channel on irc.mozilla.org or join the <a href="https://t.me/joinchat/AAAAAAeCegHxTCZHWhYm3A">Telegram Nightly channel</a>. You can also find us on Twitter <a href="http://twitter.com/FirefoxNightly">@FirefoxNightly</a>.</p>
+              twitterLink={<a href="https://twitter.com/FirefoxNightly">@FirefoxNightly</a>}>
+              <p>Want to find out more about the Firefox Nightly community? Ping us on the #nightly channel on irc.mozilla.org or join the <a href="https://t.me/joinchat/AAAAAAeCegHxTCZHWhYm3A">Telegram Nightly channel</a>. You can also find us on Twitter <a href="https://twitter.com/FirefoxNightly">@FirefoxNightly</a>.</p>
             </Localized>
 
             <Localized id="nightly-activity-extra">
