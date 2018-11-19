@@ -67,6 +67,7 @@ faq-budget-answer-6 = A seconda delle attività, può essere disposto un budget 
 faq-budget-answer-7 = Per richiederlo bisognerà inoltrare una richiesta di budget in qualità di Rep. Se non sei un Rep, chiedi aiuto a un Rep locale. Evaderemo rapidamente le richieste valide, ovvero quelle che corrispondono ai requisiti dell’attività. Le richieste di budget maggiori saranno valutate come qualsiasi altra richiesta di budget dei Rep. Non c'è alcuna garanzia che le richieste vengano approvate in tempo utile per l’evento, o addirittura approvate in generale.
 faq-swag-title = Posso richiedere dei gadget per queste attività?
 faq-swag-answer = Nel caso che tu abbia bisogno di gadget, puoi richiederli tramite il <formLink>modulo di richiesta gadget</formLink> oppure <produceLink>produrli in proprio</produceLink>. Se non sei un Rep, chiedi al Rep più vicino a te di inoltrare la richiesta in tua vece. Ogni richiesta viene valutata da un “bug wrangler” prima di essere approvata o respinta.
+eg-title = Guida alla pianificazione degli eventi di Activate
 eg-started = Per iniziare
 eg-started-content = Dettagli come il pubblico a cui rivolgersi, lo spazio in cui si terrà l’evento e le strategie di promozione dipendono dal tipo di evento organizzato.
 eg-started-content-1 = Decidere quali attività svolgere
