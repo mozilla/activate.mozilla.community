@@ -86,6 +86,7 @@ eg-backup = Piano di riserva
 eg-setup = Preparazione
 eg-welcome = Accoglienza e registrazione
 eg-welcome-welcome = Benvenuto
+eg-signin = Iscrizione
 eg-documentation = Documentazione
 eg-wrapup = Conclusione
 eg-demos = Dimostrazioni
