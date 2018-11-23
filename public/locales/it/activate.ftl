@@ -120,6 +120,7 @@ nightly-activity-general = Ogni giorno, gli sviluppatori di Mozilla scrivono cod
 nightly-activity-event-flow = Svolgimento dell’evento
 nightly-activity-solo = Sebbene questa attività possa essere anche svolta individualmente, incoraggiamo i volontari a trasformarla in un evento a cui far partecipare tutta la propria comunità.
 nightly-activity-before = 2-4 settimane prima dell’evento
+nightly-activity-before-1 = Leggi la <eventGuideLink>Guida eventi</eventGuideLink> per spunti su come organizzare l’attività
 nightly-activity-before-2 = Copia e adatta le <nightlyIntroLink>Diapositive di introduzione a Nightly</nightlyIntroLink>
 nightly-activity-before-3 = Valuta se sarai tu stesso il facilitatore dell’evento o se è opportuno far presenziare qualcuno che abbia esperienza di Nightly. Puoi trovare collaboratori sul gruppo Telegram Mozilla Nightly Testers o sul canale dedicato a Nightly di irc.mozilla.org.
 nightly-activity-before-4 = Crea una pagina dell’evento su una piattaforma popolare nel tuo Paese come Facebook o Meetup.com e continua a pubblicare le informazioni più interessanti su Nightly e argomenti correlati, per poi continuare la conversazione su Twitter.
