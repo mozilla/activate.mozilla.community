@@ -174,6 +174,7 @@ techspeakers-activity-after = Dopo l’evento
 techspeakers-activity-after-1 = Subito dopo l’evento non dimenticare di condividere il link del modulo per l’impatto con i tuoi partecipanti:
 techspeakers-activity-after-2 = Questo modulo è prezioso per capire chi ha partecipato al tuo evento e se sei riuscito a ispirare i tuoi partecipanti all’azione! Consigliamo di aggiungerlo alla diapositiva finale della presentazione e inviarlo per email dopo l’evento.
 techspeakers-activity-extra = Extra
+techspeakers-activity-goals = Obiettivi per questa attività
 techspeakers-activity-audience = Pubblico di riferimento
 rust-activity-flow = Svolgimento dell’evento
 vr-activity-flow-20 = Riesamina l’intero evento
