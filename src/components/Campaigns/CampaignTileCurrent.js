@@ -1,56 +1,43 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
 import { Localized } from 'fluent-react/compat';
-import { Col } from 'react-bootstrap';
-
 
 import './CampaignTile.css';
 
-class CampaignTile extends Component {
+class CampaignTileCurrent extends Component {
   render() {
     const {
       titleImage,
       titleKey,
-      descriptionKey,
       durationKey,
       linkTarget,
-      active,
     } = this.props;
 
     const cardClassNames = [
       'campaign-card',
-      ({active} ? 'is-current' : 'is-archive'),
+      'campaign-card--active',
+      'campaign-card__container',
+      'content-contained'
     ].join(' ');
 
     return (
-      <Col lg={4} md={4} sm={12} xs={12} className={cardClassNames}>
-        <Link to={`/${linkTarget}`}>
-          <header className="item-header">
-            <img src={ titleImage } alt="" />
-          </header>
-
-          {/* TODO: add link once activity detail is done */}
+      <article className={cardClassNames}>
+        <div className="campaign-card__col">
+          <img src={ titleImage } alt="" />
+        </div>
+        <div className="campaign-card__col campaign-card__spaced-content">
           <Localized id={titleKey}>
-            <h2>Tile Title</h2>
+            <h2 className="title title--extra-large color--slate-grey campaign-card__title">Tile Title</h2>
           </Localized>
-
-          <div className="item-content">
-            <Localized id={descriptionKey}>
-              <p></p>
-            </Localized>
+          <div className="campaign-card__duration color--dark-grey-blue">
+            <Localized id={durationKey}><span></span></Localized>
           </div>
-          <div className="duration">
-            <Localized id={durationKey}>
-              <span></span>
-            </Localized>
-          </div>
-          <footer>
-
-          </footer>
-        </Link>
-      </Col>
+          <Localized id="ongoing-campaign-learn-more">
+            <a href={linkTarget} className="button campaign-card__button">Learn more...</a>
+          </Localized>
+        </div>
+      </article>
     );
   }
 }
 
-export default ActivityTile;
+export default CampaignTileCurrent;

@@ -9,10 +9,9 @@ class Home extends Component {
   render() {
     return (
       <section>
-        <Jumbotron></Jumbotron>
+        <Jumbotron ></Jumbotron>
         <NewsletterForm></NewsletterForm>
-        <hr/>
-        <ActivitiesOverview shortView={true}></ActivitiesOverview>
+        <ActivitiesOverview></ActivitiesOverview>
       </section>
     );
   }

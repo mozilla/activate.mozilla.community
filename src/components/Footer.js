@@ -1,18 +1,10 @@
 import React, { Component } from 'react';
-import { connect } from 'react-redux';
 import { Localized } from 'fluent-react/compat';
 
-import { changeLocalesWithURL } from '../actions/language.js';
 import './Footer.css';
 
 class Footer extends Component {
   render() {
-    const {
-      availableLocales,
-      currentLocales,
-      changeLocalesWithURL,
-    } = this.props;
-
     return (
       <footer>
         <div className="wrapper container row">
@@ -70,12 +62,4 @@ class Footer extends Component {
   }
 }
 
-const mapStateToProps = (state) => ({
-  currentLocales: state.currentLocales,
-  availableLocales: state.availableLocales,
-});
-const mapDispatchToProps = {
-  changeLocalesWithURL,
-};
-
-export default connect(mapStateToProps, mapDispatchToProps)(Footer);
+export default Footer;

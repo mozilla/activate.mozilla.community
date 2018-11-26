@@ -10,6 +10,7 @@ class NewsletterForm extends Component {
     * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
 
     // From: https://raw.githubusercontent.com/mozilla/basket-example/master/basket-client.js
+    // @see: https://github.com/mozilla/basket-example
     // !! this file assumes only one signup form per page !!
     var newsletterForm = document.getElementById('newsletter_form');
 
@@ -36,10 +37,21 @@ class NewsletterForm extends Component {
       newsletterErrors.style.display = 'block';
     }
 
+    // Hide newsletter header
+    function newsletterHeader() {
+      var header = document.getElementsByClassName('js-newsletter-header');
+      // Hide newsletter header.
+      header[0].style.display = 'none';
+    }
+
     // show sucess message
     function newsletterThanks() {
       var thanks = document.getElementById('newsletter_thanks');
-
+      var newsletterForm = document.getElementsByClassName('js-newsletter');
+      window.scrollTo({
+        top: newsletterForm[0].offsetTop,
+        behavior: "smooth"
+      })
       // show thanks message
       thanks.style.display = 'block';
     }
@@ -81,6 +93,7 @@ class NewsletterForm extends Component {
           }
           if (response.success === true) {
             newsletterForm.style.display = 'none';
+            newsletterHeader();
             newsletterThanks();
           }
           else {
@@ -120,53 +133,60 @@ class NewsletterForm extends Component {
 
   render() {
     return (
-      <section className="newsletter full-width">
-        <Localized id="newsletter-title">
-          <h1>Never miss a chance to support Mozilla!</h1>
-        </Localized>
-
-        <Localized id="newsletter-description-subscribe">
-          <p className="text-center">Subscribe to our newsletter and join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission.</p>
-        </Localized>
-
-        <form id="newsletter_form" name="newsletter_form" action="https://www.mozilla.org/en-US/newsletter/" method="post">
-          <input type="hidden" id="fmt" name="fmt" value="H" />
-          <input type="hidden" id="newsletters" name="newsletters" value="about-mozilla" />
-
-          <div id="newsletter_errors" className="newsletter_errors" />
-
-          <div id="newsletter_email" className="form_group">
-            <Localized id="newsletter-email">
-              <label htmlFor="email" className="form_label">Email</label>
+      <section className="newsletter js-newsletter">
+        <div className="newsletter__content content-contained">
+          <div className="newsletter__header js-newsletter-header">
+            <Localized id="newsletter-title">
+              <h1 className="title text--centered">Never miss a chance to support Mozilla!</h1>
             </Localized>
-            <input type="email" id="email" name="email" className="form_input" required placeholder="you@example.com" />
-          </div>
 
-          <div id="newsletter_privacy" className="form_group">
-            <input type="checkbox" id="privacy" name="privacy" required />
-            <Localized id="newsletter-privacy"
-              privacyLink={<a target="_blank" rel="noopener noreferrer" href="https://www.mozilla.org/privacy/websites/">Privacy Policy</a>}>
-              <label htmlFor="privacy">
-                  I'm okay with Mozilla handling my info as explained in this <a href="https://www.mozilla.org/privacy/websites/">Privacy Policy</a>.
-              </label>
+            <Localized id="newsletter-description-subscribe">
+              <p className="text text--large text--centered">Subscribe to our newsletter and join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission.</p>
             </Localized>
           </div>
-          <div className="newsletter_submit">
-            <Localized id="newsletter-submit">
-              <button type="submit" className="button button-transparent">Sign up now</button>
+          <form id="newsletter_form" name="newsletter__form" action="https://www.mozilla.org/en-US/newsletter/" method="post">
+            <input type="hidden" id="fmt" name="fmt" value="H" />
+            <input type="hidden" id="newsletters" name="newsletters" value="about-mozilla" />
+
+            <div id="newsletter_errors" className="newsletter__errors" />
+
+            <div id="newsletter_email" className="form_group newsletter__email content-contained content-contained--small">
+              <Localized id="newsletter-email">
+                <label htmlFor="email" className="form_label element-invisible">Email</label>
+              </Localized>
+              <Localized id="newsletter-form-email-placeholder" attrs={{placeholder: true}}>
+                <input type="email" id="email" name="email" className="form_input" required placeholder="Enter your e-mail" />
+              </Localized>
+
+              <button type="submit" className="button button--inline newsletter__subscribe" >
+                <Localized id="newsletter-submit">
+                  <span></span>
+                </Localized>
+                <img src="/icons/icon-subscribe.svg" alt="" className="newsletter__subscribe-icon" />
+              </button>
+            </div>
+
+            <div id="newsletter_privacy" className="form_group newsletter__privacy-policy">
+              <input type="checkbox" id="privacy" name="privacy" required />
+              <Localized id="newsletter-privacy"
+                privacyLink={<a target="_blank" rel="noopener noreferrer" href="https://www.mozilla.org/privacy/websites/">Privacy Policy</a>}>
+                <label htmlFor="privacy">
+                    I'm okay with Mozilla handling my info as explained in this <a href="https://www.mozilla.org/privacy/websites/">Privacy Policy</a>.
+                </label>
+              </Localized>
+            </div>
+          </form>
+
+          <div id="newsletter_thanks" className="newsletter__thanks">
+            <Localized id="newsletter-subscribed-title">
+              <h2 className="title text--centered">Thanks!</h2>
+            </Localized>
+            <Localized id="newsletter-subscribed-text">
+              <p className="text text--large text--centered">
+                If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox and spam filter for an email from us.
+              </p>
             </Localized>
           </div>
-        </form>
-
-        <div id="newsletter_thanks" className="newsletter_thanks">
-          <Localized id="newsletter-subscribed-title">
-            <h2>Thanks!</h2>
-          </Localized>
-          <Localized id="newsletter-subscribed-text">
-            <p>
-              If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox and spam filter for an email from us.
-            </p>
-          </Localized>
         </div>
       </section>
     );

@@ -12,68 +12,70 @@ class ActivitiesList extends Component {
     const locale = this.props.currentLocales[0];
 
     return (
-      <section className="activities">
+      <section className="container activities">
         <Localized id="activities">
-          <h1>Activities</h1>
+          <h1 className="title text--centered">Activities</h1>
         </Localized>
-        <section className="full-width">
+        <div className="content-contained content-contained--small">
           <Localized id="activate-description">
-            <p className="lead">
+            <p className="text text--lead text--centered">
             </p>
           </Localized>
-        </section>
-        <Grid>
-          <Row className="activity-row">
-            <ActivityTile
-              titleImage="/images/nightly-header.png"
-              titleKey="nightly-title"
-              descriptionKey="nightly-description"
-              tagKey="testing"
-              durationKey="nightly-duration"
-              linkTarget={`${locale}/nightly`}z
-            ></ActivityTile>
-            <ActivityTile
-              titleImage="/images/techspeakers-header.png"
-              titleKey="techspeakers-title"
-              descriptionKey="techspeakers-description"
-              tagKey="programming"
-              durationKey="techspeakers-duration"
-              linkTarget={`${locale}/techspeakers`}
-            ></ActivityTile>
-            <ActivityTile
-              titleImage="/images/webextensions-header.png"
-              titleKey="webextensions-title"
-              descriptionKey="webextensions-description"
-              tagKey="programming"
-              durationKey="webextensions-duration"
-              linkTarget={`${locale}/webextensions`}
-            ></ActivityTile>
-            <ActivityTile
-              titleImage="/images/rust-header.png"
-              titleKey="rust-title"
-              descriptionKey="rust-description"
-              tagKey="programming"
-              durationKey="rust-duration"
-              linkTarget={`${locale}/rust-hack`}
-            ></ActivityTile>
-            <ActivityTile
-              titleImage="/images/webvr-header.png"
-              titleKey="webvr-title"
-              descriptionKey="webvr-description"
-              tagKey="programming"
-              durationKey="webvr-duration"
-              linkTarget={`${locale}/webvr-camp`}
-            ></ActivityTile>
-            <ActivityTile
-              titleImage="/images/webcompat-header.png"
-              titleKey="webcompat-title"
-              descriptionKey="webcompat-description"
-              tagKey="testing"
-              durationKey="webcompat-duration"
-              linkTarget={`${locale}/webcompat-sprint`}
-            ></ActivityTile>
-          </Row>
-        </Grid>
+        </div>
+        <div className="activities__listing">
+          <Grid>
+            <Row className="activity-row">
+              <ActivityTile
+                titleImage="/images/nightly-header.png"
+                titleKey="nightly-title"
+                descriptionKey="nightly-description"
+                tagKey="testing"
+                durationKey="nightly-duration"
+                linkTarget={`${locale}/nightly`}
+              ></ActivityTile>
+              <ActivityTile
+                titleImage="/images/techspeakers-header.png"
+                titleKey="techspeakers-title"
+                descriptionKey="techspeakers-description"
+                tagKey="programming"
+                durationKey="techspeakers-duration"
+                linkTarget={`${locale}/techspeakers`}
+              ></ActivityTile>
+              <ActivityTile
+                titleImage="/images/webextensions-header.png"
+                titleKey="webextensions-title"
+                descriptionKey="webextensions-description"
+                tagKey="programming"
+                durationKey="webextensions-duration"
+                linkTarget={`${locale}/webextensions`}
+              ></ActivityTile>
+              <ActivityTile
+                titleImage="/images/rust-header.png"
+                titleKey="rust-title"
+                descriptionKey="rust-description"
+                tagKey="programming"
+                durationKey="rust-duration"
+                linkTarget={`${locale}/rust-hack`}
+              ></ActivityTile>
+              <ActivityTile
+                titleImage="/images/webvr-header.png"
+                titleKey="webvr-title"
+                descriptionKey="webvr-description"
+                tagKey="programming"
+                durationKey="webvr-duration"
+                linkTarget={`${locale}/webvr-camp`}
+              ></ActivityTile>
+              <ActivityTile
+                titleImage="/images/webcompat-header.png"
+                titleKey="webcompat-title"
+                descriptionKey="webcompat-description"
+                tagKey="testing"
+                durationKey="webcompat-duration"
+                linkTarget={`${locale}/webcompat-sprint`}
+              ></ActivityTile>
+            </Row>
+          </Grid>
+        </div>
       </section>
     );
   }

@@ -2,11 +2,21 @@
   font-family: var(--base-font-family);
   font-weight: var(--base-font-weight);
   font-size: var(--base-font-size);
+  color: var(--slate-grey-color);
+}
+
+.text--large {
+  font-size: var(--text-large-font-size);
 }
 
 .text--lead {
-  font-size: var(--text-large-font-size);
+  font-size: var(--text-lead-font-size);
   color: var(--dark-blue-grey-color);
+  margin-bottom: 6rem;
+}
+
+.text--small {
+  font-size: var(--text-small-font-size);
 }
 
 .text--centered {

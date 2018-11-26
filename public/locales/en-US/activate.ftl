@@ -15,13 +15,13 @@ activities = Activities
 
 ongoing-campaign = Become a Dark Funnel Detective!
 ongoing-campaign-description = Shed light on the Dark Funnel by searching for and reporting websites that have unauthorized download buttons as part of the Dark Funnel Campaign!
-ongoing-campaign-learn-more = Learn more...
+ongoing-campaign-learn-more = Learn more
   .href = https://events.mozilla.org/darkfunnelEN
 
 newsletter-title = Never miss a chance to support Mozilla!
 newsletter-description-subscribe = Subscribe to our newsletter and join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission.
 newsletter-email = Email
-newsletter-submit = Sign up now
+newsletter-submit = Subscribe
 newsletter-subscribed-title = Thanks!
 newsletter-subscribed-text = If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox and spam filter for an email from us.
 newsletter-privacy = I'm okay with Mozilla handling my info as explained in this <privacyLink>Privacy Policy</privacyLink>.
@@ -46,6 +46,7 @@ rust-duration = 2-3 hours
 webvr-title = WebVR Camp
 webvr-description = A-Frame is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality. Run events to onboard developers into 3D and write some great demos. This will advance WebVR, an open platform for virtual reality that leverages the Web.
 webvr-duration = 3-4 hours
+webvr-tag = Programming
 webcompat-title = Web Compatibility Sprint
 webcompat-description = Web Compatibility, the ability for all Web content to run in all browsers, is important. There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired. Test sites and spread the message about compatibility.
 webcompat-duration = 2-3 hours

@@ -20,16 +20,16 @@ class Header extends Component {
     const currentLocale = this.props.currentLocales[0];
 
     return (
-      <Navbar>
-        <Navbar.Header>
-          <Navbar.Brand>
+      <Navbar className="header">
+        <Navbar.Header className="header_logo">
+          <Navbar.Brand >
             <Link to={`/${currentLocale}`}>
-              <img src="/activate.svg" alt="" className="brand" />
+              <img src="/logo.svg" alt="Mozilla Activate logo" className="logo" />
             </Link>
           </Navbar.Brand>
           <Navbar.Toggle />
         </Navbar.Header>
-        <Navbar.Collapse>
+        <Navbar.Collapse className="header__menu">
           <Nav>
             <NavItem className="page-link" href={`/${currentLocale}/campaigns/`}>
               <Localized id="nav-campaigns">
@@ -46,10 +46,8 @@ class Header extends Component {
                 <span>FAQ</span>
               </Localized>
             </NavItem>
-          </Nav>
-          <Nav>
-            <NavItem>
-              <form className="languages" id="lang_form">
+            <NavItem className="language-selector">
+              <form className="language-selector__form" id="lang_form">
                 <select id="language-select"
                         name="lang"
                         value={currentLocales[0]}

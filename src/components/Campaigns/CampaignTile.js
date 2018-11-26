@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
 import { Localized } from 'fluent-react/compat';
 import { Col } from 'react-bootstrap';
 
@@ -13,42 +12,37 @@ class CampaignTile extends Component {
       titleKey,
       descriptionKey,
       durationKey,
-      linkTarget,
-      active,
     } = this.props;
 
     const cardClassNames = [
       'campaign-card',
-      ({active} ? 'is-current' : 'is-archive'),
+      'campaign-card--archive',
     ].join(' ');
 
     return (
-      <Col lg={4} md={4} sm={12} xs={12} className={cardClassNames}>
-        <Link to={`/${linkTarget}`}>
-          <header className="item-header">
-            <img src={ titleImage } alt="" />
-          </header>
-
-          {/* TODO: add link once activity detail is done */}
-          <Localized id={titleKey}>
-            <h2>Tile Title</h2>
-          </Localized>
-
-          <div className="item-content">
+      <Col lg={6} md={6} sm={6} xs={12}>
+        <article className={cardClassNames}>
+        <div className="campaign-card__container">
+            <div className="campaign-card__col campaign-card__col--small">
+              <img className="campaign-card__image" src={ titleImage } alt="" />
+            </div>
+            <div className="campaign-card__col campaign-card__col--small">
+              <Localized id={titleKey}>
+                <h2 className="title title--large color--slate-grey campaign-card__title">Tile Title</h2>
+              </Localized>
+                <div className="campaign-card__duration color--dark-grey-blue">
+                  <Localized id={durationKey}><span></span></Localized>
+                </div>
+            </div>
+          </div>
+          <div className="text campaign-card__text color--slate-grey">
             <Localized id={descriptionKey}>
               <p></p>
             </Localized>
           </div>
-          <div className="duration">
-            <Localized id={durationKey}>
-              <span></span>
-            </Localized>
-          </div>
-          <footer>
-
-          </footer>
-        </Link>
+        </article>
       </Col>
+
     );
   }
 }

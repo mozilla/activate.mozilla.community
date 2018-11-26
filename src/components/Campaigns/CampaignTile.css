@@ -1,74 +1,47 @@
-.activity-card {
+.campaign-card {
   text-align: left;
   border: 1px solid var(--grey-color-light);
-  border-bottom: 3px solid var(--grey-color);
-  min-height: 300px;
-  padding-bottom: 32px;
-  margin-bottom: 32px;
-  max-width: 336px;
-  margin: 2vh;
+  border-radius: 4px;
+  background-color: #ffffff;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.15);
+  padding: 30px;
 }
 
-.activity-card a {
-  color: inherit;
-}
-
-.activity-card a p {
-  font-weight: 400;
-}
-
-.activity-card .item-header {
-  margin-right: -15px;
-  margin-left: -15px;
+.campaign-card__container {
   display: flex;
-  justify-content: center;
 }
 
-.activity-card  h2 {
-  font-family: 'Zilla Slab Highlight', serif;
-  font-size: 3rem;
-  text-align: left;
-  margin-top: 2rem;
+.campaign-card__col:first-child {
+  padding-right: 30px;
 }
 
-.activity-card footer {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  font-size: 0.75em;
+.campaign-card__col--small:first-child {
+  padding-right: 23px;
+}
+
+.campaign-card__spaced-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.campaign-card__button {
+  margin-left: auto;
+  margin-top: auto;
+}
+
+.campaign-card__duration {
   font-weight: 700;
-  text-transform: uppercase;
-  line-height: 25px;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  justify-content: space-around;
-  padding: 0 0 0 0;
-  background-color: transparent;
+  opacity: .6;
 }
 
-.activity-card.programming {
-  border-bottom: 3px solid var(--green-color);
+.campaign-card--archive .campaign-card__image {
+  max-width: 160px;
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+  filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
 }
 
-.activity-card.programming footer {
-  color: var(--green-color);
+.campaign-card--archive .campaign-card__container {
+  margin-bottom: 1.5em;
 }
 
-.activity-card.testing {
-  border-bottom: 3px solid var(--red-color);
-}
-
-.activity-card.testing footer {
-  color: var(--red-color);
-}
-
-.activity-card .participation {
-  border-bottom: 3px solid var(--purple-color);
-}
-
-.activity-card.participation footer {
-  color: var(--purple-color);
-}

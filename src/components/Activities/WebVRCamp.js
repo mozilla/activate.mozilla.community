@@ -10,9 +10,11 @@ class WebVRCamp extends Component {
       <ActivityDetail
         titleImage="/images/webvr-post-header.png"
         titleKey="webvr-title"
+        tagKey="webvr-tag"
         durationKey="webvr-duration">
 
-        <Col lg={9} md={9} sm={9} xs={12}>
+
+        <Col lg={9} md={9} sm={9} xs={12} smPush={3}>
 
           <Localized id="vr-activity-intro">
             <p class="alert alert-info impactbox"><span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
@@ -275,7 +277,7 @@ class WebVRCamp extends Component {
           </Localized>
         </Col>
 
-        <Col lg={3} md={3} sm={3} className="sidebar hidden-xs">
+        <Col lg={3} md={3} sm={3} smPull={9} className="sidebar">
           <Localized id="vr-activity-impact">
             <h2 id="impact-and-metrics">Impact and Metrics</h2>
           </Localized>

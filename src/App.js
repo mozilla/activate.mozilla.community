@@ -22,6 +22,9 @@ import WebcompatSprint from './components/Activities/WebcompatSprint';
 import './App.css';
 import './title.css';
 import './text.css';
+import './colors.css';
+import './button.css';
+import './content-contained.css';
 
 
 class App extends Component {
@@ -29,7 +32,7 @@ class App extends Component {
     return (
       <Router history={history}>
         <main>
-          <Header></Header>
+          <Header className="header"></Header>
           <Switch>
             {/* TODO: This is not ideal, we should write our own component that returns both the normal
                 and localized path route.
