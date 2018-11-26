@@ -188,6 +188,7 @@ webcompat-activity-end = Direttamente alla fine delle attività
 webcompat-activity-end-1 = Subito dopo l’evento non dimenticare di condividere il link del modulo per l’impatto con i tuoi partecipanti:
 webcompat-activity-end-2 = Questo modulo è prezioso per capire chi ha partecipato al tuo evento e se sei riuscito a ispirare i tuoi partecipanti all’azione! Consigliamo di aggiungerlo alla diapositiva finale della presentazione e inviarlo per email dopo l’evento.
 webcompat-activity-output = Produzione
+webcompat-activity-output-4 = <discourseLink>Ecco la discussione su Discourse in cui scrivere</discourseLink>
 webcompat-activity-extra = Extra
 webcompat-activity-impact = Impatto e metrica
 webcompat-activity-impact-title = Impatto:
