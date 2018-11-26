@@ -5,7 +5,6 @@ const initial = {
   activeCampaign: null
 }
 
-
 const campaignReducer = (state=initial, action) => {
   switch (action.type) {
     case ADD_CURRENT_CAMPAIGN:

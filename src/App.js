@@ -32,13 +32,13 @@ import './content-contained.css';
 
 let activeCampaign = null;
 
-// activeCampaign = {
-//   titleImage: "/images/c1.png",
-//   titleKey: "nightly-title",
-//   descriptionKey: "nightly-description",
-//   durationKey: "nightly-duration",
-//   linkTarget: "https://events.mozilla.org/darkfunnelen"
-// };
+activeCampaign = {
+  titleImage: "/images/c1.png",
+  titleKey: "nightly-title",
+  descriptionKey: "nightly-description",
+  durationKey: "nightly-duration",
+  linkTarget: "https://events.mozilla.org/darkfunnelen"
+};
 
 class App extends Component {
 
