@@ -8,7 +8,7 @@ const initial = {
 const campaignReducer = (state=initial, action) => {
   switch (action.type) {
     case ADD_CURRENT_CAMPAIGN:
-    	let newState =  {
+    	const newState =  {
     		...state,
     		active: action.payload,
     	}
