@@ -76,9 +76,8 @@ class ActivitiesOverview extends Component {
 }
 
 const mapStateToProps = (state) => ({
-  currentLocales: state.currentLocales,
+  currentLocales: state.language.currentLocales,
 });
 const mapDispatchToProps = {};
 
 export default connect(mapStateToProps, mapDispatchToProps)(ActivitiesOverview);
-

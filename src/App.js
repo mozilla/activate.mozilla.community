@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import { Router, Switch, Route } from 'react-router-dom';
+import store from './store';
+import { connect} from 'react-redux';
 
 import history from './history';
 import Content from './Content';
@@ -19,6 +21,8 @@ import RustHack from './components/Activities/RustHack';
 import WebVRCamp from './components/Activities/WebVRCamp';
 import WebcompatSprint from './components/Activities/WebcompatSprint';
 
+import {ADD_CURRENT_CAMPAIGN} from './actions/campaign';
+
 import './App.css';
 import './title.css';
 import './text.css';
@@ -26,8 +30,23 @@ import './colors.css';
 import './button.css';
 import './content-contained.css';
 
+const activeCampaign = {
+  titleImage: "/images/c1.png",
+  titleKey: "nightly-title",
+  descriptionKey: "nightly-description",
+  durationKey: "nightly-duration",
+  linkTarget: "https://events.mozilla.org/darkfunnelen"
+};
 
 class App extends Component {
+
+  componentDidMount() {
+    store.dispatch({
+      type: ADD_CURRENT_CAMPAIGN,
+      payload: {activeCampaign}
+    })
+  }
+
   render() {
     return (
       <Router history={history}>
@@ -72,4 +91,8 @@ class App extends Component {
   }
 }
 
-export default App;
+const mapStateToProps = (state) => ({
+  activeCampaign: state.campaigns
+});
+
+export default connect(mapStateToProps)(App);
