@@ -4,6 +4,7 @@ import { Localized } from 'fluent-react/compat';
 import { Grid, Row } from 'react-bootstrap';
 
 import CampaignTile from './CampaignTile.js';
+// eslint-disable-next-line
 import CampaignTileCurrent from './CampaignTileCurrent.js';
 
 import './CampaignsListing.css';
@@ -12,7 +13,6 @@ class CampaignsListing extends Component {
 
   render() {
     const locale = this.props.currentLocales[0];
-
 
     return (
       <React.Fragment>

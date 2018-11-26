@@ -37,7 +37,9 @@ class App extends Component {
             {/* TODO: This is not ideal, we should write our own component that returns both the normal
                 and localized path route.
             */}
+
             <Route exact path='/' component={Home}/>
+
             <Route path='/activities' component={ActivitiesList}/>
             <Route path='/campaigns' component={CampaignsListing}/>
             <Route path='/faq' component={FAQ}/>
