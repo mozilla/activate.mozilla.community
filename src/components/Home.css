@@ -9,6 +9,7 @@ hr {
   padding-top: 30px;
   padding-bottom: 30px;
   position: relative;
+  overflow: hidden;
 }
 
 .home__illustrated-slice:before {

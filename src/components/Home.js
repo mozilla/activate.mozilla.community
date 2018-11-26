@@ -13,7 +13,7 @@ class Home extends Component {
       <section>
         <Jumbotron ></Jumbotron>
         <ActivitiesOverview></ActivitiesOverview>
-        <div className="home__illustrated-slice">
+        <div className="home__illustrated-slice js-newsletter-form-wrapper">
           <NewsletterForm></NewsletterForm>
         </div>
       </section>

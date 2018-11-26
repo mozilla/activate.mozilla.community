@@ -7,7 +7,6 @@
   letter-spacing: 0.3px;
   margin-bottom: 1.5rem;
   margin-top: 3.5rem;
-  font-weight: 500;
 }
 
 .title--extra-extra-large {
@@ -16,7 +15,6 @@
   letter-spacing: 0.18px;
   margin-bottom: 1rem;
 }
-
 
 .title--extra-large {
   font-size: var(--title-extra-large-font-size);
