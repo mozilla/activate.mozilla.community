@@ -30,20 +30,22 @@ import './colors.css';
 import './button.css';
 import './content-contained.css';
 
-const activeCampaign = {
-  titleImage: "/images/c1.png",
-  titleKey: "nightly-title",
-  descriptionKey: "nightly-description",
-  durationKey: "nightly-duration",
-  linkTarget: "https://events.mozilla.org/darkfunnelen"
-};
+let activeCampaign = null;
+
+// activeCampaign = {
+//   titleImage: "/images/c1.png",
+//   titleKey: "nightly-title",
+//   descriptionKey: "nightly-description",
+//   durationKey: "nightly-duration",
+//   linkTarget: "https://events.mozilla.org/darkfunnelen"
+// };
 
 class App extends Component {
 
   componentDidMount() {
     store.dispatch({
       type: ADD_CURRENT_CAMPAIGN,
-      payload: {activeCampaign}
+      payload: activeCampaign
     })
   }
 

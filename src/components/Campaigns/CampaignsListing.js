@@ -14,6 +14,18 @@ class CampaignsListing extends Component {
   render() {
     const locale = this.props.currentLocales[0];
 
+    let activeCampaign = <div></div>;
+    if (this.props.activeCampaign) {
+      const campaign = {...this.props.activeCampaign};
+      activeCampaign = <CampaignTileCurrent
+        titleImage={campaign.titleImage}
+        titleKey={campaign.titleKey}
+        descriptionKey={campaign.descriptionKey}
+        durationKey={campaign.durationKey}
+        linkTarget={campaign.linkTarget}
+      />
+    }
+
     return (
       <React.Fragment>
         <section className="campaign">
@@ -22,17 +34,12 @@ class CampaignsListing extends Component {
           </Localized>
           <div className="content-contained content-contained--small">
             <Localized id="campaign-active-description">
-              <p className="text text--lead text--centered">Lorem ipsum dolor sit
-amet campaign</p>
+              <p className="text text--lead text--centered">
+                Lorem ipsum dolor sitamet campaign
+              </p>
             </Localized>
           </div>
-          <CampaignTileCurrent
-            titleImage="/images/c1.png"
-            titleKey="nightly-title"
-            descriptionKey="nightly-description"
-            durationKey="nightly-duration"
-            linkTarget="https://events.mozilla.org/darkfunnelen"
-          ></CampaignTileCurrent>
+          {activeCampaign}
         </section>
         <section className="campaign-list">
           <Localized id="campaign-archive">
@@ -70,6 +77,7 @@ amet campaign</p>
 
 const mapStateToProps = (state) => ({
   currentLocales: state.language.currentLocales,
+  activeCampaign: state.campaign.active,
 });
 const mapDispatchToProps = {};
 

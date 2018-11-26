@@ -11,7 +11,7 @@ const campaignReducer = (state=initial, action) => {
     case ADD_CURRENT_CAMPAIGN:
     	let newState =  {
     		...state,
-    		entries: action.payload,
+    		active: action.payload,
     	}
     	return newState;
 
