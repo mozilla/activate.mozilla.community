@@ -1,3 +1,38 @@
 hr {
   margin: 10vh 0;
 }
+
+/* Illustrated white slice that contains either newsletter subscription or */
+/* call to action. */
+.home__illustrated-slice {
+  background-color: var(--illustrated-slice-background);
+  padding-top: 30px;
+  padding-bottom: 30px;
+  position: relative;
+}
+
+.home__illustrated-slice:before {
+  display: block;
+  content: '';
+  width: 382px;
+  height: 286px;
+  background-image: url('/images/illustration_left.png');
+  top: 78px;
+  right: 50%;
+  left: auto;
+  position: absolute;
+  transform: translateX(-255px);
+
+}
+
+.home__illustrated-slice:after {
+  display: block;
+  content: '';
+  width: 352px;
+  height: 272px;
+  background-image: url('/images/illustration_right.png');
+  top: 78px;
+  left: 50%;
+  position: absolute;
+  transform: translateX(255px);
+}

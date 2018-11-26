@@ -12,8 +12,10 @@ class Home extends Component {
     return (
       <section>
         <Jumbotron ></Jumbotron>
-        <NewsletterForm></NewsletterForm>
         <ActivitiesOverview></ActivitiesOverview>
+        <div className="home__illustrated-slice">
+          <NewsletterForm></NewsletterForm>
+        </div>
       </section>
     );
   }

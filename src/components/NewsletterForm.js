@@ -137,11 +137,12 @@ class NewsletterForm extends Component {
         <div className="newsletter__content content-contained">
           <div className="newsletter__header js-newsletter-header">
             <Localized id="newsletter-title">
-              <h1 className="title text--centered">Never miss a chance to support Mozilla!</h1>
+              <h1 className="title text--centered">Keep up to date</h1>
             </Localized>
 
             <Localized id="newsletter-description-subscribe">
-              <p className="text text--large text--centered">Subscribe to our newsletter and join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission.</p>
+              <p className="text text--large text--centered">Stay in the loop by subscribing to
+                the campaigners’ mailing list</p>
             </Localized>
           </div>
           <form id="newsletter_form" name="newsletter__form" action="https://www.mozilla.org/en-US/newsletter/" method="post">
