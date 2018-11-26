@@ -175,6 +175,7 @@ techspeakers-activity-after-1 = Subito dopo l’evento non dimenticare di condiv
 techspeakers-activity-after-2 = Questo modulo è prezioso per capire chi ha partecipato al tuo evento e se sei riuscito a ispirare i tuoi partecipanti all’azione! Consigliamo di aggiungerlo alla diapositiva finale della presentazione e inviarlo per email dopo l’evento.
 techspeakers-activity-extra = Extra
 techspeakers-activity-goals = Obiettivi per questa attività
+techspeakers-activity-goals-2 = Organizza un evento per circa 50 sviluppatori web
 techspeakers-activity-audience = Pubblico di riferimento
 rust-activity-flow = Svolgimento dell’evento
 vr-activity-flow-20 = Riesamina l’intero evento
