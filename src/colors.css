@@ -10,4 +10,8 @@
   color: var(--dark-grey-blue-color);
 }
 
+.color--white {
+  color: var(--text-color-light);
+}
+
 

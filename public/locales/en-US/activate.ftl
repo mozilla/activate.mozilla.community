@@ -10,6 +10,12 @@ contribute = Contribute
 legal = Legal
 footer-description = Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a target="_blank"  rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a>
 
+jumbotron-campaign-title = Engage in 5… 4…
+jumbotron-campaign-description = Contribute to a great community in a meaningful way. Take place in our latest campaing now!
+
+jumbotron-no-campaign-title = Campaign incoming!
+jumbotron-no-campaign-description = An extra cool Mozilla campaign is coming soon, make sure you’ll be the first to know when it launches! (pun intended)
+
 activate = Activate
 activate-description = The Activate Mozilla campaign aims at the grassroots of volunteer contributions. We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now by providing guidance to mobilizers on how to recruit contributors and create community around meaningful Mozilla projects.
 activities-homepage-title = Activities galore!
