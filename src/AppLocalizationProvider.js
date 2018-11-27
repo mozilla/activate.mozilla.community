@@ -12,7 +12,6 @@ class AppLocalizationProvider extends Component {
 
   render() {
     const { bundles, children } = this.props;
-
     if (!bundles) {
       return <div>…</div>;
     }
@@ -25,7 +24,9 @@ class AppLocalizationProvider extends Component {
   }
 }
 
-const mapStateToProps = state => ({ bundles: state.bundles });
+const mapStateToProps = state => {
+  return ({ bundles: state.language.bundles })
+};
 const mapDispatchToProps = { changeLocales };
 
 export default connect(mapStateToProps, mapDispatchToProps)(

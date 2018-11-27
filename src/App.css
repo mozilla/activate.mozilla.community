@@ -2,7 +2,7 @@
   --base-font-family: 'Open Sans', sans-serif;
   --base-font-size: 16px;
   --base-line-height: 1.375;
-  --base-font-weight: 300;
+  --base-font-weight: normal;
   --alternate-font-family: 'Zilla Slab', serif;
 
   --title-font-size: calc(var(--base-font-size) * 4);
@@ -49,6 +49,7 @@
   --page-header-border: #778492;
   --activity-background: #DAE3E7;
   --post-content-background: #FFFFFF;
+  --illustrated-slice-background: #FFFFFF;
   --content-width: 960px;
   --on-mobile: 360px;
   --on-palm: 767px;
@@ -144,12 +145,12 @@ ol {
   margin-left: var(--spacing-unit);
 }
 
-li {
->ul,
->ol {
-  margin-bottom: 0;
-}
-}
+/*li {*/
+/*>ul,*/
+/*>ol {*/
+  /*margin-bottom: 0;*/
+/*}*/
+/*}*/
 
 /**
  * Headings

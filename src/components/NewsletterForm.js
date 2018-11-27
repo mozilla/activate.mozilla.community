@@ -6,24 +6,25 @@ import './NewsletterForm.css';
 class NewsletterForm extends Component {
   componentDidMount() {
     /* This Source Code Form is subject to the terms of the Mozilla Public
-    * License, v. 2.0. If a copy of the MPL was not distributed with this
-    * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
+     * License, v. 2.0. If a copy of the MPL was not distributed with this
+     * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
 
     // From: https://raw.githubusercontent.com/mozilla/basket-example/master/basket-client.js
     // @see: https://github.com/mozilla/basket-example
+
     // !! this file assumes only one signup form per page !!
-    var newsletterForm = document.getElementById('newsletter_form');
+    const newsletterForm = document.getElementById('newsletter_form');
 
     // handle errors
-    var errorArray = [];
-    var newsletterErrors = document.getElementById('newsletter_errors');
+    let errorArray = [];
+    let newsletterErrors = document.getElementById('newsletter_errors');
 
     function newsletterError() {
-      var errorList = document.createElement('ul');
+      let errorList = document.createElement('ul');
 
       if(errorArray.length) {
-        for (var i = 0; i < errorArray.length; i++) {
-          var item = document.createElement('li');
+        for (let i = 0; i < errorArray.length; i++) {
+          let item = document.createElement('li');
           item.appendChild(document.createTextNode(errorArray[i]));
           errorList.appendChild(item);
         }
@@ -39,26 +40,29 @@ class NewsletterForm extends Component {
 
     // Hide newsletter header
     function newsletterHeader() {
-      var header = document.getElementsByClassName('js-newsletter-header');
+      let header = document.getElementsByClassName('js-newsletter-header');
       // Hide newsletter header.
       header[0].style.display = 'none';
     }
 
-    // show sucess message
+    // TODO: Correct offset top according to final markup.
+    // show success message
     function newsletterThanks() {
-      var thanks = document.getElementById('newsletter_thanks');
-      var newsletterForm = document.getElementsByClassName('js-newsletter');
+      let thanks = document.getElementById('newsletter_thanks');
+      let newsletterFormWrapper = document.getElementsByClassName('js-newsletter-form-wrapper');
       window.scrollTo({
-        top: newsletterForm[0].offsetTop,
+        top: newsletterFormWrapper[0].offsetTop,
         behavior: "smooth"
-      })
+      });
       // show thanks message
       thanks.style.display = 'block';
+      console.log(newsletterFormWrapper,newsletterFormWrapper[0].offsetTop );
+
     }
 
     // XHR subscribe; handle errors; display thanks message on success.
     function newsletterSubscribe(evt) {
-      var skipXHR = newsletterForm.getAttribute('data-skip-xhr');
+      let skipXHR = newsletterForm.getAttribute('data-skip-xhr');
       if (skipXHR) {
         return true;
       }
@@ -71,22 +75,22 @@ class NewsletterForm extends Component {
       newsletterErrors.style.display = 'none';
       while (newsletterErrors.firstChild) newsletterErrors.removeChild(newsletterErrors.firstChild);
 
-      var fmt = document.getElementById('fmt').value;
-      var email = document.getElementById('email').value;
-      var newsletter = document.getElementById('newsletters').value;
-      var privacy = document.querySelector('input[name="privacy"]:checked') ? '&privacy=true' : '';
-      var params = 'email=' + encodeURIComponent(email) +
+      let fmt = document.getElementById('fmt').value;
+      let email = document.getElementById('email').value;
+      let newsletter = document.getElementById('newsletters').value;
+      let privacy = document.querySelector('input[name="privacy"]:checked') ? '&privacy=true' : '';
+      let params = 'email=' + encodeURIComponent(email) +
         '&newsletters=' + newsletter +
         privacy +
         '&fmt=' + fmt +
         '&source_url=' + encodeURIComponent(document.location.href);
 
-      var xhr = new XMLHttpRequest();
+      let xhr = new XMLHttpRequest();
 
       xhr.onload = function(r) {
         if (r.target.status >= 200 && r.target.status < 300) {
           // response is null if handled by service worker
-          var response = r.target.response;
+          let response = r.target.response;
           if (response === null ) {
             newsletterError();
             return;
@@ -98,7 +102,7 @@ class NewsletterForm extends Component {
           }
           else {
             if(response.errors) {
-              for (var i = 0; i < response.errors.length; i++) {
+              for (let i = 0; i < response.errors.length; i++) {
                 errorArray.push(response.errors[i]);
               }
             }
@@ -115,7 +119,7 @@ class NewsletterForm extends Component {
         newsletterError();
       };
 
-      var url = newsletterForm.getAttribute('action');
+      let url = newsletterForm.getAttribute('action');
 
       xhr.open('POST', url, true);
       xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
@@ -133,15 +137,16 @@ class NewsletterForm extends Component {
 
   render() {
     return (
-      <section className="newsletter js-newsletter">
+      <section className="newsletter js-newsletter container">
         <div className="newsletter__content content-contained">
-          <div className="newsletter__header js-newsletter-header">
+          <div className="newsletter__text-wrapper js-newsletter-header">
             <Localized id="newsletter-title">
-              <h1 className="title text--centered">Never miss a chance to support Mozilla!</h1>
+              <h1 className="title text--centered">Keep up to date</h1>
             </Localized>
 
             <Localized id="newsletter-description-subscribe">
-              <p className="text text--large text--centered">Subscribe to our newsletter and join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission.</p>
+              <p className="text text--large text--centered">Stay in the loop by subscribing to
+                the campaigners’ mailing list</p>
             </Localized>
           </div>
           <form id="newsletter_form" name="newsletter__form" action="https://www.mozilla.org/en-US/newsletter/" method="post">
@@ -166,18 +171,18 @@ class NewsletterForm extends Component {
               </button>
             </div>
 
-            <div id="newsletter_privacy" className="form_group newsletter__privacy-policy">
+            <div id="newsletter_privacy" className="form_group newsletter__privacy-policy text text--small">
               <input type="checkbox" id="privacy" name="privacy" required />
               <Localized id="newsletter-privacy"
-                privacyLink={<a target="_blank" rel="noopener noreferrer" href="https://www.mozilla.org/privacy/websites/">Privacy Policy</a>}>
+                         privacyLink={<a target="_blank" rel="noopener noreferrer" href="https://www.mozilla.org/privacy/websites/">Privacy Policy</a>}>
                 <label htmlFor="privacy">
-                    I'm okay with Mozilla handling my info as explained in this <a href="https://www.mozilla.org/privacy/websites/">Privacy Policy</a>.
+                  I am okay with Mozilla handling my info as explained in this <a href="https://www.mozilla.org/privacy/websites/">Privacy Policy</a>.
                 </label>
               </Localized>
             </div>
           </form>
 
-          <div id="newsletter_thanks" className="newsletter__thanks">
+          <div id="newsletter_thanks" className="newsletter__text-wrapper newsletter__text-wrapper--thanks">
             <Localized id="newsletter-subscribed-title">
               <h2 className="title text--centered">Thanks!</h2>
             </Localized>
