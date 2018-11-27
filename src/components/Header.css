@@ -1,3 +1,10 @@
+/*
+TODO, add front-page special handling
+*/
+.is-front {
+
+}
+
 .navbar-default {
   min-height: 75px;
   background-color: var(--dark-blue-grey-color);

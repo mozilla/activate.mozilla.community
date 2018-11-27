@@ -34,8 +34,8 @@ campaign-active = Current campaign
 campaign-archive = Previous campaigns
 ampaign-archive-description = Past, but not forgotten!
 
-newsletter-title = Never miss a chance to support Mozilla!
-newsletter-description-subscribe = Subscribe to our newsletter and join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission.
+newsletter-slice-title = Keep up to date
+newsletter-slice-description-subscribe = Stay in the loop by subscribing to the campaigners’ mailing list
 newsletter-email = Email
 newsletter-submit = Subscribe
 newsletter-subscribed-title = Thanks!

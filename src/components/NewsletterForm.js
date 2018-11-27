@@ -56,6 +56,7 @@ class NewsletterForm extends Component {
       });
       // show thanks message
       thanks.style.display = 'block';
+      // eslint-disable-next-line no-console
       console.log(newsletterFormWrapper,newsletterFormWrapper[0].offsetTop );
 
     }
@@ -85,6 +86,7 @@ class NewsletterForm extends Component {
         '&fmt=' + fmt +
         '&source_url=' + encodeURIComponent(document.location.href);
 
+      // eslint-disable-next-line no-undef
       let xhr = new XMLHttpRequest();
 
       xhr.onload = function(r) {
@@ -140,11 +142,11 @@ class NewsletterForm extends Component {
       <section className="newsletter js-newsletter container">
         <div className="newsletter__content content-contained">
           <div className="newsletter__text-wrapper js-newsletter-header">
-            <Localized id="newsletter-title">
+            <Localized id="newsletter-slice-title">
               <h1 className="title text--centered">Keep up to date</h1>
             </Localized>
 
-            <Localized id="newsletter-description-subscribe">
+            <Localized id="newsletter-slice-description-subscribe">
               <p className="text text--large text--centered">Stay in the loop by subscribing to
                 the campaigners’ mailing list</p>
             </Localized>

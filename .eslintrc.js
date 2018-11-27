@@ -9,7 +9,12 @@ module.exports = {
   rules: {
     "react/prop-types": 0,
     "react/display-name": 0,
-    "no-var": "error" // optional, recommended when using es6+
+    "no-var": "error", // optional, recommended when using es6+
+    "jsx-a11y/label-has-for": [ 2, {
+      "required": {
+          "every": [ "id" ]
+      }
+    }]
   },
   parser: "babel-eslint",
   parserOptions: {
