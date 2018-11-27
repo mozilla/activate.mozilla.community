@@ -15,7 +15,7 @@ class Nightly extends Component {
         <section>
           <Col lg={9} md={9} sm={9} xs={12}>
             <Localized id="nightly-activity-intro">
-              <p class="alert alert-info impactbox"><span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
+              <p className="alert alert-info impactbox"><span className="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
                 This activity has great potential to make an impact by increasing overall involvement in Nightly, simply by introducing community to tasks that they can engage in related to Nightly. Finding and filing issues early in the cycle means by the time Firefox gets to release, the code is in good shape.
               </p>
             </Localized>
@@ -128,7 +128,7 @@ class Nightly extends Component {
               <p>Immediately after the event don’t forget to share the link to the impact form with your attendees:</p>
             </Localized>
 
-            <p class="attention-link"><a href="http://mzl.la/howwasit">mzl.la/howwasit</a></p>
+            <p className="attention-link"><a href="http://mzl.la/howwasit">mzl.la/howwasit</a></p>
 
             <Localized id="nightly-activity-end-2">
               <p>Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.</p>

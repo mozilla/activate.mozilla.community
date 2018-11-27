@@ -10,7 +10,6 @@
     "acorn": "^6.0.4",
     "ajv": "^6.5.5",
     "babel-core": "7.0.0-bridge.0",
-    "babel-eslint": "^10.0.1",
     "babel-jest": "23.6.0",
     "babel-loader": "^8.0.4",
     "babel-plugin-named-asset-import": "^0.2.3",
@@ -132,6 +131,7 @@
     ]
   },
   "devDependencies": {
+    "babel-eslint": "^9.0.0",
     "eslint-plugin-only-warn": "^1.0.1",
     "gh-pages": "^2.0.1"
   }

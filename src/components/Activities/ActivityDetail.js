@@ -18,10 +18,10 @@ class ActivityDetail extends Component {
     } = this.props;
 
     return (
-      <article class="activity-page">
-        <header class="post-header row">
+      <article className="activity-page">
+        <header className="post-header row">
           <Col lg={3} md={3} sm={3} xs={12} className="content-center">
-            <header class="post-header-image">
+            <header className="post-header-image">
               <img src={titleImage} alt="" />
             </header>
           </Col>
@@ -36,7 +36,7 @@ class ActivityDetail extends Component {
           </Col>
         </header>
 
-        <div class="post-content">
+        <div className="post-content">
           {children}
         </div>
 

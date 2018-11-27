@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import { connect} from 'react-redux';
+import { connect } from 'react-redux';
 import { Localized } from 'fluent-react/compat';
 import { Navbar, Nav, NavItem } from 'react-bootstrap';
 
@@ -52,7 +52,7 @@ class Header extends Component {
                         name="lang"
                         value={currentLocales[0]}
                         className="form-control"
-                        onChange={(event) => changeLocalesWithURL(currentLocales[0], [event.target.value])}
+                        onBlur={(event) => changeLocalesWithURL(currentLocales[0], [event.target.value])}
                 >
                   {
                     availableLocales.map((locale) => {

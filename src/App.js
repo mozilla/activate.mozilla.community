@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Router, Switch, Route } from 'react-router-dom';
 import store from './store';
-import { connect} from 'react-redux';
+import { connect } from 'react-redux';
 
 import history from './history';
 import Content from './Content';
