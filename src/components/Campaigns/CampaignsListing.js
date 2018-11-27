@@ -14,26 +14,36 @@ class CampaignsListing extends Component {
   render() {
     const locale = this.props.currentLocales[0];
 
+    let activeCampaign = <div></div>;
+    if (this.props.activeCampaign) {
+      
+      const campaign = {...this.props.activeCampaign};
+
+      activeCampaign =  (<section className="campaign">
+        <Localized id="campaign-active">
+          <h1 className="title text--centered">Campaigns</h1>
+        </Localized>
+        <div className="content-contained content-contained--small">
+          <Localized id="campaign-active-description">
+            <p className="text text--lead text--centered">
+              Lorem ipsum dolor sitamet campaign
+            </p>
+          </Localized>
+        </div>
+        <CampaignTileCurrent
+          titleImage={campaign.titleImage}
+          titleKey={campaign.titleKey}
+          descriptionKey={campaign.descriptionKey}
+          durationKey={campaign.durationKey}
+          linkTarget={campaign.linkTarget}
+        />
+      </section>
+      )
+    }
+
     return (
       <React.Fragment>
-        <section className="campaign">
-          <Localized id="campaign-active">
-            <h1 className="title text--centered">Campaigns</h1>
-          </Localized>
-          <div className="content-contained content-contained--small">
-            <Localized id="campaign-active-description">
-              <p className="text text--lead text--centered">Lorem ipsum dolor sit
-amet campaign</p>
-            </Localized>
-          </div>
-          <CampaignTileCurrent
-            titleImage="/images/c1.png"
-            titleKey="nightly-title"
-            descriptionKey="nightly-description"
-            durationKey="nightly-duration"
-            linkTarget="https://events.mozilla.org/darkfunnelen"
-          ></CampaignTileCurrent>
-        </section>
+        {activeCampaign}
         <section className="campaign-list">
           <Localized id="campaign-archive">
             <h1 className="title title--extra-extra-large text--centered">Previous campaigns</h1>
@@ -69,9 +79,9 @@ amet campaign</p>
 }
 
 const mapStateToProps = (state) => ({
-  currentLocales: state.currentLocales,
+  currentLocales: state.language.currentLocales,
+  activeCampaign: state.campaign.active,
 });
 const mapDispatchToProps = {};
 
 export default connect(mapStateToProps, mapDispatchToProps)(CampaignsListing);
-

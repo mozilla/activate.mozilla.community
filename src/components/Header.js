@@ -72,8 +72,8 @@ class Header extends Component {
 }
 
 const mapStateToProps = (state) => ({
-  currentLocales: state.currentLocales,
-  availableLocales: state.availableLocales,
+  currentLocales: state.language.currentLocales,
+  availableLocales: state.language.availableLocales,
 });
 const mapDispatchToProps = {
   changeLocalesWithURL,
