@@ -16,25 +16,19 @@ class CampaignsListing extends Component {
 
     let activeCampaign = <div></div>;
     if (this.props.activeCampaign) {
-      
+
       const campaign = {...this.props.activeCampaign};
 
       activeCampaign =  (<section className="campaign">
         <Localized id="campaign-active">
-          <h1 className="title text--centered">Campaigns</h1>
+          <h1 className="title text--centered">Current campaign</h1>
         </Localized>
-        <div className="content-contained content-contained--small">
-          <Localized id="campaign-active-description">
-            <p className="text text--lead text--centered">
-              Lorem ipsum dolor sitamet campaign
-            </p>
-          </Localized>
-        </div>
         <CampaignTileCurrent
           titleImage={campaign.titleImage}
           titleKey={campaign.titleKey}
           descriptionKey={campaign.descriptionKey}
           durationKey={campaign.durationKey}
+          buttonKey = {campaign.buttonKey}
           linkTarget={campaign.linkTarget}
         />
       </section>

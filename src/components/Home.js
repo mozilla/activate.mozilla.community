@@ -28,6 +28,7 @@ class Home extends Component {
           titleKey={campaign.titleKey}
           descriptionKey={campaign.descriptionKey}
           durationKey={campaign.durationKey}
+          buttonKey = {campaign.buttonKey}
           linkTarget={campaign.linkTarget}
         />
         <ActivitiesOverview />

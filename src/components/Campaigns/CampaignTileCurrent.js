@@ -9,6 +9,7 @@ class CampaignTileCurrent extends Component {
       titleImage,
       titleKey,
       durationKey,
+      buttonKey,
       linkTarget,
     } = this.props;
 
@@ -31,7 +32,7 @@ class CampaignTileCurrent extends Component {
           <div className="campaign-card__duration color--dark-grey-blue">
             <Localized id={durationKey}><span></span></Localized>
           </div>
-          <Localized id="ongoing-campaign-learn-more">
+          <Localized id={buttonKey}>
             <a href={linkTarget} className="button campaign-card__button">Learn more...</a>
           </Localized>
         </div>

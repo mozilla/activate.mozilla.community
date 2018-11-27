@@ -32,11 +32,13 @@ import './content-contained.css';
 
 let activeCampaign = null;
 
+// Campaign exists.
 activeCampaign = {
   titleImage: "/images/c1.png",
-  titleKey: "nightly-title",
-  descriptionKey: "nightly-description",
-  durationKey: "nightly-duration",
+  titleKey: "current-campaign",
+  descriptionKey: "current-campaign-description",
+  durationKey: "current-campaign-duration",
+  buttonKey: "current-campaign-learn-more",
   linkTarget: "https://events.mozilla.org/darkfunnelen"
 };
 
