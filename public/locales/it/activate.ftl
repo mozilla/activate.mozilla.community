@@ -254,6 +254,7 @@ vr-activity-end-1 = Subito dopo ogni evento, condividi con i tuoi partecipanti i
 vr-activity-end-2 = Questo modulo è prezioso per capire chi ha partecipato al tuo evento e se sei riuscito a ispirare i tuoi partecipanti all’azione! Consigliamo di aggiungerlo alla diapositiva finale della presentazione e inviarlo per email dopo l’evento.
 vr-activity-output = Produzione
 vr-activity-output-1 = Oltre a seguire lo svolgimento dell’evento consigliato, ecco alcune azioni che potresti intraprendere, in qualità di organizzatore, per aiutarci.
+vr-activity-output-7 = Collegamenti importanti
 vr-activity-contact = Contatti
 vr-activity-impact = Impatto e metrica
 vr-activity-goals = Obiettivi per quest’area
