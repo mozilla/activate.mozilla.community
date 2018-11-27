@@ -11,10 +11,10 @@ import './Home.css';
 class Home extends Component {
 
   existActiveCampaign = () => {
-    // campaign must not be falsy and must not be null.
+    // campaign must not be false and must not be null.
     const campaignExist = !!this.props.activeCampaign && this.props.activeCampaign !== null ;
     return campaignExist;
-  }
+  };
 
   getHomeWhenActiveCampaign = () => {
 
@@ -22,27 +22,29 @@ class Home extends Component {
 
     return (
       <>
-      <CampaignTileCurrent
-        titleImage={campaign.titleImage}
-        titleKey={campaign.titleKey}
-        descriptionKey={campaign.descriptionKey}
-        durationKey={campaign.durationKey}
-        linkTarget={campaign.linkTarget}
-      />
+        <Jumbotron />
+        <CampaignTileCurrent
+          titleImage={campaign.titleImage}
+          titleKey={campaign.titleKey}
+          descriptionKey={campaign.descriptionKey}
+          durationKey={campaign.durationKey}
+          linkTarget={campaign.linkTarget}
+        />
         <ActivitiesOverview />
         <NewsletterForm />
       </>
     );
-  }
+  };
 
   getHomeWithNoCampaign = () => {
     return (
       <>
+        <Jumbotron />
         <NewsletterForm />
         <ActivitiesOverview />
       </>
     );
-  }
+  };
 
   render() {
     return (

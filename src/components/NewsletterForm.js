@@ -11,7 +11,7 @@ class NewsletterForm extends Component {
 
     // From: https://raw.githubusercontent.com/mozilla/basket-example/master/basket-client.js
     // @see: https://github.com/mozilla/basket-example
-    // !! this file assumes only one signup form per page !!
+    // !! this file assumes only one sign up form per page !!
     var newsletterForm = document.getElementById('newsletter_form');
 
     // handle errors
