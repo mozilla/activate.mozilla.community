@@ -4,4 +4,7 @@
 
 .campaign-list__row {
   margin-bottom: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }

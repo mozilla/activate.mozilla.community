@@ -13,11 +13,11 @@ class ActivitiesList extends Component {
 
     return (
       <section className="container activities">
-        <Localized id="activities">
+        <Localized id="activities-listing-title">
           <h1 className="title text--centered">Activities</h1>
         </Localized>
         <div className="content-contained content-contained--small">
-          <Localized id="activate-description">
+          <Localized id="activities-listing-description">
             <p className="text text--lead text--centered">
             </p>
           </Localized>

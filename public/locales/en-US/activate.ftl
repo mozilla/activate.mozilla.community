@@ -1,4 +1,5 @@
 nav-activities = Activities
+nav-campaigns = Campaigns
 nav-event-guide = Event Guide
 nav-faq = FAQ
 nav-impact = Impact
@@ -11,12 +12,21 @@ footer-description = Mozilla is a global non-profit dedicated to putting you in 
 
 activate = Activate
 activate-description = The Activate Mozilla campaign aims at the grassroots of volunteer contributions. We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now by providing guidance to mobilizers on how to recruit contributors and create community around meaningful Mozilla projects.
-activities = Activities
+activities-homepage-title = Activities galore!
+activities-homepage-description = While we’re coming up with our next campaign, hone your contribution skills with our activities — they are quite snazzy!
 
-ongoing-campaign = Become a Dark Funnel Detective!
-ongoing-campaign-description = Shed light on the Dark Funnel by searching for and reporting websites that have unauthorized download buttons as part of the Dark Funnel Campaign!
-ongoing-campaign-learn-more = Learn more
-  .href = https://events.mozilla.org/darkfunnelEN
+activities-listing-title = Activities galore!
+activities-listing-description = Current campaign not up your alley? We got you covered with our trusted Activities. Always here, always useful!
+
+current-campaign = Become a Dark Funnel Detective!
+current-campaign-description = Shed light on the Dark Funnel by searching for and reporting websites that have unauthorized download buttons as part of the Dark Funnel Campaign!
+current-campaign-duration = September 17-24
+current-campaign-learn-more = Learn more
+
+campaign-active = Current campaign
+
+campaign-archive = Previous campaigns
+ampaign-archive-description = Past, but not forgotten!
 
 newsletter-title = Never miss a chance to support Mozilla!
 newsletter-description-subscribe = Subscribe to our newsletter and join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission.

@@ -13,13 +13,12 @@ class ActivitiesOverview extends Component {
 
     return (
       <section className="container activities">
-        <Localized id="activities">
-          <h1 className="title text--centered">Activities</h1>
+        <Localized id="activities-homepage-title">
+          <h1 className="title text--centered">Activities galore!</h1>
         </Localized>
         <div className="content-contained content-contained--small">
-          <Localized id="activate-description">
-            <p className="text text--lead text--centered">
-            </p>
+          <Localized id="activities-homepage-description">
+            <p className="text text--lead text--centered">While we’re coming up with our next campaign, hone your contribution skills with our activities — they are quite snazzy!</p>
           </Localized>
         </div>
         <div className="activities__listing">
