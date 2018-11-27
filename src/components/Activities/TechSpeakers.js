@@ -14,7 +14,7 @@ class TechSpeakers extends Component {
 
         <Col lg={9} md={9} sm={9} xs={12}>
           <Localized id="techspeakers-activity-intro">
-            <p class="alert alert-info impactbox"><span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
+            <p className="alert alert-info impactbox"><span className="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
               As Mozilla we’re working to help to keep the internet healthy, open and accessible to all but we can’t do it alone. We need to engage with people who are on the front lines of building the internet: web developers, designers, and other technologists who care about the open web. We need to get them excited about Mozilla as a technology leader.
             </p>
           </Localized>
@@ -80,7 +80,7 @@ class TechSpeakers extends Component {
             <p>Immediately after the event don’t forget to share the link to the impact form with your attendees:</p>
           </Localized>
 
-          <p class="attention-link"><a href="http://mzl.la/howwasit">mzl.la/howwasit</a></p>
+          <p className="attention-link"><a href="http://mzl.la/howwasit">mzl.la/howwasit</a></p>
 
           <Localized id="techspeakers-activity-after-2">
             <p>Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.</p>

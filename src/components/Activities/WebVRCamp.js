@@ -17,7 +17,7 @@ class WebVRCamp extends Component {
         <Col lg={9} md={9} sm={9} xs={12} smPush={3}>
 
           <Localized id="vr-activity-intro">
-            <p class="alert alert-info impactbox"><span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
+            <p className="alert alert-info impactbox"><span className="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
               Having more developers and content creators playing with WebVR is important for the future of virtual reality to help build towards a free and open virtual reality platform not owned by any individual entity.
             </p>
           </Localized>
@@ -221,7 +221,7 @@ class WebVRCamp extends Component {
             <p>Immediately after the event don’t forget to share the link to the impact form with your attendees:</p>
           </Localized>
 
-          <p class="attention-link"><a href="http://mzl.la/howwasit">mzl.la/howwasit</a></p>
+          <p className="attention-link"><a href="http://mzl.la/howwasit">mzl.la/howwasit</a></p>
 
           <Localized id="vr-activity-end-2">
             <p>Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.</p>

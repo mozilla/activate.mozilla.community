@@ -15,7 +15,7 @@ class RustHack extends Component {
         <Col lg={9} md={9} sm={9} xs={12}>
 
           <Localized id="rust-activity-intro">
-            <p class="alert alert-info impactbox"><span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
+            <p className="alert alert-info impactbox"><span className="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
             Having more developers understand, use and evangelize this language will advance make the web better and more secure. Rust is also a great way to learn about WebAssembly.</p>
           </Localized>
 
@@ -24,7 +24,7 @@ class RustHack extends Component {
             <p>Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. <a href="https://www.rust-lang.org">Find out more…</a></p>
           </Localized>
 
-          <iframe src="https://www.youtube.com/embed/8EPsnf_ZYU0" title="Rust intro" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+          <iframe src="https://www.youtube.com/embed/8EPsnf_ZYU0" title="Rust intro" allowFullScreen="" width="560" height="315" frameBorder="0"></iframe>
 
           <Localized id="rust-activity-format">
             <h2 id="activity-format">Activity Format</h2>
@@ -151,7 +151,7 @@ class RustHack extends Component {
             <p>Immediately after the event don’t forget to share the link to the impact form with your attendees:</p>
           </Localized>
 
-          <p class="attention-link"><a href="http://mzl.la/howwasit">mzl.la/howwasit</a></p>
+          <p className="attention-link"><a href="http://mzl.la/howwasit">mzl.la/howwasit</a></p>
 
           <Localized id="rust-activity-end-2">
             <p>Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.</p>

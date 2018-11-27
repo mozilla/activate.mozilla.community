@@ -7,13 +7,13 @@ const initial = {
 
 const campaignReducer = (state=initial, action) => {
   switch (action.type) {
-    case ADD_CURRENT_CAMPAIGN:
-    	const newState =  {
-    		...state,
-    		active: action.payload,
-    	}
-    	return newState;
-
+		case ADD_CURRENT_CAMPAIGN: {
+			const newState = {
+				...state,
+				active: action.payload,
+			}
+			return newState;
+		}
 		default: return state;
   }
 }

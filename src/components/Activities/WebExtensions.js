@@ -14,7 +14,7 @@ class WebExtensions extends Component {
 
         <Col lg={9} md={9} sm={9} xs={12}>
           <Localized id="webext-activity-intro">
-            <p class="alert alert-info impactbox"><span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
+            <p className="alert alert-info impactbox"><span className="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
               Firefox is an open-source web browser that cares about user control and privacy, and extensions provide a safe, simple, and powerful way to personalize your browsing experience. From blocking ads to organizing tabs, add-ons help make Firefox your own.
             </p>
           </Localized>
