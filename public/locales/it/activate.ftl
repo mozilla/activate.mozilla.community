@@ -264,6 +264,7 @@ vr-activity-strength-2 = 20 promotori attivati
 vr-activity-strength-3 = 30 eventi
 vr-activity-strength-4 = 400 persone introdotte e avviate a produrre con A-Frame
 vr-activity-audience = Pubblico di riferimento per questa attività
+webext-activity-planning = Pianificazione del tuo laboratorio
 webext-activity-second-5 = Esempi di estensioni
 webext-activity-second-6 = Video
 webext-activity-third-4 = Argomento
