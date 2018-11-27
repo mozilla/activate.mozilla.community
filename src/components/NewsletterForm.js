@@ -56,6 +56,7 @@ class NewsletterForm extends Component {
       });
       // show thanks message
       thanks.style.display = 'block';
+      // eslint-disable-next-line no-console
       console.log(newsletterFormWrapper,newsletterFormWrapper[0].offsetTop );
 
     }
@@ -85,6 +86,7 @@ class NewsletterForm extends Component {
         '&fmt=' + fmt +
         '&source_url=' + encodeURIComponent(document.location.href);
 
+      // eslint-disable-next-line no-undef
       let xhr = new XMLHttpRequest();
 
       xhr.onload = function(r) {

@@ -10,6 +10,14 @@ import './Home.css';
 
 class Home extends Component {
 
+  componentDidMount = () => {
+    document.body.classList.add('is-front');
+  }
+
+  componentWillUnmount = () => {
+    document.body.classList.remove('is-front');
+  }
+
   existActiveCampaign = () => {
     // campaign must not be false and must not be null.
     const campaignExist = !!this.props.activeCampaign && this.props.activeCampaign !== null ;

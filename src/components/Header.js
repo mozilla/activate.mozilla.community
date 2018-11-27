@@ -48,9 +48,10 @@ class Header extends Component {
             </NavItem>
             <NavItem className="language-selector">
               <form className="language-selector__form" id="lang_form">
+
                 <select id="language-select"
                         name="lang"
-                        value={currentLocales[0]}
+                        defaultValue={currentLocales[0]}
                         className="form-control"
                         onBlur={(event) => changeLocalesWithURL(currentLocales[0], [event.target.value])}
                 >
