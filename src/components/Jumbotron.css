@@ -1,29 +1,15 @@
-.jumbotron {
+.hero {
   background-color: var(--brand-color);
   background-repeat: no-repeat;
   background-size: cover;
-  text-align: center;
-  border-radius: 0;
-  min-height: 420px;
+  background-image: url(/images/jumbotron-bkg.jpg);
+  text-align: left;
+  min-height: 550px;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.flex-container {
-  flex-direction: column;
-}
-
-.flex-container h1 {
-  color: white;
-  display: block;
-  margin: auto;
-}
-
-.flex-container .lead {
-  color: white;
-  margin: 20px auto 50px auto;
-  font-weight: 300;
-  max-width: 75%;
-  text-align: center;
+.hero__text {
+  max-width: 510px;
 }
