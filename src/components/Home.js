@@ -31,7 +31,9 @@ class Home extends Component {
           linkTarget={campaign.linkTarget}
         />
         <ActivitiesOverview />
-        <NewsletterForm />
+        <div className="home__illustrated-slice js-newsletter-form-wrapper">
+          <NewsletterForm />
+        </div>
       </>
     );
   };
@@ -42,6 +44,7 @@ class Home extends Component {
         <Jumbotron />
         <NewsletterForm />
         <ActivitiesOverview />
+        <div className="home__illustrated-slice"></div>
       </>
     );
   };

@@ -1,38 +1,91 @@
+.newsletter {
+}
+
 .newsletter__privacy-policy {
 
 }
 
-.newsletter__email {
-  display: flex;
-}
-.newsletter__email .form_input{
-  flex-grow: 2;
-  padding: 0 20px;
+.newsletter__text-wrapper {
+  max-width: 540px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 35px;
 }
 
-.newsletter__thanks {
-  display: none;
+.newsletter__header .text {
+  opacity: .8;
+}
+
+.newsletter__email {
+  display: flex;
+  margin-bottom: 30px;
+  max-width: 570px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.newsletter__email .form_input {
+  flex-grow: 2;
+  padding: 11px 20px 12px;
+  border-radius: 4px 0 0 4px;
+  border: 2px solid var(--pumpkin-orange-color);
+  border-right: 0;
+  font-size: 24px;
+  line-height: 33px;
+  color: var(--dark-grey-blue-color);
+}
+
+.newsletter__email .form_input::placeholder {
+  opacity: .8;
 }
 
 .newsletter__errors {
   color: var(--red-color);
+  text-align: center;
+  max-width: 580px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .newsletter__errors ul {
   list-style-type: none;
+  margin-left: 0;
 }
 
+/* Subscribe button. */
 .newsletter .newsletter__subscribe {
   font-size: 26px;
   line-height: 24px;
-  font-weight: normal;
+  background-color: var(--pumpkin-orange-color);
+  font-weight: 600;
+  min-width: 234px;
 }
+
 .newsletter__subscribe-icon {
   padding-left: 10px;
 }
 
-.newsletter__privacy {
+.newsletter__privacy-policy {
+  opacity: .8;
+  text-align: center;
 }
 
-.newsletter__privacy input {
+.newsletter__privacy-policy label {
+  font-weight: normal;
+  color: var(--dark-grey-blue-color);
+  padding-left: 9px;
 }
+
+.newsletter__privacy-policy a {
+  font-weight: normal;
+  color: var(--dark-grey-blue-color);
+  text-decoration: underline;
+}
+
+.newsletter__privacy-policy input {
+}
+
+.newsletter__text-wrapper--thanks {
+  display: none;
+}
+
