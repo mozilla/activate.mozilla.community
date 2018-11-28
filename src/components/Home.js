@@ -13,8 +13,7 @@ class Home extends Component {
 
   existActiveCampaign = () => {
     // campaign must not be false and must not be null.
-    // const campaignExist = !!this.props.activeCampaign && this.props.activeCampaign !== null ;
-    const campaignExist = false;
+    const campaignExist = !!this.props.activeCampaign && this.props.activeCampaign !== null ;
     return campaignExist;
   };
 

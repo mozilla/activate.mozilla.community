@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import { connect } from 'react-redux';
 import { Localized } from 'fluent-react/compat';
-import { Navbar, Nav, NavItem, NavDropdown, MenuItem} from 'react-bootstrap';
+import { Navbar, Nav, NavItem, FormGroup, FormControl, ControlLabel, MenuItem } from 'react-bootstrap';
+import { LinkContainer } from 'react-router-bootstrap';
 
 import { changeLocalesWithURL } from '../actions/language.js';
 
@@ -30,50 +31,49 @@ class Header extends Component {
           <Navbar.Toggle />
         </Navbar.Header>
         <Navbar.Collapse className="header__menu">
-          <Nav pullRight>
-            <NavItem className="page-link" href={`/${currentLocale}/campaigns/`}>
-              <Localized id="nav-campaigns">
-                <span>Campaigns</span>
-              </Localized>
-            </NavItem>
-            <NavItem className="page-link" href={`/${currentLocale}/activities/`}>
-              <Localized id="nav-activities">
-                <span>Activities</span>
-              </Localized>
-            </NavItem>
-            <NavItem className="page-link" href={`/${currentLocale}/faq/`}>
-              <Localized id="nav-faq">
-                <span>FAQ</span>
-              </Localized>
-            </NavItem>
-            <NavDropdown title={currentLocales[0]} className="language-selector" id="language-selector">
-              {
-                availableLocales.map((locale) => {
-                  return (
-                    <MenuItem eventKey={locale}>{locale}</MenuItem>
-                  )
-                })
-              }
-
-
-              {/*<form className="language-selector__form" id="lang_form">*/}
-                {/*<select id="language-select"*/}
-                        {/*name="lang"*/}
-                        {/*value={currentLocales[0]}*/}
-                        {/*className="form-control"*/}
-                        {/*onBlur={(event) => changeLocalesWithURL(currentLocales[0], [event.target.value])}*/}
-                {/*>*/}
-                  {/*{*/}
-                    {/*availableLocales.map((locale) => {*/}
-                      {/*return (*/}
-                        {/*<option key={locale} value={locale}>{locale}</option>*/}
-                      {/*)*/}
-                    {/*})*/}
-                  {/*}*/}
-                {/*</select>*/}
-              {/*</form>*/}
-            </NavDropdown>
+          <Nav>
+            <LinkContainer exact className="page-link" to={`/${currentLocale}/campaigns`}>
+              <NavItem>
+                <Localized id="nav-campaigns">
+                  <span>Campaigns</span>
+                </Localized>
+              </NavItem>
+            </LinkContainer>
+            <LinkContainer exact className="page-link" to={`/${currentLocale}/activities`}>
+              <NavItem>
+                <Localized id="nav-activitiesfaq">
+                  <span>Activities</span>
+                </Localized>
+              </NavItem>
+            </LinkContainer>
+            <LinkContainer exact className="page-link" to={`/${currentLocale}/faq`}>
+              <NavItem>
+                <Localized id="nav-faq">
+                  <span>FAQ</span>
+                </Localized>
+              </NavItem>
+            </LinkContainer>
           </Nav>
+          <Navbar.Form className="language-selector" >
+            <FormGroup controlId="language-select">
+              <ControlLabel className='visually-hidden'>Select</ControlLabel>
+              <FormControl
+                componentClass="select"
+                placeholder={currentLocales[0]}
+                onChange={(event) => changeLocalesWithURL(currentLocales[0], [event.target.value])}
+                value={currentLocales[0]}
+              >
+                {
+                  availableLocales.map((locale) => {
+                    return (
+                      <option key={locale} value={locale}>{locale}</option>
+                    )
+                  })
+                }
+              </FormControl>
+            </FormGroup>
+
+          </Navbar.Form>
         </Navbar.Collapse>
       </Navbar>
     );
