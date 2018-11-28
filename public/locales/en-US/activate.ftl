@@ -12,6 +12,9 @@ footer-description = Mozilla is a global non-profit dedicated to putting you in 
 
 activate = Activate
 activate-description = The Activate Mozilla campaign aims at the grassroots of volunteer contributions. We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now by providing guidance to mobilizers on how to recruit contributors and create community around meaningful Mozilla projects.
+
+home-cta = Share your experience with
+
 activities-homepage-title = Activities galore!
 activities-homepage-description = While we’re coming up with our next campaign, hone your contribution skills with our activities — they are quite snazzy!
 

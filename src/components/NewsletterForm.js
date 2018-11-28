@@ -137,11 +137,11 @@ class NewsletterForm extends Component {
 
   render() {
     return (
-      <section className="newsletter js-newsletter container">
-        <div className="newsletter__content content-contained">
+      <section className="newsletter js-newsletter">
+        <div className="newsletter__content">
           <div className="newsletter__text-wrapper js-newsletter-header">
             <Localized id="newsletter-slice-title">
-              <h1 className="title text--centered">Keep up to date</h1>
+              <h1 className="title text--centered newsletter__title">Keep up to date</h1>
             </Localized>
 
             <Localized id="newsletter-slice-description-subscribe">

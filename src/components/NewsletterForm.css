@@ -1,8 +1,9 @@
 .newsletter {
+  padding-bottom: 27px;
 }
 
-.newsletter__privacy-policy {
-
+.newsletter__title {
+  padding-bottom: 10px;
 }
 
 .newsletter__text-wrapper {

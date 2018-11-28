@@ -30,42 +30,42 @@ class ActivitiesOverview extends Component {
                 tagKey="testing"
                 durationKey="nightly-duration"
                 linkTarget={`${locale}/nightly`}
-              ></ActivityTileShort>
+              />
               <ActivityTileShort
                 titleImage="/images/techspeakers-header.png"
                 titleKey="techspeakers-title"
                 tagKey="programming"
                 durationKey="techspeakers-duration"
                 linkTarget={`${locale}/techspeakers`}
-              ></ActivityTileShort>
+              />
               <ActivityTileShort
                 titleImage="/images/webextensions-header.png"
                 titleKey="webextensions-title"
                 tagKey="programming"
                 durationKey="webextensions-duration"
                 linkTarget={`${locale}/webextensions`}
-              ></ActivityTileShort>
+              />
               <ActivityTileShort
                 titleImage="/images/rust-header.png"
                 titleKey="rust-title"
                 tagKey="programming"
                 durationKey="rust-duration"
                 linkTarget={`${locale}/rust-hack`}
-              ></ActivityTileShort>
+              />
               <ActivityTileShort
                 titleImage="/images/webvr-header.png"
                 titleKey="webvr-title"
                 tagKey="programming"
                 durationKey="webvr-duration"
                 linkTarget={`${locale}/webvr-camp`}
-              ></ActivityTileShort>
+              />
               <ActivityTileShort
                 titleImage="/images/webcompat-header.png"
                 titleKey="webcompat-title"
                 tagKey="testing"
                 durationKey="webcompat-duration"
                 linkTarget={`${locale}/webcompat-sprint`}
-              ></ActivityTileShort>
+              />
             </Row>
           </Grid>
         </div>

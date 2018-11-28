@@ -3,6 +3,13 @@ import { Router, Switch, Route } from 'react-router-dom';
 import store from './store';
 import { connect } from 'react-redux';
 
+import './App.css';
+import './title.css';
+import './text.css';
+import './colors.css';
+import './button.css';
+import './content-contained.css';
+
 import history from './history';
 import Content from './Content';
 import Header from './components/Header';
@@ -23,12 +30,6 @@ import WebcompatSprint from './components/Activities/WebcompatSprint';
 
 import {ADD_CURRENT_CAMPAIGN} from './actions/campaign';
 
-import './App.css';
-import './title.css';
-import './text.css';
-import './colors.css';
-import './button.css';
-import './content-contained.css';
 
 let activeCampaign = null;
 

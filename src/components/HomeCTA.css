@@ -1,0 +1,20 @@
+.home-cta {
+  text-align: center;
+  color: var(--dark-grey-blue-color);
+  padding-top: 30px;
+  padding-bottom: 55px;
+}
+
+.is-in-illustrated-slice.home-cta {
+  margin-top: 20px;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.is-in-illustrated-slice .home-cta__text {
+   font-weight: 400;
+}

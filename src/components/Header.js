@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import { connect } from 'react-redux';
 import { Localized } from 'fluent-react/compat';
-import { Navbar, Nav, NavItem } from 'react-bootstrap';
+import { Navbar, Nav, NavItem, NavDropdown, MenuItem} from 'react-bootstrap';
 
 import { changeLocalesWithURL } from '../actions/language.js';
 
@@ -30,7 +30,7 @@ class Header extends Component {
           <Navbar.Toggle />
         </Navbar.Header>
         <Navbar.Collapse className="header__menu">
-          <Nav>
+          <Nav pullRight>
             <NavItem className="page-link" href={`/${currentLocale}/campaigns/`}>
               <Localized id="nav-campaigns">
                 <span>Campaigns</span>
@@ -46,24 +46,33 @@ class Header extends Component {
                 <span>FAQ</span>
               </Localized>
             </NavItem>
-            <NavItem className="language-selector">
-              <form className="language-selector__form" id="lang_form">
-                <select id="language-select"
-                        name="lang"
-                        value={currentLocales[0]}
-                        className="form-control"
-                        onBlur={(event) => changeLocalesWithURL(currentLocales[0], [event.target.value])}
-                >
-                  {
-                    availableLocales.map((locale) => {
-                      return (
-                        <option key={locale} value={locale}>{locale}</option>
-                      )
-                    })
-                  }
-                </select>
-              </form>
-            </NavItem>
+            <NavDropdown title={currentLocales[0]} className="language-selector" id="language-selector">
+              {
+                availableLocales.map((locale) => {
+                  return (
+                    <MenuItem eventKey={locale}>{locale}</MenuItem>
+                  )
+                })
+              }
+
+
+              {/*<form className="language-selector__form" id="lang_form">*/}
+                {/*<select id="language-select"*/}
+                        {/*name="lang"*/}
+                        {/*value={currentLocales[0]}*/}
+                        {/*className="form-control"*/}
+                        {/*onBlur={(event) => changeLocalesWithURL(currentLocales[0], [event.target.value])}*/}
+                {/*>*/}
+                  {/*{*/}
+                    {/*availableLocales.map((locale) => {*/}
+                      {/*return (*/}
+                        {/*<option key={locale} value={locale}>{locale}</option>*/}
+                      {/*)*/}
+                    {/*})*/}
+                  {/*}*/}
+                {/*</select>*/}
+              {/*</form>*/}
+            </NavDropdown>
           </Nav>
         </Navbar.Collapse>
       </Navbar>

@@ -5,6 +5,7 @@ import Jumbotron from './Jumbotron.js';
 import NewsletterForm from './NewsletterForm.js';
 import ActivitiesOverview from './Activities/ActivitiesOverview.js';
 import CampaignTileCurrent from './Campaigns/CampaignTileCurrent.js';
+import HomeCTA from './HomeCTA.js';
 
 import './Home.css';
 
@@ -12,7 +13,8 @@ class Home extends Component {
 
   existActiveCampaign = () => {
     // campaign must not be false and must not be null.
-    const campaignExist = !!this.props.activeCampaign && this.props.activeCampaign !== null ;
+    // const campaignExist = !!this.props.activeCampaign && this.props.activeCampaign !== null ;
+    const campaignExist = false;
     return campaignExist;
   };
 
@@ -32,8 +34,15 @@ class Home extends Component {
           linkTarget={campaign.linkTarget}
         />
         <ActivitiesOverview />
-        <div className="home__illustrated-slice js-newsletter-form-wrapper">
-          <NewsletterForm />
+        <div className="home__illustrated-slice home__illustrated-slice--large js-newsletter-form-wrapper">
+          <div className="container">
+            <div className="content-contained">
+              <NewsletterForm isInIllustratedSlice/>
+            </div>
+          </div>
+        </div>
+        <div className="container">
+            <HomeCTA />
         </div>
       </>
     );
@@ -45,7 +54,13 @@ class Home extends Component {
         <Jumbotron />
         <NewsletterForm />
         <ActivitiesOverview />
-        <div className="home__illustrated-slice"></div>
+        <div className="home__illustrated-slice">
+          <div className="container">
+            <div className="content-contained">
+              <HomeCTA isInIllustratedSlice/>
+            </div>
+          </div>
+        </div>
       </>
     );
   };
