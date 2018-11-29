@@ -28,7 +28,7 @@ img.logo {
 }
 
 .header {
-  padding: 20px 0;
+  padding: 8px 0 7px;
   margin-bottom: 0;
   box-shadow: none;
   border: none;
@@ -172,6 +172,10 @@ img.logo {
 
   .navbar-nav {
     margin: 10px;
+  }
+
+  .navbar-right {
+    padding-top: 15px;
   }
 }
 @media only screen and (min-width : var(--on-palm)) {

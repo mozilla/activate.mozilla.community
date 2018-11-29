@@ -11,7 +11,6 @@ import './Header.css';
 
 class Header extends Component {
   render() {
-
     const {
       availableLocales,
       currentLocales,

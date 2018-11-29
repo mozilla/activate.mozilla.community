@@ -56,12 +56,12 @@ class App extends Component {
     return (
       <Router history={history}>
         <main>
-          <Header className="header"/>
+          <Header/>
+
           <Switch>
             {/* TODO: This is not ideal, we should write our own component that returns both the normal
                 and localized path route.
             */}
-
             <Route exact path='/' component={Home}/>
 
             <Route path='/activities' component={ActivitiesList}/>
@@ -89,7 +89,7 @@ class App extends Component {
 
             <Route path='*' component={NotFound} />
             </Switch>
-          <Footer></Footer>
+          <Footer />
         </main>
       </Router>
     );
