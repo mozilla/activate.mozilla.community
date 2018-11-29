@@ -4,6 +4,7 @@ nav-event-guide = Event Guide
 nav-faq = FAQ
 nav-impact = Impact
 nav-impact-form = Impact Form
+nav-select-language = Select Language
 twitter = Twitter
 discussion = Discussion
 contribute = Contribute

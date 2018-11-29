@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import { connect } from 'react-redux';
 import { Localized } from 'fluent-react/compat';
-import { Navbar, Nav, NavItem, FormGroup, FormControl, ControlLabel, MenuItem } from 'react-bootstrap';
+import { Navbar, Nav, NavItem, FormGroup, FormControl, ControlLabel } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap';
 
 import { changeLocalesWithURL } from '../actions/language.js';
@@ -23,16 +23,18 @@ class Header extends Component {
     return (
       <Navbar className="header">
         <Navbar.Header className="header_logo">
-          <Navbar.Brand >
-            <Link to={`/${currentLocale}`}>
-              <img src="/logo.svg" alt="Mozilla Activate logo" className="logo" />
-            </Link>
+          <Navbar.Brand>
+            <LinkContainer exact className="page-link" to={`/${currentLocale}`} activeClassName={"is-active"}>
+              <NavItem>
+                <img src="/logo.svg" alt="Mozilla Activate logo" className="logo" />
+              </NavItem>
+            </LinkContainer>
           </Navbar.Brand>
           <Navbar.Toggle />
         </Navbar.Header>
         <Navbar.Collapse className="header__menu">
           <Nav>
-            <LinkContainer exact className="page-link" to={`/${currentLocale}/campaigns`} activeClassName={"active"}
+            <LinkContainer exact className="page-link" to={`/${currentLocale}/campaigns`} activeClassName={"is-active"}
             >
               <NavItem>
                 <Localized id="nav-campaigns">
@@ -40,14 +42,14 @@ class Header extends Component {
                 </Localized>
               </NavItem>
             </LinkContainer>
-            <LinkContainer exact className="page-link" to={`/${currentLocale}/activities`} activeClassName={"active"}>
+            <LinkContainer exact className="page-link" to={`/${currentLocale}/activities`} activeClassName={"is-active"}>
               <NavItem>
                 <Localized id="nav-activitiesfaq">
                   <span>Activities</span>
                 </Localized>
               </NavItem>
             </LinkContainer>
-            <LinkContainer exact className="page-link" to={`/${currentLocale}/faq`} activeClassName={"active"}>
+            <LinkContainer exact className="page-link" to={`/${currentLocale}/faq`} activeClassName={"is-active"}>
               <NavItem>
                 <Localized id="nav-faq">
                   <span>FAQ</span>
@@ -57,7 +59,11 @@ class Header extends Component {
           </Nav>
           <Navbar.Form className="language-selector" >
             <FormGroup controlId="language-select">
-              <ControlLabel className='visually-hidden'>Select</ControlLabel>
+              <ControlLabel className='element-invisible'>
+                <Localized id="nav-select-language">
+                  Select Language
+                </Localized>
+              </ControlLabel>
               <FormControl
                 componentClass="select"
                 placeholder={currentLocales[0]}
@@ -73,7 +79,6 @@ class Header extends Component {
                 }
               </FormControl>
             </FormGroup>
-
           </Navbar.Form>
         </Navbar.Collapse>
       </Navbar>
