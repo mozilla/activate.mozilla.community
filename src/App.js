@@ -52,11 +52,11 @@ class App extends Component {
     })
   }
 
-  render() {
+  render(props) {
     return (
       <Router history={history}>
         <main>
-          <Header className="header"></Header>
+          <Header className="header"/>
           <Switch>
             {/* TODO: This is not ideal, we should write our own component that returns both the normal
                 and localized path route.

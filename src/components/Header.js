@@ -32,21 +32,22 @@ class Header extends Component {
         </Navbar.Header>
         <Navbar.Collapse className="header__menu">
           <Nav>
-            <LinkContainer exact className="page-link" to={`/${currentLocale}/campaigns`}>
+            <LinkContainer exact className="page-link" to={`/${currentLocale}/campaigns`} activeClassName={"active"}
+            >
               <NavItem>
                 <Localized id="nav-campaigns">
                   <span>Campaigns</span>
                 </Localized>
               </NavItem>
             </LinkContainer>
-            <LinkContainer exact className="page-link" to={`/${currentLocale}/activities`}>
+            <LinkContainer exact className="page-link" to={`/${currentLocale}/activities`} activeClassName={"active"}>
               <NavItem>
                 <Localized id="nav-activitiesfaq">
                   <span>Activities</span>
                 </Localized>
               </NavItem>
             </LinkContainer>
-            <LinkContainer exact className="page-link" to={`/${currentLocale}/faq`}>
+            <LinkContainer exact className="page-link" to={`/${currentLocale}/faq`} activeClassName={"active"}>
               <NavItem>
                 <Localized id="nav-faq">
                   <span>FAQ</span>
@@ -88,4 +89,4 @@ const mapDispatchToProps = {
   changeLocalesWithURL,
 };
 
-export default connect(mapStateToProps, mapDispatchToProps)(Header);
+export default connect(mapStateToProps, mapDispatchToProps, null, {pure:false})(Header);
