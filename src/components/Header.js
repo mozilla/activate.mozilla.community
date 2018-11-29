@@ -24,16 +24,41 @@ class Header extends Component {
       <Navbar className="header">
         <Navbar.Header className="header_logo">
           <Navbar.Brand>
-            <LinkContainer exact className="page-link" to={`/${currentLocale}`} activeClassName={"is-active"}>
-              <NavItem>
-                <img src="/logo.svg" alt="Mozilla Activate logo" className="logo" />
-              </NavItem>
-            </LinkContainer>
+            <Link to={`/${currentLocale}`} title="Mozilla Activate">
+              <img src="/logo.svg" alt="Mozilla Activate logo" className="logo" />
+            </Link>
           </Navbar.Brand>
           <Navbar.Toggle />
         </Navbar.Header>
         <Navbar.Collapse className="header__menu">
-          <Nav>
+          <Navbar.Form className="language-selector" pullRight>
+            <FormGroup controlId="language-select">
+              <div className="header__select">
+
+                <ControlLabel className='element-invisible'>
+                  <Localized id="nav-select-language">
+                    Select Language
+                  </Localized>
+                </ControlLabel>
+                <FormControl
+                  componentClass="select"
+                  placeholder={currentLocales[0]}
+                  onChange={(event) => changeLocalesWithURL(currentLocales[0], [event.target.value])}
+                  value={currentLocales[0]}
+                >
+                  {
+                    availableLocales.map((locale) => {
+                      return (
+                        <option key={locale} value={locale}>{locale}</option>
+                      )
+                    })
+                  }
+                </FormControl>
+                <div className="header__select-arrow"></div>
+              </div>
+            </FormGroup>
+          </Navbar.Form>
+          <Nav pullRight>
             <LinkContainer exact className="page-link" to={`/${currentLocale}/campaigns`} activeClassName={"is-active"}
             >
               <NavItem>
@@ -57,29 +82,6 @@ class Header extends Component {
               </NavItem>
             </LinkContainer>
           </Nav>
-          <Navbar.Form className="language-selector" >
-            <FormGroup controlId="language-select">
-              <ControlLabel className='element-invisible'>
-                <Localized id="nav-select-language">
-                  Select Language
-                </Localized>
-              </ControlLabel>
-              <FormControl
-                componentClass="select"
-                placeholder={currentLocales[0]}
-                onChange={(event) => changeLocalesWithURL(currentLocales[0], [event.target.value])}
-                value={currentLocales[0]}
-              >
-                {
-                  availableLocales.map((locale) => {
-                    return (
-                      <option key={locale} value={locale}>{locale}</option>
-                    )
-                  })
-                }
-              </FormControl>
-            </FormGroup>
-          </Navbar.Form>
         </Navbar.Collapse>
       </Navbar>
     );

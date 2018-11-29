@@ -56,8 +56,6 @@ class NewsletterForm extends Component {
       });
       // show thanks message
       thanks.style.display = 'block';
-      console.log(newsletterFormWrapper,newsletterFormWrapper[0].offsetTop );
-
     }
 
     // XHR subscribe; handle errors; display thanks message on success.
