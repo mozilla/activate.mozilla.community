@@ -3,6 +3,13 @@ import { Router, Switch, Route } from 'react-router-dom';
 import store from './store';
 import { connect } from 'react-redux';
 
+import './App.css';
+import './title.css';
+import './text.css';
+import './colors.css';
+import './button.css';
+import './content-contained.css';
+
 import history from './history';
 import Content from './Content';
 import Header from './components/Header';
@@ -23,12 +30,6 @@ import WebcompatSprint from './components/Activities/WebcompatSprint';
 
 import {ADD_CURRENT_CAMPAIGN} from './actions/campaign';
 
-import './App.css';
-import './title.css';
-import './text.css';
-import './colors.css';
-import './button.css';
-import './content-contained.css';
 
 let activeCampaign = null;
 
@@ -51,16 +52,16 @@ class App extends Component {
     })
   }
 
-  render() {
+  render(props) {
     return (
       <Router history={history}>
         <main>
-          <Header className="header"></Header>
+          <Header/>
+
           <Switch>
             {/* TODO: This is not ideal, we should write our own component that returns both the normal
                 and localized path route.
             */}
-
             <Route exact path='/' component={Home}/>
 
             <Route path='/activities' component={ActivitiesList}/>
@@ -88,7 +89,7 @@ class App extends Component {
 
             <Route path='*' component={NotFound} />
             </Switch>
-          <Footer></Footer>
+          <Footer />
         </main>
       </Router>
     );

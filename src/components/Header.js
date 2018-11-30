@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import { connect } from 'react-redux';
 import { Localized } from 'fluent-react/compat';
-import { Navbar, Nav, NavItem } from 'react-bootstrap';
+import { Navbar, Nav, NavItem, FormGroup, FormControl, ControlLabel } from 'react-bootstrap';
+import { LinkContainer } from 'react-router-bootstrap';
 
 import { changeLocalesWithURL } from '../actions/language.js';
 
@@ -10,7 +11,6 @@ import './Header.css';
 
 class Header extends Component {
   render() {
-
     const {
       availableLocales,
       currentLocales,
@@ -22,38 +22,31 @@ class Header extends Component {
     return (
       <Navbar className="header">
         <Navbar.Header className="header_logo">
-          <Navbar.Brand >
-            <Link to={`/${currentLocale}`}>
+          <Navbar.Brand>
+            <Link to={`/${currentLocale}`} title="Mozilla Activate">
               <img src="/logo.svg" alt="Mozilla Activate logo" className="logo" />
             </Link>
           </Navbar.Brand>
           <Navbar.Toggle />
         </Navbar.Header>
         <Navbar.Collapse className="header__menu">
-          <Nav>
-            <NavItem className="page-link" href={`/${currentLocale}/campaigns/`}>
-              <Localized id="nav-campaigns">
-                <span>Campaigns</span>
-              </Localized>
-            </NavItem>
-            <NavItem className="page-link" href={`/${currentLocale}/activities/`}>
-              <Localized id="nav-activities">
-                <span>Activities</span>
-              </Localized>
-            </NavItem>
-            <NavItem className="page-link" href={`/${currentLocale}/faq/`}>
-              <Localized id="nav-faq">
-                <span>FAQ</span>
-              </Localized>
-            </NavItem>
-            <NavItem className="language-selector">
-              <form className="language-selector__form" id="lang_form">
+          <Navbar.Form className="language-selector" pullRight id="lang_form">
+            <FormGroup controlId="language-select">
+              <div className="header__select">
 
-                <select id="language-select"
-                        name="lang"
-                        defaultValue={currentLocales[0]}
-                        className="form-control"
-                        onBlur={(event) => changeLocalesWithURL(currentLocales[0], [event.target.value])}
+                <ControlLabel className='element-invisible'>
+                  <Localized id="nav-select-language">
+                    Select Language
+                  </Localized>
+                </ControlLabel>
+                <FormControl
+                  componentClass="select"
+                  placeholder={currentLocales[0]}
+                  onChange={(event) => changeLocalesWithURL(currentLocales[0], [event.target.value])}
+                  value={currentLocales[0]}
+                  name="lang"
+                  defaultValue={currentLocales[0]}
+                  id="language-select"
                 >
                   {
                     availableLocales.map((locale) => {
@@ -62,9 +55,34 @@ class Header extends Component {
                       )
                     })
                   }
-                </select>
-              </form>
-            </NavItem>
+                </FormControl>
+                <div className="header__select-arrow"></div>
+              </div>
+            </FormGroup>
+          </Navbar.Form>
+          <Nav pullRight>
+            <LinkContainer exact className="page-link" to={`/${currentLocale}/campaigns`} activeClassName={"is-active"}
+            >
+              <NavItem>
+                <Localized id="nav-campaigns">
+                  <span>Campaigns</span>
+                </Localized>
+              </NavItem>
+            </LinkContainer>
+            <LinkContainer exact className="page-link" to={`/${currentLocale}/activities`} activeClassName={"is-active"}>
+              <NavItem>
+                <Localized id="nav-activitiesfaq">
+                  <span>Activities</span>
+                </Localized>
+              </NavItem>
+            </LinkContainer>
+            <LinkContainer exact className="page-link" to={`/${currentLocale}/faq`} activeClassName={"is-active"}>
+              <NavItem>
+                <Localized id="nav-faq">
+                  <span>FAQ</span>
+                </Localized>
+              </NavItem>
+            </LinkContainer>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
@@ -80,4 +98,4 @@ const mapDispatchToProps = {
   changeLocalesWithURL,
 };
 
-export default connect(mapStateToProps, mapDispatchToProps)(Header);
+export default connect(mapStateToProps, mapDispatchToProps, null, {pure:false})(Header);
