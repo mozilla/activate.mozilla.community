@@ -20,16 +20,31 @@ class Header extends Component {
     const currentLocale = this.props.currentLocales[0];
 
     return (
-      <Navbar className="header">
+      <Navbar
+        className="header js-header is-closed"
+        collapseOnSelect
+        onToggle={
+          (event) => {
+            if(event) {
+              document.getElementsByClassName("js-header")[0].classList.remove("is-closed");
+              document.getElementsByClassName("js-header")[0].classList.add("is-open");
+              // this.addClass("is-open");
+            } else {
+              document.getElementsByClassName("js-header")[0].classList.remove("is-open");
+              document.getElementsByClassName("js-header")[0].classList.add("is-closed");
+            }
+          }
+        }
+      >
         <Navbar.Header className="header_logo">
           <Navbar.Brand>
             <Link to={`/${currentLocale}`} title="Mozilla Activate">
               <img src="/logo.svg" alt="Mozilla Activate logo" className="logo" />
             </Link>
           </Navbar.Brand>
-          <Navbar.Toggle />
+          <Navbar.Toggle data-toggle="collapse" data-target=".header_logo" />
         </Navbar.Header>
-        <Navbar.Collapse className="header__menu">
+        <Navbar.Collapse className="header__menu" >
           <Navbar.Form className="language-selector" pullRight id="lang_form">
             <FormGroup controlId="language-select">
               <div className="header__select">
@@ -43,7 +58,6 @@ class Header extends Component {
                   componentClass="select"
                   placeholder={currentLocales[0]}
                   onChange={(event) => changeLocalesWithURL(currentLocales[0], [event.target.value])}
-                  value={currentLocales[0]}
                   name="lang"
                   defaultValue={currentLocales[0]}
                   id="language-select"

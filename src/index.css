@@ -7,6 +7,21 @@ html {
 
 body {
   margin: 0;
-  padding: 0;
+  padding: 83px 0 0 0;
   font-family: sans-serif;
+}
+
+.is-front {
+  padding-top: 0;
+}
+
+/* Tablet up */
+@media only screen and (min-width : 768px) {
+  body {
+    padding-top: 96px;
+  }
+
+  .is-front {
+    padding-top: 0;
+  }
 }
