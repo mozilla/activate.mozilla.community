@@ -38,3 +38,7 @@
   letter-spacing: -0.1px;
   margin-top: 0;
 }
+
+.title--lighter {
+  color: var(--slate-grey-color);
+}

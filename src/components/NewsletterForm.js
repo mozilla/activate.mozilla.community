@@ -1,10 +1,68 @@
 import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
 
+import SelectCountry from './SelectCountry.js';
+import SelectLanguage from './SelectLanguage.js';
 import './NewsletterForm.css';
 
 class NewsletterForm extends Component {
+  //  Format text and markup according to use case
+  //  Default newsletter form is the one that appears on newsletter page and
+  //  on front when there is no active campaign.
+  isInIllustratedSlice = () => {
+    // campaign must not be false and must not be null.
+    const isInIllustratedSlice = !!this.props.isInIllustratedSlice && this.props.isInIllustratedSlice !== null ;
+    return isInIllustratedSlice;
+  };
+
+  getNewsletterFormTextDefault = () => {
+    return (
+      <div className="newsletter__text-wrapper js-newsletter-header">
+        <Localized id="newsletter-slice-default-title">
+          <h1 className="title title--extra-large title--lighter text--centered newsletter__title">Yes, e-mail me the latest campaigns!</h1>
+        </Localized>
+      </div>
+    );
+  };
+
+  getNewsletterFormTextIllustrated = () => {
+    return (
+      <div className="newsletter__text-wrapper js-newsletter-header">
+        <Localized id="newsletter-slice-title">
+          <h1 className="title text--centered newsletter__title">Keep up to date</h1>
+        </Localized>
+
+        <Localized id="newsletter-slice-description-subscribe">
+          <p className="text text--large text--centered">Stay in the loop by subscribing to
+            the campaigners’ mailing list</p>
+        </Localized>
+      </div>
+    );
+  };
+
+  getNewsletterFormSubmitDefault = () => {
+    return (
+      <button type="submit" className="button button--inline newsletter__subscribe" >
+        <Localized id="newsletter-submit">
+          <span></span>
+        </Localized>
+      </button>
+    );
+  };
+
+  getNewsletterFormSubmitIllustrated = () => {
+    return (
+      <button type="submit" className="button button--inline newsletter__subscribe newsletter__subscribe--with-icon" >
+        <Localized id="newsletter-submit">
+          <span></span>
+        </Localized>
+        <img src="/icons/icon-subscribe.svg" alt="" className="newsletter__subscribe-icon" />
+      </button>
+    );
+  };
+
   componentDidMount() {
+
     /* This Source Code Form is subject to the terms of the Mozilla Public
      * License, v. 2.0. If a copy of the MPL was not distributed with this
      * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -76,6 +134,11 @@ class NewsletterForm extends Component {
       let fmt = document.getElementById('fmt').value;
       let email = document.getElementById('email').value;
       let newsletter = document.getElementById('newsletters').value;
+      // TODO: client side validation does not wotk for those two select because
+      // of the way we implemented the default value.
+      // We need to add validation on submit and integrate with the API.
+      // let newsletterLanguage = document.getElementById('newsletter-language').value;
+      // let newsletterCountry = document.getElementById('newsletter-country').value;
       let privacy = document.querySelector('input[name="privacy"]:checked') ? '&privacy=true' : '';
       let params = 'email=' + encodeURIComponent(email) +
         '&newsletters=' + newsletter +
@@ -133,22 +196,34 @@ class NewsletterForm extends Component {
 
     newsletterForm.addEventListener('submit', newsletterSubscribe, false);
   }
+  constructor(props)
+  {
+    super(props);
+    this.state = {
+      value: 'placeholder'
+    };
+  }
 
   render() {
-    return (
-      <section className="newsletter js-newsletter">
-        <div className="newsletter__content">
-          <div className="newsletter__text-wrapper js-newsletter-header">
-            <Localized id="newsletter-slice-title">
-              <h1 className="title text--centered newsletter__title">Keep up to date</h1>
-            </Localized>
+    let classes = ['newsletter', 'js-newsletter'];
+    if(this.isInIllustratedSlice()) {
+      classes.push('newsletter--illustrated');
+    }
+    if(this.props.className) classes.push(this.props.className);
+    const classString = classes.join(' ');
 
-            <Localized id="newsletter-slice-description-subscribe">
-              <p className="text text--large text--centered">Stay in the loop by subscribing to
-                the campaigners’ mailing list</p>
-            </Localized>
-          </div>
-          <form id="newsletter_form" name="newsletter__form" action="https://www.mozilla.org/en-US/newsletter/" method="post">
+
+
+    return (
+      <section className={classString}>
+        <div className="newsletter__content">
+          {
+            this.isInIllustratedSlice()
+              ? this.getNewsletterFormTextIllustrated()
+              : this.getNewsletterFormTextDefault()
+          }
+
+          <form id="newsletter_form" name="newsletter__form" className="newsletter__form" action="https://www.mozilla.org/en-US/newsletter/" method="post">
             <input type="hidden" id="fmt" name="fmt" value="H" />
             <input type="hidden" id="newsletters" name="newsletters" value="about-mozilla" />
 
@@ -161,13 +236,15 @@ class NewsletterForm extends Component {
               <Localized id="newsletter-form-email-placeholder" attrs={{placeholder: true}}>
                 <input type="email" id="email" name="email" className="form_input" required placeholder="Enter your e-mail" />
               </Localized>
-
-              <button type="submit" className="button button--inline newsletter__subscribe" >
-                <Localized id="newsletter-submit">
-                  <span></span>
-                </Localized>
-                <img src="/icons/icon-subscribe.svg" alt="" className="newsletter__subscribe-icon" />
-              </button>
+              {
+                this.isInIllustratedSlice()
+                  ? this.getNewsletterFormSubmitIllustrated()
+                  : this.getNewsletterFormSubmitDefault()
+              }
+            </div>
+            <div id="newsletter_details" className="newsletter__details">
+              <SelectCountry id="newsletter-country" className="newsletter__select"/>
+              <SelectLanguage id="newsletter-language" className="newsletter__select"/>
             </div>
 
             <div id="newsletter_privacy" className="form_group newsletter__privacy-policy text text--small">

@@ -15,8 +15,10 @@
   --small-font-size: calc(var(--base-font-size) * 0.875);
   --spacing-unit: 19px;
   --grey-color: #828282;
+  --grey-color-medium: #9B9B9B;
   --grey-color-very-light: #f0f0f0;
   --grey-color-light: #dcdcdc;
+  --grey-color-another-light: #c6c9ce;
   --grey-color-dark: #4f4f4f;
   --green-color: #005e5e;
   --red-color: #ff4f5e;
@@ -99,6 +101,23 @@ body {
   color: var(--text-color);
   background-color: var(--background-color);
   font-kerning: normal;
+  margin: 0;
+  padding: 83px 0 0 0;
+}
+
+.is-header-no-bg {
+  padding-top: 0;
+}
+
+/* Tablet up */
+@media only screen and (min-width : 768px) {
+  body {
+    padding-top: 96px;
+  }
+
+  .is-header-no-bg {
+    padding-top: 0;
+  }
 }
 
 /**

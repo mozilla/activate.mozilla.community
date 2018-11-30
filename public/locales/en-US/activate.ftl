@@ -38,6 +38,7 @@ campaign-active = Current campaign
 campaign-archive = Previous campaigns
 ampaign-archive-description = Past, but not forgotten!
 
+newsletter-slice-default-title = Yes, e-mail me the latest campaigns!
 newsletter-slice-title = Keep up to date
 newsletter-slice-description-subscribe = Stay in the loop by subscribing to the campaigners’ mailing list
 newsletter-email = Email
@@ -45,6 +46,9 @@ newsletter-submit = Subscribe
 newsletter-subscribed-title = Thanks!
 newsletter-subscribed-text = If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox and spam filter for an email from us.
 newsletter-privacy = I am okay with Mozilla handling my info as explained in this <privacyLink>Privacy Policy</privacyLink>.
+newsletter-country-label = Country
+newsletter-language-label = Language
+
 
 hours = Hours
 testing = Testing

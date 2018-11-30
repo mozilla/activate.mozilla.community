@@ -19,6 +19,7 @@ import FAQ from './components/FAQ';
 import ActivitiesList from './components/Activities/ActivitiesList';
 import CampaignsListing from "./components/Campaigns/CampaignsListing";
 import EventGuide from './components/EventGuide';
+import NewsletterPage from './components/NewsletterPage';
 import NotFound from './components/NotFound';
 
 import Nightly from './components/Activities/Nightly';
@@ -68,6 +69,7 @@ class App extends Component {
             <Route path='/campaigns' component={CampaignsListing}/>
             <Route path='/faq' component={FAQ}/>
             <Route path='/eventguide' component={EventGuide}/>
+            <Route path='/newsletter' component={NewsletterPage}/>
             <Route path='/nightly' component={Nightly}/>
             <Route path='/webextensions' component={WebExtensions}/>
             <Route path='/techspeakers' component={TechSpeakers}/>
@@ -80,6 +82,7 @@ class App extends Component {
             <Route path='/:lang/campaigns' render={(props) => (<Content><CampaignsListing {...props} /></Content>)} />
             <Route path='/:lang/faq' render={(props) => (<Content><FAQ {...props} /></Content>)} />
             <Route path='/:lang/eventguide' render={(props) => (<Content><EventGuide {...props} /></Content>)} />
+            <Route path='/:lang/newsletter' render={(props) => (<Content><NewsletterPage {...props} /></Content>)} />
             <Route path='/:lang/nightly' render={(props) => (<Content><Nightly {...props} /></Content>)} />
             <Route path='/:lang/webextensions' render={(props) => (<Content><WebExtensions {...props} /></Content>)} />
             <Route path='/:lang/techspeakers' render={(props) => (<Content><TechSpeakers {...props} /></Content>)} />

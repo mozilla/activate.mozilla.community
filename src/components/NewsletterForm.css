@@ -1,5 +1,12 @@
 .newsletter {
-  padding-bottom: 27px;
+  padding: 40px;
+  background: white;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+}
+
+.newsletter__header .text {
+  opacity: .8;
 }
 
 .newsletter__title {
@@ -7,27 +14,18 @@
 }
 
 .newsletter__text-wrapper {
-  max-width: 540px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 35px;
-}
-
-.newsletter__header .text {
-  opacity: .8;
+  margin-bottom: 25px;
 }
 
 .newsletter__email {
   display: flex;
-  margin-bottom: 30px;
-  max-width: 570px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-bottom: 40px;
 }
 
 .newsletter__email .form_input {
   flex-grow: 2;
-  padding: 11px 20px 12px;
+  width: 100%;
+  padding: 7px 20px 10px;
   border-radius: 4px 0 0 4px;
   border: 2px solid var(--pumpkin-orange-color);
   border-right: 0;
@@ -54,21 +52,17 @@
 }
 
 /* Subscribe button. */
-.newsletter .newsletter__subscribe {
-  font-size: 26px;
-  line-height: 24px;
+.newsletter__subscribe {
   background-color: var(--pumpkin-orange-color);
-  font-weight: 600;
-  min-width: 234px;
-}
-
-.newsletter__subscribe-icon {
-  padding-left: 10px;
+  text-transform: uppercase;
+  width: 234px;
 }
 
 .newsletter__privacy-policy {
   opacity: .8;
   text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 .newsletter__privacy-policy label {
@@ -83,10 +77,143 @@
   text-decoration: underline;
 }
 
-.newsletter__privacy-policy input {
-}
-
 .newsletter__text-wrapper--thanks {
   display: none;
 }
 
+.newsletter__form {
+  max-width: 570px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Select. */
+.newsletter__select {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+@media all and (min-width: 768px) {
+  .newsletter__select {
+    position: relative;
+    display: inline-block;
+    width: 48%;
+  }
+}
+
+.newsletter__select select {
+  display: inline-block;
+  font-size: 22px;
+  line-height: 30px;
+  width: 100%;
+  cursor: pointer;
+  padding: 8px 52px 8px 20px;
+  border: 2px solid var(--grey-color-another-light);
+  border-radius: 4px;
+  background: white;
+  color: var(--dark-grey-blue-color);
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+.newsletter__select select.is-placeholder {
+  color: var(--grey-color-medium);
+}
+
+.newsletter__select select::-ms-expand {
+  display: none;
+}
+
+/* Select layout */
+@media all and (min-width: 768px) {
+  .newsletter__details {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 24px;
+  }
+}
+
+
+/*.newsletter__select select:hover,*/
+/*.newsletter__select select:focus {*/
+
+/*}*/
+
+.newsletter__select select:disabled {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.newsletter__select:after {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 18px;
+  right: 20px;
+  width: 12px;
+  height: 12px;
+  transform: rotate(45deg);
+  pointer-events: none;
+  border-style: solid;
+  border-width: 0 2px 2px 0;
+  border-radius: 2px;
+  border-color: transparent var(--grey-color-medium) var(--grey-color-medium) transparent;
+}
+
+.newsletter__select:before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 49px;
+  bottom: 0;
+  width: 2px;
+  pointer-events: none;
+  background: var(--grey-color-another-light);
+}
+
+
+/* Illustrated variant. */
+.newsletter--illustrated {
+  background: transparent;
+  box-shadow: none;
+  border-radius: 0;
+  padding: 0 0 27px;
+
+}
+
+.newsletter--illustrated .newsletter__email .form_input {
+  padding: 11px 20px 12px;
+  flex-shrink: 3;
+}
+
+.newsletter--illustrated .newsletter__text-wrapper {
+  max-width: 540px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 35px;
+}
+
+.newsletter--illustrated .newsletter__email {
+  margin-bottom: 30px;
+}
+
+.newsletter--illustrated .newsletter__details {
+  margin-bottom: 0;
+}
+
+.newsletter--illustrated .newsletter__subscribe {
+  font-size: 26px;
+  line-height: 24px;
+  font-weight: normal;
+  text-transform: none;
+  display: flex;
+  flex-shrink: 1;
+}
+
+.newsletter--illustrated .newsletter__subscribe-icon {
+  padding-left: 10px;
+}
