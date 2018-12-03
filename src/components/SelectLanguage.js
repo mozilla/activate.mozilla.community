@@ -9,21 +9,19 @@ class SelectLanguage extends Component {
   {
     super(props);
     this.state = {
-      value: 'placeholder'
+      value: ''
     };
   }
 
   handleChange = event => {
     this.setState({value: event.target.value});
-    console.log(this);
-    if(event.target.value !== 'placeholder') {
+    if(event.target.value !== '') {
       document.getElementById(this.props.id).classList.remove('is-placeholder');
     }
     else {
       document.getElementById(this.props.id).classList.add('is-placeholder');
     }
   };
-
 
   render() {
     const id = this.props.id;
@@ -42,18 +40,23 @@ class SelectLanguage extends Component {
         <select
           id={id}
           name="country"
-          value={this.state.value}
-          onChange={(e)=>{this.setState({value: e.target.value})}}
+          defaultValue={this.state.value}
+          onBlur={this.handleChange}
           required
           aria-required="true"
           className="is-placeholder"
         >
-          <option disabled value="placeholder">Select language</option>
-          <option value="English (US)">English (US)</option>
-          <option value="Deutsch">Deutsch</option>
-          <option value="Français">Français</option>
-          <option value="Español">Español</option>
-          <option value="日本語">日本語</option>
+          <Localized id={id + "-label-option"}>
+            <option value="" disabled>
+            Select language
+            </option>
+          </Localized>
+          <option value="de">Deutsch</option>
+          <option value="en">English</option>
+          <option value="es">Español</option>
+          <option value="fr">Français</option>
+          <option value="pl">Polski</option>
+          <option value="pt">Português</option>
         </select>
       </div>
     );

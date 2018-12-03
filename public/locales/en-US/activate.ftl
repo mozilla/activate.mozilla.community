@@ -47,8 +47,9 @@ newsletter-subscribed-title = Thanks!
 newsletter-subscribed-text = If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox and spam filter for an email from us.
 newsletter-privacy = I am okay with Mozilla handling my info as explained in this <privacyLink>Privacy Policy</privacyLink>.
 newsletter-country-label = Country
+newsletter-country-label-option = Select Country
 newsletter-language-label = Language
-
+newsletter-language-label-option = Select language
 
 hours = Hours
 testing = Testing

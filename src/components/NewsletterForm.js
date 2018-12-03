@@ -134,16 +134,16 @@ class NewsletterForm extends Component {
       let fmt = document.getElementById('fmt').value;
       let email = document.getElementById('email').value;
       let newsletter = document.getElementById('newsletters').value;
-      // TODO: client side validation does not wotk for those two select because
-      // of the way we implemented the default value.
-      // We need to add validation on submit and integrate with the API.
-      // let newsletterLanguage = document.getElementById('newsletter-language').value;
-      // let newsletterCountry = document.getElementById('newsletter-country').value;
+      let newsletterLanguage = document.getElementById('newsletter-language').value;
+      let newsletterCountry = document.getElementById('newsletter-country').value;
       let privacy = document.querySelector('input[name="privacy"]:checked') ? '&privacy=true' : '';
+
       let params = 'email=' + encodeURIComponent(email) +
         '&newsletters=' + newsletter +
         privacy +
         '&fmt=' + fmt +
+        '&country=' + newsletterCountry +
+        '&lang=' + newsletterLanguage +
         '&source_url=' + encodeURIComponent(document.location.href);
 
       // eslint-disable-next-line no-undef
