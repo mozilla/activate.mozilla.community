@@ -12,11 +12,11 @@ import './Home.css';
 class Home extends Component {
 
   componentDidMount = () => {
-    document.body.classList.add('is-front');
-  }
+    document.body.classList.add('is-header-no-bg');
+  };
 
   componentWillUnmount = () => {
-    document.body.classList.remove('is-front');
+    document.body.classList.remove('is-header-no-bg');
   }
 
   existActiveCampaign = () => {

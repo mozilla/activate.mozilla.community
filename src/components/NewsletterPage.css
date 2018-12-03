@@ -1,0 +1,36 @@
+.newsletter-page {
+  background-image: url('/images/newsletter-bg.png');
+  background-size: cover;
+  padding-top: 83px;
+  padding-bottom: 43px;
+}
+
+.newsletter-page__inner {
+  padding-top: 16.2%;
+  padding-bottom: 13.2%;
+}
+
+/* Tablet up */
+@media only screen and (min-width : 768px) {
+  .newsletter-page {
+    padding-top: 96px;
+    padding-bottom: 96px;
+  }
+
+  .newsletter-page__inner {
+    min-height: 60vh;
+    padding-top: 80px;
+    padding-bottom: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+}
+
+@media only screen and (min-width : 1140px) {
+  .newsletter-page__inner {
+    /*padding-top: 233px;*/
+    /*padding-bottom: 196px;*/
+  }
+}

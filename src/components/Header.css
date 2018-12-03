@@ -146,13 +146,13 @@ img.logo {
   box-shadow: none;
 }
 
-/* Front */
-.is-front .navbar-default.is-closed {
+/* Header without bg */
+.is-header-no-bg .navbar-default.is-closed {
   background: transparent;
   transition: background .5s ease-out;
 }
 
-/* Phones */
+/* Tablet up */
 @media only screen and (min-width : 768px) {
   img.logo {
     max-width: 157px;
@@ -171,7 +171,7 @@ img.logo {
   }
 
   /* Front */
-  .is-front .navbar-default{
+  .is-header-no-bg .navbar-default{
     background: none;
     padding-top: 15px;
     padding-bottom: 15px;
