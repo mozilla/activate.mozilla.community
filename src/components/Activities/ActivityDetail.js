@@ -18,7 +18,7 @@ class ActivityDetail extends Component {
     } = this.props;
 
     return (
-      <article className="activity-page">
+      <article className="activity-page container">
         <header className="post-header row">
           <Col lg={3} md={3} sm={3} xs={12} className="content-center">
             <header className="post-header-image">
