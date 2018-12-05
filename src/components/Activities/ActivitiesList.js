@@ -32,7 +32,7 @@ class ActivitiesList extends Component {
                 tagKey="testing"
                 durationKey="nightly-duration"
                 linkTarget={`${locale}/nightly`}
-              ></ActivityTile>
+              />
               <ActivityTile
                 titleImage="/images/techspeakers-header.png"
                 titleKey="techspeakers-title"
@@ -40,7 +40,7 @@ class ActivitiesList extends Component {
                 tagKey="programming"
                 durationKey="techspeakers-duration"
                 linkTarget={`${locale}/techspeakers`}
-              ></ActivityTile>
+              />
               <ActivityTile
                 titleImage="/images/webextensions-header.png"
                 titleKey="webextensions-title"
@@ -48,7 +48,7 @@ class ActivitiesList extends Component {
                 tagKey="programming"
                 durationKey="webextensions-duration"
                 linkTarget={`${locale}/webextensions`}
-              ></ActivityTile>
+              />
               <ActivityTile
                 titleImage="/images/rust-header.png"
                 titleKey="rust-title"
@@ -56,7 +56,7 @@ class ActivitiesList extends Component {
                 tagKey="programming"
                 durationKey="rust-duration"
                 linkTarget={`${locale}/rust-hack`}
-              ></ActivityTile>
+              />
               <ActivityTile
                 titleImage="/images/webvr-header.png"
                 titleKey="webvr-title"
@@ -64,7 +64,7 @@ class ActivitiesList extends Component {
                 tagKey="programming"
                 durationKey="webvr-duration"
                 linkTarget={`${locale}/webvr-camp`}
-              ></ActivityTile>
+              />
               <ActivityTile
                 titleImage="/images/webcompat-header.png"
                 titleKey="webcompat-title"
@@ -72,7 +72,7 @@ class ActivitiesList extends Component {
                 tagKey="testing"
                 durationKey="webcompat-duration"
                 linkTarget={`${locale}/webcompat-sprint`}
-              ></ActivityTile>
+              />
             </Row>
           </Grid>
         </div>

@@ -1,12 +1,20 @@
-.activity-page .post-header {
+.activity-page {
   padding: 60px 0;
-  margin-right: 0;
 }
 
-.activity-page .post-title {
+.activity-page__title {
+  margin-top: -8px;
 }
 
-.activity-page .post-content {
+.activity-page__sidebar-content {
+  background-color: white;
+  border-radius: 4px;
+}
+
+.activity-page__image img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px 4px 0 0;
 }
 
 .activity-page h1 {

@@ -17,7 +17,7 @@ class Home extends Component {
 
   componentWillUnmount = () => {
     document.body.classList.remove('is-header-no-bg');
-  }
+  };
 
   existActiveCampaign = () => {
     // campaign must not be false and must not be null.
