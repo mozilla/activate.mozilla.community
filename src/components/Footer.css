@@ -3,8 +3,9 @@ footer {
   background-color: #161616;
   width: 100%;
   clear: both;
-  padding: 65px 0 10px 0;
+  padding: 65px 0 20px 0;
 }
+
 .footer__logo {
   max-width: 190px;
 }
@@ -37,6 +38,11 @@ footer {
 .footer-nav__menu .is-active a{
   color: white;
 }
+.footer__attributions {
+  border-top: 1px solid #38383D;
+  padding-top: 35px;
+  margin-top: 55px;
+}
 
 .footer__attributions,
 .footer__attributions p,
@@ -47,10 +53,27 @@ footer {
 
 .footer__content {
  text-align: center;
+ margin-bottom: 40px;
 }
 
 .footer__attributions a{
   color: white;
   text-decoration: underline;
   font-weight: 700;
+}
+
+.footer__attributions a:hover,
+.footer__attributions a:focus {
+  color: var(--grey-color-medium);
+}
+
+.footer__terms {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.footer__terms li {
+  display: inline;
+  padding-right: 25px;
 }
