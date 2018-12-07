@@ -215,7 +215,7 @@ class NewsletterForm extends Component {
     if(this.isInIllustratedSlice()) {
       classes.push('newsletter--illustrated');
     } else {
-      classes.push('content-contained', 'section--pull-up');
+      classes.push('content-contained', 'section--pull-up', 'js-newsletter-form-wrapper');
     }
     if(this.props.className) classes.push(this.props.className);
     const classString = classes.join(' ');

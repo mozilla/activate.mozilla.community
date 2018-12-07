@@ -10,6 +10,11 @@
   padding-bottom: 13.2%;
 }
 
+/* override section-pull-up on stand alone-page */
+.newsletter-page__newsletter-form-wrapper .section--pull-up {
+  margin-top: 0;
+}
+
 /* Tablet up */
 @media only screen and (min-width : 768px) {
   .newsletter-page {
