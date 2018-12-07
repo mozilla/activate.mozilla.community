@@ -77,6 +77,9 @@ webcompat-description = Web Compatibility, the ability for all Web content to ru
 webcompat-duration = 2-3 hours
 
 faq-title = Frequently Asked Questions
+faq-description = You have questions? We have answers!
+faq-about-activate = About activate
+faq-activaties = Activities
 faq-what-title = What is Activate Mozilla?
 faq-what-answer = Activate Mozilla is a campaign for Mozillians around the world to have impact in areas key to Mozilla’s mission. We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now, and provide clear steps on how to get involved right away. These will be presented in the form of activities.
 faq-who-title = Who can be involved in the activities?
