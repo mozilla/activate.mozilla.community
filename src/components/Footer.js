@@ -17,7 +17,7 @@ class Footer extends Component {
           <Row>
           <Col lg={5} md={4} sm={3} xs={6}>
             <Link to={`/${currentLocale}`} title="Mozilla Activate">
-              <img src="/logo.svg" alt="Mozilla Activate logo" className="logo" />
+              <img src="/logo.svg" alt="Mozilla Activate logo" className="footer__logo" />
             </Link></Col>
           <Col lg={3} md={3} sm={3} xs={6} className="footer-nav">
             <Localized id="footer-nav-title">

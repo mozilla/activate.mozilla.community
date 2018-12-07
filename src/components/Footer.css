@@ -5,6 +5,9 @@ footer {
   clear: both;
   padding: 65px 0 10px 0;
 }
+.footer__logo {
+  max-width: 190px;
+}
 
 .footer-nav {
   color: white;
@@ -45,7 +48,6 @@ footer {
 .footer__content {
  text-align: center;
 }
-
 
 .footer__attributions a{
   color: white;
