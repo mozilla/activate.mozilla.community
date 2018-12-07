@@ -132,7 +132,7 @@ ul,
 ol,
 dl,
 figure {
-  margin-bottom: calc(var(--spacing-unit) / 2);
+  margin-bottom: calc(var(--spacing-unit));
 }
 
 /**
