@@ -9,7 +9,13 @@ twitter = Twitter
 discussion = Discussion
 contribute = Contribute
 legal = Legal
-footer-description = Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a target="_blank"  rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a>
+
+footer-nav-title = Navigate
+footer-contibution = Portions of this content are ©1998–2018 by individual mozilla.org contributors. Content available under a <mozillaLink>Creative Commons license</mozillaLink>.
+footer-privacy-note = Website Privacy Notice
+footer-cookies = Cookies
+footer-legal = Legal
+
 
 jumbotron-campaign-title = Engage in 5… 4…
 jumbotron-campaign-description = Contribute to a great community in a meaningful way. Take place in our latest campaing now!
