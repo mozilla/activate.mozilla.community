@@ -1,5 +1,5 @@
 .faq-row {
-
+  margin-bottom: 30px;
 }
 
 .faq-section {
@@ -17,11 +17,27 @@
   font-weight: 500;
 }
 
-.faq-section h2 {
+.faq-sub-section__title {
+  margin-bottom: var(--base-font-size);
+}
+
+.faq-title__icon {
+  display:inline-block;
+  vertical-align: middle;
+  padding-right: 5px;
+}
+
+.faq-sub-section__title h2{
+  margin: 0;
+  display:inline-block;
+  vertical-align: middle;
   font-weight: 700;
   font-family: var(--base-font-family);
   font-size: var(--base-font-size);
-  line-height: var(--base-line-height);
-  margin-bottom: var(--base-font-size);
+  line-height: 24px;
   color: var(--dark-blue-grey-color);
+}
+
+.faq-sub-section__body {
+  padding-left: 24px;
 }
