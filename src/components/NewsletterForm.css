@@ -207,8 +207,8 @@
 
 .newsletter--illustrated .newsletter__subscribe {
   font-size: 26px;
-  line-height: 24px;
-  font-weight: normal;
+  line-height: 26px;
+  font-weight: 700;
   text-transform: none;
   display: flex;
   flex-shrink: 1;

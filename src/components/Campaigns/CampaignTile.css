@@ -35,6 +35,15 @@
   opacity: .6;
 }
 
+.campaign-card--active {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.campaign-card--active .campaign-card__col:first-child {
+  min-width: 320px;
+}
+
 .campaign-card--archive .campaign-card__image {
   max-width: 160px;
   filter: gray; /* IE6-9 */

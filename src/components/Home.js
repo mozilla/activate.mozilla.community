@@ -8,6 +8,7 @@ import CampaignTileCurrent from './Campaigns/CampaignTileCurrent.js';
 import HomeCTA from './HomeCTA.js';
 
 import './Home.css';
+import '../section.css';
 
 class Home extends Component {
 
@@ -40,6 +41,9 @@ class Home extends Component {
           durationKey={campaign.durationKey}
           buttonKey = {campaign.buttonKey}
           linkTarget={campaign.linkTarget}
+          visibleOnHomepage = {
+            (this.existActiveCampaign() ? true : false)
+          }
         />
         <ActivitiesOverview />
         <div className="home__illustrated-slice home__illustrated-slice--large js-newsletter-form-wrapper">

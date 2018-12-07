@@ -307,7 +307,7 @@ class SelectCountry extends Component {
           <option value="ua">Ukraine</option>
           <option value="ae">United Arab Emirates</option>
           <option value="gb">United Kingdom</option>
-          <option value="us" selected="selected">United States</option>
+          <option value="us">United States</option>
           <option value="uy">Uruguay</option>
           <option value="uz">Uzbekistan</option>
           <option value="vu">Vanuatu</option>

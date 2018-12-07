@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
+import {
+  Send
+} from "react-feather";
 
 import SelectCountry from './SelectCountry.js';
 import SelectLanguage from './SelectLanguage.js';
@@ -56,7 +59,10 @@ class NewsletterForm extends Component {
         <Localized id="newsletter-submit">
           <span></span>
         </Localized>
-        <img src="/icons/icon-subscribe.svg" alt="" className="newsletter__subscribe-icon" />
+        < Send size = {
+          30
+        }
+        className = "newsletter__subscribe-icon icon" / >
       </button>
     );
   };
@@ -208,6 +214,8 @@ class NewsletterForm extends Component {
     let classes = ['newsletter', 'js-newsletter'];
     if(this.isInIllustratedSlice()) {
       classes.push('newsletter--illustrated');
+    } else {
+      classes.push('content-contained', 'section--pull-up');
     }
     if(this.props.className) classes.push(this.props.className);
     const classString = classes.join(' ');
