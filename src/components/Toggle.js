@@ -31,7 +31,7 @@ class Toggle extends Component {
     // Split children to description and toggle items.
     let description = [];
     let toggleItems = [];
-    React.Children.forEach(this.props.children, child => {
+    Children.forEach(this.props.children, child => {
       if(child.type.name === 'ToggleItem') {
         toggleItems.push(child);
       }

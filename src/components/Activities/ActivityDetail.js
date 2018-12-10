@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
 import { Col, Row, Grid } from 'react-bootstrap';
+import { Sidebar } from './../Sidebar.js'
 
 import './ActivityDetail.css';
 
@@ -16,7 +17,8 @@ class ActivityDetail extends Component {
       durationKey,
       tagKey,
       sidebarContent,
-      mainContent,
+      mainContentTop,
+      mainContentToggleItems,
     } = this.props;
 
     return (
@@ -29,25 +31,16 @@ class ActivityDetail extends Component {
               <Localized id={titleKey}>
                 <h1 className="title title--extra-extra-large activity-page__title">Activity Title</h1>
               </Localized>
-
-              {mainContent}
+              <div className="activity-page__content-top">
+                {mainContentTop}
+              </div>
+              {mainContentToggleItems}
             </Col>
 
             <Col lg={4} md={4} sm={12} xs={12} mdPull={8} className="activity-page__sidebar">
-              <div className="activity-page__sidebar-content">
-                <div className="activity-page__image">
-                  <img src={titleImage} alt="" />
-                </div>
-
-                <Localized id={tagKey}>
-                  <span>Tag</span>
-                </Localized>
-                <Localized id={durationKey}>
-                  <h3>Activity Duration</h3>
-                </Localized>
-
+              <Sidebar imgSrc={titleImage} tagKey={tagKey} durationKey={durationKey}>
                 {sidebarContent}
-              </div>
+              </Sidebar>
             </Col>
           </Row>
         </Grid>

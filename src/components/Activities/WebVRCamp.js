@@ -4,10 +4,31 @@ import {Toggle, ToggleItem} from './../Toggle.js'
 
 import ActivityDetail from './ActivityDetail';
 
+import {SidebarItem} from './../Sidebar.js'
+
 class WebVRCamp extends Component {
   buildSidebarContent = () => {
     return (
       <div>
+        <SidebarItem title="Impact" titleKey="vr-activity-impact-1-reworked" >
+          <ul>
+            <Localized id="vr-activity-impact-2"
+                       slackLink={<a href="https://aframe.io/community/#a-frame">A-Frame Slack channel</a>}>
+              <li>200 people signed up to the <a href="https://aframe.io/community/#a-frame">A-Frame Slack channel</a></li>
+            </Localized>
+            <Localized id="vr-activity-impact-3">
+              <li>100 projects built in or for A-Frame</li>
+            </Localized>
+            <Localized id="vr-activity-impact-4">
+              <li>20 blog posts about events, activities, experiences, projects, or tutorials.</li>
+            </Localized>
+            <Localized id="vr-activity-impact-5">
+              <li>500 social shares with #MozActivate, #WebVRCamp, @aframevr, @mozillavr</li>
+            </Localized>
+          </ul>
+        </SidebarItem>
+
+        _____
         <Localized id="vr-activity-impact">
           <h2 id="impact-and-metrics">Impact and Metrics</h2>
         </Localized>
@@ -64,7 +85,7 @@ class WebVRCamp extends Component {
     );
   };
 
-  buildMainContent = () => {
+  buildMainContentTop = () => {
     return (
       <div>
         <Localized id="vr-activity-intro">
@@ -81,7 +102,13 @@ class WebVRCamp extends Component {
         <Localized id="vr-activity-general-2">
           <p>A-Frame is used extensively by the Mozilla VR team to prototype and experiment with WebVR. Having more contributors know A-Frame will give them a chance to get involved in one of the most exciting revolutions in the field of technology.</p>
         </Localized>
+      </ div>
+    );
+  };
 
+  buildMainContentToggleItems = () => {
+    return (
+      <div>
         {/* Activity Format */}
         <Toggle
           titleKey="vr-activity-format"
@@ -371,7 +398,6 @@ class WebVRCamp extends Component {
     );
   };
 
-
   render() {
     return (
       <ActivityDetail
@@ -380,7 +406,8 @@ class WebVRCamp extends Component {
         tagKey="webvr-tag"
         durationKey="webvr-duration"
         sidebarContent = {this.buildSidebarContent()}
-        mainContent = {this.buildMainContent()}
+        mainContentTop = {this.buildMainContentTop()}
+        mainContentToggleItems = {this.buildMainContentToggleItems()}
       >
       </ActivityDetail>
     );
