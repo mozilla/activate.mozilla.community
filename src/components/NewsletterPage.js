@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
+import DocumentTitle from 'react-document-title';
+import { Localized } from 'fluent-react/compat';
 
 import NewsletterForm from './NewsletterForm.js';
 
@@ -17,6 +19,8 @@ class NewsletterPage extends Component {
 
   render() {
     return (
+      <Localized id="newsletter-document-title" attrs={{title: true}}>
+      <DocumentTitle>
       <div className="newsletter-page">
         <div className="container newsletter-page__inner">
           <div className="content-contained">
@@ -26,6 +30,8 @@ class NewsletterPage extends Component {
           </div>
         </div>
       </div>
+      </DocumentTitle>
+      </Localized>
     );
   }
 }

@@ -2,6 +2,12 @@ homepage-document-title =
     .title = Welcome
 activities-document-title =
     .title = Activities Listing
+campaigns-document-title =
+    .title = Campaigns
+faq-document-title =
+    .title = Frequently Asked Question
+newsletter-document-title =
+    .title = Sign up for our Newsletter
 
 nav-activities = Activities
 nav-campaigns = Campaigns
