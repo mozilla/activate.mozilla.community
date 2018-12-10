@@ -160,8 +160,8 @@ class NewsletterFooterForm extends Component {
               <Localized id="newsletter-email">
                 <label htmlFor="email-footer" className="form_label element-invisible">Email</label>
               </Localized>
-              <Localized id="newsletter-form-email-placeholder" attrs={{placeholder: true}}>
-                <input type="email" id="email-footer" name="email-footer" className="form_input" required placeholder="Enter your e-mail" />
+              <Localized id="newsletter-form-email-placeholder" attrs={{placeholder: true, "aria-label": true}}>
+                <input aria-label="Enter your e-mail" aria-required="true" type="email" id="email-footer" name="email-footer" className="form_input" required placeholder="Enter your e-mail" />
               </Localized>
 
               <button type="submit" className="button button--gray button--inline newsletter__subscribe newsletter__subscribe--small newsletter__subscribe--with-icon" >

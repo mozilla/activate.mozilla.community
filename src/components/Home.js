@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
+import DocumentTitle from 'react-document-title';
+import { Localized } from 'fluent-react/compat';
 import { connect } from 'react-redux';
-
 import Jumbotron from './Jumbotron.js';
 import NewsletterForm from './NewsletterForm.js';
 import ActivitiesOverview from './Activities/ActivitiesOverview.js';
@@ -31,31 +32,37 @@ class Home extends Component {
     const campaign = {...this.props.activeCampaign};
 
     return (
-      <>
-        <Jumbotron />
-        <CampaignTileCurrent
-          titleImage={campaign.titleImage}
-          titleKey={campaign.titleKey}
-          descriptionKey={campaign.descriptionKey}
-          durationKey={campaign.durationKey}
-          buttonKey = {campaign.buttonKey}
-          linkTarget={campaign.linkTarget}
-          visibleOnHomepage = {
-            (this.existActiveCampaign() ? true : false)
-          }
-        />
-        <ActivitiesOverview />
-        <div className="home__illustrated-slice home__illustrated-slice--large js-newsletter-form-wrapper">
-          <div className="container">
-            <div className="content-contained">
-              <NewsletterForm isInIllustratedSlice/>
+
+      <Localized id="homepage-document-title" attrs={{title: true}}>
+        <DocumentTitle>
+          <>
+            <Jumbotron />
+            <CampaignTileCurrent
+              titleImage={campaign.titleImage}
+              titleKey={campaign.titleKey}
+              descriptionKey={campaign.descriptionKey}
+              durationKey={campaign.durationKey}
+              buttonKey = {campaign.buttonKey}
+              linkTarget={campaign.linkTarget}
+              visibleOnHomepage = {
+                (this.existActiveCampaign() ? true : false)
+              }
+            />
+            <ActivitiesOverview />
+            <div className="home__illustrated-slice home__illustrated-slice--large js-newsletter-form-wrapper">
+              <div className="container">
+                <div className="content-contained">
+                  <NewsletterForm isInIllustratedSlice/>
+                </div>
+              </div>
             </div>
-          </div>
-        </div>
-        <div className="container">
-            <HomeCTA />
-        </div>
-      </>
+            <div className="container">
+                <HomeCTA />
+            </div>
+          </>
+        </DocumentTitle>
+      </Localized>
+
     );
   };
 

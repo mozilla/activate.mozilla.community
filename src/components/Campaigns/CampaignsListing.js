@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import DocumentTitle from 'react-document-title';
 import { connect } from 'react-redux';
 import { Localized } from 'fluent-react/compat';
 import { Grid, Row } from 'react-bootstrap';
@@ -36,6 +37,8 @@ class CampaignsListing extends Component {
     }
 
     return (
+      <Localized id="campaigns-document-title" attrs={{title: true}}>
+      <DocumentTitle>
       <React.Fragment>
         {activeCampaign}
         <section className="campaign-list">
@@ -68,6 +71,8 @@ class CampaignsListing extends Component {
         </Grid>
       </section>
     </React.Fragment>
+    </DocumentTitle>
+    </Localized>
     );
   }
 }

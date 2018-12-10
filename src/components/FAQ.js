@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Localized } from "fluent-react/compat";
+import DocumentTitle from 'react-document-title';
 import { Grid, Row, Col } from "react-bootstrap";
 import { ChevronRight } from "react-feather";
 
@@ -8,6 +9,8 @@ import "./FAQ.css";
 class FAQ extends Component {
   render() {
     return (
+      <Localized id="faq-document-title" attrs={{title: true}}>
+      <DocumentTitle>
       <section className="wrapper faq-wrapper">
         <Localized id="faq-title">
           <h1 className="title text--centered">Frequently Asked Questions</h1>
@@ -241,6 +244,8 @@ class FAQ extends Component {
           </Row>
         </Grid>
       </section>
+      </DocumentTitle>
+      </Localized>
     );
   }
 }
