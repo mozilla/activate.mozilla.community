@@ -1,18 +1,18 @@
 .activity-page {
   padding: 60px 0;
+  font-size: var(--small-font-size);
+  color: var(--slate-grey-color);
+}
+
+.activity-page__content-top a {
+  color: var(--dark-blue-grey-color);
+}
+
+.activity-page__content-top a:hover,
+.activity-page__content-top a:focus {
+  color: var(--orange-color);
 }
 
 .activity-page__title {
   margin-top: -8px;
-}
-
-.activity-page__sidebar-content {
-  background-color: white;
-  border-radius: 4px;
-}
-
-.activity-page__image img {
-  width: 100%;
-  height: auto;
-  border-radius: 4px 4px 0 0;
 }

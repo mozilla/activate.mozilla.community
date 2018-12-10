@@ -1,6 +1,6 @@
 // Toggle group  with title and description that contains multiple Toggle Items.
 // Toggle Item has title, optional duration, and body.
-import React, { Component } from 'react';
+import React, { Component, Children } from 'react';
 import { Localized } from 'fluent-react/compat';
 import { ChevronRight, ChevronDown, Clock, Circle } from 'react-feather';
 
@@ -31,7 +31,7 @@ class Toggle extends Component {
     // Split children to description and toggle items.
     let description = [];
     let toggleItems = [];
-    React.Children.forEach(this.props.children, child => {
+    Children.forEach(this.props.children, child => {
       if(child.type.name === 'ToggleItem') {
         toggleItems.push(child);
       }
