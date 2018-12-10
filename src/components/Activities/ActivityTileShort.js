@@ -27,7 +27,7 @@ class ActivityTileShort extends Component {
     ].join(' ');
 
     return (
-      <Col lg={4} md={4} sm={12} xs={12} className={cardClassNames}>
+      <Col lg={4} md={4} sm={6} xs={12} className={cardClassNames}>
         <Link to={`/${linkTarget}`}>
           <header className="activity-card__item-header">
             <img src={ titleImage } alt="" />

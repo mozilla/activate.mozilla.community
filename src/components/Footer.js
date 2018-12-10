@@ -49,9 +49,6 @@ class Footer extends Component {
             </Nav>
           </Col>
           <Col lg={4} md={5} sm={6} xs={12}>
-            <Localized id="footer-newsletter-title">
-              <div className="footer-nav__title">Newsletter Sign-up</div>
-            </Localized>
             <NewsletterFooterForm/>
           </Col>
           </Row>

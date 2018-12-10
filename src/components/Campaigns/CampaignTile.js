@@ -20,7 +20,7 @@ class CampaignTile extends Component {
     ].join(' ');
 
     return (
-      <Col lg={6} md={6} sm={6} xs={12}>
+      <Col lg={6} md={6} sm={6} xs={12} className="campaign-list__row-item">
         <article className={cardClassNames}>
         <div className="campaign-card__container">
             <div className="campaign-card__col campaign-card__col--small">

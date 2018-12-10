@@ -47,12 +47,7 @@ class NewsletterFooterForm extends Component {
     // TODO: Correct offset top according to final markup.
     // show success message
     function newsletterThanks() {
-      let thanks = document.getElementById('newsletter_thanks');
-      let newsletterFormWrapper = document.getElementsByClassName('js-newsletter-form-wrapper');
-      window.scrollTo({
-        top: newsletterFormWrapper[0].offsetTop,
-        behavior: "smooth"
-      });
+      let thanks = document.getElementById('newsletter_thanks_footer');
       // show thanks message
       thanks.style.display = 'block';
     }
@@ -153,10 +148,13 @@ class NewsletterFooterForm extends Component {
       <section className={classString}>
         <div className="newsletter__content">
           <form id="newsletter_footer_form" name="newsletter_footer__form" className="newsletter__form--footer" action="https://www.mozilla.org/en-US/newsletter/" method="post">
+            <Localized id="footer-newsletter-title">
+              <div className="footer-nav__title">Newsletter Sign-up</div>
+            </Localized>
             <input type="hidden" id="fmt-footer" name="fmt-footer" value="H" />
             <input type="hidden" id="newsletters-footer" name="newsletters-footer" value="about-mozilla" />
 
-            <div id="newsletter_footer_errors" className="newsletter__errors--footer" />
+            <div id="newsletter_footer_errors" className="newsletter__errors--footer text text--small color--white" />
 
             <div id="newsletter_email_footer" className="form_group newsletter__email">
               <Localized id="newsletter-email">
@@ -177,8 +175,8 @@ class NewsletterFooterForm extends Component {
               </button>
             </div>
             <div id="newsletter_details_footer" className="newsletter__details">
-              <SelectCountry id="newsletter-footer-country" className="newsletter__select"/>
-              <SelectLanguage id="newsletter-footer-language" className="newsletter__select"/>
+              <SelectCountry id="newsletter-country-footer" className="newsletter__select"/>
+              <SelectLanguage id="newsletter-language-footer" className="newsletter__select"/>
             </div>
 
             <div id="newsletter_privacy_footer" className="form_group newsletter__privacy-policy text text--small">
@@ -194,10 +192,10 @@ class NewsletterFooterForm extends Component {
 
           <div id="newsletter_thanks_footer" className="newsletter__text-wrapper newsletter__text-wrapper--thanks">
             <Localized id="newsletter-subscribed-title">
-              <h2 className="title title--medium text--centered">Thanks!</h2>
+              <div className="footer-nav__title">Thanks!</div>
             </Localized>
             <Localized id="newsletter-subscribed-text">
-              <p className="text">
+              <p className="text text--small color--white">
                 If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox and spam filter for an email from us.
               </p>
             </Localized>
