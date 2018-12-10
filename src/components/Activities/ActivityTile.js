@@ -57,7 +57,7 @@ class ActivityTile extends Component {
               < Watch size = {
                 18
               }
-              className = "activity-card__icon icon" / >
+              className = "activity-card__icon icon" />
               <Localized id={durationKey}>
                 <span />
               </Localized>

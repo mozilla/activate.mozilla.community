@@ -1,0 +1,111 @@
+.toggle {
+  background-color: white;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  padding: 20px 30px;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  font-size: var(--small-font-size);
+  color: var(--slate-grey-color);
+}
+
+.toggle a {
+  color: var(--dark-blue-grey-color);
+}
+
+.toggle a:hover,
+.toggle a:focus {
+  color: var(--orange-color);
+}
+
+.toggle__content {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.toggle__item {
+  border-top: 1px solid var(--grey-color-light);
+}
+
+.toggle__item-title-wrapper {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.toggle__item-duration {
+  flex-shrink: 0;
+  padding: 21px 0 17px;
+  font-size: var(--base-font-size);
+  line-height: var(--base-line-height);
+}
+
+.toggle__icon-duration {
+  vertical-align: middle;
+  padding-right: 4px;
+}
+
+/* Reset button styles. */
+.toggle__item-title {
+  background-color: transparent;
+  border-radius: 0;
+  color: var(--dark-blue-grey-color);
+  font-weight: 600;
+  padding: 21px 10px 17px 0;
+  width: 100%;
+  text-align: left;
+  font-family: var(--base-font-family);
+  font-size: var(--base-font-size);
+  line-height: var(--base-line-height);
+}
+
+.toggle__item-title:hover,
+.toggle__item-title:focus {
+  background-color: transparent;
+  border-radius: 0;
+  color: var(--orange-color);
+}
+
+.toggle__item-content {
+  padding-bottom: 17px;
+}
+
+@media only screen and (min-width : 768px) {
+  .toggle__item-content {
+    padding-left: 30px;
+  }
+
+}
+
+.toggle__item-content ul li {
+  list-style: disc;
+}
+
+.toggle__item-content p:last-child,
+.toggle__item-content ul:last-child,
+.toggle__item-content ol:last-child,
+.toggle__item-content table:last-child {
+  margin-bottom: 0;
+}
+
+.toggle__icon {
+  vertical-align: middle;
+}
+
+.toggle__icon--circle {
+  margin-right: -15px;
+}
+
+.toggle-item__icons {
+  padding-right: 10px;
+  padding-left: 5px;
+}
+
+.toggle__attention-link {
+  font-size: var(--text-lead-font-size);
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

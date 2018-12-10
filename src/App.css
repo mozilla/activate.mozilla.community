@@ -11,6 +11,7 @@
   --title-extra-large-font-size: calc(var(--base-font-size) * 2.25);
   --title-large-font-size: calc(var(--base-font-size) * 1.75);
   --title-medium-font-size: calc(var(--base-font-size) * 1.625);
+  --title-small-font-size: calc(var(--base-font-size) * 1.5);
 
   --small-font-size: calc(var(--base-font-size) * 0.875);
   --spacing-unit: 19px;
@@ -30,7 +31,7 @@
   --pumpkin-orange-color: #fb7000;
   --ice-blue-color: #eaf4f4;
   --indigo-blue-color: #4422a3;
-
+  --orange-color: #FC6413;
 
 
   --slate-grey-color: #5a6372;
@@ -38,7 +39,7 @@
   --dark-grey-blue-color: #343d50;
   --coral-color: #ff4642;
 
-  --button-color: #FC6413;
+  --button-color: var(--orange-color);
 
 
   --text-color-light: #fff;

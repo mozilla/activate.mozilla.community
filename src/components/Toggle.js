@@ -1,12 +1,23 @@
 // Toggle group  with title and description that contains multiple Toggle Items.
 // Toggle Item has title, optional duration, and body.
-import React, { Component } from 'react';
+import React, { Component, Children } from 'react';
 import { Localized } from 'fluent-react/compat';
-import { ChevronRight } from 'react-feather';
+import { ChevronRight, ChevronDown, Clock, Circle } from 'react-feather';
 
 import './Toggle.css';
 
 class Toggle extends Component {
+  // Build toggle list.
+  getToggleList = (toggleItems) => {
+    if (toggleItems.length >= 1) {
+      return (
+        <ul className="toggle__content">
+          { toggleItems }
+        </ul>
+      )
+    }
+  };
+
   render() {
     const {
       title,
@@ -15,19 +26,36 @@ class Toggle extends Component {
       id
     } = this.props;
 
-    const classes = `${className || ''} toggle__group`;
+    const classes = `${className || ''} toggle`;
+
+    // Split children to description and toggle items.
+    let description = [];
+    let toggleItems = [];
+    React.Children.forEach(this.props.children, child => {
+      if(child.type.name === 'ToggleItem') {
+        toggleItems.push(child);
+      }
+      else {
+        description.push(child);
+      }
+    });
+
+
 
     return (
       <div>
         <div className={ classes } id={ id }>
-          <div className="toggle__group-header">
+          <div className="toggle__header">
             <Localized id={ titleKey }>
-              <h2 className="title title--x-small">
+              <h2 className="title title--small">
                 { title }
               </h2>
             </Localized>
+            <div className="toggle__description">
+              { description }
+            </div>
           </div>
-          { this.props.children }
+          { this.getToggleList(toggleItems) }
         </div>
       </div>
     );
@@ -56,12 +84,26 @@ class ToggleItem extends Component {
   getDuration = () => {
     if (this.props.duration && this.props.durationKey) {
       return (
-        <Localized id={this.props.durationKey}>
-          <div>
-            { this.props.duration }
-          </div>
-        </Localized>
+        <div className="toggle__item-duration">
+          <Clock size={18} className="toggle__icon-duration icon" />
+          <Localized id={this.props.durationKey}>
+            <span>
+              { this.props.duration }
+            </span>
+          </Localized>
+        </div>
       )
+    }
+  };
+
+  getIcon = (snapshot) => {
+    if(snapshot.open) {
+      return (
+        <ChevronDown size={14} className="toggle__icon toggle__icon--chevron-down icon" />
+      )
+    }
+    else {
+      return(<ChevronRight size={14} className="toggle__icon toggle__icon--chevron-right icon" />)
     }
   };
 
@@ -78,6 +120,7 @@ class ToggleItem extends Component {
     const stateClass = snapshot.open ? 'is-expanded' : 'is-collapsed';
     const isHidden = !snapshot.open;
 
+
     let classes = ['toggle__item'];
     if (stateClass) classes.push(stateClass);
     if (className) classes.push(className);
@@ -85,7 +128,7 @@ class ToggleItem extends Component {
 
     return (
       <li className={classString}>
-        <h3>
+        <h3 className="toggle__item-title-wrapper">
           <button
             className="toggle__item-title button button--no-style"
             onClick={this.handleToggle}
@@ -93,16 +136,18 @@ class ToggleItem extends Component {
             aria-controls={id}
             aria-expanded={isExpanded}
           >
-            <ChevronRight size={16} className="toggle__icon icon" />
-
+            <span className="toggle-item__icons">
+              <Circle size={16} className="toggle__icon toggle__icon--circle icon" />
+              {this.getIcon(snapshot)}
+            </span>
             <Localized id={ titleKey }>
               <span>{ title }</span>
             </Localized>
           </button>
-          {this.getDuration()}
+         {this.getDuration()}
 
         </h3>
-        <div id={id} className="faq__item-content" hidden={isHidden}>
+        <div id={id} className="toggle__item-content" hidden={isHidden}>
           { this.props.children }
         </div>
       </li>
