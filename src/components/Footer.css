@@ -7,7 +7,12 @@ footer {
 }
 
 .footer__logo {
-  max-width: 190px;
+  max-width: 120px;
+}
+@media only screen and (min-width : 992px) {
+  .footer__logo {
+    max-width: 190px;
+  }
 }
 
 .footer-nav {
@@ -27,6 +32,7 @@ footer {
   color: white;
   font-weight: 400;
   padding: 5px 0;
+  display: inline-block;
 }
 
 .footer-nav__menu > li > a:hover,

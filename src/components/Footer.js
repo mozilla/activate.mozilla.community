@@ -61,7 +61,7 @@ class Footer extends Component {
                 <Localized id="footer-contibution"
                     mozillaLink={<a rel="license" href="https://www.mozilla.org/foundation/licensing/website-content/">Creative Commons license</a>}>
                   <p>
-                  Portions of this content are ©1998–2018 by individual mozilla.org contributors. Content available under a <a rel="license" href="https://www.mozilla.org/foundation/licensing/website-content/">Creative Commons license</a>.
+                  Portions of this content are © 1998–2018 by individual mozilla.org contributors. Content available under a <a rel="license" href="https://www.mozilla.org/foundation/licensing/website-content/">Creative Commons license</a>.
                   </p>
                 </Localized>
               </div>
