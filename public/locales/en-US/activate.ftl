@@ -79,7 +79,6 @@ programming = Programming
 participation = Participation
 
 nightly-title = Using & Testing Nightly
-  .title = Using & Testing Nightly
 nightly-description = This activity has great potential to make an impact by increasing overall involvement in Nightly, simply by introducing community to tasks that they can engage in related to Nightly. Finding and filing issues early in the cycle means by the time Firefox gets to release, the code is in good shape.
 nightly-duration = 1-3 hours
 techspeakers-title = Host a Technology Talk with Tech Speakers!
