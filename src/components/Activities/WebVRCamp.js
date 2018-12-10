@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
+import DocumentTitle from 'react-document-title';
 import {Toggle, ToggleItem} from './../Toggle.js'
 
 import ActivityDetail from './ActivityDetail';
@@ -374,15 +375,19 @@ class WebVRCamp extends Component {
 
   render() {
     return (
-      <ActivityDetail
-        titleImage="/images/webvr-header.png"
-        titleKey="webvr-title"
-        tagKey="webvr-tag"
-        durationKey="webvr-duration"
-        sidebarContent = {this.buildSidebarContent()}
-        mainContent = {this.buildMainContent()}
-      >
-      </ActivityDetail>
+      <Localized id="webvr-document-title" attrs={{title: true}}>
+        <DocumentTitle>
+          <ActivityDetail
+            titleImage="/images/webvr-header.png"
+            titleKey="webvr-title"
+            tagKey="webvr-tag"
+            durationKey="webvr-duration"
+            sidebarContent = {this.buildSidebarContent()}
+            mainContent = {this.buildMainContent()}
+          >
+          </ActivityDetail>
+        </DocumentTitle>
+      </Localized>
     );
   }
 }

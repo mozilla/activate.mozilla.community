@@ -1,13 +1,13 @@
 homepage-document-title =
-    .title = Welcome
+    .title = Welcome to Activate Mozilla
 activities-document-title =
-    .title = Activities Listing
+    .title = Activities Listing | Activate Mozilla
 campaigns-document-title =
-    .title = Campaigns
+    .title = Campaigns | Activate Mozilla
 faq-document-title =
-    .title = Frequently Asked Question
+    .title = Frequently Asked Question | Activate Mozilla
 newsletter-document-title =
-    .title = Sign up for our Newsletter
+    .title = Sign up for our Newsletter | Activate Mozilla
 
 nav-activities = Activities
 nav-campaigns = Campaigns
@@ -94,7 +94,7 @@ rust-duration = 2-3 hours
 
 webvr-title = WebVR Camp
 webvr-document-title =
-    .title = WebVR Camp
+    .title = WebVR Camp | Activate Mozilla
 
 webvr-description = A-Frame is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality. Run events to onboard developers into 3D and write some great demos. This will advance WebVR, an open platform for virtual reality that leverages the Web.
 webvr-duration = 3-4 hours
