@@ -5,6 +5,7 @@ import { Localized } from 'fluent-react/compat';
 import { Nav, NavItem, Grid, Row, Col } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap';
 import { changeLocalesWithURL } from '../actions/language.js';
+import NewsletterFooterForm from './NewsletterFooterForm.js';
 
 import './Footer.css';
 
@@ -47,10 +48,15 @@ class Footer extends Component {
               </LinkContainer>
             </Nav>
           </Col>
-          <Col lg={4} md={5} sm={6} xs={12}>c</Col>
+          <Col lg={4} md={5} sm={6} xs={12}>
+            <Localized id="footer-newsletter-title">
+              <div className="footer-nav__title">Newsletter Sign-up</div>
+            </Localized>
+            <NewsletterFooterForm/>
+          </Col>
           </Row>
           <Row>
-            <div className="footer__attributions">
+            <Col lg={12} className="footer__attributions">
               <div className="footer__content">
                 <Localized id="footer-contibution"
                     mozillaLink={<a rel="license" href="https://www.mozilla.org/foundation/licensing/website-content/">Creative Commons license</a>}>
@@ -71,7 +77,7 @@ class Footer extends Component {
                   </a>
                 </li>
               </ul>
-            </div>
+            </Col>
           </Row>
         </Grid>
       </footer>

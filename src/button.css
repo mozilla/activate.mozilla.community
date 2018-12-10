@@ -18,7 +18,19 @@
   background: #0053ba;
 }
 
+.button--gray {
+  color: #ffffff;
+  background: var(--grey-color-medium);
+}
+
+.button--gray:hover,
+.button--gray:focus {
+  color: #ffffff;
+  background: var(--grey-color-medium);
+}
+
 .button--inline {
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
 }
+
