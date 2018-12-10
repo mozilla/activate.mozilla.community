@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
+import DocumentTitle from 'react-document-title';
 import { Localized } from 'fluent-react/compat';
 import { Grid, Row } from 'react-bootstrap';
 
@@ -12,7 +13,9 @@ class ActivitiesList extends Component {
     const locale = this.props.currentLocales[0];
 
     return (
-      <section className="container activities">
+      <Localized id="activities-document-title" attrs={{title: true}}>
+      <DocumentTitle>
+        <section className="container activities">
         <Localized id="activities-listing-title">
           <h1 className="title text--centered">Activities</h1>
         </Localized>
@@ -77,6 +80,8 @@ class ActivitiesList extends Component {
           </Grid>
         </div>
       </section>
+      </DocumentTitle>
+      </Localized>
     );
   }
 }

@@ -1,3 +1,8 @@
+homepage-document-title =
+    .title = Welcome
+activities-document-title =
+    .title = Activities Listing
+
 nav-activities = Activities
 nav-campaigns = Campaigns
 nav-event-guide = Event Guide
@@ -49,6 +54,10 @@ newsletter-slice-default-title = Yes, e-mail me the latest campaigns!
 newsletter-slice-title = Keep up to date
 newsletter-slice-description-subscribe = Stay in the loop by subscribing to the campaigners’ mailing list
 newsletter-email = Email
+newsletter-form-email-placeholder =
+    .placeholder = Enter your e-mail
+    .aria-label = Enter your e-mail
+
 newsletter-submit = Subscribe
 newsletter-subscribed-title = Thanks!
 newsletter-subscribed-text = If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox and spam filter for an email from us.
@@ -64,6 +73,7 @@ programming = Programming
 participation = Participation
 
 nightly-title = Using & Testing Nightly
+  .title = Using & Testing Nightly
 nightly-description = This activity has great potential to make an impact by increasing overall involvement in Nightly, simply by introducing community to tasks that they can engage in related to Nightly. Finding and filing issues early in the cycle means by the time Firefox gets to release, the code is in good shape.
 nightly-duration = 1-3 hours
 techspeakers-title = Host a Technology Talk with Tech Speakers!
@@ -75,7 +85,11 @@ webextensions-duration= 1-3 hours
 rust-title = Dive Into Rust
 rust-description = Rust is a systems programming language important to the future of the web. It runs blazingly fast, prevents segfaults, and guarantees thread safety. With your help, we want more developers to understand, use and evangelize this language in order to make the web better and more secure.
 rust-duration = 2-3 hours
+
 webvr-title = WebVR Camp
+webvr-document-title =
+    .title = WebVR Camp
+
 webvr-description = A-Frame is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality. Run events to onboard developers into 3D and write some great demos. This will advance WebVR, an open platform for virtual reality that leverages the Web.
 webvr-duration = 3-4 hours
 webvr-tag = Programming

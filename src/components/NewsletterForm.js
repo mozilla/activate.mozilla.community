@@ -241,8 +241,8 @@ class NewsletterForm extends Component {
               <Localized id="newsletter-email">
                 <label htmlFor="email" className="form_label element-invisible">Email</label>
               </Localized>
-              <Localized id="newsletter-form-email-placeholder" attrs={{placeholder: true}}>
-                <input type="email" id="email" name="email" className="form_input" required placeholder="Enter your e-mail" />
+              <Localized id="newsletter-form-email-placeholder" attrs={{placeholder: true, "aria-label": true}}>
+                <input aria-label="Enter your e-mail" aria-required="true" type="email" id="email" name="email" className="form_input" required placeholder="Enter your e-mail" />
               </Localized>
               {
                 this.isInIllustratedSlice()
