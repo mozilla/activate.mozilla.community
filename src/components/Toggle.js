@@ -1,6 +1,6 @@
 // Toggle group  with title and description that contains multiple Toggle Items.
 // Toggle Item has title, optional duration, and body.
-import React, { Component, Children } from 'react';
+import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
 import { ChevronRight, ChevronDown, Clock, Circle } from 'react-feather';
 
