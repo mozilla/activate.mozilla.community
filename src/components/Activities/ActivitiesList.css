@@ -5,5 +5,5 @@
 }
 
 .activities__listing {
-
+  overflow: hidden;
 }

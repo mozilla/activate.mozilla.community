@@ -13,7 +13,7 @@
 .text--lead {
   font-size: var(--text-lead-font-size);
   color: var(--dark-blue-grey-color);
-  margin-bottom: 6rem;
+  margin-bottom: 2rem;
 }
 
 .text--small {
@@ -22,4 +22,10 @@
 
 .text--centered {
   text-align: center;
+}
+
+@media only screen and (min-width : 768px) {
+  .text--lead {
+    margin-bottom: 6rem;
+  }
 }

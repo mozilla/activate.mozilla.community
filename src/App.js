@@ -36,7 +36,7 @@ let activeCampaign = null;
 
 // Campaign exists.
 // Comment out the following definition, if no active Campaign exists.
-/*
+
 activeCampaign = {
   titleImage: "/images/c1.png",
   titleKey: "current-campaign",
@@ -45,7 +45,7 @@ activeCampaign = {
   buttonKey: "current-campaign-learn-more",
   linkTarget: "https://events.mozilla.org/darkfunnelen"
 };
-*/
+
 
 
 class App extends Component {

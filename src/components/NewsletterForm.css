@@ -182,7 +182,6 @@
   box-shadow: none;
   border-radius: 0;
   padding: 0 0 27px;
-
 }
 
 .newsletter--illustrated .newsletter__email .form_input {
@@ -212,8 +211,104 @@
   text-transform: none;
   display: flex;
   flex-shrink: 1;
+  width: auto;
 }
 
 .newsletter--illustrated .newsletter__subscribe-icon {
   padding-left: 10px;
+  display: none;
+}
+
+@media all and (min-width: 576px) {
+  .newsletter--illustrated .newsletter__subscribe {
+    width: 234px;
+  }
+
+  .newsletter--illustrated .newsletter__subscribe-icon {
+    display: block;
+  }
+}
+
+
+/* Footer Variant */
+.newsletter--footer .footer-nav__title{
+  margin-bottom: 10px;
+}
+
+.newsletter--footer .newsletter__email,
+.newsletter--footer .newsletter__select {
+  margin-bottom: 15px;
+}
+
+.newsletter--footer .newsletter__details {
+  margin-bottom: 0;
+}
+
+.newsletter--footer .newsletter__privacy-policy label {
+  color: white;
+  text-align: left;
+}
+
+.newsletter--footer .newsletter__privacy-policy label a{
+  color: white;
+}
+
+.newsletter--footer .newsletter__email .form_input {
+  font-size: var(--small-font-size);
+  line-height: var(--base-line-height);
+  border-color: var(--grey-color-medium);
+  color: var(--grey-color-medium);
+  padding: 5px 17px;
+}
+
+@media all and (min-width: 576px) {
+  .newsletter--footer .newsletter__details {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+@media all and (min-width: 576px) {
+  .newsletter--footer .newsletter__select {
+    position: relative;
+    display: inline-block;
+    width: 48%;
+  }
+}
+
+.newsletter--footer .newsletter__select select.is-placeholder {
+  color: var(--grey-color-medium);
+}
+
+.newsletter--footer .newsletter__select select {
+  display: inline-block;
+  font-size: var(--small-font-size);
+  line-height: var(--base-line-height);
+  padding: 8px 40px 8px 17px;
+  color: var(--dark-grey-blue-color);
+  border-color: var(--grey-color-medium);
+}
+
+.newsletter--footer .newsletter__select:after {
+  top: 12px;
+  right: 14px;
+  border-color: transparent var(--grey-color-medium) var(--grey-color-medium) transparent;
+}
+
+.newsletter--footer .newsletter__select:before {
+  right: 37px;
+  background: var(--grey-color-medium);
+}
+
+.newsletter__subscribe--small {
+  background-color: var(--grey-color-medium);
+  width: 140px;
+  padding: 8px 17px;
+  text-transform: none;
+}
+
+.newsletter__subscribe--small .newsletter__subscribe-icon {
+  margin-left: 8px;
+  position: relative;
+  top: 2px;
 }

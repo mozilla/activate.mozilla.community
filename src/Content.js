@@ -15,6 +15,14 @@ class Content extends Component {
     this.props.changeLocales([urlLanguage]);
   }
 
+  componentDidUpdate() {
+    window.scrollTo({
+      top: 0,
+      left: 0,
+      behavior: 'smooth'
+    });
+  }
+
   render() {
     return this.props.children;
   }

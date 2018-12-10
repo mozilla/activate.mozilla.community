@@ -211,7 +211,7 @@ h6 {
 a {
   color: var(--brand-color);
   text-decoration: none;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 a:focus,
