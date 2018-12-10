@@ -24,6 +24,8 @@
   margin-top: 0;
 }
 
+
+
 .title--large {
   font-size: var(--title-large-font-size);
   line-height: 1.2;
@@ -36,6 +38,15 @@
   font-size: var(--title-medium-font-size);
   line-height: 1;
   letter-spacing: -0.1px;
+  margin-top: 0;
+}
+
+/* Font size 24px. */
+.title--small {
+  font-size: var(--title-small-font-size);
+  line-height: 1;
+  letter-spacing: -0.1px;
+  margin-bottom: 1.9rem;
   margin-top: 0;
 }
 

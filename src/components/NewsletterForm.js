@@ -62,7 +62,7 @@ class NewsletterForm extends Component {
         < Send size = {
           30
         }
-        className = "newsletter__subscribe-icon icon" / >
+        className = "newsletter__subscribe-icon icon" />
       </button>
     );
   };

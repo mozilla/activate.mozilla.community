@@ -33,7 +33,7 @@ class ActivityDetail extends Component {
               {mainContent}
             </Col>
 
-            <Col lg={4} md={4} sm={12} mdPull={8} className="activity-page__sidebar">
+            <Col lg={4} md={4} sm={12} xs={12} mdPull={8} className="activity-page__sidebar">
               <div className="activity-page__sidebar-content">
                 <div className="activity-page__image">
                   <img src={titleImage} alt="" />

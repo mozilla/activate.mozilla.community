@@ -306,7 +306,7 @@ class WebVRCamp extends Component {
             <p>Immediately after the event don’t forget to share the link to the impact form with your attendees:</p>
           </Localized>
 
-          <p className="attention-link"><a href="http://mzl.la/howwasit">mzl.la/howwasit</a></p>
+          <p className="toggle__attention-link"><a href="http://mzl.la/howwasit">mzl.la/howwasit</a></p>
 
           <Localized id="vr-activity-end-2">
             <p>Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.</p>
