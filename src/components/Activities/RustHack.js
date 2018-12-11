@@ -269,8 +269,8 @@ class RustHack extends Component {
 
           <ul>
             <Localized id="rust-activity-extra-2"
-              moreLink={<a href="https://www.rust-lang.org/community.html">more things happening in the community to get involved with</a>}>
-              <li>Follow up with attendees to highlight <a href="https://www.rust-lang.org/community.html">more things happening in the community to get involved with</a></li>
+              moreLink={<a href="https://www.rust-lang.org/community">more things happening in the community to get involved with</a>}>
+              <li>Follow up with attendees to highlight <a href="https://www.rust-lang.org/community">more things happening in the community to get involved with</a></li>
             </Localized>
           </ul>
 
