@@ -40,6 +40,7 @@ eg-signin = Masuk
 eg-documentation = Dokumentasi
 eg-demos = Demo
 eg-feedback = Dapatkan Umpan Balik
+nightly-activity-during = Selama acara
 nightly-activity-output = Keluaran
 nightly-activity-content = Konten
 nightly-activity-goals = Tujuan
