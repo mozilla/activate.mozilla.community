@@ -325,8 +325,8 @@ class RustHack extends Component {
               <li>50 Mozillians organize Rust Hack and Learn events</li>
             </Localized>
             <Localized id="rust-activity-strength-2"
-              rustTeamLink={<a href="https://www.rust-lang.org/team.html">Rust teams</a>}>
-              <li>1-2 people join <a href="https://www.rust-lang.org/team.html">Rust teams</a></li>
+              rustTeamLink={<a href="https://www.rust-lang.org/governance">Rust teams</a>}>
+              <li>1-2 people join <a href="https://www.rust-lang.org/governance">Rust teams</a></li>
             </Localized>
           </ul>
 
