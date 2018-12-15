@@ -33,7 +33,7 @@ __Strength:__
 * 50 Mozillians organize Rust Hack and Learn events
 * 1-2 people join [Rust teams]
 
-[Rust teams]: https://www.rust-lang.org/en-US/team.html
+[Rust teams]: https://www.rust-lang.org/governance
 
 ## Audience for this activity
 
@@ -141,5 +141,5 @@ In addition to the recommended event flow here are some things we’d like you, 
 ## Extra
 While the focus of this activity should be on these events, people can get more involved with the Rust community after.
 
-* Follow up with attendees to highlight [more things happening in the community to get involved with](https://www.rust-lang.org/en-US/community.html)
+* Follow up with attendees to highlight [more things happening in the community to get involved with](https://www.rust-lang.org/community)
 </div>
