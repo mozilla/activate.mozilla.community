@@ -54,4 +54,5 @@ techspeakers-activity-setup-5 = Web Extension
 techspeakers-activity-after = Depois do evento
 techspeakers-activity-extra = Extra
 techspeakers-activity-audience = Público-alvo
+webext-activity-first-5 = Peça aos participantes para compartilhar suas experiências usando extensões do navegador. Quais são suas extensões preferidas e o que essas extensões fazem?
 webext-activity-ack = Agradecimentos
