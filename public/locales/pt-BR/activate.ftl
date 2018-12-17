@@ -7,7 +7,7 @@ twitter = Twitter
 discussion = Discussão
 contribute = Contribuir
 legal = Jurídico
-footer-description = A Mozilla é uma organização global sem fins lucrativos dedicada a colocar você no controle de sua experiência on-line e moldar o futuro da Web para o bem público. Visite-nos em <a target="_blank"  rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a>
+footer-description = Mozilla é uma organização global sem fins lucrativos, dedicada a colocar você no controle da sua experiência on-line e moldar o futuro da web para o bem comum. Visite-nos em <a target="_blank"  rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a>
 activate = Ativar
 activities = Atividades
 ongoing-campaign-learn-more = Saiba mais...
