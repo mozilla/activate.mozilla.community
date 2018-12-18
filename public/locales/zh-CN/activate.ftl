@@ -6,7 +6,7 @@ twitter = Twitter
 discussion = 讨论
 contribute = 贡献
 legal = 法律
-footer-description = Mozilla 是一个全球性的的非营利组织，致力于让您掌控自己的网络体验，并为了公众利益塑造 Web 的未來。欢迎访问 <a target="_blank" rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a> 了解更多信息。
+footer-description = Mozilla 是一个全球性的的非营利组织，致力于让您掌控自己的网络体验，并为了公众利益塑造 Web 的未来。欢迎访问 <a target="_blank" rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a> 了解更多信息。
 activate = 激活
 activate-description = Active Mozilla 运动呼吁民众参与。我们期望借此列明 Mozilla 当下的重点领域，指导动员者偕同贡献者围绕有意义的 Moizilla 项目创造社群。
 activities = 活动
