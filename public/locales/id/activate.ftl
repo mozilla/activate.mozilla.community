@@ -25,6 +25,7 @@ webextensions-title = Bangun Ekstensi Anda Sendiri untuk Firefox
 webextensions-duration = 1-3 jam
 rust-title = Mendalami Rust
 rust-duration = 2-3 jam
+webvr-title = WebVR Camp
 webvr-duration = 3-4 jam
 webcompat-duration = 2-3 jam
 faq-title = Pertanyaan yang Sering Diajukan
