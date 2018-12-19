@@ -281,6 +281,7 @@ rust-activity-resources-5 = <rLink>“Rust by Example”</rLink>
 rust-activity-resources-6 = Apprendimento visivo
 rust-activity-resources-7 = <rLink>“Into Rust”, una serie video di esercitazioni su Rust</rLink>
 rust-activity-resources-8 = <rLink>Una serie di guide video su Rust</rLink>
+rust-activity-resources-9 = Guide per chi viene da altri linguaggi di programmazione
 rust-activity-resources-10 = <rLink>Sviluppatori di Ruby</rLink>
 rust-activity-resources-11 = <rLink>Sviluppatori di node.js</rLink>
 rust-activity-resources-12 = <rLink>Sviluppatori di Java</rLink>
