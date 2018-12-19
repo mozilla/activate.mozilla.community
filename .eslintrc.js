@@ -1,4 +1,9 @@
 module.exports = {
+  settings: {
+    react: {
+      version: '16.7',
+    }
+  },
   extends: [
     "standard",
     "eslint:recommended",

@@ -1,8 +1,8 @@
 {
-  "name": "activate-rewrite",
-  "version": "0.1.0",
+  "name": "activate-mozilla",
+  "version": "0.2.0",
   "private": true,
-  "homepage": "https://rewrite.michaelkohler.info/",
+  "homepage": "https://activate.mozilla.community/",
   "dependencies": {
     "@babel/core": "^7.1.6",
     "@babel/runtime": "^7.1.5",
