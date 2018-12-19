@@ -1,4 +1,5 @@
 nav-activities = Aktiviteter
+nav-faq = FAQ
 twitter = Twitter
 discussion = Diskussion
 contribute = Bidra
