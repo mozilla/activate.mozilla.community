@@ -354,6 +354,7 @@ vr-activity-flow-19 = Valutazione e pianificazione (30 minuti)
 vr-activity-flow-20 = Riesamina l’intero evento
 vr-activity-flow-21 = Parla della <communityLink>comunità di A-Frame</communityLink>. Se hai un mezzo di comunicazione separato per connetterti con la locale comunità WebVR (ad esempio, gruppo Telegram WebVR-India), menziona anche quello.
 vr-activity-flow-22 = Discuti i punti chiave
+vr-activity-flow-23 = Discuti i piani di azione individuali e per gli approfondimenti successivi
 vr-activity-end = Direttamente alla fine delle attività
 vr-activity-end-1 = Subito dopo ogni evento, condividi con i tuoi partecipanti il link al modulo per l’impatto:
 vr-activity-end-2 = Questo modulo è prezioso per capire chi ha partecipato al tuo evento e se sei riuscito a ispirare i tuoi partecipanti all’azione! Consigliamo di aggiungerlo alla diapositiva finale della presentazione e inviarlo per email dopo l’evento.
