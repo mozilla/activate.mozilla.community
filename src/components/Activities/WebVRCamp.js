@@ -3,7 +3,8 @@ import { Localized } from 'fluent-react/compat';
 import DocumentTitle from 'react-document-title';
 import {Toggle, ToggleItem} from './../Toggle.js'
 import ActivityDetail from './ActivityDetail';
-import {SidebarItem} from './../Sidebar.js'
+import { SidebarItem } from './../Sidebar.js'
+import SidebarLink from './../SidebarLink.js'
 
 class WebVRCamp extends Component {
   buildSidebarContent = () => {
@@ -26,60 +27,27 @@ class WebVRCamp extends Component {
             </Localized>
           </ul>
         </SidebarItem>
+        <SidebarItem title="Strength" titleKey="vr-activity-strength-reworked">
+          <ul>
+            <Localized id="vr-activity-strength-2">
+              <li>20 Mobilizers activated</li>
+            </Localized>
+            <Localized id="vr-activity-strength-3">
+              <li>30 events</li>
+            </Localized>
+            <Localized id="vr-activity-strength-4">
+              <li>400 people are introduced to and starting to build with A-Frame</li>
+            </Localized>
+          </ul>
+        </SidebarItem>
 
-        _____
-        <Localized id="vr-activity-impact">
-          <h2 id="impact-and-metrics">Impact and Metrics</h2>
-        </Localized>
-
-        <Localized id="vr-activity-goals">
-          <h3 id="goals-for-this-area">Goals for this area</h3>
-        </Localized>
-
-        <Localized id="vr-activity-impact-1">
-          <strong>Impact:</strong>
-        </Localized>
-
-        <ul>
-          <Localized id="vr-activity-impact-2"
-                     slackLink={<a href="https://aframe.io/community/#a-frame">A-Frame Slack channel</a>}>
-            <li>200 people signed up to the <a href="https://aframe.io/community/#a-frame">A-Frame Slack channel</a></li>
+        <SidebarItem title="Audience for this activity" titleKey="audience-for-this-activity" type="audience">
+          <Localized id="vr-activity-audience-1">
+            <p>Your audience for this event should be anyone interested in virtual reality including web developers, designers and students. The audience should have a basic grasp of HTML.</p>
           </Localized>
-          <Localized id="vr-activity-impact-3">
-            <li>100 projects built in or for A-Frame</li>
-          </Localized>
-          <Localized id="vr-activity-impact-4">
-            <li>20 blog posts about events, activities, experiences, projects, or tutorials.</li>
-          </Localized>
-          <Localized id="vr-activity-impact-5">
-            <li>500 social shares with #MozActivate, #WebVRCamp, @aframevr, @mozillavr</li>
-          </Localized>
-        </ul>
-
-        <Localized id="vr-activity-strength">
-          <strong>Strength:</strong>
-        </Localized>
-
-        <ul>
-          <Localized id="vr-activity-strength-2">
-            <li>20 Mobilizers activated</li>
-          </Localized>
-          <Localized id="vr-activity-strength-3">
-            <li>30 events</li>
-          </Localized>
-          <Localized id="vr-activity-strength-4">
-            <li>400 people are introduced to and starting to build with A-Frame</li>
-          </Localized>
-        </ul>
-
-        <Localized id="vr-activity-audience">
-          <h2 id="audience-for-this-activity">Audience for this activity</h2>
-        </Localized>
-
-        <Localized id="vr-activity-audience-1">
-          <p>Your audience for this event should be anyone interested in virtual reality including web developers, designers and students. The audience should have a basic grasp of HTML.</p>
-        </Localized>
-
+          <SidebarLink type="internal" targetUrl="faq" linkText="Link test internal" linkKey="efwrfd" />
+          <SidebarLink type="external" targetUrl="https://activate.mozilla.community/webvr-camp/" linkText="Link test external" linkKey="efwrfd" />
+        </SidebarItem>
       </ div>
     );
   };

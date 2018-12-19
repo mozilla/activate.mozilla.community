@@ -34,7 +34,9 @@ class ActivityDetail extends Component {
               <div className="activity-page__content-top">
                 {mainContentTop}
               </div>
+
               {mainContentToggleItems}
+
             </Col>
 
             <Col lg={4} md={4} sm={12} xs={12} mdPull={8} className="activity-page__sidebar">
