@@ -32,7 +32,6 @@ class Home extends Component {
     const campaign = {...this.props.activeCampaign};
 
     return (
-
       <Localized id="homepage-document-title" attrs={{title: true}}>
         <DocumentTitle>
           <>
@@ -68,18 +67,22 @@ class Home extends Component {
 
   getHomeWithNoCampaign = () => {
     return (
-      <>
-        <Jumbotron />
-        <NewsletterForm />
-        <ActivitiesOverview />
-        <div className="home__illustrated-slice">
-          <div className="container">
-            <div className="content-contained">
-              <HomeCTA isInIllustratedSlice/>
+      <Localized id="homepage-document-title" attrs={{title: true}}>
+        <DocumentTitle>
+          <>
+            <Jumbotron />
+            <NewsletterForm />
+            <ActivitiesOverview />
+            <div className="home__illustrated-slice">
+              <div className="container">
+                <div className="content-contained">
+                  <HomeCTA isInIllustratedSlice/>
+                </div>
+              </div>
             </div>
-          </div>
-        </div>
-      </>
+          </>
+        </DocumentTitle>
+      </Localized>
     );
   };
 

@@ -26,6 +26,7 @@
 
 .toggle__item {
   border-top: 1px solid var(--grey-color-light);
+  list-style: none;
 }
 
 .toggle__item-title-wrapper {
