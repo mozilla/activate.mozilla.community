@@ -238,6 +238,12 @@ nightly-activity-impact-5 = 100 new followers to Nightly Twitter account
 nightly-activity-audience = Audience
 nightly-activity-audience-description = Your audience for this activity are people that are comfortable using the different features of Firefox and would like to dive a little deeper.  Maybe they want to learn some useful core skills that will help them as Mozillians or perhaps are comfortable using Developer Edition and want to learn more about Nightly. As just using Nightly gives us important information such as crashes, this is not only for developers or technical persons.
 
+techspeakers-title = Host a Technology Talk with Tech Speakers!
+techspeakers-duration = 1-2 hours
+techspeakers-tag = Programming
+techspeakers-document-title =
+    .title = Host a Technology Talk with Tech Speakers! | Activate Mozilla
+
 techspeakers-activity-intro = As Mozilla we’re working to help to keep the internet healthy, open and accessible to all but we can’t do it alone. We need to engage with people who are on the front lines of building the internet: web developers, designers, and other technologists who care about the open web. We need to get them excited about Mozilla as a technology leader.
 techspeakers-activity-general = Mozilla Tech Speakers are volunteer contributors who have undergone a six week training program to learn how to spread open web technologies to developers all over the world, from the voice of Mozilla. The aim of this activity is for you to work with Tech Speakers to reach as many web developers as we can with tech topics, and to get their feedback back to Mozilla.
 techspeakers-activity-ready = Are you ready?
@@ -466,6 +472,11 @@ vr-activity-strength-4 = 400 people are introduced to and starting to build with
 vr-activity-audience = Audience for this activity
 vr-activity-audience-1 = Your audience for this event should be anyone interested in virtual reality including web developers, designers and students. The audience should have a basic grasp of HTML.
 
+webext-title = Build Your Own Extension for Firefox
+webext-duration = 1.5-3 hours
+webext-tag = Programming
+webext-document-title =
+    .title = Build Your Own Extension for Firefox | Activate Mozilla
 webext-activity-intro = Firefox is an open-source web browser that cares about user control and privacy, and extensions provide a safe, simple, and powerful way to personalize your browsing experience. From blocking ads to organizing tabs, add-ons help make Firefox your own.
 webext-activity-general = It’s very easy to create extensions for Firefox using <docLink>WebExtensions APIs</docLink>. This Web-based technology framework offers a powerful way to create browser extensions that can be easily ported to Chrome, Opera, and Edge, and you only need to know HTML, JavaScript and CSS to build them.
 webext-activity-general-1 = In this series of workshops, you’ll help connect new developers with an opportunity to create extensions to solve real problems and make their lives and the web better.

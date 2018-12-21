@@ -17,6 +17,13 @@
   margin-top: -8px;
 }
 
+.activity-page table {
+  margin: calc(var(--spacing-unit)) 0;
+}
+
+/*
+  Change color based on Activity type.
+*/
 .activity--programming .sidebar__header .sidebar__title,
 .activity--programming .sidebar__header .sidebar__icon {
   color: var(--indigo-blue-color);

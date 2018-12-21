@@ -85,7 +85,7 @@
 .toggle__item-content p:last-child,
 .toggle__item-content ul:last-child,
 .toggle__item-content ol:last-child,
-.toggle__item-content table:last-child {
+.toggle__item-content .table-responsive:last-child {
   margin-bottom: 0;
 }
 

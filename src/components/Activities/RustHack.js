@@ -74,8 +74,9 @@ class RustHack extends Component {
             moreLink={<a href="https://www.rust-lang.org">Find out more…</a>}>
           <p>Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. <a href="https://www.rust-lang.org">Find out more…</a></p>
         </Localized>
-
-        <iframe src="https://www.youtube.com/embed/8EPsnf_ZYU0" title="Rust intro" allowFullScreen="" width="560" height="315" frameBorder="0"></iframe>
+        <div className="embed-responsive embed-responsive-16by9">
+          <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/8EPsnf_ZYU0" title="Rust intro" allowFullScreen="" width="560" height="315" frameBorder="0"></iframe>
+        </div>
       </ div>
     );
   };
