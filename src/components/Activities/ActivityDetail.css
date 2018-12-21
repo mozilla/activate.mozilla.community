@@ -16,3 +16,34 @@
 .activity-page__title {
   margin-top: -8px;
 }
+
+.activity-page table {
+  margin: calc(var(--spacing-unit)) 0;
+}
+
+/*
+  Change color based on Activity type.
+*/
+.activity--programming .sidebar__title,
+.activity--programming .sidebar__icon {
+  color: var(--indigo-blue-color);
+}
+.activity--programming .sidebar {
+  border-bottom: 3px solid var(--indigo-blue-color);
+}
+
+.activity--testing .sidebar__title,
+.activity--testing .sidebar__icon {
+  color: var(--pumpkin-orange-color);
+}
+.activity--testing .sidebar {
+  border-bottom: 3px solid var(--pumpkin-orange-color);
+}
+
+.activity-participation .sidebar__title,
+.activity-participation .sidebar__icon {
+  color: var(--purple-color);
+}
+.activity-participation .sidebar {
+  border-bottom: 3px solid var(--purple-color);
+}

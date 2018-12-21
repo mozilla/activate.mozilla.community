@@ -210,19 +210,19 @@ h6 {
  */
 
 a {
-  color: var(--brand-color);
+  color: var(--dark-blue-grey-color);
   text-decoration: none;
   font-weight: 700;
 }
 
-a:focus,
 a:active {
   text-decoration: none;
-  color: var(--brand-color);
+  color: var(--dark-blue-grey-color);
 }
 
+a:focus,
 a:hover {
-  color: var(--brand-color);
+  color: var(--orange-color);
   text-decoration: none;
 }
 

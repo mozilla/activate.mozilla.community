@@ -56,9 +56,9 @@ campaign-active = Current campaign
 campaign-archive = Previous campaigns
 ampaign-archive-description = Past, but not forgotten!
 
-newsletter-slice-default-title = Yes, e-mail me the latest campaigns!
-newsletter-slice-title = Keep up to date
-newsletter-slice-description-subscribe = Stay in the loop by subscribing to the campaigners’ mailing list
+newsletter-title = Never miss a chance to support Mozilla!
+newsletter-description-subscribe = Subscribe to our newsletter and join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission
+newsletter-slice-title = Keep up to date.
 newsletter-email = Email
 newsletter-form-email-placeholder =
     .placeholder = Enter your e-mail
@@ -79,6 +79,10 @@ programming = Programming
 participation = Participation
 
 nightly-title = Using & Testing Nightly
+nightly-duration = 1-3 hours
+nightly-tag = Testing
+nightly-document-title =
+    .title = Using & Testing Nightly | Activate Mozilla
 nightly-description = This activity has great potential to make an impact by increasing overall involvement in Nightly, simply by introducing community to tasks that they can engage in related to Nightly. Finding and filing issues early in the cycle means by the time Firefox gets to release, the code is in good shape.
 nightly-duration = 1-3 hours
 techspeakers-title = Host a Technology Talk with Tech Speakers!
@@ -88,6 +92,11 @@ webextensions-title = Build Your Own Extension for Firefox
 webextensions-description = Add-ons provide a safe, simple, and powerful way to personalize your browsing experience. With WebExtensions APIs, it’s easier than ever to create extensions that can be easily ported to Firefox, Chrome, Edge, and Opera. Through this activity you’ll help connect new developers with an opportunity to create browser extensions to solve real problems and make their lives and the web better.
 webextensions-duration= 1-3 hours
 rust-title = Dive Into Rust
+rust-duration = 2-3 hours
+rust-tag = Programming
+rust-document-title =
+    .title = Dive Into Rust | Activate Mozilla
+
 rust-description = Rust is a systems programming language important to the future of the web. It runs blazingly fast, prevents segfaults, and guarantees thread safety. With your help, we want more developers to understand, use and evangelize this language in order to make the web better and more secure.
 rust-duration = 2-3 hours
 
@@ -98,6 +107,12 @@ webvr-document-title =
 webvr-description = A-Frame is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality. Run events to onboard developers into 3D and write some great demos. This will advance WebVR, an open platform for virtual reality that leverages the Web.
 webvr-duration = 3-4 hours
 webvr-tag = Programming
+
+webcompat-title = Web Compatibility Sprint
+webcompat-duration = 1.5-3 hours
+webcompat-tag = Testing
+webcompat-document-title =
+    .title = Web Compatibility Sprint | Activate Mozilla
 webcompat-title = Web Compatibility Sprint
 webcompat-description = Web Compatibility, the ability for all Web content to run in all browsers, is important. There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired. Test sites and spread the message about compatibility.
 webcompat-duration = 2-3 hours
@@ -218,6 +233,7 @@ nightly-activity-extra = Extra
 nightly-activity-extra-1 = Additional information about Nightly can be found on the <wikiLink>Nightly Wiki page</wikiLink>. You can also help Firefox by <foxfoodingLink>Foxfooding</foxfoodingLink>!
 nightly-activity-extra-2 = If your session was a success, there are two other Activities that require pre-release builds, how about running one of those as well?
 nightly-activity-impact = Impact & Metrics
+nightly-activity-impact-simple = Impact
 nightly-activity-impact-1 = This activity has great potential to make an impact by increasing overall involvement in Nightly, simply by introducing community to tasks that they can engage in related to Nightly. Finding and filing issues early in the cycle means by the time Firefox gets to release, the code is in good shape.
 nightly-activity-goals = Goals
 nightly-activity-impact-title = Impact:
@@ -227,6 +243,12 @@ nightly-activity-impact-4 = 50 Mozillians run events
 nightly-activity-impact-5 = 100 new followers to Nightly Twitter account
 nightly-activity-audience = Audience
 nightly-activity-audience-description = Your audience for this activity are people that are comfortable using the different features of Firefox and would like to dive a little deeper.  Maybe they want to learn some useful core skills that will help them as Mozillians or perhaps are comfortable using Developer Edition and want to learn more about Nightly. As just using Nightly gives us important information such as crashes, this is not only for developers or technical persons.
+
+techspeakers-title = Host a Technology Talk with Tech Speakers!
+techspeakers-duration = 1-2 hours
+techspeakers-tag = Programming
+techspeakers-document-title =
+    .title = Host a Technology Talk with Tech Speakers! | Activate Mozilla
 
 techspeakers-activity-intro = As Mozilla we’re working to help to keep the internet healthy, open and accessible to all but we can’t do it alone. We need to engage with people who are on the front lines of building the internet: web developers, designers, and other technologists who care about the open web. We need to get them excited about Mozilla as a technology leader.
 techspeakers-activity-general = Mozilla Tech Speakers are volunteer contributors who have undergone a six week training program to learn how to spread open web technologies to developers all over the world, from the voice of Mozilla. The aim of this activity is for you to work with Tech Speakers to reach as many web developers as we can with tech topics, and to get their feedback back to Mozilla.
@@ -456,6 +478,11 @@ vr-activity-strength-4 = 400 people are introduced to and starting to build with
 vr-activity-audience = Audience for this activity
 vr-activity-audience-1 = Your audience for this event should be anyone interested in virtual reality including web developers, designers and students. The audience should have a basic grasp of HTML.
 
+webext-title = Build Your Own Extension for Firefox
+webext-duration = 1.5-3 hours
+webext-tag = Programming
+webext-document-title =
+    .title = Build Your Own Extension for Firefox | Activate Mozilla
 webext-activity-intro = Firefox is an open-source web browser that cares about user control and privacy, and extensions provide a safe, simple, and powerful way to personalize your browsing experience. From blocking ads to organizing tabs, add-ons help make Firefox your own.
 webext-activity-general = It’s very easy to create extensions for Firefox using <docLink>WebExtensions APIs</docLink>. This Web-based technology framework offers a powerful way to create browser extensions that can be easily ported to Chrome, Opera, and Edge, and you only need to know HTML, JavaScript and CSS to build them.
 webext-activity-general-1 = In this series of workshops, you’ll help connect new developers with an opportunity to create extensions to solve real problems and make their lives and the web better.

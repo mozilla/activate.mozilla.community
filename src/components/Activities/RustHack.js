@@ -1,35 +1,94 @@
 import React, { Component } from 'react';
-import { Col } from 'react-bootstrap';
 import { Localized } from 'fluent-react/compat';
-
+import DocumentTitle from 'react-document-title';
+import {Toggle, ToggleItem} from './../Toggle.js'
 import ActivityDetail from './ActivityDetail';
+import { SidebarItem } from './../Sidebar.js'
 
 class RustHack extends Component {
-  render() {
+  buildSidebarContent = () => {
     return (
-      <ActivityDetail
-        titleImage="/images/rust-post-header.png"
-        titleKey="rust-title"
-        durationKey="rust-duration">
-
-        <Col lg={9} md={9} sm={9} xs={12}>
-
-          <Localized id="rust-activity-intro">
-            <p className="alert alert-info impactbox"><span className="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
-            Having more developers understand, use and evangelize this language will advance make the web better and more secure. Rust is also a great way to learn about WebAssembly.</p>
+      <div>
+        <SidebarItem title="Goals for this area" titleKey="rust-activity-goals" >
+          <Localized id="rust-activity-impact-1">
+            <p>The Rust programming language will be important to the future of the web, making it safe and great. Having more developers understand, use and evangelize this language will advance make the web better and more secure.</p>
           </Localized>
 
-          <Localized id="rust-activity-general"
+          <Localized id="rust-activity-impact-2">
+            <p>Rust is used extensively for Mozilla projects – including this year as Servo (written in Rust) is advanced even further, and parts of it are moved into Gecko/Firefox. Having more Mozilla contributors know Rust will give them a chance to contribute to the most exciting and important technical projects coming up for Mozilla.</p>
+          </Localized>
+
+          <Localized id="rust-activity-impact-3">
+            <p>Rust is also a good subject to get people closer to Mozilla gradually, as it has smaller project sizes and potential for individual contribution - for example by writing a useful library.</p>
+          </Localized>
+        </SidebarItem>
+
+        <SidebarItem title="Impact:" titleKey="rust-activity-impact-4" >
+          <ul>
+            <Localized id="rust-activity-impact-5">
+              <li>1,000 programmers are introduced to and are well on their way to learning Rust</li>
+            </Localized>
+            <Localized id="rust-activity-impact-6">
+              <li>10 ongoing Rust Hack and Learn events</li>
+            </Localized>
+            <Localized id="rust-activity-impact-7">
+              <li>500 social media shares</li>
+            </Localized>
+            <Localized id="rust-activity-impact-8">
+              <li>Each organizer schedules 3 Rust Hack and Learn events</li>
+            </Localized>
+          </ul>
+        </SidebarItem>
+        <SidebarItem title="Strength" titleKey="rust-activity-strength">
+          <ul>
+            <Localized id="rust-activity-strength-1">
+              <li>50 Mozillians organize Rust Hack and Learn events</li>
+            </Localized>
+            <Localized id="rust-activity-strength-2"
+              rustTeamLink={<a href="https://www.rust-lang.org/team.html">Rust teams</a>}>
+              <li>1-2 people join <a href="https://www.rust-lang.org/team.html">Rust teams</a></li>
+            </Localized>
+          </ul>
+        </SidebarItem>
+
+        <SidebarItem title="Audience for this activity" titleKey="rust-activity-audience" type="audience">
+          <Localized id="rust-activity-audience-1">
+            <p>Your audience for this event should be programmers of all kinds. Some outreach to beginners can be done.</p>
+          </Localized>
+        </SidebarItem>
+      </ div>
+    );
+  };
+
+  buildMainContentTop = () => {
+    return (
+      <div>
+        <Localized id="rust-activity-intro">
+          <p className="alert alert-info impactbox"><span className="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
+            Having more developers understand, use and evangelize this language will advance make the web better and more secure. Rust is also a great way to learn about WebAssembly.
+          </p>
+        </Localized>
+
+        <Localized id="rust-activity-general"
             moreLink={<a href="https://www.rust-lang.org">Find out more…</a>}>
-            <p>Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. <a href="https://www.rust-lang.org">Find out more…</a></p>
-          </Localized>
+          <p>Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. <a href="https://www.rust-lang.org">Find out more…</a></p>
+        </Localized>
+        <div className="embed-responsive embed-responsive-16by9">
+          <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/8EPsnf_ZYU0" title="Rust intro" allowFullScreen="" width="560" height="315" frameBorder="0"></iframe>
+        </div>
+      </ div>
+    );
+  };
 
-          <iframe src="https://www.youtube.com/embed/8EPsnf_ZYU0" title="Rust intro" allowFullScreen="" width="560" height="315" frameBorder="0"></iframe>
-
-          <Localized id="rust-activity-format">
-            <h2 id="activity-format">Activity Format</h2>
-          </Localized>
-
+  buildMainContentToggleItems = () => {
+    return (
+      <div>
+        {/* Activity Format */}
+        <Toggle
+          titleKey="rust-activity-format"
+          title="Activity Format"
+          id="activity-format"
+        >
           <Localized id="rust-activity-duration">
             <p>For duration, we recommend at least a 2-3 hours event with a minimum of 10 attendees.</p>
           </Localized>
@@ -50,47 +109,55 @@ class RustHack extends Component {
             <p>Some Mozillians have already done such sessions. For example see <a href="https://reps.mozilla.org/events/#/period/past/category/rust/">past Mozilla Reps events</a>.</p>
           </Localized>
 
-          <Localized id="rust-activity-before">
-            <strong>2-4 Weeks Before the Event</strong>
-          </Localized>
+          <ToggleItem
+            titleKey="rust-activity-before"
+            title={<strong>2-4 Weeks Before the Event</strong>}
+            id="activity-format-1"
+          >
+            <ol>
+              <Localized id="rust-activity-before-1"
+                eventGuideLink={<a href="/eventguide/">event guide</a>}>
+                <li>Read the <a href="/eventguide/">event guide</a> on how to set up an event page and how to organize an event.</li>
+              </Localized>
+              <Localized id="rust-activity-before-2">
+                <li>Choose a date and secure a venue.</li>
+              </Localized>
+              <Localized id="rust-activity-before-3"
+                issueLink={<a href="https://github.com/rust-community/events-team/issues/new?template=new_meetup.md&amp;labels=meetup,mozilla-activate">event template</a>}
+                swagLink={<a href="mailto:community@rust-lang.org?subject=[SWAG]">Rust Community Team</a>}>
+                <li>Fill the <a href="https://github.com/rust-community/events-team/issues/new?template=new_meetup.md&amp;labels=meetup,mozilla-activate">event template</a> for access to the calendar so that you can enter it there.  It will then be sent around with Rust’s weekly newsletter and promoted in other fashions. You can also ask the <a href="mailto:community@rust-lang.org?subject=[SWAG]">Rust Community Team</a> if they can send some stickers.</li>
+              </Localized>
+              <Localized id="rust-activity-before-4"
+                instructionLink={<a href="https://wiki.mozilla.org/ReMo/SOPs/Event_hosting">instructions</a>}>
+                <li>Setup the event on the Reps Portal (<a href="https://wiki.mozilla.org/ReMo/SOPs/Event_hosting">instructions</a>). Please make sure the initiative is set to “MozActivate” and the functional area indicates “Rust”.</li>
+              </Localized>
+            </ol>
+          </ToggleItem>
 
-          <ol>
-            <Localized id="rust-activity-before-1"
-              eventGuideLink={<a href="/eventguide/">event guide</a>}>
-              <li>Read the <a href="/eventguide/">event guide</a> on how to set up an event page and how to organize an event.</li>
-            </Localized>
-            <Localized id="rust-activity-before-2">
-              <li>Choose a date and secure a venue.</li>
-            </Localized>
-            <Localized id="rust-activity-before-3"
-              issueLink={<a href="https://github.com/rust-community/events-team/issues/new?template=new_meetup.md&amp;labels=meetup,mozilla-activate">event template</a>}
-              swagLink={<a href="mailto:community@rust-lang.org?subject=[SWAG]">Rust Community Team</a>}>
-              <li>Fill the <a href="https://github.com/rust-community/events-team/issues/new?template=new_meetup.md&amp;labels=meetup,mozilla-activate">event template</a> for access to the calendar so that you can enter it there.  It will then be sent around with Rust’s weekly newsletter and promoted in other fashions. You can also ask the <a href="mailto:community@rust-lang.org?subject=[SWAG]">Rust Community Team</a> if they can send some stickers.</li>
-            </Localized>
-            <Localized id="rust-activity-before-4"
-              instructionLink={<a href="https://wiki.mozilla.org/ReMo/SOPs/Event_hosting">instructions</a>}>
-              <li>Setup the event on the Reps Portal (<a href="https://wiki.mozilla.org/ReMo/SOPs/Event_hosting">instructions</a>). Please make sure the initiative is set to “MozActivate” and the functional area indicates “Rust”.</li>
-            </Localized>
-          </ol>
+          <ToggleItem
+            titleKey="rust-activity-before2"
+            title={<strong>1 Week Before the Event</strong>}
+            id="activity-format-2"
+          >
+            <ol>
+              <Localized id="rust-activity-before2-1"
+                materialLink={<a href="https://github.com/rust-community/resources">Material</a>}>
+                <li>Get <a href="https://github.com/rust-community/resources">Material</a> and print them to hand them out.</li>
+              </Localized>
+              <Localized id="rust-activity-before2-2">
+                <li>Promote your event locally and online.</li>
+              </Localized>
+            </ol>
+          </ToggleItem>
+        </Toggle>
 
-          <Localized id="rust-activity-before2">
-            <strong>1 Week Before the Event</strong>
-          </Localized>
+        {/* Event Flow */}
 
-          <ol>
-            <Localized id="rust-activity-before2-1"
-              materialLink={<a href="https://github.com/rust-community/resources">Material</a>}>
-              <li>Get <a href="https://github.com/rust-community/resources">Material</a> and print them to hand them out.</li>
-            </Localized>
-            <Localized id="rust-activity-before2-2">
-              <li>Promote your event locally and online.</li>
-            </Localized>
-          </ol>
-
-          <Localized id="rust-activity-flow">
-            <h2 id="event-flow">Event Flow</h2>
-          </Localized>
-
+        <Toggle
+          titleKey="rust-activity-flow"
+          title="Event Flow"
+          id="event-flow"
+        >
           <Localized id="rust-activity-flow-1">
             <p>Hack &amp; Learn are mainly structureless, which allows for people of all experience levels to feel great. They can follow their interests and can interact with people. As an organiser, you can try to also bring your own project, please note that you will the first point of contact for problems.</p>
           </Localized>
@@ -143,24 +210,65 @@ class RustHack extends Component {
             <p>If the event is just 2 hours long, keep the intro and the closing short. If you spend 2.5 hours or more, you can spend more time on the closing. If the event is even longer, consider running something by the middle of it, to give people a moment to step away from the project.</p>
           </Localized>
 
-          <Localized id="rust-activity-end">
-            <h2 id="directly-at-the-end-of-the-activity">Directly at the end of the activity</h2>
-          </Localized>
+        </Toggle>
 
+        {/* Conclusion */}
+        <Toggle
+          titleKey="rust-activity-end"
+          title="Directly at the end of the activity"
+          id="directly-at-the-end-of-the-activity"
+        >
           <Localized id="rust-activity-end-1">
             <p>Immediately after the event don’t forget to share the link to the impact form with your attendees:</p>
           </Localized>
 
-          <p className="attention-link"><a href="http://mzl.la/howwasit">mzl.la/howwasit</a></p>
+          <p className="toggle__attention-link"><a href="http://mzl.la/howwasit">mzl.la/howwasit</a></p>
 
-          <Localized id="rust-activity-end-2">
+          <Localized id="vr-activity-end-2">
             <p>Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.</p>
           </Localized>
 
-          <Localized id="rust-activity-resources">
-            <h2 id="other-resources">Other Resources</h2>
-          </Localized>
+          <ToggleItem
+            titleKey="rust-activity-output"
+            title="Output"
+            id="output"
+          >
+            <Localized id="rust-activity-output-general">
+              <p>In addition to the recommended event flow here are some things we’d like you, the event organizer, to do:</p>
+            </Localized>
 
+            <ul>
+              <Localized id="rust-activity-output-1">
+                <li>Fill out the post-event metrics on the event page you setup on the Reps portal</li>
+              </Localized>
+              <Localized id="rust-activity-output-2">
+                <li>Share your own experience on social media and encourage your attendees to do so as well:</li>
+              </Localized>
+              <ul>
+                <Localized id="rust-activity-output-3"
+                  hashtagLink={<a href="https://twitter.com/search?f=tweets&amp;q=%23RustActivate&amp;src=typd">#RustActivate</a>}>
+                  <li>use the hashtag <a href="https://twitter.com/search?f=tweets&amp;q=%23RustActivate&amp;src=typd">#RustActivate</a></li>
+                </Localized>
+                <Localized id="rust-activity-output-4"
+                  twitterLink={<a href="https://twitter.com/rustlang">@rustlang</a>}>
+                  <li>mention the <a href="https://twitter.com/rustlang">@rustlang</a> account so they can RT you!</li>
+                </Localized>
+                <Localized id="rust-activity-output-5">
+                  <li>link to a GitHub project or blogpost to show off your work!</li>
+                </Localized>
+                <Localized id="rust-activity-output-6">
+                  <li>take a “family photo” of your group members (make sure to get permission from everyone first!)</li>
+                </Localized>
+              </ul>
+            </ul>
+          </ToggleItem>
+        </Toggle>
+
+        <Toggle
+          titleKey="rust-activity-resources"
+          title="Other Resources"
+          id="other-resources"
+        >
           <Localized id="rust-activity-resources-1">
             <h3 id="tutorials">Tutorials</h3>
           </Localized>
@@ -225,44 +333,13 @@ class RustHack extends Component {
               <li><a href="http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/">Python developers</a></li>
             </Localized>
           </ul>
+        </Toggle>
 
-          <Localized id="rust-activity-output">
-            <h2 id="output">Output</h2>
-          </Localized>
-
-          <Localized id="rust-activity-output-general">
-            <p>In addition to the recommended event flow here are some things we’d like you, the event organizer, to do:</p>
-          </Localized>
-
-          <ul>
-            <Localized id="rust-activity-output-1">
-              <li>Fill out the post-event metrics on the event page you setup on the Reps portal</li>
-            </Localized>
-            <Localized id="rust-activity-output-2">
-              <li>Share your own experience on social media and encourage your attendees to do so as well:</li>
-            </Localized>
-            <ul>
-              <Localized id="rust-activity-output-3"
-                hashtagLink={<a href="https://twitter.com/search?f=tweets&amp;q=%23RustActivate&amp;src=typd">#RustActivate</a>}>
-                <li>use the hashtag <a href="https://twitter.com/search?f=tweets&amp;q=%23RustActivate&amp;src=typd">#RustActivate</a></li>
-              </Localized>
-              <Localized id="rust-activity-output-4"
-                twitterLink={<a href="https://twitter.com/rustlang">@rustlang</a>}>
-                <li>mention the <a href="https://twitter.com/rustlang">@rustlang</a> account so they can RT you!</li>
-              </Localized>
-              <Localized id="rust-activity-output-5">
-                <li>link to a GitHub project or blogpost to show off your work!</li>
-              </Localized>
-              <Localized id="rust-activity-output-6">
-                <li>take a “family photo” of your group members (make sure to get permission from everyone first!)</li>
-              </Localized>
-            </ul>
-          </ul>
-
-          <Localized id="rust-activity-extra">
-            <h2 id="extra">Extra</h2>
-          </Localized>
-
+        <Toggle
+          titleKey="rust-activity-extra"
+          title="Extra"
+          id="extra"
+        >
           <Localized id="rust-activity-extra-1">
             <p>While the focus of this activity should be on these events, people can get more involved with the Rust community after.</p>
           </Localized>
@@ -273,73 +350,26 @@ class RustHack extends Component {
               <li>Follow up with attendees to highlight <a href="https://www.rust-lang.org/community.html">more things happening in the community to get involved with</a></li>
             </Localized>
           </ul>
+        </Toggle>
+      </ div>
+    );
+  };
 
-        </Col>
-
-        <Col lg={3} md={3} sm={3} className="sidebar hidden-xs">
-          <Localized id="rust-activity-impact">
-            <h2 id="impact-and-metrics">Impact and Metrics</h2>
-          </Localized>
-
-          <Localized id="rust-activity-impact-1">
-            <p>The Rust programming language will be important to the future of the web, making it safe and great. Having more developers understand, use and evangelize this language will advance make the web better and more secure.</p>
-          </Localized>
-
-          <Localized id="rust-activity-impact-2">
-            <p>Rust is used extensively for Mozilla projects – including this year as Servo (written in Rust) is advanced even further, and parts of it are moved into Gecko/Firefox. Having more Mozilla contributors know Rust will give them a chance to contribute to the most exciting and important technical projects coming up for Mozilla.</p>
-          </Localized>
-
-          <Localized id="rust-activity-impact-3">
-            <p>Rust is also a good subject to get people closer to Mozilla gradually, as it has smaller project sizes and potential for individual contribution - for example by writing a useful library.</p>
-          </Localized>
-
-          <Localized id="rust-activity-goals">
-            <h3 id="goals-for-this-area">Goals for this area</h3>
-          </Localized>
-
-          <Localized id="rust-activity-impact-4">
-            <strong>Impact:</strong>
-          </Localized>
-
-          <ul>
-            <Localized id="rust-activity-impact-5">
-              <li>1,000 programmers are introduced to and are well on their way to learning Rust</li>
-            </Localized>
-            <Localized id="rust-activity-impact-6">
-              <li>10 ongoing Rust Hack and Learn events</li>
-            </Localized>
-            <Localized id="rust-activity-impact-7">
-              <li>500 social media shares</li>
-            </Localized>
-            <Localized id="rust-activity-impact-8">
-              <li>Each organizer schedules 3 Rust Hack and Learn events</li>
-            </Localized>
-          </ul>
-
-          <Localized id="rust-activity-strength">
-            <strong>Strength:</strong>
-          </Localized>
-
-          <ul>
-            <Localized id="rust-activity-strength-1">
-              <li>50 Mozillians organize Rust Hack and Learn events</li>
-            </Localized>
-            <Localized id="rust-activity-strength-2"
-              rustTeamLink={<a href="https://www.rust-lang.org/team.html">Rust teams</a>}>
-              <li>1-2 people join <a href="https://www.rust-lang.org/team.html">Rust teams</a></li>
-            </Localized>
-          </ul>
-
-          <Localized id="rust-activity-audience">
-            <h2 id="audience-for-this-activity">Audience for this activity</h2>
-          </Localized>
-
-          <Localized id="rust-activity-audience-1">
-            <p>Your audience for this event should be programmers of all kinds. Some outreach to beginners can be done.</p>
-          </Localized>
-        </Col>
-
-      </ActivityDetail>
+  render() {
+    return (
+      <Localized id="rust-document-title" attrs={{title: true}}>
+        <DocumentTitle>
+          <ActivityDetail
+            titleImage="/images/rust-header.png"
+            titleKey="rust-title"
+            localizationTagKey="rust-tag"
+            tagKey="programming"
+            durationKey="rust-duration"
+            sidebarContent = {this.buildSidebarContent()}
+            mainContentTop = {this.buildMainContentTop()}
+            mainContentToggleItems = {this.buildMainContentToggleItems()}/>
+        </DocumentTitle>
+      </Localized>
     );
   }
 }

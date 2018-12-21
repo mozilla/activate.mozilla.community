@@ -21,8 +21,8 @@ class NewsletterForm extends Component {
   getNewsletterFormTextDefault = () => {
     return (
       <div className="newsletter__text-wrapper js-newsletter-header">
-        <Localized id="newsletter-slice-default-title">
-          <h1 className="title title--extra-large title--lighter text--centered newsletter__title">Yes, e-mail me the latest campaigns!</h1>
+        <Localized id="newsletter-title">
+          <h1 className="title title--extra-large title--lighter text--centered newsletter__title">Never miss a chance to support Mozilla!</h1>
         </Localized>
       </div>
     );
@@ -31,13 +31,12 @@ class NewsletterForm extends Component {
   getNewsletterFormTextIllustrated = () => {
     return (
       <div className="newsletter__text-wrapper js-newsletter-header">
-        <Localized id="newsletter-slice-title">
-          <h1 className="title text--centered newsletter__title">Keep up to date</h1>
+        <Localized id="newsletter-title">
+          <h1 className="title text--centered newsletter__title">Never miss a chance to support Mozilla!</h1>
         </Localized>
 
         <Localized id="newsletter-slice-description-subscribe">
-          <p className="text text--large text--centered">Stay in the loop by subscribing to
-            the campaigners’ mailing list</p>
+          <p className="text text--large text--centered content-contained content-contained--extra-small">Subscribe to our newsletter and join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission.</p>
         </Localized>
       </div>
     );
