@@ -107,6 +107,12 @@ webvr-document-title =
 webvr-description = A-Frame is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality. Run events to onboard developers into 3D and write some great demos. This will advance WebVR, an open platform for virtual reality that leverages the Web.
 webvr-duration = 3-4 hours
 webvr-tag = Programming
+
+webcompat-title = Web Compatibility Sprint
+webcompat-duration = 1.5-3 hours
+webcompat-tag = Testing
+webcompat-document-title =
+    .title = Web Compatibility Sprint | Activate Mozilla
 webcompat-title = Web Compatibility Sprint
 webcompat-description = Web Compatibility, the ability for all Web content to run in all browsers, is important. There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired. Test sites and spread the message about compatibility.
 webcompat-duration = 2-3 hours

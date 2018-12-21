@@ -1,9 +1,11 @@
 .sidebar {
-  background-color: white;
-  border-radius: 4px;
   font-size: var(--small-font-size);
   color: var(--slate-grey-color);
-  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.15), inset 0 -3px 0 0 var(--indigo-blue-color);
+  border: 1px solid var(--grey-color-light);
+  border-bottom: 3px solid var(--grey-color);
+  border-radius: 4px;
+  background-color: #ffffff;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.15);
 }
 
 .sidebar .title,
@@ -36,6 +38,15 @@
 
 .sidebar__content {
   padding: 0 20px 29px;
+}
+
+.sidebar__content a {
+  color: var(--dark-blue-grey-color);
+}
+
+.sidebar__content a:hover,
+.sidebar__content a:focus {
+  color: var(--orange-color);
 }
 
 .sidebar__header {

@@ -4,7 +4,6 @@ import DocumentTitle from 'react-document-title';
 import {Toggle, ToggleItem} from './../Toggle.js'
 import ActivityDetail from './ActivityDetail';
 import { SidebarItem } from './../Sidebar.js'
-import SidebarLink from './../SidebarLink.js'
 
 class WebExtensions extends Component {
   buildSidebarContent = () => {

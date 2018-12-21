@@ -1,37 +1,75 @@
 import React, { Component } from 'react';
-import { Col } from 'react-bootstrap';
 import { Localized } from 'fluent-react/compat';
-
+import DocumentTitle from 'react-document-title';
+import {Toggle} from './../Toggle.js'
 import ActivityDetail from './ActivityDetail';
+import { SidebarItem } from './../Sidebar.js'
 
 class WebcompatSprint extends Component {
-  render() {
+  buildSidebarContent = () => {
     return (
-      <ActivityDetail
-        titleImage="/images/webcompat-post-header.png"
-        titleKey="webcompat-title"
-        durationKey="webcompat-duration">
+      <div>
+        <SidebarItem title="Impact:" titleKey="webcompat-activity-impact-title" >
+          <ul>
+            <Localized id="webcompat-activity-impact-2">
+              <li>300 Add-on installs</li>
+            </Localized>
+            <Localized id="webcompat-activity-impact-3">
+              <li>200 compatibility issues filed</li>
+            </Localized>
+          </ul>
+        </SidebarItem>
+        <SidebarItem title="Strength:" titleKey="webcompat-activity-strength">
+          <ul>
+            <Localized id="webcompat-activity-strength-1">
+              <li>50 Mozillians run events</li>
+            </Localized>
+            <Localized id="webcompat-activity-strength-2"
+              compatList={<a href="https://www.mozilla.org/about/forums/#compatibility">compatibility list</a>}>
+              <li>50 signups to the <a href="https://www.mozilla.org/about/forums/#compatibility">compatibility list</a></li>
+            </Localized>
+          </ul>
+        </SidebarItem>
 
-        <Col lg={9} md={9} sm={9} xs={12}>
-          <Localized id="webcompat-activity-intro">
-            <p className="alert alert-info impactbox"><span className="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
-              At Mozilla, we want the web running well for everyone, not just in one or two browsers. This means cross-browser, user-agent independent, and cross-device.
-            </p>
+        <SidebarItem title="Audience for this activity" titleKey="audience-for-this-activity" type="audience">
+          <Localized id="webcompat-activity-audience-1">
+            <p>The audience this activity is anyone who is passionate on the topic, but being somewhat Web tech savvy is a help. No programming skills are necessary. It is for people who care about diversity on the Web.</p>
           </Localized>
+        </SidebarItem>
+      </div>
+    );
+  };
 
-          <Localized id="webcompat-activity-general">
-            <p>Web Compatibility, the ability for all Web content to run in all browsers, is important. There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired.</p>
-          </Localized>
+  buildMainContentTop = () => {
+    return (
+      <div>
+        <Localized id="webcompat-activity-intro">
+          <p className="alert alert-info impactbox"><span className="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
+            At Mozilla, we want the web running well for everyone, not just in one or two browsers. This means cross-browser, user-agent independent, and cross-device.
+          </p>
+        </Localized>
 
-          <Localized id="webcompat-activity-background"
-            hacksPost={<a href="https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/">recent blog post on Mozilla Hacks</a>}>
-            <p>For more background and data on Web Compatibility, read the <a href="https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/">recent blog post on Mozilla Hacks</a>.</p>
-          </Localized>
+        <Localized id="webcompat-activity-general">
+          <p>Web Compatibility, the ability for all Web content to run in all browsers, is important. There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired.</p>
+        </Localized>
 
-          <Localized id="webcompat-activity-format">
-            <h2 id="activity-format">Activity Format</h2>
-          </Localized>
+        <Localized id="webcompat-activity-background"
+          hacksPost={<a href="https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/">recent blog post on Mozilla Hacks</a>}>
+          <p>For more background and data on Web Compatibility, read the <a href="https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/">recent blog post on Mozilla Hacks</a>.</p>
+        </Localized>
+      </div>
+    );
+  };
 
+  buildMainContentToggleItems = () => {
+    return (
+      <div>
+        {/* Activity Format */}
+        <Toggle
+          titleKey="webcompat-activity-format"
+          title="Activity Format"
+          id="activity-format"
+        >
           <Localized id="webcompat-activity-solo">
             <p>While this activity can be run solo, we encourage you to run an event in your community to get together people who care about the Web. The goal is to test sites, diagnose problems, and discuss how to evangelise locally to developers about a Web that works for everyone.</p>
           </Localized>
@@ -44,11 +82,15 @@ class WebcompatSprint extends Component {
           <Localized id="webcompat-activity-duration">
             <p>For duration, we recommend a half-day (or full evening) event with a minimum of 10-15 attendees.</p>
           </Localized>
+        </Toggle>
 
-          <Localized id="webcompat-activity-flow">
-            <h2 id="event-flow">Event Flow</h2>
-          </Localized>
+        {/* Event Flow */}
 
+        <Toggle
+          titleKey="webcompat-activity-flow"
+          title="Event Flow"
+          id="event-flow"
+        >
           <ul>
             <Localized id="webcompat-activity-setup">
               <li>Set yourself up with Firefox. Any or all of the following versions:</li>
@@ -110,24 +152,30 @@ class WebcompatSprint extends Component {
             </ul>
           </ul>
 
-          <Localized id="webcompat-activity-end">
-            <h2 id="directly-at-the-end-of-the-activity">Directly at the end of the activity</h2>
-          </Localized>
+        </Toggle>
 
+        {/* Conclusion */}
+        <Toggle
+          titleKey="webcompat-activity-end"
+          title="Directly at the end of the activity"
+          id="directly-at-the-end-of-the-activity"
+        >
           <Localized id="webcompat-activity-end-1">
             <p>Immediately after the event don’t forget to share the link to the impact form with your attendees:</p>
           </Localized>
 
-          <p className="attention-link"><a href="http://mzl.la/howwasit">mzl.la/howwasit</a></p>
+          <p className="toggle__attention-link"><a href="http://mzl.la/howwasit">mzl.la/howwasit</a></p>
 
           <Localized id="webcompat-activity-end-2">
             <p>Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.</p>
           </Localized>
+        </Toggle>
 
-          <Localized id="webcompat-activity-output">
-            <h2 id="output">Output</h2>
-          </Localized>
-
+        <Toggle
+          titleKey="webcompat-activity-output"
+          title="Output"
+          id="output"
+        >
           <Localized id="webcompat-activity-output-1">
             <p>In addition to the recommended event flow here are some things we’d like you, the event organizer, to do.</p>
           </Localized>
@@ -150,11 +198,13 @@ class WebcompatSprint extends Component {
               <li>Encourage attendees who want to continue to work on Web Compat to sign up to the <a href="https://www.mozilla.org/about/forums/#compatibility">mailing list</a></li>
             </Localized>
           </ul>
+        </Toggle>
 
-          <Localized id="webcompat-activity-extra">
-            <h2 id="extra">Extra</h2>
-          </Localized>
-
+        <Toggle
+          titleKey="webcompat-activity-extra"
+          title="Extra"
+          id="extra"
+        >
           <Localized id="webcompat-activity-extra-1">
             <p>While the focus of this activity should be on testing sprints, there are other ways to stay more involved with the community after.</p>
           </Localized>
@@ -175,58 +225,26 @@ class WebcompatSprint extends Component {
             <p><a href="https://webcompat.com/contributors">Webcompat’s contributors page</a> has more basic information on how to get started and join the community.</p>
           </Localized>
 
-        </Col>
+        </Toggle>
+      </ div>
+    );
+  };
 
-        <Col lg={3} md={3} sm={3} className="sidebar hidden-xs">
-          <Localized id="webcompat-activity-impact">
-            <h2 id="impact-and-metrics">Impact and Metrics</h2>
-          </Localized>
-
-          <Localized id="webcompat-activity-impact-1">
-            <p>At Mozilla, we want the web running well for everyone, not just in one or two browsers. This means cross-browser, and cross-device. Our global community can give visibility to this that no team could ever match!</p>
-          </Localized>
-
-          <Localized id="webcompat-activity-goals">
-            <h3 id="goals-for-this-area">Goals for this area</h3>
-          </Localized>
-
-          <Localized id="webcompat-activity-impact-title">
-            <strong>Impact:</strong>
-          </Localized>
-
-          <ul>
-            <Localized id="webcompat-activity-impact-2">
-              <li>300 Add-on installs</li>
-            </Localized>
-            <Localized id="webcompat-activity-impact-3">
-              <li>200 compatibility issues filed</li>
-            </Localized>
-          </ul>
-
-          <Localized id="webcompat-activity-strength">
-            <strong>Strength:</strong>
-          </Localized>
-
-          <ul>
-            <Localized id="webcompat-activity-strength-1">
-              <li>50 Mozillians run events</li>
-            </Localized>
-            <Localized id="webcompat-activity-strength-2"
-              compatList={<a href="https://www.mozilla.org/about/forums/#compatibility">compatibility list</a>}>
-              <li>50 signups to the <a href="https://www.mozilla.org/about/forums/#compatibility">compatibility list</a></li>
-            </Localized>
-          </ul>
-
-          <Localized id="webcompat-activity-audience">
-            <h2 id="audience-for-this-activity">Audience for this activity</h2>
-          </Localized>
-
-          <Localized id="webcompat-activity-audience-1">
-            <p>The audience this activity is anyone who is passionate on the topic, but being somewhat Web tech savvy is a help. No programming skills are necessary. It is for people who care about diversity on the Web.</p>
-          </Localized>
-        </Col>
-
-      </ActivityDetail>
+  render() {
+    return (
+      <Localized id="webcompat-document-title" attrs={{title: true}}>
+        <DocumentTitle>
+          <ActivityDetail
+            titleImage="/images/webcompat-post-header.png"
+            titleKey="webcompat-title"
+            localizationTagKey="webcompat-tag"
+            tagKey="testing"
+            durationKey="webcompat-duration"
+            sidebarContent = {this.buildSidebarContent()}
+            mainContentTop = {this.buildMainContentTop()}
+            mainContentToggleItems = {this.buildMainContentToggleItems()}/>
+        </DocumentTitle>
+      </Localized>
     );
   }
 }
