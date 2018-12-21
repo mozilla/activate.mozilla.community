@@ -16,3 +16,18 @@
 .activity-page__title {
   margin-top: -8px;
 }
+
+.activity--programming .sidebar__header .sidebar__title,
+.activity--programming .sidebar__header .sidebar__icon {
+  color: var(--indigo-blue-color);
+}
+
+.activity--testing .sidebar__header .sidebar__title,
+.activity--testing .sidebar__header .sidebar__icon {
+  color: var(--pumpkin-orange-color);
+}
+
+.activity-participation .sidebar__header .sidebar__title,
+.activity-participation .sidebar__header .sidebar__icon {
+  color: var(--purple-color);
+}

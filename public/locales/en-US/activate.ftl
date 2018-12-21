@@ -56,9 +56,9 @@ campaign-active = Current campaign
 campaign-archive = Previous campaigns
 ampaign-archive-description = Past, but not forgotten!
 
-newsletter-slice-default-title = Yes, e-mail me the latest campaigns!
-newsletter-slice-title = Keep up to date
-newsletter-slice-description-subscribe = Stay in the loop by subscribing to the campaigners’ mailing list
+newsletter-title = Never miss a chance to support Mozilla!
+newsletter-description-subscribe = Subscribe to our newsletter and join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission
+newsletter-slice-title = Keep up to date.
 newsletter-email = Email
 newsletter-form-email-placeholder =
     .placeholder = Enter your e-mail
@@ -79,6 +79,10 @@ programming = Programming
 participation = Participation
 
 nightly-title = Using & Testing Nightly
+nightly-duration = 1-3 hours
+nightly-tag = Testing
+nightly-document-title =
+    .title = Using & Testing Nightly | Activate Mozilla
 nightly-description = This activity has great potential to make an impact by increasing overall involvement in Nightly, simply by introducing community to tasks that they can engage in related to Nightly. Finding and filing issues early in the cycle means by the time Firefox gets to release, the code is in good shape.
 nightly-duration = 1-3 hours
 techspeakers-title = Host a Technology Talk with Tech Speakers!
@@ -88,6 +92,11 @@ webextensions-title = Build Your Own Extension for Firefox
 webextensions-description = Add-ons provide a safe, simple, and powerful way to personalize your browsing experience. With WebExtensions APIs, it’s easier than ever to create extensions that can be easily ported to Firefox, Chrome, Edge, and Opera. Through this activity you’ll help connect new developers with an opportunity to create browser extensions to solve real problems and make their lives and the web better.
 webextensions-duration= 1-3 hours
 rust-title = Dive Into Rust
+rust-duration = 2-3 hours
+rust-tag = Programming
+rust-document-title =
+    .title = Dive Into Rust | Activate Mozilla
+
 rust-description = Rust is a systems programming language important to the future of the web. It runs blazingly fast, prevents segfaults, and guarantees thread safety. With your help, we want more developers to understand, use and evangelize this language in order to make the web better and more secure.
 rust-duration = 2-3 hours
 
@@ -218,6 +227,7 @@ nightly-activity-extra = Extra
 nightly-activity-extra-1 = Additional information about Nightly can be found on the <wikiLink>Nightly Wiki page</wikiLink>. You can also help Firefox by <foxfoodingLink>Foxfooding</foxfoodingLink>!
 nightly-activity-extra-2 = If your session was a success, there are two other Activities that require pre-release builds, how about running one of those as well?
 nightly-activity-impact = Impact & Metrics
+nightly-activity-impact-simple = Impact
 nightly-activity-impact-1 = This activity has great potential to make an impact by increasing overall involvement in Nightly, simply by introducing community to tasks that they can engage in related to Nightly. Finding and filing issues early in the cycle means by the time Firefox gets to release, the code is in good shape.
 nightly-activity-goals = Goals
 nightly-activity-impact-title = Impact:

@@ -16,13 +16,20 @@ class ActivityDetail extends Component {
       titleImage,
       durationKey,
       tagKey,
+      localizationTagKey,
       sidebarContent,
       mainContentTop,
       mainContentToggleItems,
     } = this.props;
 
+    const cardClassNames = [
+      "activity-page",
+      "activity--" + tagKey,
+      "container"
+    ].join(" ");
+
     return (
-      <article className="activity-page container">
+      <article className={cardClassNames}>
         <Grid>
 
           <Row className="show-grid">
@@ -40,7 +47,7 @@ class ActivityDetail extends Component {
             </Col>
 
             <Col lg={4} md={4} sm={12} xs={12} mdPull={8} className="activity-page__sidebar">
-              <Sidebar imgSrc={titleImage} tagKey={tagKey} durationKey={durationKey}>
+              <Sidebar imgSrc={titleImage} tagKey={tagKey} localizationTagKey={localizationTagKey} durationKey={durationKey}>
                 {sidebarContent}
               </Sidebar>
             </Col>

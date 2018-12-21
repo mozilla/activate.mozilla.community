@@ -10,3 +10,7 @@
 .content-contained--small {
   max-width: 600px;
 }
+
+.content-contained--extra-small {
+  max-width: 540px;
+}
