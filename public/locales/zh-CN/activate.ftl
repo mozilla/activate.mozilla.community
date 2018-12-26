@@ -12,6 +12,7 @@ activate = 燃火
 activate-description = Active Mozilla 运动呼吁民众参与。我们期望借此列明 Mozilla 当下的重点领域，指导动员者偕同贡献者围绕有意义的 Moizilla 项目创造社群。
 activities = 活动
 ongoing-campaign = 成为黑暗漏斗侦探！
+ongoing-campaign-description = 通过搜索和报告具有未经授权的下载按钮的网站作为黑暗漏斗活动的一部分来帮助一下吧！
 ongoing-campaign-learn-more = 详细了解……
     .href = https://events.mozilla.org/darkfunnelEN
 newsletter-title = 千万不要错过支持 Mozilla 的机会！
