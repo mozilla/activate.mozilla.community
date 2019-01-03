@@ -149,6 +149,7 @@ nightly-activity-impact-4 = 50 位举办活动的谋智人
 nightly-activity-impact-5 = 100 名 Twitter 账号 Nightly 的新关注者
 nightly-activity-audience = 与会者
 techspeakers-activity-ready = 准备好了吗？
+techspeakers-activity-setup = 活动的准备工作
 techspeakers-activity-setup-3 = Web VR
 techspeakers-activity-setup-4 = Rust
 techspeakers-activity-setup-5 = Web Extension
