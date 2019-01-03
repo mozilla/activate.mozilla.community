@@ -4,7 +4,6 @@ import DocumentTitle from 'react-document-title';
 import {Toggle, ToggleItem} from './../Toggle.js'
 import ActivityDetail from './ActivityDetail';
 import { SidebarItem } from './../Sidebar.js'
-import SidebarLink from './../SidebarLink.js'
 
 class WebVRCamp extends Component {
   buildSidebarContent = () => {
@@ -45,8 +44,6 @@ class WebVRCamp extends Component {
           <Localized id="vr-activity-audience-1">
             <p>Your audience for this event should be anyone interested in virtual reality including web developers, designers and students. The audience should have a basic grasp of HTML.</p>
           </Localized>
-          <SidebarLink type="internal" targetUrl="faq" linkText="Link test internal" linkKey="efwrfd" />
-          <SidebarLink type="external" targetUrl="https://activate.mozilla.community/webvr-camp/" linkText="Link test external" linkKey="efwrfd" />
         </SidebarItem>
       </ div>
     );

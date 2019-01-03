@@ -13,7 +13,6 @@ import './CampaignsListing.css';
 class CampaignsListing extends Component {
 
   render() {
-    const locale = this.props.currentLocales[0];
 
     let activeCampaign = <div></div>;
     if (this.props.activeCampaign) {
@@ -53,19 +52,11 @@ class CampaignsListing extends Component {
         <Grid>
           <Row className="campaign-list__row">
             <CampaignTile
-              titleImage="/images/c1.png"
-              titleKey="nightly-title"
-              descriptionKey="nightly-description"
-              durationKey="nightly-duration"
-              linkTarget={`${locale}/nightly`}
-            ></CampaignTile>
-            <CampaignTile
-              titleImage="/images/techspeakers-header.png"
-              titleKey="techspeakers-title"
-              descriptionKey="techspeakers-description"
-              tagKey="programming"
-              durationKey="techspeakers-duration"
-              linkTarget={`${locale}/techspeakers`}
+              titleImage="/images/dark-funnel.jpg"
+              titleKey="current-campaign"
+              descriptionKey="current-campaign-description"
+              durationKey="current-campaign-duration"
+              linkTarget="https://events.mozilla.org/darkfunnelEN"
             ></CampaignTile>
           </Row>
         </Grid>
