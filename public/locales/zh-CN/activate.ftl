@@ -121,6 +121,7 @@ nightly-activity-before-1 = 阅读<eventGuideLink>活动指南</ eventGuideLink>
 nightly-activity-before-2 = 复制并调整<nightlyIntroLink>介绍 Nightly 的幻灯片</nightlyIntroLink>
 nightly-activity-before-3 = 考虑一下是自我促进还是与有 Nightly 经验的人一起进行。您可以在 Mozilla Nightly Testers Telegram 组或 irc.mozilla.org Nightly 频道上找到帮助。
 nightly-activity-before-4 = 在 Facebook 或 Meetup.com 等当地流行的平台上创建活动页面，并坚持发布有关 Nightly 及相关主题的有趣信息，以便在 Twitter 上继续进行对话。
+nightly-activity-duration = 持续时间：建议 1-3 个小时，至少 5 个参加者。
 nightly-activity-before2 = 活动前 1 周
 nightly-activity-before2-1 = 通过电子邮件确认选定的参与者
 nightly-activity-before2-2 = 在活动前分发下列任务清单：
