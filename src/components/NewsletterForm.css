@@ -29,9 +29,15 @@
   border-radius: 4px 0 0 4px;
   border: 2px solid var(--pumpkin-orange-color);
   border-right: 0;
-  font-size: 24px;
+  font-size: 14px;
   line-height: 33px;
   color: var(--dark-grey-blue-color);
+}
+
+@media all and (min-width: 576px) {
+  .newsletter__email .form_input {
+    font-size: 24px;
+  }
 }
 
 .newsletter__email .form_input::placeholder {
@@ -105,7 +111,7 @@
 
 .newsletter__select select {
   display: inline-block;
-  font-size: 22px;
+  font-size: 14px;
   line-height: 30px;
   width: 100%;
   cursor: pointer;
@@ -117,6 +123,12 @@
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
+}
+
+@media all and (min-width: 576px) {
+  .newsletter__select select {
+    font-size: 22px;
+  }
 }
 
 .newsletter__select select.is-placeholder {

@@ -36,7 +36,8 @@ footer {
 }
 
 .footer-nav__menu > li > a:hover,
-.footer-nav__menu > li > a:focus {
+.footer-nav__menu > li > a:focus,
+.footer-nav__menu > li.is-active > a {
   color: var(--grey-color-medium);
   background-color: transparent;
 }

@@ -24,8 +24,10 @@ class NewsletterPage extends Component {
       <div className="newsletter-page">
         <div className="container newsletter-page__inner">
           <div className="content-contained">
-            <div className="newsletter-page__newsletter-form-wrapper">
-              <NewsletterForm />
+            <div className="row">
+              <div className="newsletter-page__newsletter-form-wrapper">
+                <NewsletterForm />
+              </div>
             </div>
           </div>
         </div>
