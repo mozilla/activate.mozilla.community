@@ -85,7 +85,7 @@ class Header extends Component {
             </LinkContainer>
             <LinkContainer exact className="page-link" to={`/${currentLocale}/activities`} activeClassName={"is-active"}>
               <NavItem>
-                <Localized id="nav-activitiesfaq">
+                <Localized id="nav-activities">
                   <span>Activities</span>
                 </Localized>
               </NavItem>
