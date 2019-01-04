@@ -166,13 +166,6 @@ ol {
   margin-left: var(--spacing-unit);
 }
 
-/*li {*/
-/*>ul,*/
-/*>ol {*/
-  /*margin-bottom: 0;*/
-/*}*/
-/*}*/
-
 /**
  * Headings
  */
@@ -374,6 +367,10 @@ pre code {
 /*
  * Others
  */
+
+ hr {
+  margin: 10vh 0;
+}
 
 .full-width {
   margin: 0 5vw;

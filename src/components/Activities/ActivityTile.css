@@ -55,6 +55,7 @@
   text-align: justify;
   padding-bottom: calc(var(--base-font-size) * 1.55);
 }
+
 .activity-card__content p:last-child {
   margin-bottom: 0;
 }
@@ -128,4 +129,3 @@
 .activity-card--participation footer .activity-card__duration-icon {
   fill: var(--purple-color);
 }
-

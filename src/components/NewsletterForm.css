@@ -148,12 +148,6 @@
   }
 }
 
-
-/*.newsletter__select select:hover,*/
-/*.newsletter__select select:focus {*/
-
-/*}*/
-
 .newsletter__select select:disabled {
   opacity: 0.5;
   pointer-events: none;
@@ -324,5 +318,4 @@
   margin-left: 8px;
   position: relative;
   top: 2px;
-
 }

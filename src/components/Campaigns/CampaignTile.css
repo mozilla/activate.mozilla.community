@@ -1,6 +1,5 @@
 .campaign-card {
   text-align: left;
-  /*border: 1px solid var(--grey-color-light);*/
   border-radius: 4px;
   background-color: #ffffff;
   box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.15);
@@ -62,7 +61,6 @@
   margin-bottom: 0;
 }
 
-
 @media only screen and (min-width : 992px) {
   .campaign-card__container  {
     flex-wrap: nowrap;
@@ -84,7 +82,6 @@
     max-width: 160px;
   }
 }
-
 
 .campaign-card--archive .campaign-card__container {
   margin-bottom: 1.5em;

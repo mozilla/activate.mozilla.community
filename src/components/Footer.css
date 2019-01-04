@@ -9,6 +9,7 @@ footer {
 .footer__logo {
   max-width: 120px;
 }
+
 @media only screen and (min-width : 992px) {
   .footer__logo {
     max-width: 190px;
@@ -45,6 +46,7 @@ footer {
 .footer-nav__menu .is-active a{
   color: white;
 }
+
 .footer__attributions {
   border-top: 1px solid #38383D;
   padding-top: 35px;
