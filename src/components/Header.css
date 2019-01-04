@@ -30,7 +30,9 @@ img.logo {
   margin-bottom: 0;
   box-shadow: none;
   border: none;
+  z-index: 1;
 }
+
 .navbar-default {
   border-radius: 0;
 }
