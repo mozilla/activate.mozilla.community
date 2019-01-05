@@ -76,3 +76,4 @@ techspeakers-activity-extra = Ekstra
 webcompat-activity-setup-1 = <firefoxLink>Firefox</firefoxLink>
 webcompat-activity-setup-2 = <firefoxLink>Android için Firefox</firefoxLink>
 webcompat-activity-setup-3 = <iosLink>iOS için Firefox</iosLink>
+webcompat-activity-output = Çıktı
