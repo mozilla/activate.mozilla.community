@@ -46,8 +46,12 @@ class NewsletterForm extends Component {
     return (
       <button type="submit" className="button button--inline newsletter__subscribe" >
         <Localized id="newsletter-submit">
-          <span></span>
+          <span className = "newsletter__subscribe-text"></span>
         </Localized>
+        < Send size = {
+          24
+        }
+        className = "newsletter__subscribe-icon icon" />
       </button>
     );
   };
@@ -56,7 +60,7 @@ class NewsletterForm extends Component {
     return (
       <button type="submit" className="button button--inline newsletter__subscribe newsletter__subscribe--with-icon" >
         <Localized id="newsletter-submit">
-          <span></span>
+          <span className = "newsletter__subscribe-text"></span>
         </Localized>
         < Send size = {
           30
