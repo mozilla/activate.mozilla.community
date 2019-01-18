@@ -88,3 +88,4 @@ webext-activity-third-4 = प्रसंग
 webext-activity-third-6 = वीडियो
 webext-activity-resources = संसाधन
 webext-activity-impact-2 = प्रभाव:
+webext-activity-goals = अभियान के लक्ष्य
