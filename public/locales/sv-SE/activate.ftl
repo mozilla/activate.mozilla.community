@@ -1,5 +1,5 @@
 nav-activities = Aktiviteter
-nav-event-guide = Evenemangs-guide
+nav-event-guide = Evenemangsguide
 nav-faq = FAQ
 nav-impact = Påverkan
 nav-impact-form = Typ av inverkan
