@@ -220,6 +220,7 @@ rust-activity-resources-1 = Handledningar
 rust-activity-resources-2 = Lär dig genom Exempel
 rust-activity-resources-3 = <rLink>Bli van med att läsa och skriva Rust kod</rLink>
 rust-activity-resources-4 = <rLink>"Exercism" Kodningsutmaningar</ rLink>
+rust-activity-resources-5 = <rLink>"Rust genom exempel"</rLink>
 rust-activity-resources-6 = Visuellt lärande
 rust-activity-resources-8 = <rLink>En videokurs om Rust</rLink>
 rust-activity-resources-9 = Kommer från andra programmeringsspråk
