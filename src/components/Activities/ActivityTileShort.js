@@ -33,7 +33,6 @@ class ActivityTileShort extends Component {
             <img src={ titleImage } alt="" />
           </header>
 
-          {/* TODO: add link once activity detail is done */}
           <Localized id={titleKey}>
             <h2 className="activity-card__title title title--medium">Tile Title</h2>
           </Localized>
