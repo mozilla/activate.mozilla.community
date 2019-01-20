@@ -56,7 +56,7 @@ current-campaign-learn-more = Learn more
 campaign-active = Current campaign
 
 campaign-archive = Previous campaigns
-ampaign-archive-description = Past, but not forgotten!
+campaign-archive-description = Past, but not forgotten!
 
 newsletter-title = Never miss a chance to support Mozilla!
 newsletter-description-subscribe = Subscribe to our newsletter and join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission
@@ -81,7 +81,6 @@ programming = Programming
 participation = Participation
 
 nightly-title = Using & Testing Nightly
-nightly-duration = 1-3 hours
 nightly-document-title =
     .title = Using & Testing Nightly | Activate Mozilla
 nightly-description = This activity has great potential to make an impact by increasing overall involvement in Nightly, simply by introducing community to tasks that they can engage in related to Nightly. Finding and filing issues early in the cycle means by the time Firefox gets to release, the code is in good shape.
@@ -93,7 +92,6 @@ webextensions-title = Build Your Own Extension for Firefox
 webextensions-description = Add-ons provide a safe, simple, and powerful way to personalize your browsing experience. With WebExtensions APIs, it’s easier than ever to create extensions that can be easily ported to Firefox, Chrome, Edge, and Opera. Through this activity you’ll help connect new developers with an opportunity to create browser extensions to solve real problems and make their lives and the web better.
 webextensions-duration= 1-3 hours
 rust-title = Dive Into Rust
-rust-duration = 2-3 hours
 rust-document-title =
     .title = Dive Into Rust | Activate Mozilla
 
@@ -107,8 +105,6 @@ webvr-document-title =
 webvr-description = A-Frame is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality. Run events to onboard developers into 3D and write some great demos. This will advance WebVR, an open platform for virtual reality that leverages the Web.
 webvr-duration = 3-4 hours
 
-webcompat-title = Web Compatibility Sprint
-webcompat-duration = 1.5-3 hours
 webcompat-document-title =
     .title = Web Compatibility Sprint | Activate Mozilla
 webcompat-title = Web Compatibility Sprint
@@ -241,8 +237,6 @@ nightly-activity-impact-5 = 100 new followers to Nightly Twitter account
 nightly-activity-audience = Audience
 nightly-activity-audience-description = Your audience for this activity are people that are comfortable using the different features of Firefox and would like to dive a little deeper.  Maybe they want to learn some useful core skills that will help them as Mozillians or perhaps are comfortable using Developer Edition and want to learn more about Nightly. As just using Nightly gives us important information such as crashes, this is not only for developers or technical persons.
 
-techspeakers-title = Host a Technology Talk with Tech Speakers!
-techspeakers-duration = 1-2 hours
 techspeakers-document-title =
     .title = Host a Technology Talk with Tech Speakers! | Activate Mozilla
 
