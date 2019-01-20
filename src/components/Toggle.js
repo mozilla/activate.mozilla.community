@@ -20,7 +20,6 @@ class Toggle extends Component {
 
   render() {
     const {
-      title,
       titleKey,
       className,
       id
@@ -47,9 +46,7 @@ class Toggle extends Component {
         <div className={ classes } id={ id }>
           <div className="toggle__header">
             <Localized id={ titleKey }>
-              <h2 className="title title--small">
-                { title }
-              </h2>
+              <h2 className="title title--small">{ titleKey }</h2>
             </Localized>
             <div className="toggle__description">
               { description }
@@ -82,14 +79,12 @@ class ToggleItem extends Component {
 
   // Build duration.
   getDuration = () => {
-    if (this.props.duration && this.props.durationKey) {
+    if (this.props.durationKey) {
       return (
         <div className="toggle__item-duration">
           <Clock size={18} className="toggle__icon-duration icon" />
           <Localized id={this.props.durationKey}>
-            <span>
-              { this.props.duration }
-            </span>
+            <span></span>
           </Localized>
         </div>
       )
@@ -109,7 +104,6 @@ class ToggleItem extends Component {
 
   render() {
     const {
-      title,
       titleKey,
       id,
       className
@@ -141,7 +135,7 @@ class ToggleItem extends Component {
               {this.getIcon(snapshot)}
             </span>
             <Localized id={ titleKey }>
-              <span>{ title }</span>
+              <span></span>
             </Localized>
           </button>
          {this.getDuration()}

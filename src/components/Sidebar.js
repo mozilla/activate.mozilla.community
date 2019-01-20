@@ -78,7 +78,6 @@ class SidebarItem extends Component {
 
   render() {
     const {
-      title,
       titleKey,
       className,
       type,
@@ -93,9 +92,7 @@ class SidebarItem extends Component {
             <div className="sidebar__icon-wrapper">
               { this.getIcon(type) }
               <Localized id={ titleKey }>
-                <h2 className="sidebar__title">
-                  { title }
-                </h2>
+                <h2 className="sidebar__title">{ titleKey }</h2>
               </Localized>
             </div>
           </div>

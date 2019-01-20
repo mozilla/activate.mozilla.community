@@ -9,7 +9,7 @@ class WebExtensions extends Component {
   buildSidebarContent = () => {
     return (
       <div>
-        <SidebarItem title="Impact" titleKey="webext-activity-impact-2" >
+        <SidebarItem titleKey="webext-activity-impact-2" >
           <ul>
             <Localized id="webext-activity-impact-3">
               <li>125 developers are introduced to and building browser extensions either online or at regional events.</li>
@@ -19,7 +19,7 @@ class WebExtensions extends Component {
             </Localized>
           </ul>
         </SidebarItem>
-        <SidebarItem title="Strength" titleKey="webext-activity-impact-5">
+        <SidebarItem titleKey="webext-activity-impact-5">
           <ul>
             <Localized id="webext-activity-impact-6">
               <li>15 Mozillians organize Build Your Own Extension workshops</li>
@@ -27,7 +27,7 @@ class WebExtensions extends Component {
           </ul>
         </SidebarItem>
 
-        <SidebarItem title="Goals for Your Workshop" titleKey="webext-activity-goals-workshop" type="audience">
+        <SidebarItem titleKey="webext-activity-goals-workshop" type="audience">
           <ul>
             <Localized id="webext-activity-goals-workshop-1">
               <li>Workshop is attended by five or more people</li>
@@ -41,7 +41,7 @@ class WebExtensions extends Component {
           </ul>
         </SidebarItem>
 
-        <SidebarItem title="Finding Participants" titleKey="webext-activity-participants" type="audience">
+        <SidebarItem titleKey="webext-activity-participants" type="audience">
           <Localized id="webext-activity-participants-1">
             <p>Your audience for this event should be people who have written HTML and JavaScript code in the past.</p>
           </Localized>
@@ -83,7 +83,6 @@ class WebExtensions extends Component {
         {/* Activity Format */}
         <Toggle
           titleKey="webext-activity-planning"
-          title="Planning Your Workshop"
           id="planning-workshop"
         >
           <Localized id="webext-activity-planning-1"
@@ -104,12 +103,10 @@ class WebExtensions extends Component {
 
         <Toggle
           titleKey="webext-activity-flow"
-          title="Flow of Workshops"
           id="workshop-flow"
         >
           <ToggleItem
             titleKey="webext-activity-flow-1"
-            title="Pre-Event"
             id="activity-flow-1"
           >
             <Localized id="webext-activity-flow-2">
@@ -128,7 +125,6 @@ class WebExtensions extends Component {
 
           <ToggleItem
             titleKey="webext-activity-first"
-            title="First Meeting: Introduction to Browser Extensions"
             id="activity-flow-7"
           >
             <Localized id="webext-activity-first-1"
@@ -174,7 +170,6 @@ class WebExtensions extends Component {
 
           <ToggleItem
             titleKey="webext-activity-second"
-            title="Second Meeting: APIs in Action, Part 1"
             id="activity-flow-11"
           >
             <Localized id="webext-activity-second-1"
@@ -262,7 +257,6 @@ class WebExtensions extends Component {
 
           <ToggleItem
             titleKey="webext-activity-third"
-            title="Third Meeting: APIs in Action, Part 2"
             id="activity-flow-15"
           >
             <Localized id="webext-activity-third-1"
@@ -361,7 +355,6 @@ class WebExtensions extends Component {
         {/* Conclusion */}
         <Toggle
           titleKey="webext-activity-followup"
-          title="Event Follow-Up"
           id="directly-at-the-end-of-the-activity"
         >
           <ul>
@@ -382,7 +375,6 @@ class WebExtensions extends Component {
 
         <Toggle
           titleKey="webext-activity-resources"
-          title="Resources"
           id="resources"
         >
           <Localized id="webext-activity-resources-1">
@@ -427,7 +419,6 @@ class WebExtensions extends Component {
 
         <Toggle
           titleKey="webext-activity-ack"
-          title="Acknowledgements"
           id="acknowledgements"
         >
           <Localized id="webext-activity-new-ack">

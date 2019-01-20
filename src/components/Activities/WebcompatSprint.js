@@ -9,7 +9,7 @@ class WebcompatSprint extends Component {
   buildSidebarContent = () => {
     return (
       <div>
-        <SidebarItem title="Impact:" titleKey="webcompat-activity-impact-title" >
+        <SidebarItem titleKey="webcompat-activity-impact-title" >
           <ul>
             <Localized id="webcompat-activity-impact-2">
               <li>300 Add-on installs</li>
@@ -19,7 +19,7 @@ class WebcompatSprint extends Component {
             </Localized>
           </ul>
         </SidebarItem>
-        <SidebarItem title="Strength:" titleKey="webcompat-activity-strength">
+        <SidebarItem titleKey="webcompat-activity-strength">
           <ul>
             <Localized id="webcompat-activity-strength-1">
               <li>50 Mozillians run events</li>
@@ -31,7 +31,7 @@ class WebcompatSprint extends Component {
           </ul>
         </SidebarItem>
 
-        <SidebarItem title="Audience for this activity" titleKey="audience-for-this-activity" type="audience">
+        <SidebarItem titleKey="webcompat-activity-audience" type="audience">
           <Localized id="webcompat-activity-audience-1">
             <p>The audience this activity is anyone who is passionate on the topic, but being somewhat Web tech savvy is a help. No programming skills are necessary. It is for people who care about diversity on the Web.</p>
           </Localized>
@@ -67,7 +67,6 @@ class WebcompatSprint extends Component {
         {/* Activity Format */}
         <Toggle
           titleKey="webcompat-activity-format"
-          title="Activity Format"
           id="activity-format"
         >
           <Localized id="webcompat-activity-solo">
@@ -88,7 +87,6 @@ class WebcompatSprint extends Component {
 
         <Toggle
           titleKey="webcompat-activity-flow"
-          title="Event Flow"
           id="event-flow"
         >
           <ul>
@@ -157,7 +155,6 @@ class WebcompatSprint extends Component {
         {/* Conclusion */}
         <Toggle
           titleKey="webcompat-activity-end"
-          title="Directly at the end of the activity"
           id="directly-at-the-end-of-the-activity"
         >
           <Localized id="webcompat-activity-end-1">
@@ -173,7 +170,6 @@ class WebcompatSprint extends Component {
 
         <Toggle
           titleKey="webcompat-activity-output"
-          title="Output"
           id="output"
         >
           <Localized id="webcompat-activity-output-1">
@@ -202,7 +198,6 @@ class WebcompatSprint extends Component {
 
         <Toggle
           titleKey="webcompat-activity-extra"
-          title="Extra"
           id="extra"
         >
           <Localized id="webcompat-activity-extra-1">

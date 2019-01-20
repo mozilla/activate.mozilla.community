@@ -9,7 +9,7 @@ class TechSpeakers extends Component {
   buildSidebarContent = () => {
     return (
       <div>
-        <SidebarItem title="Goals for this Activity" titleKey="techspeakers-activity-goals" >
+        <SidebarItem titleKey="techspeakers-activity-goals" >
           <Localized id="techspeakers-activity-goals-1">
             <p>Your goal is to get more web developers excited and aware of Mozilla as an influential tech leader. Here are some of the outcomes of your event that you should be working towards:</p>
           </Localized>
@@ -24,7 +24,7 @@ class TechSpeakers extends Component {
           </ul>
         </SidebarItem>
 
-        <SidebarItem title="Target Audience" titleKey="techspeakers-activity-audience" >
+        <SidebarItem titleKey="techspeakers-activity-audience" >
           <Localized id="techspeakers-activity-audience-1">
             <p>We’ve thought long and hard about who would be a good fit for this activity, now it’s up to you to go out and find them!</p>
           </Localized>
@@ -73,7 +73,6 @@ class TechSpeakers extends Component {
         {/* Activity Format */}
         <Toggle
           titleKey="techspeakers-activity-setup"
-          title="Setting Up Your Event"
           id="activity-format"
         >
           <Localized id="techspeakers-activity-setup-intro">
@@ -118,7 +117,6 @@ class TechSpeakers extends Component {
         {/* Conclusion */}
         <Toggle
           titleKey="techspeakers-activity-after"
-          title="After the Event"
           id="directly-at-the-end-of-the-activity"
         >
           <Localized id="techspeakers-activity-after-1">
@@ -134,7 +132,6 @@ class TechSpeakers extends Component {
 
         <Toggle
           titleKey="techspeakers-activity-extra"
-          title="Extra"
           id="extra"
         >
           <Localized id="techspeakers-activity-extra-1"

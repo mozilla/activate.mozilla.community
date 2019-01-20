@@ -9,7 +9,7 @@ class WebVRCamp extends Component {
   buildSidebarContent = () => {
     return (
       <div>
-        <SidebarItem title="Impact" titleKey="vr-activity-impact-1-reworked" >
+        <SidebarItem titleKey="vr-activity-impact-1-reworked" >
           <ul>
             <Localized id="vr-activity-impact-2"
                        slackLink={<a href="https://aframe.io/community/#a-frame">A-Frame Slack channel</a>}>
@@ -26,7 +26,7 @@ class WebVRCamp extends Component {
             </Localized>
           </ul>
         </SidebarItem>
-        <SidebarItem title="Strength" titleKey="vr-activity-strength-reworked">
+        <SidebarItem titleKey="vr-activity-strength-reworked">
           <ul>
             <Localized id="vr-activity-strength-2">
               <li>20 Mobilizers activated</li>
@@ -40,7 +40,7 @@ class WebVRCamp extends Component {
           </ul>
         </SidebarItem>
 
-        <SidebarItem title="Audience for this activity" titleKey="audience-for-this-activity" type="audience">
+        <SidebarItem titleKey="vr-activity-audience" type="audience">
           <Localized id="vr-activity-audience-1">
             <p>Your audience for this event should be anyone interested in virtual reality including web developers, designers and students. The audience should have a basic grasp of HTML.</p>
           </Localized>
@@ -76,7 +76,6 @@ class WebVRCamp extends Component {
         {/* Activity Format */}
         <Toggle
           titleKey="vr-activity-format"
-          title="Activity Format"
           id="activity-format"
         >
           <Localized id="vr-activity-format-1">
@@ -85,7 +84,6 @@ class WebVRCamp extends Component {
 
           <ToggleItem
             titleKey="vr-activity-format-2"
-            title={<strong>2-4 Weeks Before the Event</strong>}
             id="activity-format-2"
           >
             <ol>
@@ -117,7 +115,6 @@ class WebVRCamp extends Component {
 
           <ToggleItem
             titleKey="vr-activity-format-9"
-            title={<strong>1 Week Before the Event</strong>}
             id="activity-format-9"
           >
             <ol>
@@ -154,7 +151,6 @@ class WebVRCamp extends Component {
 
         <Toggle
           titleKey="vr-activity-flow"
-          title="Event Flow"
           id="event-flow"
         >
           <Localized id="vr-activity-flow-1">
@@ -163,8 +159,6 @@ class WebVRCamp extends Component {
 
           <ToggleItem
             titleKey="vr-activity-flow-2-reworked"
-            title="Getting Started"
-            duration="30 minutes"
             durationKey="vr-activity-flow-2-duration"
             id="activity-flow-2"
           >
@@ -189,8 +183,6 @@ class WebVRCamp extends Component {
 
           <ToggleItem
             titleKey="vr-activity-flow-7-reworked"
-            title="A-Frame Concepts"
-            duration="30 minutes"
             durationKey="vr-activity-flow-7-duration"
             id="activity-flow-7"
           >
@@ -213,8 +205,6 @@ class WebVRCamp extends Component {
 
           <ToggleItem
             titleKey="vr-activity-flow-11-reworked"
-            title="Time to Hack"
-            duration="1 hour"
             durationKey="vr-activity-flow-11-duration"
             id="activity-flow-11"
           >
@@ -237,8 +227,6 @@ class WebVRCamp extends Component {
           </ToggleItem>
           <ToggleItem
             titleKey="vr-activity-flow-15-reworked"
-            title="More About A-Frame"
-            duration="30 minutes"
             durationKey="vr-activity-flow-15-duration"
             id="activity-flow-15"
           >
@@ -250,8 +238,6 @@ class WebVRCamp extends Component {
           </ToggleItem>
           <ToggleItem
             titleKey="vr-activity-flow-17-reworked"
-            title="Continue Hacking"
-            duration="1 hour"
             durationKey="vr-activity-flow-17-duration"
             id="activity-flow-17"
           >
@@ -263,8 +249,6 @@ class WebVRCamp extends Component {
           </ToggleItem>
           <ToggleItem
             titleKey="vr-activity-flow-19-reworked"
-            title="Review &amp; Plan"
-            duration="30 minutes"
             durationKey="vr-activity-flow-19-duration"
             id="activity-flow-19"
           >
@@ -290,7 +274,6 @@ class WebVRCamp extends Component {
         {/* Conclusion */}
         <Toggle
           titleKey="vr-activity-end"
-          title="Directly at the end of the activity"
           id="directly-at-the-end-of-the-activity"
         >
           <Localized id="vr-activity-end-1">
@@ -305,7 +288,6 @@ class WebVRCamp extends Component {
 
           <ToggleItem
             titleKey="vr-activity-output"
-            title="Output"
             id="output"
           >
             <Localized id="vr-activity-output-1">
@@ -348,7 +330,6 @@ class WebVRCamp extends Component {
 
         <Toggle
           titleKey="vr-activity-contact"
-          title="Contact"
           id="contact"
         >
           <Localized id="vr-activity-contact-1"

@@ -9,7 +9,7 @@ class RustHack extends Component {
   buildSidebarContent = () => {
     return (
       <div>
-        <SidebarItem title="Goals for this area" titleKey="rust-activity-goals" >
+        <SidebarItem titleKey="rust-activity-goals" >
           <Localized id="rust-activity-impact-1">
             <p>The Rust programming language will be important to the future of the web, making it safe and great. Having more developers understand, use and evangelize this language will advance make the web better and more secure.</p>
           </Localized>
@@ -23,7 +23,7 @@ class RustHack extends Component {
           </Localized>
         </SidebarItem>
 
-        <SidebarItem title="Impact:" titleKey="rust-activity-impact-4" >
+        <SidebarItem titleKey="rust-activity-impact-4" >
           <ul>
             <Localized id="rust-activity-impact-5">
               <li>1,000 programmers are introduced to and are well on their way to learning Rust</li>
@@ -39,7 +39,7 @@ class RustHack extends Component {
             </Localized>
           </ul>
         </SidebarItem>
-        <SidebarItem title="Strength" titleKey="rust-activity-strength">
+        <SidebarItem titleKey="rust-activity-strength">
           <ul>
             <Localized id="rust-activity-strength-1">
               <li>50 Mozillians organize Rust Hack and Learn events</li>
@@ -51,7 +51,7 @@ class RustHack extends Component {
           </ul>
         </SidebarItem>
 
-        <SidebarItem title="Audience for this activity" titleKey="rust-activity-audience" type="audience">
+        <SidebarItem titleKey="rust-activity-audience" type="audience">
           <Localized id="rust-activity-audience-1">
             <p>Your audience for this event should be programmers of all kinds. Some outreach to beginners can be done.</p>
           </Localized>
@@ -86,7 +86,6 @@ class RustHack extends Component {
         {/* Activity Format */}
         <Toggle
           titleKey="rust-activity-format"
-          title="Activity Format"
           id="activity-format"
         >
           <Localized id="rust-activity-duration">
@@ -111,7 +110,6 @@ class RustHack extends Component {
 
           <ToggleItem
             titleKey="rust-activity-before"
-            title={<strong>2-4 Weeks Before the Event</strong>}
             id="activity-format-1"
           >
             <ol>
@@ -136,7 +134,6 @@ class RustHack extends Component {
 
           <ToggleItem
             titleKey="rust-activity-before2"
-            title={<strong>1 Week Before the Event</strong>}
             id="activity-format-2"
           >
             <ol>
@@ -155,7 +152,6 @@ class RustHack extends Component {
 
         <Toggle
           titleKey="rust-activity-flow"
-          title="Event Flow"
           id="event-flow"
         >
           <Localized id="rust-activity-flow-1">
@@ -215,7 +211,6 @@ class RustHack extends Component {
         {/* Conclusion */}
         <Toggle
           titleKey="rust-activity-end"
-          title="Directly at the end of the activity"
           id="directly-at-the-end-of-the-activity"
         >
           <Localized id="rust-activity-end-1">
@@ -230,7 +225,6 @@ class RustHack extends Component {
 
           <ToggleItem
             titleKey="rust-activity-output"
-            title="Output"
             id="output"
           >
             <Localized id="rust-activity-output-general">
@@ -266,7 +260,6 @@ class RustHack extends Component {
 
         <Toggle
           titleKey="rust-activity-resources"
-          title="Other Resources"
           id="other-resources"
         >
           <Localized id="rust-activity-resources-1">
@@ -337,7 +330,6 @@ class RustHack extends Component {
 
         <Toggle
           titleKey="rust-activity-extra"
-          title="Extra"
           id="extra"
         >
           <Localized id="rust-activity-extra-1">

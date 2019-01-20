@@ -9,7 +9,7 @@ class Nightly extends Component {
   buildSidebarContent = () => {
     return (
       <div>
-        <SidebarItem title="Impact" titleKey="nightly-activity-impact" >
+        <SidebarItem titleKey="nightly-activity-impact" >
           <ul>
             <Localized id="nightly-activity-impact-2">
               <li>500 Nightly installs</li>
@@ -26,7 +26,7 @@ class Nightly extends Component {
           </ul>
         </SidebarItem>
 
-        <SidebarItem title="Audience for this activity" titleKey="audience-for-this-activity" type="audience">
+        <SidebarItem titleKey="nightly-activity-audience" type="audience">
           <Localized id="nightly-activity-audience-description">
             <p>Your audience for this activity are people that are comfortable using the different features of Firefox and would like to dive a little deeper.  Maybe they want to learn some useful core skills that will help them as Mozillians or perhaps are comfortable using Developer Edition and want to learn more about Nightly. As just using Nightly gives us important information such as crashes, this is not only for developers or technical persons.</p>
           </Localized>
@@ -58,7 +58,6 @@ class Nightly extends Component {
 
         <Toggle
           titleKey="nightly-activity-event-flow"
-          title="Event Flow"
           id="event-flow"
         >
           <Localized id="nightly-activity-solo">
@@ -67,7 +66,6 @@ class Nightly extends Component {
 
           <ToggleItem
             titleKey="nightly-activity-before"
-            title="2-4 Weeks Before the Event"
             id="activity-flow-1"
           >
             <ol>
@@ -98,7 +96,6 @@ class Nightly extends Component {
 
           <ToggleItem
             titleKey="nightly-activity-before2"
-            title="1 Week Before the Event"
             id="activity-flow-2"
           >
             <ol>
@@ -121,7 +118,6 @@ class Nightly extends Component {
 
           <ToggleItem
             titleKey="nightly-activity-during"
-            title="During the event"
             id="activity-flow-3"
           >
             <ol>
@@ -160,7 +156,6 @@ class Nightly extends Component {
         {/* Conclusion */}
         <Toggle
           titleKey="nightly-activity-end"
-          title="Directly at the end of the activity"
           id="directly-at-the-end-of-the-activity"
         >
           <Localized id="nightly-activity-end-1">
@@ -175,7 +170,6 @@ class Nightly extends Component {
 
           <ToggleItem
             titleKey="nightly-activity-output"
-            title="Output"
             id="output"
           >
             <Localized id="nightly-activity-output-1">
@@ -203,7 +197,6 @@ class Nightly extends Component {
 
         <Toggle
           titleKey="nightly-activity-content"
-          title="Content"
           id="content"
         >
           <Localized id="nightly-activity-content-1"
@@ -215,7 +208,6 @@ class Nightly extends Component {
 
         <Toggle
           titleKey="nightly-activity-extra"
-          title="Extra"
           id="extra"
         >
           <Localized id="nightly-activity-extra-1"
