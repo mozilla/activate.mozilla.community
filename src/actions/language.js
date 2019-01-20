@@ -6,7 +6,6 @@ import history from '../history';
 const AVAILABLE_LOCALES = ['en-US'];
 
 async function fetchMessages(locale) {
-  // eslint-disable-next-line no-undef
   const response = await fetch(`/locales/${locale}/activate.ftl`);
   const messages = await response.text();
 

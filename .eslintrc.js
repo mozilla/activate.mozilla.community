@@ -21,6 +21,9 @@ module.exports = {
       }
     }]
   },
+  globals: {
+    fetch: false,
+  },
   parser: "babel-eslint",
   parserOptions: {
     ecmaVersion: 8 // optional, recommended 6+
