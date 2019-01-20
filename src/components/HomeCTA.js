@@ -18,12 +18,9 @@ class HomeCTA extends Component {
 
     return (
       <div className={classString}>
-        <span className="home-cta__text">
-          <Localized id="home-cta">
-            Share your experience with
-          </Localized>
-        </span>
-        <span className="home-cta__hashtag"> #MozActivate </span>
+        <Localized id="home-cta">
+          <span className="home-cta__text"></span>
+        </Localized>
       </div>
     );
   }
