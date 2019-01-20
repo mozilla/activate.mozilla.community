@@ -232,7 +232,6 @@ class WebcompatSprint extends Component {
           <ActivityDetail
             titleImage="/images/webcompat-post-header.png"
             titleKey="webcompat-title"
-            localizationTagKey="webcompat-tag"
             tagKey="testing"
             durationKey="webcompat-duration"
             sidebarContent = {this.buildSidebarContent()}

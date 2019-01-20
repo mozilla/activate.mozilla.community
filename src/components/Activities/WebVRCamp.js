@@ -350,7 +350,6 @@ class WebVRCamp extends Component {
           <ActivityDetail
             titleImage="/images/webvr-header.png"
             titleKey="webvr-title"
-            localizationTagKey="webvr-tag"
             tagKey="programming"
             durationKey="webvr-duration"
             sidebarContent = {this.buildSidebarContent()}

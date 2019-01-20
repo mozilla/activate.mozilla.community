@@ -150,7 +150,6 @@ class TechSpeakers extends Component {
           <ActivityDetail
             titleImage="/images/techspeakers-header.png"
             titleKey="techspeakers-title"
-            localizationTagKey="techspeakers-tag"
             tagKey="programming"
             durationKey="techspeakers-duration"
             sidebarContent = {this.buildSidebarContent()}

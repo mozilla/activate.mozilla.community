@@ -13,7 +13,7 @@ class Sidebar extends Component {
     const {
       imgSrc,
       durationKey,
-      localizationTagKey,
+      tagKey,
     } = this.props;
 
     return (
@@ -24,7 +24,7 @@ class Sidebar extends Component {
         <div className="sidebar__header">
           <div className="sidebar__icon-wrapper">
             <Tag size={20} className="sidebar__icon" />
-            <Localized id={localizationTagKey}>
+            <Localized id={tagKey}>
               <span className="sidebar__title">Tag</span>
             </Localized>
           </div>

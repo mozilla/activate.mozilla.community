@@ -80,7 +80,6 @@ participation = Participation
 
 nightly-title = Using & Testing Nightly
 nightly-duration = 1-3 hours
-nightly-tag = Testing
 nightly-document-title =
     .title = Using & Testing Nightly | Activate Mozilla
 nightly-description = This activity has great potential to make an impact by increasing overall involvement in Nightly, simply by introducing community to tasks that they can engage in related to Nightly. Finding and filing issues early in the cycle means by the time Firefox gets to release, the code is in good shape.
@@ -93,7 +92,6 @@ webextensions-description = Add-ons provide a safe, simple, and powerful way to 
 webextensions-duration= 1-3 hours
 rust-title = Dive Into Rust
 rust-duration = 2-3 hours
-rust-tag = Programming
 rust-document-title =
     .title = Dive Into Rust | Activate Mozilla
 
@@ -106,11 +104,9 @@ webvr-document-title =
 
 webvr-description = A-Frame is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality. Run events to onboard developers into 3D and write some great demos. This will advance WebVR, an open platform for virtual reality that leverages the Web.
 webvr-duration = 3-4 hours
-webvr-tag = Programming
 
 webcompat-title = Web Compatibility Sprint
 webcompat-duration = 1.5-3 hours
-webcompat-tag = Testing
 webcompat-document-title =
     .title = Web Compatibility Sprint | Activate Mozilla
 webcompat-title = Web Compatibility Sprint
@@ -245,7 +241,6 @@ nightly-activity-audience-description = Your audience for this activity are peop
 
 techspeakers-title = Host a Technology Talk with Tech Speakers!
 techspeakers-duration = 1-2 hours
-techspeakers-tag = Programming
 techspeakers-document-title =
     .title = Host a Technology Talk with Tech Speakers! | Activate Mozilla
 
@@ -479,7 +474,6 @@ vr-activity-audience-1 = Your audience for this event should be anyone intereste
 
 webext-title = Build Your Own Extension for Firefox
 webext-duration = 1.5-3 hours
-webext-tag = Programming
 webext-document-title =
     .title = Build Your Own Extension for Firefox | Activate Mozilla
 webext-activity-intro = Firefox is an open-source web browser that cares about user control and privacy, and extensions provide a safe, simple, and powerful way to personalize your browsing experience. From blocking ads to organizing tabs, add-ons help make Firefox your own.

@@ -354,7 +354,6 @@ class RustHack extends Component {
           <ActivityDetail
             titleImage="/images/rust-header.png"
             titleKey="rust-title"
-            localizationTagKey="rust-tag"
             tagKey="programming"
             durationKey="rust-duration"
             sidebarContent = {this.buildSidebarContent()}

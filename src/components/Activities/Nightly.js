@@ -227,7 +227,6 @@ class Nightly extends Component {
           <ActivityDetail
             titleImage="/images/nightly-header.png"
             titleKey="nightly-title"
-            localizationTagKey="nightly-tag"
             tagKey="testing"
             durationKey="nightly-duration"
             sidebarContent = {this.buildSidebarContent()}

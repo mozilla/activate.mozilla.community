@@ -436,7 +436,6 @@ class WebExtensions extends Component {
           <ActivityDetail
             titleImage="/images/webextensions-post-header.png"
             titleKey="webext-title"
-            localizationTagKey="webext-tag"
             tagKey="programming"
             durationKey="webext-duration"
             sidebarContent = {this.buildSidebarContent()}
