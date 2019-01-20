@@ -5,7 +5,6 @@ import { Localized } from 'fluent-react/compat';
 import { Grid, Row } from 'react-bootstrap';
 
 import CampaignTile from './CampaignTile.js';
-// eslint-disable-next-line
 import CampaignTileCurrent from './CampaignTileCurrent.js';
 
 import './CampaignsListing.css';
