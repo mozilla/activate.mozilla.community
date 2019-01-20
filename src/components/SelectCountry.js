@@ -11,17 +11,13 @@ class SelectCountry extends Component {
     this.state = {
       value: ''
     };
+    this.handleChange = this.handleChange.bind(this);
   }
 
-  handleChange = event => {
+  handleChange(event) {
     this.setState({value: event.target.value});
-    if(event.target.value !== '') {
-      document.getElementById(this.props.id).classList.remove('is-placeholder');
-    }
-    else {
-      document.getElementById(this.props.id).classList.add('is-placeholder');
-    }
-  };
+    document.getElementById(this.props.id).classList.toggle('is-placeholder');
+  }
 
   render() {
     const id = this.props.id;
