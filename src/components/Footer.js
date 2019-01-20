@@ -55,10 +55,10 @@ class Footer extends Component {
           <Row>
             <Col lg={12} className="footer__attributions">
               <div className="footer__content">
-                <Localized id="footer-contibution"
+                <Localized id="footer-contibution-2019"
                     mozillaLink={<a rel="license" href="https://www.mozilla.org/foundation/licensing/website-content/">Creative Commons license</a>}>
                   <p>
-                  Portions of this content are © 1998–2018 by individual mozilla.org contributors. Content available under a <a rel="license" href="https://www.mozilla.org/foundation/licensing/website-content/">Creative Commons license</a>.
+                  Portions of this content are © 1998–2019 by individual mozilla.org contributors. Content available under a <a rel="license" href="https://www.mozilla.org/foundation/licensing/website-content/">Creative Commons license</a>.
                   </p>
                 </Localized>
               </div>

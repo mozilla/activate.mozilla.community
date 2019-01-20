@@ -23,7 +23,7 @@ legal = Legal
 
 footer-nav-title = Navigate
 footer-newsletter-title = Newsletter Sign-up
-footer-contibution = Portions of this content are ©1998–2018 by individual mozilla.org contributors. Content available under a <mozillaLink>Creative Commons license</mozillaLink>.
+footer-contibution-2019 = Portions of this content are ©1998–2019 by individual mozilla.org contributors. Content available under a <mozillaLink>Creative Commons license</mozillaLink>.
 footer-privacy-note = Website Privacy Notice
 footer-cookies = Cookies
 footer-legal = Legal
