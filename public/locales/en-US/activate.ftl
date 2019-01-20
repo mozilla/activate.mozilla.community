@@ -233,7 +233,6 @@ nightly-activity-extra = Extra
 nightly-activity-extra-1 = Additional information about Nightly can be found on the <wikiLink>Nightly Wiki page</wikiLink>. You can also help Firefox by <foxfoodingLink>Foxfooding</foxfoodingLink>!
 nightly-activity-extra-2 = If your session was a success, there are two other Activities that require pre-release builds, how about running one of those as well?
 nightly-activity-impact = Impact & Metrics
-nightly-activity-impact-simple = Impact
 nightly-activity-impact-1 = This activity has great potential to make an impact by increasing overall involvement in Nightly, simply by introducing community to tasks that they can engage in related to Nightly. Finding and filing issues early in the cycle means by the time Firefox gets to release, the code is in good shape.
 nightly-activity-goals = Goals
 nightly-activity-impact-title = Impact:

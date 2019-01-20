@@ -9,7 +9,7 @@ class Nightly extends Component {
   buildSidebarContent = () => {
     return (
       <div>
-        <SidebarItem title="Impact" titleKey="nightly-activity-impact-simple" >
+        <SidebarItem title="Impact" titleKey="nightly-activity-impact" >
           <ul>
             <Localized id="nightly-activity-impact-2">
               <li>500 Nightly installs</li>
