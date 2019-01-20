@@ -263,7 +263,7 @@ class NewsletterForm extends Component {
               <Localized id="newsletter-privacy"
                          privacyLink={<a target="_blank" rel="noopener noreferrer" href="https://www.mozilla.org/privacy/websites/">Privacy Policy</a>}>
                 <label htmlFor="privacy">
-                  I am okay with Mozilla handling my info as explained in this <a href="https://www.mozilla.org/privacy/websites/">Privacy Policy</a>.
+                  I&apos;m okay with Mozilla handling my info as explained in this <a href="https://www.mozilla.org/privacy/websites/">Privacy Policy</a>.
                 </label>
               </Localized>
             </div>
