@@ -217,7 +217,7 @@ class RustHack extends Component {
             <p>Immediately after the event don’t forget to share the link to the impact form with your attendees:</p>
           </Localized>
 
-          <p className="toggle__attention-link"><a href="http://mzl.la/howwasit">mzl.la/howwasit</a></p>
+          <p className="toggle__attention-link"><a href="https://mzl.la/howwasit">mzl.la/howwasit</a></p>
 
           <Localized id="vr-activity-end-2">
             <p>Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.</p>
@@ -276,8 +276,8 @@ class RustHack extends Component {
               <li><a href="https://github.com/carols10cents/rustlings">Getting used to reading and writing Rust code</a></li>
             </Localized>
             <Localized id="rust-activity-resources-4"
-              rLink={<a href="http://exercism.io/languages/rust/about">“Exercism” coding challenges</a>}>
-              <li><a href="http://exercism.io/languages/rust/about">“Exercism” coding challenges</a></li>
+              rLink={<a href="https://exercism.io/languages/rust/about">“Exercism” coding challenges</a>}>
+              <li><a href="https://exercism.io/languages/rust/about">“Exercism” coding challenges</a></li>
             </Localized>
             <Localized id="rust-activity-resources-5"
               rLink={<a href="https://rustbyexample.com/index.html">“Rust by Example”</a>}>
@@ -338,8 +338,8 @@ class RustHack extends Component {
 
           <ul>
             <Localized id="rust-activity-extra-2"
-              moreLink={<a href="https://www.rust-lang.org/community.html">more things happening in the community to get involved with</a>}>
-              <li>Follow up with attendees to highlight <a href="https://www.rust-lang.org/community.html">more things happening in the community to get involved with</a></li>
+              moreLink={<a href="https://www.rust-lang.org/community">more things happening in the community to get involved with</a>}>
+              <li>Follow up with attendees to highlight <a href="https://www.rust-lang.org/community">more things happening in the community to get involved with</a></li>
             </Localized>
           </ul>
         </Toggle>

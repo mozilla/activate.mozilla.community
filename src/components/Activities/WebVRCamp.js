@@ -164,7 +164,7 @@ class WebVRCamp extends Component {
           >
             <ul>
               <Localized id="vr-activity-flow-3"
-                         ballLink={<a href="http://businessmajors.about.com/od/icebreakers/a/Icebreaker8.htm">catch the ball</a>}>
+                         ballLink={<a href="https://businessmajors.about.com/od/icebreakers/a/Icebreaker8.htm">catch the ball</a>}>
                 <li>Introduction of speakers and attendees with an ice breaker session (e.g., <a href="http://businessmajors.about.com/od/icebreakers/a/Icebreaker8.htm">catch the ball</a>)</li>
               </Localized>
               <Localized id="vr-activity-flow-4"
@@ -188,9 +188,9 @@ class WebVRCamp extends Component {
           >
             <ul>
               <Localized id="vr-activity-flow-8"
-                         demoLink={<a href="http://aframe.io/examples">Demo</a>}
+                         demoLink={<a href="https://aframe.io/examples">Demo</a>}
                          weekLink={<a href="https://aframe.io/blog/">A Week of A-Frame</a>}>
-                <li><a href="http://aframe.io/examples">Demo</a> of basic A-Frame scenes &amp; apps. More examples at <a href="https://aframe.io/blog/">A Week of A-Frame</a></li>
+                <li><a href="https://aframe.io/examples">Demo</a> of basic A-Frame scenes &amp; apps. More examples at <a href="https://aframe.io/blog/">A Week of A-Frame</a></li>
               </Localized>
               <Localized id="vr-activity-flow-9"
                          apainterLink={<a href="https://blog.mozvr.com/a-painter/">A-Painter</a>}>
@@ -213,7 +213,7 @@ class WebVRCamp extends Component {
                 <li>Propose your idea of VR experiences to build</li>
               </Localized>
               <Localized id="vr-activity-flow-13"
-                         codepenLink={<a href="http://codepen.io/mozvr/pen/BjygdO">Codepen</a>}
+                         codepenLink={<a href="https://codepen.io/mozvr/pen/BjygdO">Codepen</a>}
                          boilerplateLink={<a href="https://github.com/aframevr/aframe-boilerplate">Boilerplate</a>}>
                 <li>Can get started with <a href="http://codepen.io/mozvr/pen/BjygdO">Codepen</a> or the <a href="https://github.com/aframevr/aframe-boilerplate">Boilerplate</a></li>
               </Localized>
@@ -257,8 +257,8 @@ class WebVRCamp extends Component {
                 <li>Review the whole event</li>
               </Localized>
               <Localized id="vr-activity-flow-21"
-                         communityLink={<a href="http://aframe.io/community/">A-Frame community</a>}>
-                <li>Talk about <a href="http://aframe.io/community/">A-Frame community</a>. Don’t forget to mention if you have a separate communication medium to connect with the local WebVR community (e.g., WebVR-India telegram group)</li>
+                         communityLink={<a href="https://aframe.io/community/">A-Frame community</a>}>
+                <li>Talk about <a href="https://aframe.io/community/">A-Frame community</a>. Don’t forget to mention if you have a separate communication medium to connect with the local WebVR community (e.g., WebVR-India telegram group)</li>
               </Localized>
               <Localized id="vr-activity-flow-22">
                 <li>Discuss takeaways</li>
@@ -280,7 +280,7 @@ class WebVRCamp extends Component {
             <p>Immediately after the event don’t forget to share the link to the impact form with your attendees:</p>
           </Localized>
 
-          <p className="toggle__attention-link"><a href="http://mzl.la/howwasit">mzl.la/howwasit</a></p>
+          <p className="toggle__attention-link"><a href="https://mzl.la/howwasit">mzl.la/howwasit</a></p>
 
           <Localized id="vr-activity-end-2">
             <p>Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.</p>
