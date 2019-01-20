@@ -149,7 +149,7 @@ class NewsletterFooterForm extends Component {
         <div className="newsletter__content">
           <form id="newsletter_footer_form" name="newsletter_footer__form" className="newsletter__form--footer" action="https://www.mozilla.org/en-US/newsletter/" method="post">
             <Localized id="footer-newsletter-title">
-              <div className="footer-nav__title">Newsletter Sign-up</div>
+              <div className="footer-nav__title"></div>
             </Localized>
             <input type="hidden" id="fmt-footer" name="fmt-footer" value="H" />
             <input type="hidden" id="newsletters-footer" name="newsletters-footer" value="about-mozilla" />
@@ -158,7 +158,7 @@ class NewsletterFooterForm extends Component {
 
             <div id="newsletter_email_footer" className="form_group newsletter__email">
               <Localized id="newsletter-email">
-                <label htmlFor="email-footer" className="form_label element-invisible">Email</label>
+                <label htmlFor="email-footer" className="form_label element-invisible">..</label>
               </Localized>
               <Localized id="newsletter-form-email-placeholder" attrs={{placeholder: true, "aria-label": true}}>
                 <input aria-label="Enter your e-mail" aria-required="true" type="email" id="email-footer" name="email-footer" className="form_input" required placeholder="Enter your e-mail" />
@@ -183,21 +183,17 @@ class NewsletterFooterForm extends Component {
               <input type="checkbox" id="privacy-footer" name="privacy-footer" required />
               <Localized id="newsletter-privacy"
                          privacyLink={<a target="_blank" rel="noopener noreferrer" href="https://www.mozilla.org/privacy/websites/">Privacy Policy</a>}>
-                <label htmlFor="privacy-footer">
-                  I&apos;m okay with Mozilla handling my info as explained in this <a href="https://www.mozilla.org/privacy/websites/">Privacy Policy</a>.
-                </label>
+                <label htmlFor="privacy-footer">..</label>
               </Localized>
             </div>
           </form>
 
           <div id="newsletter_thanks_footer" className="newsletter__text-wrapper newsletter__text-wrapper--thanks">
             <Localized id="newsletter-subscribed-title">
-              <div className="footer-nav__title">Thanks!</div>
+              <div className="footer-nav__title"></div>
             </Localized>
             <Localized id="newsletter-subscribed-text">
-              <p className="text text--small color--white">
-                If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox and spam filter for an email from us.
-              </p>
+              <p className="text text--small color--white"></p>
             </Localized>
           </div>
         </div>

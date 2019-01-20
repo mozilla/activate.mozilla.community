@@ -28,6 +28,8 @@ footer-privacy-note = Website Privacy Notice
 footer-cookies = Cookies
 footer-legal = Legal
 
+not-found-title = 404 - Page not found!
+not-found-description = The page you are looking for could not be found. It may have been removed in the meantime or the URL might be wrong.
 
 jumbotron-campaign-title = Engage in 5… 4…
 jumbotron-campaign-description = Contribute to a great community in a meaningful way. Take place in our latest campaing now!
@@ -198,7 +200,7 @@ nightly-activity-before-1 = Read the <eventGuideLink>Event Guide</eventGuideLink
 nightly-activity-before-2 = Copy and adapt the <nightlyIntroLink>Introduction to Nightly slides</nightlyIntroLink>
 nightly-activity-before-3 = Give a thought whether it will be self-facilitated or with someone who has Nightly experience. You can find help on the Mozilla Nightly Testers Telegram group or the irc.mozilla.org Nightly channel.
 nightly-activity-before-4 = Create an event page on a platform popular in your locale, such as Facebook or Meetup.com, and keep posting interesting information about Nightly & related topics to keep continue the conversation on Twitter.
-nightly-activity-tip = In case you expect bandwidth issues you can download copies of <downloadLink">Nightly for every platform</downloadLink> as well as <androidLink>Android builds</androidLink> to an USB stick in case you don’t have enough bandwidth for downloads at the event.
+nightly-activity-tip-2 = In case you expect bandwidth issues you can download copies of <downloadLink>Nightly for every platform</downloadLink> as well as <androidLink>Android builds</androidLink> to an USB stick in case you don’t have enough bandwidth for downloads at the event.
 nightly-activity-duration = Duration: For duration, we recommend 1-3 hours with at least 5 attendees.
 nightly-activity-before2 = 1 Week Before the Event
 nightly-activity-before2-1 = Confirmed selected attendees through email

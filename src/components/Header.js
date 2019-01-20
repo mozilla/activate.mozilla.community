@@ -73,21 +73,21 @@ class Header extends Component {
             >
               <NavItem>
                 <Localized id="nav-campaigns">
-                  <span>Campaigns</span>
+                  <span></span>
                 </Localized>
               </NavItem>
             </LinkContainer>
             <LinkContainer exact className="page-link" to={`/${currentLocale}/activities`} activeClassName={"is-active"}>
               <NavItem>
                 <Localized id="nav-activities">
-                  <span>Activities</span>
+                  <span></span>
                 </Localized>
               </NavItem>
             </LinkContainer>
             <LinkContainer exact className="page-link" to={`/${currentLocale}/faq`} activeClassName={"is-active"}>
               <NavItem>
                 <Localized id="nav-faq">
-                  <span>FAQ</span>
+                  <span></span>
                 </Localized>
               </NavItem>
             </LinkContainer>

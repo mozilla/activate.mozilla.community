@@ -2,8 +2,7 @@ import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
 
 // Select Country components
-// For each use a unique id needs to be provided and localized text needs to be
-// added in the translation source file.
+// For each use a unique id needs to be provided
 class SelectLanguage extends Component {
   constructor(props)
   {
@@ -33,9 +32,7 @@ class SelectLanguage extends Component {
     return (
       <div className={classString}>
         <label className="element-invisible" htmlFor={id}>
-          <Localized id={id + "-label"}>
-            Language
-          </Localized>
+          <Localized id="newsletter-language-label"></Localized>
         </label>
         <select
           id={id}
@@ -46,10 +43,8 @@ class SelectLanguage extends Component {
           aria-required="true"
           className="is-placeholder"
         >
-          <Localized id={id + "-label-option"}>
-            <option value="" disabled>
-            Select language
-            </option>
+          <Localized id="newsletter-language-label-option">
+            <option value="" disabled></option>
           </Localized>
           <option value="de">Deutsch</option>
           <option value="en">English</option>

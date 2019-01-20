@@ -12,28 +12,28 @@ class WebcompatSprint extends Component {
         <SidebarItem titleKey="webcompat-activity-impact-title" >
           <ul>
             <Localized id="webcompat-activity-impact-2">
-              <li>300 Add-on installs</li>
+              <li></li>
             </Localized>
             <Localized id="webcompat-activity-impact-3">
-              <li>200 compatibility issues filed</li>
+              <li></li>
             </Localized>
           </ul>
         </SidebarItem>
         <SidebarItem titleKey="webcompat-activity-strength">
           <ul>
             <Localized id="webcompat-activity-strength-1">
-              <li>50 Mozillians run events</li>
+              <li></li>
             </Localized>
             <Localized id="webcompat-activity-strength-2"
               compatList={<a href="https://www.mozilla.org/about/forums/#compatibility">compatibility list</a>}>
-              <li>50 signups to the <a href="https://www.mozilla.org/about/forums/#compatibility">compatibility list</a></li>
+              <li></li>
             </Localized>
           </ul>
         </SidebarItem>
 
         <SidebarItem titleKey="webcompat-activity-audience" type="audience">
           <Localized id="webcompat-activity-audience-1">
-            <p>The audience this activity is anyone who is passionate on the topic, but being somewhat Web tech savvy is a help. No programming skills are necessary. It is for people who care about diversity on the Web.</p>
+            <p></p>
           </Localized>
         </SidebarItem>
       </div>
@@ -44,18 +44,16 @@ class WebcompatSprint extends Component {
     return (
       <div>
         <Localized id="webcompat-activity-intro">
-          <p className="alert alert-info impactbox"><span className="glyphicon glyphicon-ok-circle" aria-hidden="true"></span>
-            At Mozilla, we want the web running well for everyone, not just in one or two browsers. This means cross-browser, user-agent independent, and cross-device.
-          </p>
+          <p className="alert alert-info impactbox"><span className="glyphicon glyphicon-ok-circle" aria-hidden="true"></span></p>
         </Localized>
 
         <Localized id="webcompat-activity-general">
-          <p>Web Compatibility, the ability for all Web content to run in all browsers, is important. There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired.</p>
+          <p></p>
         </Localized>
 
         <Localized id="webcompat-activity-background"
           hacksPost={<a href="https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/">recent blog post on Mozilla Hacks</a>}>
-          <p>For more background and data on Web Compatibility, read the <a href="https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/">recent blog post on Mozilla Hacks</a>.</p>
+          <p></p>
         </Localized>
       </div>
     );
@@ -70,16 +68,16 @@ class WebcompatSprint extends Component {
           id="activity-format"
         >
           <Localized id="webcompat-activity-solo">
-            <p>While this activity can be run solo, we encourage you to run an event in your community to get together people who care about the Web. The goal is to test sites, diagnose problems, and discuss how to evangelise locally to developers about a Web that works for everyone.</p>
+            <p></p>
           </Localized>
 
           <Localized id="webcompat-activity-organize"
             eventGuideLink={<a href="/eventguide/">event guide</a>}>
-            <p>Read the <a href="/eventguide/">event guide</a> on how to set up an event page and how to organize an event.</p>
+            <p></p>
           </Localized>
 
           <Localized id="webcompat-activity-duration">
-            <p>For duration, we recommend a half-day (or full evening) event with a minimum of 10-15 attendees.</p>
+            <p></p>
           </Localized>
         </Toggle>
 
@@ -91,61 +89,61 @@ class WebcompatSprint extends Component {
         >
           <ul>
             <Localized id="webcompat-activity-setup">
-              <li>Set yourself up with Firefox. Any or all of the following versions:</li>
+              <li></li>
             </Localized>
             <ul>
               <Localized id="webcompat-activity-setup-1"
                 firefoxLink={<a href="https://www.mozilla.org/firefox/channel/">Firefox</a>}>
-                <li><a href="https://www.mozilla.org/firefox/channel/">Firefox</a></li>
+                <li></li>
               </Localized>
               <Localized id="webcompat-activity-setup-2"
-                firefoxLink={<a href="https://www.mozilla.org/firefox/channel/">Firefox</a>}>
-                <li><a href="https://www.mozilla.org/firefox/channel/">Firefox for Android</a></li>
+                firefoxLink={<a href="https://www.mozilla.org/en-US/firefox/mobile/">Firefox for Android</a>}>
+                <li></li>
               </Localized>
               <Localized id="webcompat-activity-setup-3"
-                iosLink={<a href="https://www.mozilla.org/firefox/ios/">Firefox for iOS</a>}>
-                <li><a href="https://www.mozilla.org/firefox/ios/">Firefox for iOS</a></li>
+                iosLink={<a href="https://www.mozilla.org/en-US/firefox/mobile/">Firefox for iOS</a>}>
+                <li></li>
               </Localized>
             </ul>
             <Localized id="webcompat-activity-setup-4"
               reporterLink={<a href="https://addons.mozilla.org/addon/webcompatcom-reporter?src=external-activatewebcompat1">Install the Webcompat.com Reporter add-on</a>}>
-              <li><a href="https://addons.mozilla.org/addon/webcompatcom-reporter?src=external-activatewebcompat1">Install the Webcompat.com Reporter add-on</a></li>
+              <li></li>
             </Localized>
             <ul>
               <Localized id="webcompat-activity-setup-5">
-                <li>Firefox for Android Nightly and Aurora already have a “Report Site Issue” option in the main menu; no add-on needed.</li>
+                <li></li>
               </Localized>
               <Localized id="webcompat-activity-setup-6"
                 webcompatLink={<a href="https://webcompat.com">webcompat.com</a>}>
-                <li>No add-ons support for iOS, but people can report bugs manually at <a href="https://webcompat.com">webcompat.com</a></li>
+                <li></li>
               </Localized>
             </ul>
             <Localized id="webcompat-activity-flow-1">
-              <li>Choose the sites you want to test</li>
+              <li></li>
             </Localized>
             <ul>
               <Localized id="webcompat-activity-flow-2"
                 alexaLink={<a href="https://www.alexa.com/topsites/countries">Alexa Top Sites by Country</a>}>
-                <li>We recommend the top sites in your country, as measured by a reputable local source or using the <a href="https://www.alexa.com/topsites/countries">Alexa Top Sites by Country</a> reference</li>
+                <li></li>
               </Localized>
               <Localized id="webcompat-activity-flow-3">
-                <li>Also sites that you need or use frequently in your communities!</li>
+                <li></li>
               </Localized>
             </ul>
             <Localized id="webcompat-activity-flow-4">
-              <li>Test and Report!</li>
+              <li></li>
             </Localized>
             <ul>
               <Localized id="webcompat-activity-flow-5">
-                <li>If you encounter a site that does not work in Firefox, but works in another browser, then click the add-on button and follow the steps to report</li>
+                <li></li>
               </Localized>
               <Localized id="webcompat-activity-flow-6"
                 reportingLink={<a href="https://wiki.mozilla.org/Compatibility/Guide#Reporting_a_Web_compatibility_issue">in reported issues</a>}>
-                <li>Pay special attention to what we are looking for <a href="https://wiki.mozilla.org/Compatibility/Guide#Reporting_a_Web_compatibility_issue">in reported issues</a></li>
+                <li></li>
               </Localized>
               <Localized id="webcompat-activity-flow-7"
                 guideLink={<a href="https://wiki.mozilla.org/Compatibility/Guide">go here</a>}>
-                <li>If you want to become an expert in web compatibility, <a href="https://wiki.mozilla.org/Compatibility/Guide">go here</a></li>
+                <li></li>
               </Localized>
             </ul>
           </ul>
@@ -158,13 +156,13 @@ class WebcompatSprint extends Component {
           id="directly-at-the-end-of-the-activity"
         >
           <Localized id="webcompat-activity-end-1">
-            <p>Immediately after the event don’t forget to share the link to the impact form with your attendees:</p>
+            <p></p>
           </Localized>
 
           <p className="toggle__attention-link"><a href="https://mzl.la/howwasit">mzl.la/howwasit</a></p>
 
           <Localized id="webcompat-activity-end-2">
-            <p>Remember this is how you’ll know who attended your event, and if you successfully inspired them to action! We recommend adding it to your final slide AND emailing it out after the event.</p>
+            <p></p>
           </Localized>
         </Toggle>
 
@@ -173,25 +171,25 @@ class WebcompatSprint extends Component {
           id="output"
         >
           <Localized id="webcompat-activity-output-1">
-            <p>In addition to the recommended event flow here are some things we’d like you, the event organizer, to do.</p>
+            <p></p>
           </Localized>
 
           <ul>
             <Localized id="webcompat-activity-output-2">
-              <li>Fill out the post-event metrics on the event page you setup on the Reps portal</li>
+              <li></li>
             </Localized>
             <Localized id="webcompat-activity-output-3">
-              <li>Optionally, tell us about your event. This can be before or after. We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two!</li>
+              <li></li>
             </Localized>
             <ul>
               <Localized id="webcompat-activity-output-4"
                 discourseLink={<a href="https://discourse.mozilla-community.org/t/activate-mozilla-web-compatibility-sprint/10074/1">Here is the Discourse post to write to</a>}>
-                <li><a href="https://discourse.mozilla-community.org/t/activate-mozilla-web-compatibility-sprint/10074/1">Here is the Discourse post to write to</a></li>
+                <li></li>
               </Localized>
             </ul>
             <Localized id="webcompat-activity-output-5"
               mailingLink={<a href="https://www.mozilla.org/about/forums/#compatibility">mailing list</a>}>
-              <li>Encourage attendees who want to continue to work on Web Compat to sign up to the <a href="https://www.mozilla.org/about/forums/#compatibility">mailing list</a></li>
+              <li></li>
             </Localized>
           </ul>
         </Toggle>
@@ -201,23 +199,23 @@ class WebcompatSprint extends Component {
           id="extra"
         >
           <Localized id="webcompat-activity-extra-1">
-            <p>While the focus of this activity should be on testing sprints, there are other ways to stay more involved with the community after.</p>
+            <p></p>
           </Localized>
 
           <ul>
             <Localized id="webcompat-activity-extra-2"
               moreInfoLink={<a href="https://github.com/mozilla/participation-org/issues/237#issuecomment-163632354">More information</a>}>
-              <li>Bug diagnosis: This is about trying to understand the underlying issues behind bug reports, and where possible, providing suggested fixes for site owners. <a href="https://github.com/mozilla/participation-org/issues/237#issuecomment-163632354">More information</a></li>
+              <li></li>
             </Localized>
             <Localized id="webcompat-activity-extra-3"
               moreInfoLink={<a href="https://github.com/mozilla/participation-org/issues/237#issuecomment-163632626">More information</a>}>
-              <li>Site outreach: This is about trying to get in contact with websites that have issues and (politely!) providing ways that they can improve compatibility or fix their bugs. <a href="https://github.com/mozilla/participation-org/issues/237#issuecomment-163632626">More information</a></li>
+              <li></li>
             </Localized>
           </ul>
 
           <Localized id="webcompat-activity-extra-4"
             contributorsLink={<a href="https://webcompat.com/contributors">Webcompat’s contributors page</a>}>
-            <p><a href="https://webcompat.com/contributors">Webcompat’s contributors page</a> has more basic information on how to get started and join the community.</p>
+            <p></p>
           </Localized>
 
         </Toggle>

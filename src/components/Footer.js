@@ -28,21 +28,21 @@ class Footer extends Component {
               <LinkContainer exact className="page-link" to={`/${currentLocale}/campaigns`} activeClassName={"is-active"}>
                 <NavItem>
                   <Localized id="nav-campaigns">
-                    <span>Campaigns</span>
+                    <span></span>
                   </Localized>
                 </NavItem>
               </LinkContainer>
               <LinkContainer exact className="page-link" to={`/${currentLocale}/activities`} activeClassName={"is-active"}>
                 <NavItem>
-                  <Localized id="nav-activitiesfaq">
-                    <span>Activities</span>
+                  <Localized id="nav-activities">
+                    <span></span>
                   </Localized>
                 </NavItem>
               </LinkContainer>
               <LinkContainer exact className="page-link" to={`/${currentLocale}/faq`} activeClassName={"is-active"}>
                 <NavItem>
                   <Localized id="nav-faq">
-                    <span>FAQ</span>
+                    <span></span>
                   </Localized>
                 </NavItem>
               </LinkContainer>
@@ -57,20 +57,18 @@ class Footer extends Component {
               <div className="footer__content">
                 <Localized id="footer-contibution-2019"
                     mozillaLink={<a rel="license" href="https://www.mozilla.org/foundation/licensing/website-content/">Creative Commons license</a>}>
-                  <p>
-                  Portions of this content are © 1998–2019 by individual mozilla.org contributors. Content available under a <a rel="license" href="https://www.mozilla.org/foundation/licensing/website-content/">Creative Commons license</a>.
-                  </p>
+                  <p></p>
                 </Localized>
               </div>
               <ul className="footer__terms">
-                <li><a href={`https://www.mozilla.org/${currentLocale}/privacy/websites/`}>
-                <Localized id="footer-privacy-note"><span>Website Privacy Notice</span></Localized>
+                <li><a href={`https://www.mozilla.org/privacy/websites/`}>
+                <Localized id="footer-privacy-note"><span></span></Localized>
                 </a></li>
-                <li><a href={`https://www.mozilla.org/${currentLocale}/privacy/websites/#cookies`}>
-                <Localized id="footer-cookies"><span>Cookies</span></Localized></a></li>
+                <li><a href={`https://www.mozilla.org/privacy/websites/#cookies`}>
+                <Localized id="footer-cookies"><span></span></Localized></a></li>
                 <li>
-                  <a href={`https://www.mozilla.org/${currentLocale}/about/legal/`}>
-                    <Localized id="footer-legal"><span>Legal</span></Localized>
+                  <a href={`https://www.mozilla.org/about/legal/`}>
+                    <Localized id="footer-legal"><span></span></Localized>
                   </a>
                 </li>
               </ul>

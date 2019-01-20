@@ -18,7 +18,7 @@ class ActivitiesOverview extends Component {
         </Localized>
         <div className="content-contained content-contained--small">
           <Localized id="activities-homepage-description">
-            <p className="text text--lead text--centered">While we’re coming up with our next campaign, hone your contribution skills with our activities — they are quite snazzy!</p>
+            <p className="text text--lead text--centered"></p>
           </Localized>
         </div>
         <div className="activities__listing">

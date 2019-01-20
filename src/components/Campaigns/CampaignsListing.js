@@ -45,7 +45,7 @@ class CampaignsListing extends Component {
           </Localized>
           <div className="content-contained content-contained--small">
             <Localized id="campaign-archive-description">
-              <p className="text text--lead text--centered">Past, but not forgotten!</p>
+              <p className="text text--lead text--centered"></p>
             </Localized>
           </div>
         <Grid>

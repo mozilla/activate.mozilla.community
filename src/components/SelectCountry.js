@@ -29,9 +29,7 @@ class SelectCountry extends Component {
     return (
       <div className={classString}>
         <label className="element-invisible" htmlFor={id}>
-          <Localized id={id + "-label"}>
-            Country
-          </Localized>
+          <Localized id="newsletter-country-label"></Localized>
         </label>
         <select
           id={id}
@@ -42,10 +40,8 @@ class SelectCountry extends Component {
           aria-required="true"
           className="is-placeholder"
         >
-          <Localized id={id + "-label-option"}>
-            <option value="" disabled>
-              Select Country
-            </option>
+          <Localized id="newsletter-country-label-option">
+            <option value="" disabled></option>
           </Localized>
           <option value="af">Afghanistan</option>
           <option value="qz">Akrotiri</option>

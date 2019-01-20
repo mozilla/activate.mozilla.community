@@ -35,8 +35,8 @@ class NewsletterForm extends Component {
           <h1 className="title text--centered newsletter__title">Never miss a chance to support Mozilla!</h1>
         </Localized>
 
-        <Localized id="newsletter-slice-description-subscribe">
-          <p className="text text--large text--centered content-contained content-contained--extra-small">Subscribe to our newsletter and join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission.</p>
+        <Localized id="newsletter-description-subscribe">
+          <p className="text text--large text--centered content-contained content-contained--extra-small"></p>
         </Localized>
       </div>
     );
@@ -223,8 +223,6 @@ class NewsletterForm extends Component {
     if(this.props.className) classes.push(this.props.className);
     const classString = classes.join(' ');
 
-
-
     return (
       <section className={classString}>
         <div className="newsletter__content">
@@ -242,7 +240,7 @@ class NewsletterForm extends Component {
 
             <div id="newsletter_email" className="form_group newsletter__email content-contained content-contained--small">
               <Localized id="newsletter-email">
-                <label htmlFor="email" className="form_label element-invisible">Email</label>
+                <label htmlFor="email" className="form_label element-invisible">..</label>
               </Localized>
               <Localized id="newsletter-form-email-placeholder" attrs={{placeholder: true, "aria-label": true}}>
                 <input aria-label="Enter your e-mail" aria-required="true" type="email" id="email" name="email" className="form_input" required placeholder="Enter your e-mail" />
@@ -262,9 +260,7 @@ class NewsletterForm extends Component {
               <input type="checkbox" id="privacy" name="privacy" required />
               <Localized id="newsletter-privacy"
                          privacyLink={<a target="_blank" rel="noopener noreferrer" href="https://www.mozilla.org/privacy/websites/">Privacy Policy</a>}>
-                <label htmlFor="privacy">
-                  I&apos;m okay with Mozilla handling my info as explained in this <a href="https://www.mozilla.org/privacy/websites/">Privacy Policy</a>.
-                </label>
+                <label htmlFor="privacy">..</label>
               </Localized>
             </div>
           </form>
@@ -274,9 +270,7 @@ class NewsletterForm extends Component {
               <h2 className="title text--centered">Thanks!</h2>
             </Localized>
             <Localized id="newsletter-subscribed-text">
-              <p className="text text--large text--centered">
-                If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox and spam filter for an email from us.
-              </p>
+              <p className="text text--large text--centered"></p>
             </Localized>
           </div>
         </div>

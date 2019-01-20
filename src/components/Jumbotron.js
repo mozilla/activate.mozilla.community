@@ -10,13 +10,11 @@ class Jumbotron extends Component {
     if (this.props.activeCampaign) {
       jumbotronContent = (<div className="hero">
         <section className="hero__wrapper container">
-          <Localized id="hero-campaign-title">
+          <Localized id="jumbotron-campaign-title">
             <h1 className="title color--white hero__title">Engage in 5… 4…</h1>
           </Localized>
-          <Localized id="hero-campaign-description">
-            <p className="text text--lead color--white hero__text">
-              Contribute to a great community in a meaningful way. Take place in our latest campaing now!
-            </p>
+          <Localized id="jumbotron-campaign-description">
+            <p className="text text--lead color--white hero__text"></p>
           </Localized>
         </section>
       </div>
@@ -25,13 +23,11 @@ class Jumbotron extends Component {
     else {
       jumbotronContent = (<div className="hero">
         <section className="hero__wrapper container">
-          <Localized id="hero-no-campaign-title">
+          <Localized id="jumbotron-no-campaign-title">
             <h1 className="title color--white hero__title">Campaign incoming!</h1>
           </Localized>
-          <Localized id="hero-no-campaign-description">
-            <p className="text text--lead color--white hero__text">
-              An extra cool Mozilla campaign is coming soon, make sure you’ll be the first to know when it launches! (pun intended)
-            </p>
+          <Localized id="jumbotron-no-campaign-description">
+            <p className="text text--lead color--white hero__text"></p>
           </Localized>
         </section>
       </div>

@@ -21,8 +21,7 @@ class ActivitiesList extends Component {
         </Localized>
         <div className="content-contained content-contained--small">
           <Localized id="activities-listing-description">
-            <p className="text text--lead text--centered">
-            </p>
+            <p className="text text--lead text--centered"></p>
           </Localized>
         </div>
         <div className="activities__listing">
