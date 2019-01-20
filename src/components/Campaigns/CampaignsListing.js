@@ -72,6 +72,5 @@ const mapStateToProps = (state) => ({
   currentLocales: state.language.currentLocales,
   activeCampaign: state.campaign.active,
 });
-const mapDispatchToProps = {};
 
-export default connect(mapStateToProps, mapDispatchToProps)(CampaignsListing);
+export default connect(mapStateToProps)(CampaignsListing);

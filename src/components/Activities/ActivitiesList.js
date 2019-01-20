@@ -89,6 +89,5 @@ class ActivitiesList extends Component {
 const mapStateToProps = (state) => ({
   currentLocales: state.language.currentLocales,
 });
-const mapDispatchToProps = {};
 
-export default connect(mapStateToProps, mapDispatchToProps)(ActivitiesList);
+export default connect(mapStateToProps)(ActivitiesList);
