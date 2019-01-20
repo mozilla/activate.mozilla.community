@@ -48,11 +48,11 @@ activities-homepage-description = While we’re coming up with our next campaign
 activities-listing-title = Activities galore!
 activities-listing-description = Current campaign not up your alley? We got you covered with our trusted Activities. Always here, always useful!
 
-current-campaign = Become a Dark Funnel Detective!
-current-campaign-description = Shed light on the Dark Funnel by searching for and reporting websites that have unauthorized download buttons as part of the Dark Funnel Campaign!
-current-campaign-duration = September 17-24
-current-campaign-learn-more = Learn more
+dark-funnel-title = Become a Dark Funnel Detective!
+dark-funnel-description = Shed light on the Dark Funnel by searching for and reporting websites that have unauthorized download buttons as part of the Dark Funnel Campaign!
+dark-funnel-duration = September 17-24
 
+current-campaign-learn-more = Learn more
 campaign-active = Current campaign
 
 campaign-archive = Previous campaigns

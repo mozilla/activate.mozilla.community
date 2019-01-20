@@ -52,9 +52,9 @@ class CampaignsListing extends Component {
           <Row className="campaign-list__row">
             <CampaignTile
               titleImage="/images/dark-funnel.jpg"
-              titleKey="current-campaign"
-              descriptionKey="current-campaign-description"
-              durationKey="current-campaign-duration"
+              titleKey="dark-funnel-title"
+              descriptionKey="dark-funnel-description"
+              durationKey="dark-funnel-duration"
               linkTarget="https://events.mozilla.org/darkfunnelEN"
             ></CampaignTile>
           </Row>

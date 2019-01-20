@@ -38,9 +38,9 @@ let activeCampaign = null;
 // Comment out the following definition, if no active Campaign exists.
 // activeCampaign = {
 //   titleImage:"/images/dark-funnel.jpg",
-//   titleKey:"current-campaign",
-//   descriptionKey:"current-campaign-description",
-//   durationKey:"current-campaign-duration",
+//   titleKey:"foo-title",
+//   descriptionKey:"foo-description",
+//   durationKey:"foo-duration",
 //   buttonKey: "current-campaign-learn-more",
 //   linkTarget:"https://events.mozilla.org/darkfunnelEN"
 // };
