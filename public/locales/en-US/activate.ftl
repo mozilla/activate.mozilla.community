@@ -67,9 +67,9 @@ newsletter-form-email-placeholder =
 newsletter-submit = Subscribe
 newsletter-subscribed-title = Thanks!
 newsletter-subscribed-text = If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox and spam filter for an email from us.
-newsletter-privacy = I am okay with Mozilla handling my info as explained in this <privacyLink>Privacy Policy</privacyLink>.
+newsletter-privacy = I'm okay with Mozilla handling my info as explained in this <privacyLink>Privacy Policy</privacyLink>.
 newsletter-country-label = Country
-newsletter-country-label-option = Select Country
+newsletter-country-label-option = Select country
 newsletter-language-label = Language
 newsletter-language-label-option = Select language
 
@@ -119,7 +119,7 @@ webcompat-duration = 2-3 hours
 
 faq-title = Frequently Asked Questions
 faq-description = You have questions? We have answers!
-faq-about-activate = About activate
+faq-about-activate = About Activate
 faq-activaties = Activities
 faq-what-title = What is Activate Mozilla?
 faq-what-answer = Activate Mozilla is a campaign for Mozillians around the world to have impact in areas key to Mozilla’s mission. We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now, and provide clear steps on how to get involved right away. These will be presented in the form of activities.
