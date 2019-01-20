@@ -25,14 +25,8 @@ class Header extends Component {
         collapseOnSelect
         onToggle={
           (event) => {
-            if(event) {
-              document.getElementsByClassName("js-header")[0].classList.remove("is-closed");
-              document.getElementsByClassName("js-header")[0].classList.add("is-open");
-              // this.addClass("is-open");
-            } else {
-              document.getElementsByClassName("js-header")[0].classList.remove("is-open");
-              document.getElementsByClassName("js-header")[0].classList.add("is-closed");
-            }
+            document.getElementsByClassName("js-header")[0].classList.toggle("is-closed");
+            document.getElementsByClassName("js-header")[0].classList.toggle("is-open");
           }
         }
       >
