@@ -177,6 +177,7 @@ techspeakers-activity-setup-5 = Web Extension
 techspeakers-activity-setup-6 = När du har kontrollerat att din Tech-talare är tillgänglig och bekräftad, hitta en plats som passar antalet personer du förväntar dig (samhällscenter, skolor och samarbetsplatser är bra ställen att överväga).
 techspeakers-activity-setup-7 = Skapa en evenemangssida på MeetUp (eller Facebook) så att dina deltagare har någonstans att registrera sig.
 techspeakers-activity-setup-8 = Börja nå ut till webbutvecklare i ditt område och bjud in dem till ditt evenemang.
+techspeakers-activity-setup-9 = Läs evenemangsguiden <eventGuideLink>evenemangsguide</eventGuideLink> om hur man sätter upp en evenemangssida och hur man organiserar ett evenemang.
 techspeakers-activity-after = Efter händelsen
 techspeakers-activity-extra = Extra
 techspeakers-activity-goals = Målen för den här aktiviteten
