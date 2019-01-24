@@ -19,6 +19,7 @@ hours = Horas
 testing = Testando
 programming = Programação
 participation = Participação
+nightly-title = Usando e testando o Nightly
 nightly-duration = 1-3 horas
 techspeakers-description = Sendo da Mozilla, estamos trabalhando para ajudar a manter a internet saudável, aberta e acessível a todos, mas não podemos fazer isso sozinhos. Precisamos nos envolver com pessoas que estão na linha de frente da construção da internet: desenvolvedores web, designers e outros tecnólogos que se preocupam com a web aberta. Precisamos deixá-los animados com a Mozilla como líder em tecnologia.
 techspeakers-duration = 1-2 horas
