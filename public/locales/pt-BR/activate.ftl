@@ -9,6 +9,7 @@ contribute = Contribuir
 legal = Jurídico
 footer-description = Mozilla é uma organização global sem fins lucrativos, dedicada a colocar você no controle da sua experiência on-line e moldar o futuro da web para o bem comum. Visite-nos em <a target="_blank"  rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a>
 activate = Ativar
+activate-description = A campanha Activate Mozilla tem como objetivo a base de contribuições voluntárias. Queremos deixar claro quais são as áreas mais importantes para contribuir na Mozilla, fornecendo orientação aos mobilizadores sobre como recrutar colaboradores e criar comunidades em torno de projetos significativos da Mozilla.
 activities = Atividades
 ongoing-campaign-learn-more = Saiba mais...
     .href = https://events.mozilla.org/darkfunnelEN
@@ -32,6 +33,7 @@ webcompat-description = Compatibilidade web, a capacidade de todo conteúdo web 
 webcompat-duration = 2-3 horas
 faq-title = Perguntas frequentes
 faq-what-title = O que é Activate Mozilla?
+faq-what-answer = Activate Mozilla é uma campanha para que Mozillians em todo o mundo tenham impacto em áreas importantes para a missão Mozilla. Queremos trazer mais clareza sobre quais são as áreas mais importantes para contribuir na Mozilla, e fornecer passos claros sobre como se envolver imediatamente. Elas serão apresentadas na forma de atividades.
 faq-goals-title = Quais são os objetivos da campanha?
 faq-questions-title = O que devo fazer se tiver dúvidas?
 eg-started = Introdução
