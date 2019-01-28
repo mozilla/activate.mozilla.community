@@ -74,6 +74,7 @@ webcompat-activity-general = Compatibilidade web, a capacidade de todo conteúdo
 webcompat-activity-format = Formato da atividade
 webcompat-activity-flow = Fluxo do evento
 webcompat-activity-extra-2 = Diagnóstico de bugs: trata-se de tentar entender os problemas subjacentes por trás dos relatórios de erro e, quando possível, fornecer correções sugeridas para proprietários de sites. <moreInfoLink>Mais informações</moreInfoLink>
+rust-activity-general = Rust é uma linguagem de programação de sistemas que funciona de forma incrivelmente rápida, evita invasão de memória e garante segurança em threads. <moreLink>Saiba mais…</ moreLink>
 rust-activity-setup-1 = Reúna uma equipe de eventos. Tudo bem fazer sozinho, mas é aconselhável pelo menos duas pessoas. Verifique a <calendarLink>Agenda da Comunidade Rust</calendarLink> - talvez já exista alguém na sua área. Você também pode entrar em contato com a <mailLink>Equipe da Comunidade Rust</mailLink> para obter suporte adicional.
 rust-activity-before-3 = Preencha o <issueLink>modelo de evento</issueLink> de acesso à agenda, para que você possa inserir nela. Ele será então divulgado no boletim semanal do Rust e promovido de outras maneiras. Você também pode perguntar à <swagLink>Equipe da Comunidade Rust</swagLink> se eles podem enviar alguns adesivos.
 rust-activity-flow = Fluxo do evento
