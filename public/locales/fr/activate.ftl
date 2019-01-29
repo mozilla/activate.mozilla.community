@@ -15,6 +15,7 @@ ongoing-campaign-description = Certains sites hébergent des boutons de téléch
 ongoing-campaign-learn-more = En savoir plus…
     .href = https://events.mozilla.org/darkfunnelEN
 newsletter-title = Ne manquez jamais une occasion pour soutenir Mozilla !
+newsletter-description-subscribe = Abonnez-vous à notre lettre d’information et rejoignez des Mozilliens du monde entier et découvrez les possibilités de soutenir la mission de Mozilla.
 newsletter-email = Adresse électronique
 newsletter-submit = Je m’inscris
 newsletter-subscribed-title = Merci !
