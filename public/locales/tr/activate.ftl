@@ -146,6 +146,7 @@ rust-activity-output = Çıktı
 rust-activity-output-3 = <hashtagLink>#RustActivate</hashtagLink> etiketini kullanın
 rust-activity-output-4 = <twitterLink>@rustlang</twitterLink> hesabından bahsedin, böylece sizi RT edebilirler!
 rust-activity-extra = Ekstra
+rust-activity-impact = Etki ve Ölçümler
 rust-activity-impact-4 = Etki:
 rust-activity-impact-7 = 500 sosyal medya paylaşımı
 rust-activity-goals = Bu alanın hedefleri
