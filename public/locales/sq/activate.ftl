@@ -36,6 +36,7 @@ rust-title = Zhytuni Në <em>Rust</em>
 rust-description = Rust-i është një gjuhë programimi sistemesh e rëndësishme për të ardhmen e internetit. Xhiron tmerrësisht shpejt, parandalon gabime <em>segfault</em>, dhe garanton pacenueshmëri rrjedhash. Me ndihmën tuaj, duam që më tepër programues të kuptojnë, përdorin dhe predikojnë këtë gjuhë, për ta bërë internetin më të mirë dhe më të sigurt.
 rust-duration = 2-3 orë
 webvr-title = Kamp për WebVR
+webvr-description = A-Frame është një platformë web për ndërtim gjërash realiteti virtual, duke e bërë të lehtë për këdo të përfshihet në këtë fushë. Kryeni veprimtari për të sjellë zhvillues në botën 3D dhe shkruani ndonjë demo të lezetshme. Kjo do të shpjerë më tej WebVR-në, një platformë e hapur për realitet virtual që shfrytëzon Web-in.
 webvr-duration = 3-4 orë
 webcompat-title = Sprint Përputhshmërie Web
 webcompat-description = Përputhshmëria Web, aftësia që krejt lënda Web të mund të xhirojë në krejt shfletuesit. Ka shumë mekanizma lënde web, që xhirojnë më shumë lloje pajisjesh, dhe ndonjëherë me pak testim dhe ca përimtime të vockla në sajt, zhvilluesit mund të garantojnë që sajtin ta shohin ashtu si është menduar më tepër përdorues. Testoni sajte dhe përhapni mesazhin mbi përputhshmërinë.
