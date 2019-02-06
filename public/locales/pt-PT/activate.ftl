@@ -5,6 +5,7 @@ nav-impact = Impacto
 twitter = Twitter
 discussion = Discussão
 contribute = Contribuir
+legal = Informação legal
 footer-description = A Mozilla é uma organização global sem fins lucrativos dedicada a colocar-lhe em controlo de toda a sua experiência online e a moldar o futuro da web pelo bem público. Visite-nos em <a target="_blank"  rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a>
 activities = Atividades
 faq-title = Perguntas frequentes
