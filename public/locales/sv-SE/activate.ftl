@@ -179,6 +179,7 @@ techspeakers-activity-setup-7 = Skapa en evenemangssida på MeetUp (eller Facebo
 techspeakers-activity-setup-8 = Börja nå ut till webbutvecklare i ditt område och bjud in dem till ditt evenemang.
 techspeakers-activity-setup-9 = Läs evenemangsguiden <eventGuideLink>evenemangsguide</eventGuideLink> om hur man sätter upp en evenemangssida och hur man organiserar ett evenemang.
 techspeakers-activity-after = Efter händelsen
+techspeakers-activity-after-1 = Omedelbart efter evenemanget, glöm inte att dela länken till formuläret för inverkan med dina deltagare:
 techspeakers-activity-extra = Extra
 techspeakers-activity-goals = Målen för den här aktiviteten
 techspeakers-activity-goals-2 = Organisera ett evenemang för ~50 webbutvecklare
