@@ -190,6 +190,7 @@ webcompat-activity-setup-3 = <iosLink>Firefox iOS 版</iosLink>
 webcompat-activity-setup-4 = <reporterLink>安装 Webcompat.com 反馈附加组件</reporterLink>
 webcompat-activity-flow-1 = 选择您要测试的站点
 webcompat-activity-flow-4 = 测试并反馈！
+webcompat-activity-flow-5 = 如果您遇到某网站在 Firefox 中工作不正常，但在其他浏览器中正常工作，请点击地址栏三点菜单按步骤进行反馈
 webcompat-activity-end = 活动尾声时
 webcompat-activity-output = 输出
 webcompat-activity-extra = 更多
