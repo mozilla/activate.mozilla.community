@@ -188,6 +188,7 @@ techspeakers-activity-audience = Målgrupp
 techspeakers-activity-audience-1 = Vi har tänkt länge och hårt på vem som skulle passa bra för den här aktiviteten, nu är det upp till dig att gå ut och hitta dem!
 techspeakers-activity-audience-2 = Webbutvecklare: människor som har eller vill leva från att utveckla och bygga för webben.
 webcompat-activity-format = Aktivitetsformat
+webcompat-activity-organize = Läs <eventGuideLink>evenemangsguiden</eventGuideLink> om hur man sätter upp en evenemangssida och hur man organiserar ett evenemang.
 webcompat-activity-duration = För varaktighet rekommenderar vi en halvdag (eller helkväll) med minst 10-15 deltagare.
 webcompat-activity-flow = Evenemangsflöde
 webcompat-activity-setup = Installera Firefox. Någon eller alla av följande versioner:
