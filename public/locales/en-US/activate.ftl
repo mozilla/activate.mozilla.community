@@ -31,34 +31,35 @@ footer-legal = Legal
 not-found-title = 404 - Page not found!
 not-found-description = The page you are looking for could not be found. It may have been removed in the meantime or the URL might be wrong.
 
-jumbotron-campaign-title = Engage in 5… 4…
-jumbotron-campaign-description = Contribute to a great community in a meaningful way. Take place in our latest campaing now!
+jumbotron-campaign-title = Contribute in 5… 4…
+jumbotron-campaign-description = Find fun, impactful ways to support <missionLink>Mozilla’s mission</missionLink> by contributing. Get active now!
 
 jumbotron-no-campaign-title = Campaign incoming!
-jumbotron-no-campaign-description = An extra cool Mozilla campaign is coming soon, make sure you’ll be the first to know when it launches! (pun intended)
+jumbotron-no-campaign-description = An extra cool Mozilla campaign is coming soon, make sure you’ll be the first to know when it launches!
 
 activate = Activate
 activate-description = The Activate Mozilla campaign aims at the grassroots of volunteer contributions. We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now by providing guidance to mobilizers on how to recruit contributors and create community around meaningful Mozilla projects.
 
 home-cta = Share your experience with #MozActivate
 
-activities-homepage-title = Activities galore!
-activities-homepage-description = While we’re coming up with our next campaign, hone your contribution skills with our activities — they are quite snazzy!
+activities-homepage-title = Activities
+activities-homepage-description = Contribute your skills and learn from others. Here are some ways that you can get involved today.
 
-activities-listing-title = Activities galore!
-activities-listing-description = Current campaign not up your alley? We got you covered with our trusted Activities. Always here, always useful!
+activities-listing-title = Activities
+activities-listing-description = We call these activities “evergreen” because they’re always important, relevant to Mozilla’s mission and need your participation now!
 
 dark-funnel-title = Become a Dark Funnel Detective!
 dark-funnel-description = Shed light on the Dark Funnel by searching for and reporting websites that have unauthorized download buttons as part of the Dark Funnel Campaign!
 dark-funnel-duration = September 17-24
 
-current-campaign-learn-more = Learn more
-campaign-active = Current campaign
+current-campaign-learn-more = Get Involved
+campaign-active = Active Campaign
+campaign-active-description = This is the best way to get active with Mozilla right now. Give it a try!
 
-campaign-archive = Previous campaigns
-campaign-archive-description = Past, but not forgotten!
+campaign-archive = Past Campaigns
+campaign-archive-description = Mozilla communities do great work together. These campaigns are over now but feel free to check out what everyone accomplished.
 
-newsletter-title = Never miss a chance to support Mozilla!
+newsletter-title-2 = Get Updates
 newsletter-description-subscribe = Subscribe to our newsletter and join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission
 newsletter-slice-title = Keep up to date.
 newsletter-email = Email
@@ -116,15 +117,13 @@ faq-description = You have questions? We have answers!
 faq-about-activate = About Activate
 faq-activaties = Activities
 faq-what-title = What is Activate Mozilla?
-faq-what-answer = Activate Mozilla is a campaign for Mozillians around the world to have impact in areas key to Mozilla’s mission. We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now, and provide clear steps on how to get involved right away. These will be presented in the form of activities.
+faq-what-answer-2 = Activate is a way for Mozillians around the world to have impact in areas key to Mozilla’s mission. This site brings clarity to the most important contribution areas for Mozilla right now, and provides easy ways to get involved right away.
 faq-who-title = Who can be involved in the activities?
-faq-who-answer = Anyone who wants to support Mozilla.
+faq-who-answer-2 = Anyone who wants to support Mozilla by contributing in a healthy and constructive manner. To create a safe and positive community experience for, all we require everyone who participates to agree and adhere to the <cpgLink>Community Participation Guidelines</cpgLink>.
 faq-how-title = How do I get involved?
-faq-how-answer = Just navigate the site and read the different areas and activities described. There you will find more information on why the activities have been chosen, and concrete instructions on how to contribute to each of them.
+faq-how-answer-2 = Just navigate the site and read about the different campaigns and activities described. Here you will find more information about the activities that have been chosen, and instructions on how to contribute to each of them.
 faq-why-title = Why should I get involved?
-faq-why-answer = The areas and activity described in this site are a result of a joint effort from the Mozilla Participation team and other teams to surface what is imporant for the organization right now. If you want to support Mozilla and you are unsure about what to do, this campaign is for you.
-faq-goals-title = What are the goals of the campaign?
-faq-goals-answer = The goal is providing guidance to mobilizers on how to recruit contributors and create community around meaningful Mozilla projects.
+faq-why-answer-2 = The campaigns and activities described on this site are a result of a joint effort to surface what is most important for Mozilla right now. If you want to support Mozilla and you are unsure about what to do, Activate is for you.
 faq-questions-title = What should I do if I have questions?
 faq-questions-answer = You can ask directly creating a new topic at the <leadersLink>Participation Leaders forum</leadersLink>.
 faq-budget-title = Can I request budget for these activities?

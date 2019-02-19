@@ -34,7 +34,7 @@ class FAQ extends Component {
                   </Localized>
                 </div>
                 <div className="faq-sub-section__body">
-                  <Localized id="faq-what-answer">
+                  <Localized id="faq-what-answer-2">
                     <p></p>
                   </Localized>
                 </div>
@@ -45,7 +45,10 @@ class FAQ extends Component {
                   </Localized>
                 </div>
                 <div className="faq-sub-section__body">
-                  <Localized id="faq-who-answer">
+                  <Localized id="faq-who-answer-2"
+                    cpgLink={
+                      <a href="https://www.mozilla.org/about/governance/policies/participation/"></a>
+                    }>
                     <p></p>
                   </Localized>
                 </div>
@@ -56,7 +59,7 @@ class FAQ extends Component {
                   </Localized>
                 </div>
                 <div className="faq-sub-section__body">
-                  <Localized id="faq-how-answer">
+                  <Localized id="faq-how-answer-2">
                     <p></p>
                   </Localized>
                 </div>
@@ -68,18 +71,7 @@ class FAQ extends Component {
                   </Localized>
                 </div>
                 <div className="faq-sub-section__body">
-                  <Localized id="faq-why-answer">
-                    <p></p>
-                  </Localized>
-                </div>
-                <div className="faq-sub-section__title">
-                  <ChevronRight size={24} className="faq-title__icon icon" />
-                  <Localized id="faq-goals-title">
-                    <h2>What are the goals of the campaign?</h2>
-                  </Localized>
-                </div>
-                <div className="faq-sub-section__body">
-                  <Localized id="faq-goals-answer">
+                  <Localized id="faq-why-answer-2">
                     <p></p>
                   </Localized>
                 </div>

@@ -13,3 +13,12 @@
 .hero__text {
   max-width: 570px;
 }
+
+.hero a {
+  color: var(--grey-color-light);
+  text-decoration: underline;
+}
+
+.hero a:hover {
+  text-decoration: underline;
+}

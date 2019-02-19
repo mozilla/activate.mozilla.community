@@ -22,6 +22,9 @@ class CampaignsListing extends Component {
         <Localized id="campaign-active">
           <h1 className="title text--centered">Current campaign</h1>
         </Localized>
+        <Localized id="campaign-active-description">
+          <p className="text text--lead text--centered"></p>
+        </Localized>
         <CampaignTileCurrent
           titleImage={campaign.titleImage}
           titleKey={campaign.titleKey}

@@ -13,7 +13,12 @@ class Jumbotron extends Component {
           <Localized id="jumbotron-campaign-title">
             <h1 className="title color--white hero__title">Engage in 5… 4…</h1>
           </Localized>
-          <Localized id="jumbotron-campaign-description">
+          <Localized id="jumbotron-campaign-description"
+            missionLink={
+              <a href="https://www.mozilla.org/mission/">
+                Mozilla's mission
+              </a>
+            }>
             <p className="text text--lead color--white hero__text"></p>
           </Localized>
         </section>

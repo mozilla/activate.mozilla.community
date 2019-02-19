@@ -21,7 +21,7 @@ class NewsletterForm extends Component {
   getNewsletterFormTextDefault = () => {
     return (
       <div className="newsletter__text-wrapper js-newsletter-header">
-        <Localized id="newsletter-title">
+        <Localized id="newsletter-title-2">
           <h1 className="title title--extra-large title--lighter text--centered newsletter__title">Never miss a chance to support Mozilla!</h1>
         </Localized>
       </div>
@@ -31,7 +31,7 @@ class NewsletterForm extends Component {
   getNewsletterFormTextIllustrated = () => {
     return (
       <div className="newsletter__text-wrapper js-newsletter-header">
-        <Localized id="newsletter-title">
+        <Localized id="newsletter-title-2">
           <h1 className="title text--centered newsletter__title">Never miss a chance to support Mozilla!</h1>
         </Localized>
 
