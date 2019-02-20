@@ -14,6 +14,8 @@ module.exports = {
   rules: {
     "react/prop-types": 0,
     "react/display-name": 0,
+    "jsx-a11y/anchor-has-content": 0,
+    "jsx-a11y/heading-has-content": 0,
     "no-var": "error", // optional, recommended when using es6+
     "jsx-a11y/label-has-for": [ 2, {
       "required": {
