@@ -15,9 +15,7 @@ class Jumbotron extends Component {
           </Localized>
           <Localized id="jumbotron-campaign-description"
             missionLink={
-              <a href="https://www.mozilla.org/mission/">
-                Mozilla's mission
-              </a>
+              <a href="https://www.mozilla.org/mission/"></a>
             }>
             <p className="text text--lead color--white hero__text"></p>
           </Localized>

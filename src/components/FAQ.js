@@ -92,11 +92,12 @@ class FAQ extends Component {
                 </div>
                 <div className="faq-sub-section__body">
                   <Localized
-                    id="faq-questions-answer"
-                    leadersLink={
-                      <a href="https://discourse.mozilla-community.org/c/participation-leaders">
-                        Participation Leaders forum
-                      </a>
+                    id="faq-questions-answer-2"
+                    discourseLink={
+                      <a href="https://discourse.mozilla.org/"></a>
+                    }
+                    mozilliansLink={
+                      <a href="https://discourse.mozilla.org/c/mozillians"></a>
                     }
                   >
                     <p></p>
@@ -104,55 +105,52 @@ class FAQ extends Component {
                 </div>
                 <div className="faq-sub-section__title">
                   <ChevronRight size={24} className="faq-title__icon icon" />
-                  <Localized id="faq-budget-title">
-                    <h2>Can I request budget for these activities?</h2>
-                  </Localized>
-                </div>
-                <div className="faq-sub-section__body">
-                  <Localized id="faq-budget-answer">
-                    <p></p>
-                  </Localized>
-                  <ul>
-                    <Localized id="faq-budget-answer-2">
-                      <li></li>
-                    </Localized>
-                    <Localized id="faq-budget-answer-3">
-                      <li></li>
-                    </Localized>
-                    <Localized id="faq-budget-answer-4">
-                      <li></li>
-                    </Localized>
-                    <Localized id="faq-budget-answer-5">
-                      <li></li>
-                    </Localized>
-                  </ul>
-                  <Localized id="faq-budget-answer-6">
-                    <p></p>
-                  </Localized>
-                  <Localized id="faq-budget-answer-7">
-                    <p></p>
-                  </Localized>
-                </div>
-                <div className="faq-sub-section__title">
-                  <ChevronRight size={24} className="faq-title__icon icon" />
-                  <Localized id="faq-swag-title">
-                    <h2>Can I request swag for these activities?</h2>
+                  <Localized id="faq-code-title">
+                    <h2></h2>
                   </Localized>
                 </div>
                 <div className="faq-sub-section__body">
                   <Localized
-                    id="faq-swag-answer"
-                    produceLink={
-                      <a href="https://wiki.mozilla.org/Participation/Projects/Activate_mozilla/Local_Swag">
-                        produce on your own
-                      </a>
-                    }
-                    formLink={
-                      <a href="https://bugzilla.mozilla.org/form.reps.swag">
-                        swag request form
-                      </a>
+                    id="faq-code-answer"
+                    codetributeLink={
+                      <a href="https://codetribute.mozilla.org/"></a>
                     }
                   >
+                    <p></p>
+                  </Localized>
+                </div>
+                <div className="faq-sub-section__title">
+                  <ChevronRight size={24} className="faq-title__icon icon" />
+                  <Localized id="faq-budgetswag-title">
+                    <h2>Can I request budget for these activities?</h2>
+                  </Localized>
+                </div>
+                <div className="faq-sub-section__body">
+                  <Localized id="faq-budgetswag-answer">
+                    <p></p>
+                  </Localized>
+                  <ul>
+                    <Localized id="faq-budgetswag-answer-2">
+                      <li></li>
+                    </Localized>
+                    <Localized id="faq-budgetswag-answer-3">
+                      <li></li>
+                    </Localized>
+                    <Localized id="faq-budgetswag-answer-4">
+                      <li></li>
+                    </Localized>
+                  </ul>
+                  <Localized id="faq-budgetswag-answer-5">
+                    <p></p>
+                  </Localized>
+                  <Localized
+                    id="faq-budgetswag-answer-6"
+                    repLink={
+                      <a href="https://reps.mozilla.org/people/#/group/resources/"></a>
+                    }>
+                    <p></p>
+                  </Localized>
+                  <Localized id="faq-budgetswag-answer-7">
                     <p></p>
                   </Localized>
                 </div>
