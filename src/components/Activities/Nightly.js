@@ -68,7 +68,7 @@ class Nightly extends Component {
           >
             <ol>
               <Localized id="nightly-activity-before-1"
-                         eventGuideLink={<a href="/eventguide/">Event Guide</a>}>
+                         eventGuideLink={<a href="/eventguide/"></a>}>
                 <li></li>
               </Localized>
               <Localized id="nightly-activity-before-2"
@@ -133,11 +133,11 @@ class Nightly extends Component {
               </Localized>
               <ul>
                 <Localized id="nightly-activity-during-5"
-                  bugsLink={<a href="https://developer.mozilla.org/docs/Mozilla/QA/Bug_writing_guidelines">file Nightly bugs</a>}>
+                  bugsLink={<a href="https://developer.mozilla.org/docs/Mozilla/QA/Bug_writing_guidelines"></a>}>
                   <li></li>
                 </Localized>
                 <Localized id="nightly-activity-during-6"
-                  regressionLink={<a href="https://mozilla.github.io/mozregression/">mozregression</a>}>
+                  regressionLink={<a href="https://mozilla.github.io/mozregression/"></a>}>
                   <li></li>
                 </Localized>
                 <Localized id="nightly-activity-during-7">
@@ -160,7 +160,7 @@ class Nightly extends Component {
             <p></p>
           </Localized>
 
-          <p className="toggle__attention-link"><a href="https://mzl.la/howwasit">mzl.la/howwasit</a></p>
+          <p className="toggle__attention-link"><a href="https://mzl.la/howwasit"></a></p>
 
           <Localized id="nightly-activity-end-2">
             <p></p>
@@ -179,14 +179,14 @@ class Nightly extends Component {
                 <li></li>
               </Localized>
               <Localized id="nightly-activity-output-3"
-                discourseLink={<a href="https://discourse.mozilla-community.org/t/a-new-nightly-activity/16746">Here is the Discourse post to write to</a>}>
+                discourseLink={<a href="https://discourse.mozilla-community.org/t/a-new-nightly-activity/16746"></a>}>
                 <li></li>
               </Localized>
               <Localized id="nightly-activity-output-4">
                 <li></li>
               </Localized>
               <Localized id="nightly-activity-output-5"
-                discourseLink={<a href="https://discourse.mozilla-community.org/c/nightly">Discourse category</a>}>
+                discourseLink={<a href="https://discourse.mozilla-community.org/c/nightly"></a>}>
                 <li></li>
               </Localized>
             </ul>
@@ -198,8 +198,8 @@ class Nightly extends Component {
           id="content"
         >
           <Localized id="nightly-activity-content-1"
-            telegramLink={<a href="https://t.me/joinchat/AAAAAAeCegHxTCZHWhYm3A">Telegram Nightly channel</a>}
-            twitterLink={<a href="http://twitter.com/FirefoxNightly">@FirefoxNightly</a>}>
+            telegramLink={<a href="https://t.me/joinchat/AAAAAAeCegHxTCZHWhYm3A"></a>}
+            twitterLink={<a href="http://twitter.com/FirefoxNightly"></a>}>
             <p></p>
           </Localized>
         </Toggle>
@@ -209,8 +209,8 @@ class Nightly extends Component {
           id="extra"
         >
           <Localized id="nightly-activity-extra-1"
-            wikiLink={<a href="https://wiki.mozilla.org/Nightly">Nightly Wiki page</a>}
-            foxfoodingLink={<a href="https://wiki.mozilla.org/Foxfooding">Foxfooding</a>}>
+            wikiLink={<a href="https://wiki.mozilla.org/Nightly"></a>}
+            foxfoodingLink={<a href="https://wiki.mozilla.org/Foxfooding"></a>}>
             <p></p>
           </Localized>
         </Toggle>

@@ -20,7 +20,7 @@ class CampaignsListing extends Component {
 
       activeCampaign =  (<section className="campaign">
         <Localized id="campaign-active">
-          <h1 className="title text--centered">Current campaign</h1>
+          <h1 className="title text--centered"></h1>
         </Localized>
         <Localized id="campaign-active-description">
           <p className="text text--lead text--centered"></p>
@@ -44,7 +44,7 @@ class CampaignsListing extends Component {
         {activeCampaign}
         <section className="campaign-list">
           <Localized id="campaign-archive">
-            <h1 className="title title--extra-extra-large text--centered">Previous campaigns</h1>
+            <h1 className="title title--extra-extra-large text--centered"></h1>
           </Localized>
           <div className="content-contained content-contained--small">
             <Localized id="campaign-archive-description">

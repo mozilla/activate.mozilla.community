@@ -35,7 +35,7 @@ class ActivityDetail extends Component {
 
             <Col lg={8} md={8} sm={12} xs={12} mdPush={4}>
               <Localized id={titleKey}>
-                <h1 className="title title--extra-extra-large activity-page__title">Activity Title</h1>
+                <h1 className="title title--extra-extra-large activity-page__title"></h1>
               </Localized>
               <div className="activity-page__content-top">
                 {mainContentTop}

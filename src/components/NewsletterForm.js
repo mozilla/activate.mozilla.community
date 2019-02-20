@@ -22,7 +22,7 @@ class NewsletterForm extends Component {
     return (
       <div className="newsletter__text-wrapper js-newsletter-header">
         <Localized id="newsletter-title-2">
-          <h1 className="title title--extra-large title--lighter text--centered newsletter__title">Never miss a chance to support Mozilla!</h1>
+          <h1 className="title title--extra-large title--lighter text--centered newsletter__title"></h1>
         </Localized>
 
         <Localized id="newsletter-description-subscribe">
@@ -36,7 +36,7 @@ class NewsletterForm extends Component {
     return (
       <div className="newsletter__text-wrapper js-newsletter-header">
         <Localized id="newsletter-title-2">
-          <h1 className="title text--centered newsletter__title">Never miss a chance to support Mozilla!</h1>
+          <h1 className="title text--centered newsletter__title"></h1>
         </Localized>
 
         <Localized id="newsletter-description-subscribe">
@@ -263,7 +263,7 @@ class NewsletterForm extends Component {
             <div id="newsletter_privacy" className="form_group newsletter__privacy-policy text text--small">
               <input type="checkbox" id="privacy" name="privacy" required />
               <Localized id="newsletter-privacy"
-                         privacyLink={<a target="_blank" rel="noopener noreferrer" href="https://www.mozilla.org/privacy/websites/">Privacy Policy</a>}>
+                         privacyLink={<a target="_blank" rel="noopener noreferrer" href="https://www.mozilla.org/privacy/websites/"></a>}>
                 <label htmlFor="privacy">..</label>
               </Localized>
             </div>
@@ -271,7 +271,7 @@ class NewsletterForm extends Component {
 
           <div id="newsletter_thanks" className="newsletter__text-wrapper newsletter__text-wrapper--thanks">
             <Localized id="newsletter-subscribed-title">
-              <h2 className="title text--centered">Thanks!</h2>
+              <h2 className="title text--centered"></h2>
             </Localized>
             <Localized id="newsletter-subscribed-text">
               <p className="text text--large text--centered"></p>

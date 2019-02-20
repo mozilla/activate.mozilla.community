@@ -187,7 +187,7 @@ class NewsletterFooterForm extends Component {
             <div id="newsletter_privacy_footer" className="form_group newsletter__privacy-policy text text--small">
               <input type="checkbox" id="privacy-footer" name="privacy-footer" required />
               <Localized id="newsletter-privacy"
-                         privacyLink={<a target="_blank" rel="noopener noreferrer" href="https://www.mozilla.org/privacy/websites/">Privacy Policy</a>}>
+                         privacyLink={<a target="_blank" rel="noopener noreferrer" href="https://www.mozilla.org/privacy/websites/"></a>}>
                 <label htmlFor="privacy-footer">..</label>
               </Localized>
             </div>

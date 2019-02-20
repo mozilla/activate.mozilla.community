@@ -44,9 +44,7 @@ class Header extends Component {
               <div className="header__select">
 
                 <ControlLabel className='element-invisible'>
-                  <Localized id="nav-select-language">
-                    Select Language
-                  </Localized>
+                  <Localized id="nav-select-language"></Localized>
                 </ControlLabel>
                 <FormControl
                   componentClass="select"
@@ -106,4 +104,4 @@ const mapDispatchToProps = {
   changeLocalesWithURL,
 };
 
-export default connect(mapStateToProps, mapDispatchToProps, null, {pure:false})(Header);
+export default connect(mapStateToProps, mapDispatchToProps, null, { pure: false })(Header);

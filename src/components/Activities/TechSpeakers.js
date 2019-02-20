@@ -77,7 +77,7 @@ class TechSpeakers extends Component {
 
           <ol>
             <Localized id="techspeakers-activity-setup-1"
-              tsLink={<a href="https://wiki.mozilla.org/TechSpeakers#Mozilla_Tech_Speakers">list of Tech Speakers</a>}>
+              tsLink={<a href="https://wiki.mozilla.org/TechSpeakers#Mozilla_Tech_Speakers"></a>}>
               <li></li>
             </Localized>
             <Localized id="techspeakers-activity-setup-2">
@@ -104,7 +104,7 @@ class TechSpeakers extends Component {
               <li></li>
             </Localized>
             <Localized id="techspeakers-activity-setup-9"
-              eventGuideLink={<a href="/eventguide/">event guide</a>}>
+              eventGuideLink={<a href="/eventguide/"></a>}>
               <li></li>
             </Localized>
           </ol>
@@ -119,7 +119,7 @@ class TechSpeakers extends Component {
             <p></p>
           </Localized>
 
-          <p className="toggle__attention-link"><a href="https://mzl.la/howwasit">mzl.la/howwasit</a></p>
+          <p className="toggle__attention-link"><a href="https://mzl.la/howwasit"></a></p>
 
           <Localized id="techspeakers-activity-after-2">
             <p></p>
@@ -131,7 +131,7 @@ class TechSpeakers extends Component {
           id="extra"
         >
           <Localized id="techspeakers-activity-extra-1"
-            faqLink={<a href="https://activate.mozilla.community/faq/">Activate FAQ</a>}>
+            faqLink={<a href="https://activate.mozilla.community/faq/"></a>}>
             <p></p>
           </Localized>
         </Toggle>

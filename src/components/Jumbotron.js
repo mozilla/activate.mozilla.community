@@ -11,7 +11,7 @@ class Jumbotron extends Component {
       jumbotronContent = (<div className="hero">
         <section className="hero__wrapper container">
           <Localized id="jumbotron-campaign-title">
-            <h1 className="title color--white hero__title">Engage in 5… 4…</h1>
+            <h1 className="title color--white hero__title"></h1>
           </Localized>
           <Localized id="jumbotron-campaign-description"
             missionLink={
@@ -27,7 +27,7 @@ class Jumbotron extends Component {
       jumbotronContent = (<div className="hero">
         <section className="hero__wrapper container">
           <Localized id="jumbotron-no-campaign-title">
-            <h1 className="title color--white hero__title">Campaign incoming!</h1>
+            <h1 className="title color--white hero__title"></h1>
           </Localized>
           <Localized id="jumbotron-no-campaign-description">
             <p className="text text--lead color--white hero__text"></p>

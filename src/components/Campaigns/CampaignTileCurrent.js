@@ -29,13 +29,13 @@ class CampaignTileCurrent extends Component {
           </div>
           <div className="campaign-card__col campaign-card__spaced-content">
             <Localized id={titleKey}>
-              <h2 className="title title--extra-large color--slate-grey campaign-card__title">Tile Title</h2>
+              <h2 className="title title--extra-large color--slate-grey campaign-card__title"></h2>
             </Localized>
             <div className="campaign-card__duration color--dark-grey-blue">
               <Localized id={durationKey}><span></span></Localized>
             </div>
             <Localized id={buttonKey}>
-              <a href={linkTarget} className="button campaign-card__button">Learn more...</a>
+              <a href={linkTarget} className="button campaign-card__button"></a>
             </Localized>
           </div>
         </article>

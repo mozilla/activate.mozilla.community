@@ -22,7 +22,7 @@ class Footer extends Component {
             </Link></Col>
           <Col lg={3} md={3} sm={3} xs={6} className="footer-nav">
             <Localized id="footer-nav-title">
-              <div className="footer-nav__title">Navigate</div>
+              <div className="footer-nav__title"></div>
             </Localized>
             <Nav stacked className="footer-nav__menu">
               <LinkContainer exact className="page-link" to={`/${currentLocale}/campaigns`} activeClassName={"is-active"}>
@@ -56,7 +56,7 @@ class Footer extends Component {
             <Col lg={12} className="footer__attributions">
               <div className="footer__content">
                 <Localized id="footer-contibution-2019"
-                    mozillaLink={<a rel="license" href="https://www.mozilla.org/foundation/licensing/website-content/">Creative Commons license</a>}>
+                    mozillaLink={<a rel="license" href="https://www.mozilla.org/foundation/licensing/website-content/"></a>}>
                   <p></p>
                 </Localized>
               </div>

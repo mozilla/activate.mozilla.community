@@ -34,7 +34,7 @@ class ActivityTileShort extends Component {
           </header>
 
           <Localized id={titleKey}>
-            <h2 className="activity-card__title title title--medium">Tile Title</h2>
+            <h2 className="activity-card__title title title--medium"></h2>
           </Localized>
           <footer>
             <div className="activity-card__tags">

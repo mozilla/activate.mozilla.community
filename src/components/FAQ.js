@@ -14,7 +14,7 @@ class FAQ extends Component {
 
       <section className="wrapper faq-wrapper">
         <Localized id="faq-title">
-          <h1 className="title text--centered">Frequently Asked Questions</h1>
+          <h1 className="title text--centered"></h1>
         </Localized>
         <Localized id="faq-description">
           <p className="text text--lead text--centered"></p>
@@ -24,14 +24,12 @@ class FAQ extends Component {
             <Col lg={6} md={6} sm={12} xs={12}>
               <div className="faq-section">
                 <Localized id="faq-about-activate">
-                  <h2 className="faq-section__title text--centered color--dark-blue-grey">
-                    What is Activate Mozilla?
-                  </h2>
+                  <h2 className="faq-section__title text--centered color--dark-blue-grey"></h2>
                 </Localized>
                 <div className="faq-sub-section__title">
                   <ChevronRight size={24} className="faq-title__icon icon" />
                   <Localized id="faq-what-title">
-                    <h2>What is Activate Mozilla?</h2>
+                    <h2></h2>
                   </Localized>
                 </div>
                 <div className="faq-sub-section__body">
@@ -42,7 +40,7 @@ class FAQ extends Component {
                 <div className="faq-sub-section__title">
                   <ChevronRight size={24} className="faq-title__icon icon" />
                   <Localized id="faq-who-title">
-                    <h2>Who can be involved in the activities?</h2>
+                    <h2></h2>
                   </Localized>
                 </div>
                 <div className="faq-sub-section__body">
@@ -56,7 +54,7 @@ class FAQ extends Component {
                 <div className="faq-sub-section__title">
                   <ChevronRight size={24} className="faq-title__icon icon" />
                   <Localized id="faq-how-title">
-                    <h2>How do I get involved?</h2>
+                    <h2></h2>
                   </Localized>
                 </div>
                 <div className="faq-sub-section__body">
@@ -68,7 +66,7 @@ class FAQ extends Component {
                 <div className="faq-sub-section__title">
                   <ChevronRight size={24} className="faq-title__icon icon" />
                   <Localized id="faq-why-title">
-                    <h2>Why should I get involved?</h2>
+                    <h2></h2>
                   </Localized>
                 </div>
                 <div className="faq-sub-section__body">
@@ -81,14 +79,12 @@ class FAQ extends Component {
             <Col lg={6} md={6} sm={12} xs={12}>
               <div className="faq-section">
                 <Localized id="faq-activaties">
-                  <h2 className="faq-section__title text--centered color--dark-blue-grey">
-                    Activities
-                  </h2>
+                  <h2 className="faq-section__title text--centered color--dark-blue-grey"></h2>
                 </Localized>
                 <div className="faq-sub-section__title">
                   <ChevronRight size={24} className="faq-title__icon icon" />
                   <Localized id="faq-questions-title">
-                    <h2>What should I do if I have questions?</h2>
+                    <h2></h2>
                   </Localized>
                 </div>
                 <div className="faq-sub-section__body">
@@ -123,7 +119,7 @@ class FAQ extends Component {
                 <div className="faq-sub-section__title">
                   <ChevronRight size={24} className="faq-title__icon icon" />
                   <Localized id="faq-budgetswag-title">
-                    <h2>Can I request budget for these activities?</h2>
+                    <h2></h2>
                   </Localized>
                 </div>
                 <div className="faq-sub-section__body">

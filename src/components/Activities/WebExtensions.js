@@ -47,8 +47,8 @@ class WebExtensions extends Component {
           </Localized>
 
           <Localized id="webext-activity-participants-2"
-            tutorialOneLink={<a href="https://www.youtube.com/playlist?list=PLdIyyZgtQZ7CJR5XFB5xvZH0oaBIT_gTD">Viswaprasath Ks</a>}
-            tutorialTwoLink={<a href="https://www.youtube.com/playlist?list=PLI08QU9qtPEJiBs7rVOT4FvXJlisDgTlS">Trishul Goel</a>}>
+            tutorialOneLink={<a href="https://www.youtube.com/playlist?list=PLdIyyZgtQZ7CJR5XFB5xvZH0oaBIT_gTD"></a>}
+            tutorialTwoLink={<a href="https://www.youtube.com/playlist?list=PLI08QU9qtPEJiBs7rVOT4FvXJlisDgTlS"></a>}>
             <p></p>
           </Localized>
         </SidebarItem>
@@ -64,7 +64,7 @@ class WebExtensions extends Component {
         </Localized>
 
         <Localized id="webext-activity-general"
-            docLink={<a href="https://developer.mozilla.org/Add-ons/WebExtensions">WebExtensions APIs</a>}>
+            docLink={<a href="https://developer.mozilla.org/Add-ons/WebExtensions"></a>}>
             <p></p>
           </Localized>
 
@@ -84,7 +84,7 @@ class WebExtensions extends Component {
           id="planning-workshop"
         >
           <Localized id="webext-activity-planning-1"
-            eventGuideLink={<a href="https://activate.mozilla.community/eventguide/">event guide</a>}>
+            eventGuideLink={<a href="https://activate.mozilla.community/eventguide/"></a>}>
             <p></p>
           </Localized>
 
@@ -126,7 +126,7 @@ class WebExtensions extends Component {
             id="activity-flow-7"
           >
             <Localized id="webext-activity-first-1"
-              introLink={<a href="https://docs.google.com/presentation/d/1SwKbcfI55DEgjQMAzNHvDY5e4ywCUgsWu-qtt2LsxeE/edit#slide=id.p">Introduction to Browser Extensions</a>}>
+              introLink={<a href="https://docs.google.com/presentation/d/1SwKbcfI55DEgjQMAzNHvDY5e4ywCUgsWu-qtt2LsxeE/edit#slide=id.p"></a>}>
               <p></p>
             </Localized>
 
@@ -148,15 +148,15 @@ class WebExtensions extends Component {
                 <li></li>
               </Localized>
               <Localized id="webext-activity-first-6"
-                borderifyLink={<a href="https://developer.mozilla.org/Add-ons/WebExtensions/Your_first_WebExtension">building the borderify extension</a>}>
+                borderifyLink={<a href="https://developer.mozilla.org/Add-ons/WebExtensions/Your_first_WebExtension"></a>}>
                 <li></li>
               </Localized>
               <Localized id="webext-activity-first-7"
-                anatomyLink={<a href="https://developer.mozilla.org/Add-ons/WebExtensions/Anatomy_of_a_WebExtension">anatomy of an extension</a>}>
+                anatomyLink={<a href="https://developer.mozilla.org/Add-ons/WebExtensions/Anatomy_of_a_WebExtension"></a>}>
                 <li></li>
               </Localized>
               <Localized id="webext-activity-first-8"
-                complexLink={<a href="https://github.com/mdn/webextensions-examples">building a more complex extension</a>}>
+                complexLink={<a href="https://github.com/mdn/webextensions-examples"></a>}>
                 <li></li>
               </Localized>
             </ul>
@@ -171,7 +171,7 @@ class WebExtensions extends Component {
             id="activity-flow-11"
           >
             <Localized id="webext-activity-second-1"
-              actionLink={<a href="https://docs.google.com/presentation/d/1GssoHmC0e7TArrqWz4DKBqL2f8CWel182tr5Y2RAr2k/edit#slide=id.p">APIs in Action, Part One</a>}>
+              actionLink={<a href="https://docs.google.com/presentation/d/1GssoHmC0e7TArrqWz4DKBqL2f8CWel182tr5Y2RAr2k/edit#slide=id.p"></a>}>
               <p></p>
             </Localized>
 
@@ -240,7 +240,7 @@ class WebExtensions extends Component {
             </ul>
 
             <Localized id="webext-activity-help-idea"
-              repoLink={<a href="https://github.com/firefox-addons/ideas/issues">repository of extension ideas</a>}>
+              repoLink={<a href="https://github.com/firefox-addons/ideas/issues"></a>}>
               <p></p>
             </Localized>
 
@@ -258,10 +258,10 @@ class WebExtensions extends Component {
             id="activity-flow-15"
           >
             <Localized id="webext-activity-third-1"
-              tabsLink={<a href="https://developer.mozilla.org/Add-ons/WebExtensions/API/tabs">tabs</a>}
-              sidebarLink={<a href="https://developer.mozilla.org/Add-ons/WebExtensions/API/sidebarAction">sidebarAction</a>}
-              requestLink={<a href="https://developer.mozilla.org/Add-ons/WebExtensions/API/webRequest">webRequest</a>}
-              actionLink={<a href="https://docs.google.com/presentation/d/1_iP7TvHQxKbMynh3tjI1kHGh0gZ5ZElG-K9RYvYjbMk/edit">APIs in Action, Part Two</a>}>
+              tabsLink={<a href="https://developer.mozilla.org/Add-ons/WebExtensions/API/tabs"></a>}
+              sidebarLink={<a href="https://developer.mozilla.org/Add-ons/WebExtensions/API/sidebarAction"></a>}
+              requestLink={<a href="https://developer.mozilla.org/Add-ons/WebExtensions/API/webRequest"></a>}
+              actionLink={<a href="https://docs.google.com/presentation/d/1_iP7TvHQxKbMynh3tjI1kHGh0gZ5ZElG-K9RYvYjbMk/edit"></a>}>
               <p></p>
             </Localized>
 
@@ -340,7 +340,7 @@ class WebExtensions extends Component {
             </ul>
 
             <Localized id="webext-activity-help-idea"
-              repoLink={<a href="https://github.com/firefox-addons/ideas/issues">repository of extension ideas</a>}>
+              repoLink={<a href="https://github.com/firefox-addons/ideas/issues"></a>}>
               <p></p>
             </Localized>
 
@@ -357,15 +357,15 @@ class WebExtensions extends Component {
         >
           <ul>
             <Localized id="webext-activity-followup-1"
-              telegramLink={<a href="https://t.me/addonschat">@addonchats</a>}
-              feedbackLink={<a href="https://mzl.la/howwasit">mzl.la/howwasit</a>}>
+              telegramLink={<a href="https://t.me/addonschat"></a>}
+              feedbackLink={<a href="https://mzl.la/howwasit"></a>}>
               <li></li>
             </Localized>
             <Localized id="webext-activity-followup-2">
               <li></li>
             </Localized>
             <Localized id="webext-activity-followup-3"
-              discourseLink={<a href="https://discourse.mozilla.org/t/activate-build-your-own-webextension-add-on-for-firefox/13866">Tell us about your event</a>}>
+              discourseLink={<a href="https://discourse.mozilla.org/t/activate-build-your-own-webextension-add-on-for-firefox/13866"></a>}>
               <li></li>
             </Localized>
           </ul>
@@ -381,35 +381,35 @@ class WebExtensions extends Component {
 
           <ul>
             <Localized id="webext-activity-resources-2"
-              rLink={<a href="https://www.youtube.com/playlist?list=PLdIyyZgtQZ7CJR5XFB5xvZH0oaBIT_gTD">Building Browser Extensions by Viswaprasanth Ks Video Series</a>}>
+              rLink={<a href="https://www.youtube.com/playlist?list=PLdIyyZgtQZ7CJR5XFB5xvZH0oaBIT_gTD"></a>}>
               <li></li>
             </Localized>
             <Localized id="webext-activity-resources-3"
-              rLink={<a href="https://www.youtube.com/playlist?list=PLI08QU9qtPEJiBs7rVOT4FvXJlisDgTlS">WebExtensions Tutorials by Trishul Goel Video Series</a>}>
+              rLink={<a href="https://www.youtube.com/playlist?list=PLI08QU9qtPEJiBs7rVOT4FvXJlisDgTlS"></a>}>
               <li></li>
             </Localized>
             <Localized id="webext-activity-resources-4"
-              rLink={<a href="https://developer.mozilla.org/Add-ons/WebExtensions/Examples">More Examples of APIs in Action</a>}>
+              rLink={<a href="https://developer.mozilla.org/Add-ons/WebExtensions/Examples"></a>}>
               <li></li>
             </Localized>
             <Localized id="webext-activity-resources-5"
-              rLink={<a href="https://github.com/iamVP7/MyExtensions/blob/master/README.md">Extension Examples and Walkthroughs by Viswaprasanth Ks</a>}>
+              rLink={<a href="https://github.com/iamVP7/MyExtensions/blob/master/README.md"></a>}>
               <li></li>
             </Localized>
             <Localized id="webext-activity-resources-6"
-              rLink={<a href="https://hacks.mozilla.org/2015/09/lets_write_a_webextension/">Let’s Write a Web Extension by Blake Winton</a>}>
+              rLink={<a href="https://hacks.mozilla.org/2015/09/lets_write_a_webextension/"></a>}>
               <li></li>
             </Localized>
             <Localized id="webext-activity-resources-7"
-              rLink={<a href="https://davidwalsh.name/web-extensions">Create a Simple WebExtension by David Wals</a>}>
+              rLink={<a href="https://davidwalsh.name/web-extensions"></a>}>
               <li></li>
             </Localized>
             <Localized id="webext-activity-resources-8"
-              rLink={<a href="https://developer.mozilla.org/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs">Browser Compatibility Table for APIs</a>}>
+              rLink={<a href="https://developer.mozilla.org/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs"></a>}>
               <li></li>
             </Localized>
             <Localized id="webext-activity-resources-9"
-              rLink={<a href="https://webextensions.tech">WebExtensions.tech</a>}>
+              rLink={<a href="https://webextensions.tech"></a>}>
               <li></li>
             </Localized>
           </ul>

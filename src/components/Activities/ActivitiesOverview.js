@@ -14,7 +14,7 @@ class ActivitiesOverview extends Component {
     return (
       <section className="container activities">
         <Localized id="activities-homepage-title">
-          <h1 className="title text--centered">Activities galore!</h1>
+          <h1 className="title text--centered"></h1>
         </Localized>
         <div className="content-contained content-contained--small">
           <Localized id="activities-homepage-description">

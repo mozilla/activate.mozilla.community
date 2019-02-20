@@ -25,7 +25,7 @@ class WebcompatSprint extends Component {
               <li></li>
             </Localized>
             <Localized id="webcompat-activity-strength-2"
-              compatList={<a href="https://www.mozilla.org/about/forums/#compatibility">compatibility list</a>}>
+              compatList={<a href="https://www.mozilla.org/about/forums/#compatibility"></a>}>
               <li></li>
             </Localized>
           </ul>
@@ -52,7 +52,7 @@ class WebcompatSprint extends Component {
         </Localized>
 
         <Localized id="webcompat-activity-background"
-          hacksPost={<a href="https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/">recent blog post on Mozilla Hacks</a>}>
+          hacksPost={<a href="https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/"></a>}>
           <p></p>
         </Localized>
       </div>
@@ -72,7 +72,7 @@ class WebcompatSprint extends Component {
           </Localized>
 
           <Localized id="webcompat-activity-organize"
-            eventGuideLink={<a href="/eventguide/">event guide</a>}>
+            eventGuideLink={<a href="/eventguide/"></a>}>
             <p></p>
           </Localized>
 
@@ -93,20 +93,20 @@ class WebcompatSprint extends Component {
             </Localized>
             <ul>
               <Localized id="webcompat-activity-setup-1"
-                firefoxLink={<a href="https://www.mozilla.org/firefox/channel/">Firefox</a>}>
+                firefoxLink={<a href="https://www.mozilla.org/firefox/channel/"></a>}>
                 <li></li>
               </Localized>
               <Localized id="webcompat-activity-setup-2"
-                firefoxLink={<a href="https://www.mozilla.org/en-US/firefox/mobile/">Firefox for Android</a>}>
+                firefoxLink={<a href="https://www.mozilla.org/en-US/firefox/mobile/"></a>}>
                 <li></li>
               </Localized>
               <Localized id="webcompat-activity-setup-3"
-                iosLink={<a href="https://www.mozilla.org/en-US/firefox/mobile/">Firefox for iOS</a>}>
+                iosLink={<a href="https://www.mozilla.org/en-US/firefox/mobile/"></a>}>
                 <li></li>
               </Localized>
             </ul>
             <Localized id="webcompat-activity-setup-4"
-              reporterLink={<a href="https://addons.mozilla.org/addon/webcompatcom-reporter?src=external-activatewebcompat1">Install the Webcompat.com Reporter add-on</a>}>
+              reporterLink={<a href="https://addons.mozilla.org/addon/webcompatcom-reporter?src=external-activatewebcompat1"></a>}>
               <li></li>
             </Localized>
             <ul>
@@ -114,7 +114,7 @@ class WebcompatSprint extends Component {
                 <li></li>
               </Localized>
               <Localized id="webcompat-activity-setup-6"
-                webcompatLink={<a href="https://webcompat.com">webcompat.com</a>}>
+                webcompatLink={<a href="https://webcompat.com"></a>}>
                 <li></li>
               </Localized>
             </ul>
@@ -123,7 +123,7 @@ class WebcompatSprint extends Component {
             </Localized>
             <ul>
               <Localized id="webcompat-activity-flow-2"
-                alexaLink={<a href="https://www.alexa.com/topsites/countries">Alexa Top Sites by Country</a>}>
+                alexaLink={<a href="https://www.alexa.com/topsites/countries"></a>}>
                 <li></li>
               </Localized>
               <Localized id="webcompat-activity-flow-3">
@@ -138,11 +138,11 @@ class WebcompatSprint extends Component {
                 <li></li>
               </Localized>
               <Localized id="webcompat-activity-flow-6"
-                reportingLink={<a href="https://wiki.mozilla.org/Compatibility/Guide#Reporting_a_Web_compatibility_issue">in reported issues</a>}>
+                reportingLink={<a href="https://wiki.mozilla.org/Compatibility/Guide#Reporting_a_Web_compatibility_issue"></a>}>
                 <li></li>
               </Localized>
               <Localized id="webcompat-activity-flow-7"
-                guideLink={<a href="https://wiki.mozilla.org/Compatibility/Guide">go here</a>}>
+                guideLink={<a href="https://wiki.mozilla.org/Compatibility/Guide"></a>}>
                 <li></li>
               </Localized>
             </ul>
@@ -159,7 +159,7 @@ class WebcompatSprint extends Component {
             <p></p>
           </Localized>
 
-          <p className="toggle__attention-link"><a href="https://mzl.la/howwasit">mzl.la/howwasit</a></p>
+          <p className="toggle__attention-link"><a href="https://mzl.la/howwasit"></a></p>
 
           <Localized id="webcompat-activity-end-2">
             <p></p>
@@ -183,12 +183,12 @@ class WebcompatSprint extends Component {
             </Localized>
             <ul>
               <Localized id="webcompat-activity-output-4"
-                discourseLink={<a href="https://discourse.mozilla-community.org/t/activate-mozilla-web-compatibility-sprint/10074/1">Here is the Discourse post to write to</a>}>
+                discourseLink={<a href="https://discourse.mozilla-community.org/t/activate-mozilla-web-compatibility-sprint/10074/1"></a>}>
                 <li></li>
               </Localized>
             </ul>
             <Localized id="webcompat-activity-output-5"
-              mailingLink={<a href="https://www.mozilla.org/about/forums/#compatibility">mailing list</a>}>
+              mailingLink={<a href="https://www.mozilla.org/about/forums/#compatibility"></a>}>
               <li></li>
             </Localized>
           </ul>
@@ -204,17 +204,17 @@ class WebcompatSprint extends Component {
 
           <ul>
             <Localized id="webcompat-activity-extra-2"
-              moreInfoLink={<a href="https://github.com/mozilla/participation-org/issues/237#issuecomment-163632354">More information</a>}>
+              moreInfoLink={<a href="https://github.com/mozilla/participation-org/issues/237#issuecomment-163632354"></a>}>
               <li></li>
             </Localized>
             <Localized id="webcompat-activity-extra-3"
-              moreInfoLink={<a href="https://github.com/mozilla/participation-org/issues/237#issuecomment-163632626">More information</a>}>
+              moreInfoLink={<a href="https://github.com/mozilla/participation-org/issues/237#issuecomment-163632626"></a>}>
               <li></li>
             </Localized>
           </ul>
 
           <Localized id="webcompat-activity-extra-4"
-            contributorsLink={<a href="https://webcompat.com/contributors">Webcompat’s contributors page</a>}>
+            contributorsLink={<a href="https://webcompat.com/contributors"></a>}>
             <p></p>
           </Localized>
 

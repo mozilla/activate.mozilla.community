@@ -8,7 +8,7 @@ class NotFound extends Component {
     return (
       <section className="not-found content-contained">
         <Localized id="not-found-title">
-          <h1 className="title text--centered">404 - Page not found!</h1>
+          <h1 className="title text--centered"></h1>
         </Localized>
         <Localized id="not-found-description">
           <p className="text text--centered"></p>

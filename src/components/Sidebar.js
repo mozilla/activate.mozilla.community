@@ -25,13 +25,13 @@ class Sidebar extends Component {
           <div className="sidebar__icon-wrapper">
             <Tag size={20} className="sidebar__icon" />
             <Localized id={tagKey}>
-              <span className="sidebar__title">Tag</span>
+              <span className="sidebar__title"></span>
             </Localized>
           </div>
           <div className="sidebar__icon-wrapper">
             <Watch size={20} className="sidebar__icon" />
             <Localized id={durationKey}>
-              <h3 className="sidebar__title">Activity Duration</h3>
+              <h3 className="sidebar__title"></h3>
             </Localized>
           </div>
         </div>

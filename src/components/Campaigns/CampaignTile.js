@@ -28,7 +28,7 @@ class CampaignTile extends Component {
             </div>
             <div className="campaign-card__col campaign-card__col--small">
               <Localized id={titleKey}>
-                <h2 className="title title--large color--slate-grey campaign-card__title">Tile Title</h2>
+                <h2 className="title title--large color--slate-grey campaign-card__title"></h2>
               </Localized>
                 <div className="campaign-card__duration color--dark-grey-blue">
                   <Localized id={durationKey}><span></span></Localized>
