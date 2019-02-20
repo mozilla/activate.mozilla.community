@@ -60,7 +60,7 @@ campaign-archive = Past Campaigns
 campaign-archive-description = Mozilla communities do great work together. These campaigns are over now but feel free to check out what everyone accomplished.
 
 newsletter-title-2 = Get Updates
-newsletter-description-subscribe = Subscribe to our newsletter and join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission
+newsletter-description-subscribe = Subscribe to our newsletter and join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission.
 newsletter-slice-title = Keep up to date.
 newsletter-email = Email
 newsletter-form-email-placeholder =

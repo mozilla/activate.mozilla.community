@@ -151,6 +151,11 @@ class NewsletterFooterForm extends Component {
             <Localized id="footer-newsletter-title">
               <div className="footer-nav__title"></div>
             </Localized>
+            <div className="form_group text text--small newsletter__description">
+              <Localized id="newsletter-description-subscribe">
+                <p></p>
+              </Localized>
+            </div>
             <input type="hidden" id="fmt-footer" name="fmt-footer" value="H" />
             <input type="hidden" id="newsletters-footer" name="newsletters-footer" value="about-mozilla" />
 

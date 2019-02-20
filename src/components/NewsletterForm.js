@@ -24,6 +24,10 @@ class NewsletterForm extends Component {
         <Localized id="newsletter-title-2">
           <h1 className="title title--extra-large title--lighter text--centered newsletter__title">Never miss a chance to support Mozilla!</h1>
         </Localized>
+
+        <Localized id="newsletter-description-subscribe">
+          <p className="text text--centered content-contained content-contained--extra-small"></p>
+        </Localized>
       </div>
     );
   };

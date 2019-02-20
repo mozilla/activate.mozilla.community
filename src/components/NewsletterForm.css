@@ -218,8 +218,8 @@
   width: auto;
 }
 
-.newsletter--illustrated .newsletter__subscribe-icon {
-
+.newsletter__description {
+  color: white;
 }
 
 .newsletter__subscribe-text {
