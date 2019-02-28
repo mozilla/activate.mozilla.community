@@ -303,6 +303,7 @@ vr-activity-flow-20 = Granska hela händelsen
 vr-activity-flow-22 = Diskutera takeaways
 vr-activity-flow-23 = Diskutera individuella handlingsplaner och uppföljningsplaner
 vr-activity-end = Direkt i slutet av aktiviteten
+vr-activity-output-3 = Tack e-post till deltagare med:
 vr-activity-output-4 = Ett återkopplingsformulär
 vr-activity-output-5 = Förslag till att Twittra sin erfarenhet. Nämn @mozillavr, #MozActivate och #WebVRCamp
 vr-activity-output-6 = Förslag att skriva ett blogginlägg och dela
