@@ -343,3 +343,4 @@ webext-activity-goals-workshop-1 = Workshop som är besökt av fem personer elle
 webext-activity-goals-workshop-3 = 100% av deltagarna får e-post för uppföljning av evenemanget
 webext-activity-participants = Hitta deltagare
 webext-activity-participants-1 = Din målgrupp för det här evenmanget ska vara personer som har skrivit HTML och JavaScript-kod tidigare.
+webext-activity-participants-2 = Är du ny på JavaScript och HTML? Kolla in dessa handledningar av communitymedlemmar <tutorialOneLink>Viswaprasath Ks</tutorialOneLink> och <tutorialTwoLink>Trishul Goel</tutorialTwoLink> för att öka dina programmeringsförmåga och skapa webbläsartillägg!
