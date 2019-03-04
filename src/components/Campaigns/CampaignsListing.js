@@ -53,12 +53,54 @@ class CampaignsListing extends Component {
           </div>
         <Grid>
           <Row className="campaign-list__row">
-            <CampaignTile
+          <CampaignTile
+            titleImage="/images/firefox-fights.jpg"
+            titleKey="firefox-fights-title"
+            descriptionKey="firefox-fights-description"
+            durationKey="firefox-fights-duration"
+            linkTarget="https://events.mozilla.org/firefoxfightsforyoucampaign"
+          ></CampaignTile>
+          <CampaignTile
               titleImage="/images/dark-funnel.jpg"
               titleKey="dark-funnel-title"
               descriptionKey="dark-funnel-description"
               durationKey="dark-funnel-duration"
               linkTarget="https://events.mozilla.org/darkfunnelEN"
+            ></CampaignTile>
+            <CampaignTile
+              titleImage="/images/firefox-support.jpg"
+              titleKey="firefox-support-title"
+              descriptionKey="firefox-support-description"
+              durationKey="firefox-support-duration"
+              linkTarget="https://supportsprint.mozilla.community/"
+            ></CampaignTile>
+            <CampaignTile
+              titleImage="/images/common-voice.jpg"
+              titleKey="common-voice-title"
+              descriptionKey="common-voice-description"
+              durationKey="common-voice-duration"
+              linkTarget="https://voice-sprint.mozilla.community/"
+            ></CampaignTile>
+            <CampaignTile
+              titleImage="/images/adhaar.jpg"
+              titleKey="adhaar-title"
+              descriptionKey="adhaar-description"
+              durationKey="adhaar-duration"
+              linkTarget="https://foundation.mozilla.org/en/campaigns/aadhaar/"
+            ></CampaignTile>
+            <CampaignTile
+              titleImage="/images/new-firefox.jpg"
+              titleKey="new-firefox-title"
+              descriptionKey="new-firefox-description"
+              durationKey="new-firefox-duration"
+              linkTarget="https://newfirefox.mozilla.community/"
+            ></CampaignTile>
+            <CampaignTile
+              titleImage="/images/quantum-sprint.jpg"
+              titleKey="quantum-sprint-title"
+              descriptionKey="quantum-sprint-description"
+              durationKey="quantum-sprint-duration"
+              linkTarget="https://firefoxsprint.mozilla.community/"
             ></CampaignTile>
           </Row>
         </Grid>

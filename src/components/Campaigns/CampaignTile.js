@@ -12,6 +12,7 @@ class CampaignTile extends Component {
       titleKey,
       descriptionKey,
       durationKey,
+      linkTarget,
     } = this.props;
 
     const cardClassNames = [
@@ -27,12 +28,14 @@ class CampaignTile extends Component {
               <img className="campaign-card__image" src={ titleImage } alt="" />
             </div>
             <div className="campaign-card__col campaign-card__col--small">
-              <Localized id={titleKey}>
-                <h2 className="title title--large color--slate-grey campaign-card__title"></h2>
-              </Localized>
-                <div className="campaign-card__duration color--dark-grey-blue">
-                  <Localized id={durationKey}><span></span></Localized>
-                </div>
+              <h2 className="title title--large color--slate-grey campaign-card__title">
+                <Localized id={titleKey}>
+                  <a href={linkTarget}></a>
+                </Localized>
+              </h2>
+              <div className="campaign-card__duration color--dark-grey-blue">
+                <Localized id={durationKey}><span></span></Localized>
+              </div>
             </div>
           </div>
           <div className="text campaign-card__text color--slate-grey">

@@ -50,7 +50,31 @@ activities-listing-description = We call these activities “evergreen” becaus
 
 dark-funnel-title = Become a Dark Funnel Detective!
 dark-funnel-description = Shed light on the Dark Funnel by searching for and reporting websites that have unauthorized download buttons as part of the Dark Funnel Campaign!
-dark-funnel-duration = September 17-24
+dark-funnel-duration = September 17-24 2018
+
+quantum-sprint-title = Firefox Quantum Sprint
+quantum-sprint-description = Firefox Quantum is soon to be launched and this is our opportunity to make Firefox rise again. Participate in the Firefox Quantum Sprint and make a difference by ensuring that Firefox runs smoothly in your region.
+quantum-sprint-duration = October 2-8 2017
+
+new-firefox-title = New Firefox Social Media
+new-firefox-description = Help us spread the word about the New Firefox! On Tuesday the 14th, 14:00 UTC, tweet about what you love in the new Firefox using #NewFirefox or retweet Firefox’s tweets.
+new-firefox-duration = November 14 2017
+
+adhaar-title = Aadhaar Campaign
+adhaar-description = Join Mozilla’s Executive Chairwoman, Mitchell Baker in signing an open letter to the Justice Srikrishna Committee highlighting our main concerns.
+adhaar-duration = January 2018
+
+common-voice-title = Common Voice Sprint
+common-voice-description = Would you like to help us create open-source voice technology for your language(s)? The first step is gathering voice data in your language(s). But in order to do this, we need thousands of sentences for people to read. So we are asking you to submit as many sentences as possible in your language(s) so future contributors can read them on the Common Voice website.
+common-voice-duration = May 10-11 2018
+
+firefox-support-title = Firefox Support Sprint
+firefox-support-description = Help users who are asking for support in reviews on the Play Store. Join Mozillians around the world for a week of answering questions and helping users have a great experience!
+firefox-support-duration = June 2-9 2018
+
+firefox-fights-title = Firefox Fights for you
+firefox-fights-description = Help spread the word about Firefox by making your own "Firefox Fights For You" video in your own language and sharing it with world!
+firefox-fights-duration = January 11 - February 3 2019
 
 current-campaign-learn-more = Get Involved
 campaign-active = Active Campaign
