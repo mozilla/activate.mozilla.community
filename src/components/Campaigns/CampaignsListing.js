@@ -68,6 +68,13 @@ class CampaignsListing extends Component {
               linkTarget="https://events.mozilla.org/darkfunnelEN"
             ></CampaignTile>
             <CampaignTile
+              titleImage="/images/firefox-addons.jpg"
+              titleKey="firefox-addons-title"
+              descriptionKey="firefox-addons-description"
+              durationKey="firefox-addons-duration"
+              linkTarget="https://discourse.mozilla.org/t/the-add-on-localization-campaign-is-happening-join-us/29432"
+            ></CampaignTile>
+            <CampaignTile
               titleImage="/images/firefox-support.jpg"
               titleKey="firefox-support-title"
               descriptionKey="firefox-support-description"

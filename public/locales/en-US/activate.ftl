@@ -48,10 +48,6 @@ activities-homepage-description = Contribute your skills and learn from others. 
 activities-listing-title = Activities
 activities-listing-description = We call these activities “evergreen” because they’re always important, relevant to Mozilla’s mission and need your participation now!
 
-dark-funnel-title = Become a Dark Funnel Detective!
-dark-funnel-description = Shed light on the Dark Funnel by searching for and reporting websites that have unauthorized download buttons as part of the Dark Funnel Campaign!
-dark-funnel-duration = September 17-24 2018
-
 quantum-sprint-title = Firefox Quantum Sprint
 quantum-sprint-description = Firefox Quantum is soon to be launched and this is our opportunity to make Firefox rise again. Participate in the Firefox Quantum Sprint and make a difference by ensuring that Firefox runs smoothly in your region.
 quantum-sprint-duration = October 2-8 2017
@@ -71,6 +67,14 @@ common-voice-duration = May 10-11 2018
 firefox-support-title = Firefox Support Sprint
 firefox-support-description = Help users who are asking for support in reviews on the Play Store. Join Mozillians around the world for a week of answering questions and helping users have a great experience!
 firefox-support-duration = June 2-9 2018
+
+firefox-addons-title = Add-ons Localization Campaing
+firefox-addons-description = Join forces with your fellow Mozillians and help top Firefox Add-Ons by localizing them into the top 10 languages.
+firefox-addons-duration = June 14 - July 2 2018
+
+dark-funnel-title = Become a Dark Funnel Detective!
+dark-funnel-description = Shed light on the Dark Funnel by searching for and reporting websites that have unauthorized download buttons as part of the Dark Funnel Campaign!
+dark-funnel-duration = September 17-24 2018
 
 firefox-fights-title = Firefox Fights for you
 firefox-fights-description = Help spread the word about Firefox by making your own "Firefox Fights For You" video in your own language and sharing it with world!
