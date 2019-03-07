@@ -36,7 +36,7 @@ export function changeLocales(userLocales) {
         bundle.addMessages(messages[locale]);
         yield bundle;
       }
-    }
+    };
 
     dispatch({
       type: 'CHANGE_LOCALES_RESPONSE',

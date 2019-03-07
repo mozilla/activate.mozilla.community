@@ -1,3 +1,5 @@
+/* eslint-disable no-console */
+
 // In production, we register a service worker to serve assets from local cache.
 
 // This lets the app load faster on subsequent visits in production, and gives
@@ -61,7 +63,7 @@ function registerValidSW(swUrl) {
               // At this point, everything has been precached.
               // It's the perfect time to display a
               // "Content is cached for offline use." message.
-              console.log('Content is cached for offline use.');
+             console.log('Content is cached for offline use.');
             }
           }
         };
@@ -74,6 +76,7 @@ function registerValidSW(swUrl) {
 
 function checkValidServiceWorker(swUrl) {
   // Check if the service worker can be found. If it can't reload the page.
+  // eslint-disable-next-line no-undef
   fetch(swUrl)
     .then(response => {
       // Ensure service worker exists, and that we really are getting a JS file.

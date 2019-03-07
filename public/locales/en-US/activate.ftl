@@ -1,30 +1,108 @@
+homepage-document-title =
+    .title = Welcome to Activate Mozilla
+activities-document-title =
+    .title = Activities Listing | Activate Mozilla
+campaigns-document-title =
+    .title = Campaigns | Activate Mozilla
+faq-document-title =
+    .title = Frequently Asked Question | Activate Mozilla
+newsletter-document-title =
+    .title = Sign up for our Newsletter | Activate Mozilla
+
 nav-activities = Activities
+nav-campaigns = Campaigns
 nav-event-guide = Event Guide
 nav-faq = FAQ
 nav-impact = Impact
 nav-impact-form = Impact Form
+nav-select-language = Select Language
 twitter = Twitter
 discussion = Discussion
 contribute = Contribute
 legal = Legal
-footer-description = Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a target="_blank"  rel="noopener noreferrer" href="//mozilla.org">mozilla.org</a>
+
+footer-nav-title = Navigate
+footer-newsletter-title = Newsletter Sign-up
+footer-contibution-2019 = Portions of this content are ©1998–2019 by individual mozilla.org contributors. Content available under a <mozillaLink>Creative Commons license</mozillaLink>.
+footer-privacy-note = Website Privacy Notice
+footer-cookies = Cookies
+footer-legal = Legal
+
+not-found-title = 404 - Page not found!
+not-found-description = The page you are looking for could not be found. It may have been removed in the meantime or the URL might be wrong.
+
+jumbotron-campaign-title = Contribute in 5… 4…
+jumbotron-campaign-description = Find fun, impactful ways to support <missionLink>Mozilla’s mission</missionLink> by contributing. Get active now!
+
+jumbotron-no-campaign-title = Campaign incoming!
+jumbotron-no-campaign-description = An extra cool Mozilla campaign is coming soon, make sure you’ll be the first to know when it launches!
 
 activate = Activate
 activate-description = The Activate Mozilla campaign aims at the grassroots of volunteer contributions. We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now by providing guidance to mobilizers on how to recruit contributors and create community around meaningful Mozilla projects.
-activities = Activities
 
-ongoing-campaign = Become a Dark Funnel Detective!
-ongoing-campaign-description = Shed light on the Dark Funnel by searching for and reporting websites that have unauthorized download buttons as part of the Dark Funnel Campaign!
-ongoing-campaign-learn-more = Learn more...
-  .href = https://events.mozilla.org/darkfunnelEN
+home-cta = Share your experience with #MozActivate
 
-newsletter-title = Never miss a chance to support Mozilla!
+activities-homepage-title = Activities
+activities-homepage-description = Contribute your skills and learn from others. Here are some ways that you can get involved today.
+
+activities-listing-title = Activities
+activities-listing-description = We call these activities “evergreen” because they’re always important, relevant to Mozilla’s mission and need your participation now!
+
+quantum-sprint-title = Firefox Quantum Sprint
+quantum-sprint-description = Firefox Quantum is soon to be launched and this is our opportunity to make Firefox rise again. Participate in the Firefox Quantum Sprint and make a difference by ensuring that Firefox runs smoothly in your region.
+quantum-sprint-duration = October 2-8 2017
+
+new-firefox-title = New Firefox Social Media
+new-firefox-description = Help us spread the word about the New Firefox! On Tuesday the 14th, 14:00 UTC, tweet about what you love in the new Firefox using #NewFirefox or retweet Firefox’s tweets.
+new-firefox-duration = November 14 2017
+
+adhaar-title = Aadhaar Campaign
+adhaar-description = Join Mozilla’s Executive Chairwoman, Mitchell Baker in signing an open letter to the Justice Srikrishna Committee highlighting our main concerns.
+adhaar-duration = January 2018
+
+common-voice-title = Common Voice Sprint
+common-voice-description = Would you like to help us create open-source voice technology for your language(s)? The first step is gathering voice data in your language(s). But in order to do this, we need thousands of sentences for people to read. So we are asking you to submit as many sentences as possible in your language(s) so future contributors can read them on the Common Voice website.
+common-voice-duration = May 10-11 2018
+
+firefox-support-title = Firefox Support Sprint
+firefox-support-description = Help users who are asking for support in reviews on the Play Store. Join Mozillians around the world for a week of answering questions and helping users have a great experience!
+firefox-support-duration = June 2-9 2018
+
+firefox-addons-title = Add-ons Localization Campaing
+firefox-addons-description = Join forces with your fellow Mozillians and help top Firefox Add-Ons by localizing them into the top 10 languages.
+firefox-addons-duration = June 14 - July 2 2018
+
+dark-funnel-title = Become a Dark Funnel Detective!
+dark-funnel-description = Shed light on the Dark Funnel by searching for and reporting websites that have unauthorized download buttons as part of the Dark Funnel Campaign!
+dark-funnel-duration = September 17-24 2018
+
+firefox-fights-title = Firefox Fights for you
+firefox-fights-description = Help spread the word about Firefox by making your own "Firefox Fights For You" video in your own language and sharing it with world!
+firefox-fights-duration = January 11 - February 3 2019
+
+current-campaign-learn-more = Get Involved
+campaign-active = Active Campaign
+campaign-active-description = This is the best way to get active with Mozilla right now. Give it a try!
+
+campaign-archive = Past Campaigns
+campaign-archive-description = Mozilla communities do great work together. These campaigns are over now but feel free to check out what everyone accomplished.
+
+newsletter-title-2 = Get Updates
 newsletter-description-subscribe = Subscribe to our newsletter and join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission.
+newsletter-slice-title = Keep up to date.
 newsletter-email = Email
-newsletter-submit = Sign up now
+newsletter-form-email-placeholder =
+    .placeholder = Enter your e-mail
+    .aria-label = Enter your e-mail
+
+newsletter-submit = Subscribe
 newsletter-subscribed-title = Thanks!
 newsletter-subscribed-text = If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox and spam filter for an email from us.
 newsletter-privacy = I'm okay with Mozilla handling my info as explained in this <privacyLink>Privacy Policy</privacyLink>.
+newsletter-country-label = Country
+newsletter-country-label-option = Select country
+newsletter-language-label = Language
+newsletter-language-label-option = Select language
 
 hours = Hours
 testing = Testing
@@ -32,6 +110,8 @@ programming = Programming
 participation = Participation
 
 nightly-title = Using & Testing Nightly
+nightly-document-title =
+    .title = Using & Testing Nightly | Activate Mozilla
 nightly-description = This activity has great potential to make an impact by increasing overall involvement in Nightly, simply by introducing community to tasks that they can engage in related to Nightly. Finding and filing issues early in the cycle means by the time Firefox gets to release, the code is in good shape.
 nightly-duration = 1-3 hours
 techspeakers-title = Host a Technology Talk with Tech Speakers!
@@ -41,38 +121,49 @@ webextensions-title = Build Your Own Extension for Firefox
 webextensions-description = Add-ons provide a safe, simple, and powerful way to personalize your browsing experience. With WebExtensions APIs, it’s easier than ever to create extensions that can be easily ported to Firefox, Chrome, Edge, and Opera. Through this activity you’ll help connect new developers with an opportunity to create browser extensions to solve real problems and make their lives and the web better.
 webextensions-duration= 1-3 hours
 rust-title = Dive Into Rust
+rust-document-title =
+    .title = Dive Into Rust | Activate Mozilla
+
 rust-description = Rust is a systems programming language important to the future of the web. It runs blazingly fast, prevents segfaults, and guarantees thread safety. With your help, we want more developers to understand, use and evangelize this language in order to make the web better and more secure.
 rust-duration = 2-3 hours
+
 webvr-title = WebVR Camp
+webvr-document-title =
+    .title = WebVR Camp | Activate Mozilla
+
 webvr-description = A-Frame is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality. Run events to onboard developers into 3D and write some great demos. This will advance WebVR, an open platform for virtual reality that leverages the Web.
 webvr-duration = 3-4 hours
+
+webcompat-document-title =
+    .title = Web Compatibility Sprint | Activate Mozilla
 webcompat-title = Web Compatibility Sprint
 webcompat-description = Web Compatibility, the ability for all Web content to run in all browsers, is important. There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired. Test sites and spread the message about compatibility.
 webcompat-duration = 2-3 hours
 
 faq-title = Frequently Asked Questions
+faq-description = You have questions? We have answers!
+faq-about-activate = About Activate
+faq-activaties = Activities
 faq-what-title = What is Activate Mozilla?
-faq-what-answer = Activate Mozilla is a campaign for Mozillians around the world to have impact in areas key to Mozilla’s mission. We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now, and provide clear steps on how to get involved right away. These will be presented in the form of activities.
+faq-what-answer-2 = Activate is a way for Mozillians around the world to have impact in areas key to Mozilla’s mission. This site brings clarity to the most important contribution areas for Mozilla right now, and provides easy ways to get involved right away.
 faq-who-title = Who can be involved in the activities?
-faq-who-answer = Anyone who wants to support Mozilla.
+faq-who-answer-2 = Anyone who wants to support Mozilla by contributing in a healthy and constructive manner. To create a safe and positive community experience for, all we require everyone who participates to agree and adhere to the <cpgLink>Community Participation Guidelines</cpgLink>.
 faq-how-title = How do I get involved?
-faq-how-answer = Just navigate the site and read the different areas and activities described. There you will find more information on why the activities have been chosen, and concrete instructions on how to contribute to each of them.
+faq-how-answer-2 = Just navigate the site and read about the different campaigns and activities described. Here you will find more information about the activities that have been chosen, and instructions on how to contribute to each of them.
 faq-why-title = Why should I get involved?
-faq-why-answer = The areas and activity described in this site are a result of a joint effort from the Mozilla Participation team and other teams to surface what is imporant for the organization right now. If you want to support Mozilla and you are unsure about what to do, this campaign is for you.
-faq-goals-title = What are the goals of the campaign?
-faq-goals-answer = The goal is providing guidance to mobilizers on how to recruit contributors and create community around meaningful Mozilla projects.
+faq-why-answer-2 = The campaigns and activities described on this site are a result of a joint effort to surface what is most important for Mozilla right now. If you want to support Mozilla and you are unsure about what to do, Activate is for you.
 faq-questions-title = What should I do if I have questions?
-faq-questions-answer = You can ask directly creating a new topic at the <leadersLink>Participation Leaders forum</leadersLink>.
-faq-budget-title = Can I request budget for these activities?
-faq-budget-answer = We encourage you to run these as lean as possible, but realise that sometimes there can be some costs incurred for logistics or refreshments. If your event meets the requirements laid out in the activity, there is a fund available of up to $150 USD per event. This can be used for only the following items/services:
-faq-budget-answer-2 = Locally produced stickers and/or other small items (only for an event for over 50 people)
-faq-budget-answer-3 = Food for participants for an event over than 5 hours
-faq-budget-answer-4 = Venue rental (in the case of the no other alternative)
-faq-budget-answer-5 = Travel for expert on the field (currently allowed only for Rust events)
-faq-budget-answer-6 = For some activities, extra budget is available for special needs. For example, VR headsets for the WebVR Camp activity. Details will be available on the relevant activity pages.
-faq-budget-answer-7 = To make the request, you will need to make a Reps budget request. If you are not a Rep, please contact a local Rep to help you. We will fast-track valid requests, which are ones that meet the requirements of the activity. For larger budget requests, it will be processed like any other Reps budget request and there is no guarantee it will be approved and even if so, whether it will be on time.
-faq-swag-title = Can I request swag for these activities?
-faq-swag-answer = In the case you need swag you can either request it via the <formLink>swag request form</formLink> or <produceLink>produce on your own</produceLink>. If you are not a Rep, you can also ask a nearby Rep to file the request for you. In all cases your request will be evaluated by the bug wrangler before being approved/rejected.
+faq-questions-answer-2 = Ask your questions on <discourseLink>Mozilla’s Discourse</discourseLink> under the topic that best fits your question. Not sure where to ask, put it in <mozilliansLink>Mozillians</mozilliansLink>.
+faq-code-title = What if I want to contribute code?
+faq-code-answer = Most of the activities on Activate do not require advanced skills or knowledge. However, there are lots of great technical projects at Mozilla where you can contribute to. We recommend taking a look at this directory <codetributeLink>here</codetributeLink>.
+faq-budgetswag-title = Can I request swag or budget for these activities?
+faq-budgetswag-answer = We encourage you to run these as lean as possible, but realise that sometimes there can be some costs incurred for logistics or refreshments. If you’re taking part in activate campaign you can request budget for the following items/services:
+faq-budgetswag-answer-2 = Locally produced stickers and/or other small items (only for an event for over 50 people)
+faq-budgetswag-answer-3 = Food for participants for an event over 5 hours
+faq-budgetswag-answer-4 = Venue rental (in the case of the no other alternative)
+faq-budgetswag-answer-5 = More details will be available on the relevant campaign pages.
+faq-budgetswag-answer-6 = To make the request, you can <repLink>contact a local Resources Rep</repLink> to help you. These volunteers are trained to help contributors around the world with budget requests like yours.
+faq-budgetswag-answer-7 = Just remember to ask at least 2-3 weeks in advance to ensure that there is enough time for shipping.
 
 eg-title = Activate Event Planning Guide
 eg-started = Get Started
@@ -102,7 +193,6 @@ eg-equipment = Equipment
 eg-equipment-content = Determine your tech needs early on and decide whether you need laptops, projectors, AV equipment, extension cords and power cords. Some events are BYOL (Bring Your Own Laptop) in which case it is good to send a reminder to individuals to not forget their laptops the day before the event. If individuals are unable to provide their own laptops, consider using a space where you can access a computer room or laptops. Another idea is to contact local tech organizations or community computer labs that have access to computers and ask them to sponsor equipment for the event in exchange for promotion. When deciding how many computers you need don’t forget that you can have participants working in pairs or bigger groups. It’s a good idea to try and have an extra laptop on hand for participants just in case of any technical problems.
 eg-backup = Back-Up Plan
 eg-backup-content = Unfortunately, tech problems are an all too familiar part of events. No matter the preparation, wireless networks or computers can cause unexpected issues. If a few computers are malfunctioning, perhaps ask participants to buddy up on computers and work in groups. We suggest having a couple offline activities prepared in the case of an emergency.
-eg-running = Running Your event
 eg-setup = Set-up
 eg-setup-content = When preparing for event, be sure to arrive early to set-up the space as needed. Doing a walkthrough before the event will make things much easier when it’s time to go. This will allow you plenty of time in case unexpected issues arise. Remind your co-leads to welcome newcomers, and make sure your co-leaders know what their jobs are.
 eg-welcome = Welcome & Registration
@@ -132,7 +222,7 @@ nightly-activity-before-1 = Read the <eventGuideLink>Event Guide</eventGuideLink
 nightly-activity-before-2 = Copy and adapt the <nightlyIntroLink>Introduction to Nightly slides</nightlyIntroLink>
 nightly-activity-before-3 = Give a thought whether it will be self-facilitated or with someone who has Nightly experience. You can find help on the Mozilla Nightly Testers Telegram group or the irc.mozilla.org Nightly channel.
 nightly-activity-before-4 = Create an event page on a platform popular in your locale, such as Facebook or Meetup.com, and keep posting interesting information about Nightly & related topics to keep continue the conversation on Twitter.
-nightly-activity-tip = In case you expect bandwidth issues you can download copies of <downloadLink">Nightly for every platform</downloadLink> as well as <androidLink>Android builds</androidLink> to an USB stick in case you don’t have enough bandwidth for downloads at the event.
+nightly-activity-tip-2 = In case you expect bandwidth issues you can download copies of <downloadLink>Nightly for every platform</downloadLink> as well as <androidLink>Android builds</androidLink> to an USB stick in case you don’t have enough bandwidth for downloads at the event.
 nightly-activity-duration = Duration: For duration, we recommend 1-3 hours with at least 5 attendees.
 nightly-activity-before2 = 1 Week Before the Event
 nightly-activity-before2-1 = Confirmed selected attendees through email
@@ -172,6 +262,9 @@ nightly-activity-impact-4 = 50 Mozillians run events
 nightly-activity-impact-5 = 100 new followers to Nightly Twitter account
 nightly-activity-audience = Audience
 nightly-activity-audience-description = Your audience for this activity are people that are comfortable using the different features of Firefox and would like to dive a little deeper.  Maybe they want to learn some useful core skills that will help them as Mozillians or perhaps are comfortable using Developer Edition and want to learn more about Nightly. As just using Nightly gives us important information such as crashes, this is not only for developers or technical persons.
+
+techspeakers-document-title =
+    .title = Host a Technology Talk with Tech Speakers! | Activate Mozilla
 
 techspeakers-activity-intro = As Mozilla we’re working to help to keep the internet healthy, open and accessible to all but we can’t do it alone. We need to engage with people who are on the front lines of building the internet: web developers, designers, and other technologists who care about the open web. We need to get them excited about Mozilla as a technology leader.
 techspeakers-activity-general = Mozilla Tech Speakers are volunteer contributors who have undergone a six week training program to learn how to spread open web technologies to developers all over the world, from the voice of Mozilla. The aim of this activity is for you to work with Tech Speakers to reach as many web developers as we can with tech topics, and to get their feedback back to Mozilla.
@@ -346,24 +439,30 @@ vr-activity-format-14 = Join the <slackLink>A-Frame Slack Channel</slackLink>
 vr-activity-format-15 = [Optional] Play with A-Frame, starting with a <worldScene>Hello World scene</worldScene>. Skim through the <docLink>documentation</docLink>.
 vr-activity-flow = Event Flow
 vr-activity-flow-1 = This is how you can break up a 4 hour event format. You can try to shorten some sections if you want to do it quicker.
-vr-activity-flow-2 = Getting Started (30 minutes)
+vr-activity-flow-2-reworked = Getting Started
+vr-activity-flow-2-duration = 30 minutes
 vr-activity-flow-3 = Introduction of speakers and attendees with an ice breaker session (e.g., <ballLink>catch the ball</ballLink>)
 vr-activity-flow-4 = About <missionLink>Mozilla’s mission</missionLink> as a non-profit and community-focused organization.
 vr-activity-flow-5 = About <blogLink>VR, WebVR & A-Frame</blogLink>
 vr-activity-flow-6 = Quickly note social tags: #MozActivate, #WebVRCamp, @mozillavr
-vr-activity-flow-7 = A-Frame <conceptLink>Concepts</conceptLink> (30 minutes)
+vr-activity-flow-7-reworked = A-Frame Concepts
+vr-activity-flow-7-duration = 30 minutes
 vr-activity-flow-8 = <demoLink>Demo</demoLink> of basic A-Frame scenes & apps. More examples at <weekLink>A Week of A-Frame</weekLink>
 vr-activity-flow-9 = Show off <apainterLink>A-Painter</apainterLink>
 vr-activity-flow-10 = Introduce HTML tags. If audience is more technical, also introduce the <patternLink>entity-component-system pattern</patternLink>
-vr-activity-flow-11 = Time to Hack (1 hour)
+vr-activity-flow-11-reworked = Time to Hack
+vr-activity-flow-11-duration = 1 hour
 vr-activity-flow-12 = Propose your idea of VR experiences to build
 vr-activity-flow-13 = Can get started with <codepenLink>Codepen</codepenLink> or the <boilerplateLink>Boilerplate</boilerplateLink>
 vr-activity-flow-14 = For the boilerplate, we recommend using a local server such as <mongooseLink>Mongoose</mongooseLink> or through Node.js.
-vr-activity-flow-15 = More About A-Frame (30 minutes)
+vr-activity-flow-15-reworked = More About A-Frame
+vr-activity-flow-15-duration = 30 minutes
 vr-activity-flow-16 = A-Frame in depth (e.g., demo of advanced scenes, how are they built, using community components)
-vr-activity-flow-17 = Continue Hacking (1 hour)
+vr-activity-flow-17-reworked = Continue Hacking
+vr-activity-flow-17-duration = 1 hour
 vr-activity-flow-18 = Improve your VR experience or build something else using more advanced concepts
-vr-activity-flow-19 = Review & Plan (30 minutes)
+vr-activity-flow-19-reworked = Review & Plan
+vr-activity-flow-19-duration = 30 minutes
 vr-activity-flow-20 = Review the whole event
 vr-activity-flow-21 = Talk about <communityLink>A-Frame community</communityLink>. Don’t forget to mention if you have a separate communication medium to connect with the local WebVR community (e.g., WebVR-India telegram group)
 vr-activity-flow-22 = Discuss takeaways
@@ -383,20 +482,22 @@ vr-activity-output-8 = Send an event report or blog post and photo-stream link e
 vr-activity-output-9 = Share a summary <discourseLink>this Discourse thread</discourseLink>
 vr-activity-contact = Contact
 vr-activity-contact-1 = Want to find out more about the A-Frame community? Ping us on the <slackLink>A-Frame Slack channel</slackLink> or Tweet at us <twitterLink>@aframevr</twitterLink>. Visit the <communityLink>A-Frame community page</communityLink> for more details.
-vr-activity-impact = Impact and Metrics
-vr-activity-goals = Goals for this area
-vr-activity-impact-1 = Impact:
+vr-activity-impact-1-reworked = Impact
 vr-activity-impact-2 = 200 people signed up to the <slackLink>A-Frame Slack channel</slackLink>
 vr-activity-impact-3 = 100 projects built in or for A-Frame
 vr-activity-impact-4 = 20 blog posts about events, activities, experiences, projects, or tutorials.
 vr-activity-impact-5 = 500 social shares with #MozActivate, #WebVRCamp, @aframevr, @mozillavr
-vr-activity-strength = Strength:
+vr-activity-strength-reworked = Strength
 vr-activity-strength-2 = 20 Mobilizers activated
 vr-activity-strength-3 = 30 events
 vr-activity-strength-4 = 400 people are introduced to and starting to build with A-Frame
 vr-activity-audience = Audience for this activity
 vr-activity-audience-1 = Your audience for this event should be anyone interested in virtual reality including web developers, designers and students. The audience should have a basic grasp of HTML.
 
+webext-title = Build Your Own Extension for Firefox
+webext-duration = 1.5-3 hours
+webext-document-title =
+    .title = Build Your Own Extension for Firefox | Activate Mozilla
 webext-activity-intro = Firefox is an open-source web browser that cares about user control and privacy, and extensions provide a safe, simple, and powerful way to personalize your browsing experience. From blocking ads to organizing tabs, add-ons help make Firefox your own.
 webext-activity-general = It’s very easy to create extensions for Firefox using <docLink>WebExtensions APIs</docLink>. This Web-based technology framework offers a powerful way to create browser extensions that can be easily ported to Chrome, Opera, and Edge, and you only need to know HTML, JavaScript and CSS to build them.
 webext-activity-general-1 = In this series of workshops, you’ll help connect new developers with an opportunity to create extensions to solve real problems and make their lives and the web better.

@@ -1,28 +1,52 @@
 import React, { Component } from 'react';
+import { connect } from 'react-redux';
 import { Localized } from 'fluent-react/compat';
 
 import './Jumbotron.css';
 
 class Jumbotron extends Component {
   render() {
-    return (
-      <div className="jumbotron">
-        <section className="flex-container">
-          <Localized id="ongoing-campaign">
-            <h1>Become a Dark Funnel Detective!</h1>
+    let jumbotronContent = <div></div>;
+    if (this.props.activeCampaign) {
+      jumbotronContent = (<div className="hero">
+        <section className="hero__wrapper container">
+          <Localized id="jumbotron-campaign-title">
+            <h1 className="title color--white hero__title"></h1>
           </Localized>
-          <Localized id="ongoing-campaign-description">
-            <p className="lead">
-              Shed light on the Dark Funnel by searching for and reporting websites that have unauthorized download buttons as part of the Dark Funnel Campaign!
-            </p>
-          </Localized>
-          <Localized id="ongoing-campaign-learn-more" attrs={{href: true}}>
-            <a href="https://events.mozilla.org/darkfunnelEN" className="button button-white">Learn more...</a>
+          <Localized id="jumbotron-campaign-description"
+            missionLink={
+              <a href="https://www.mozilla.org/mission/"></a>
+            }>
+            <p className="text text--lead color--white hero__text"></p>
           </Localized>
         </section>
       </div>
+      )
+    }
+    else {
+      jumbotronContent = (<div className="hero">
+        <section className="hero__wrapper container">
+          <Localized id="jumbotron-no-campaign-title">
+            <h1 className="title color--white hero__title"></h1>
+          </Localized>
+          <Localized id="jumbotron-no-campaign-description">
+            <p className="text text--lead color--white hero__text"></p>
+          </Localized>
+        </section>
+      </div>
+      )
+    }
+
+    return (
+      <React.Fragment>
+         {jumbotronContent}
+      </React.Fragment>
     );
   }
 }
 
-export default Jumbotron;
+const mapStateToProps = (state) => ({
+  activeCampaign: state.campaign.active,
+});
+
+export default connect(mapStateToProps)(Jumbotron);

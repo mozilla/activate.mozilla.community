@@ -4,10 +4,6 @@
   justify-content: center;
 }
 
-h1 {
-  text-align: center;
-}
-
-.activities {
-  margin-bottom: 10vh;
+.activities__listing {
+  overflow: hidden;
 }

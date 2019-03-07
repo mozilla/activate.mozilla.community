@@ -1,0 +1,36 @@
+.button {
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 4px;
+  padding: 9px 27px;
+  font-weight: 700;
+  display: block;
+  color: #ffffff;
+  background-color: var(--button-color);
+  transition: background-color 250ms ease-in-out;
+}
+
+.button:hover,
+.button:focus {
+  color: #ffffff;
+  background: #0053ba;
+}
+
+.button--gray {
+  color: #ffffff;
+  background: var(--grey-color-medium);
+}
+
+.button--gray:hover,
+.button--gray:focus {
+  color: #ffffff;
+  background: var(--grey-color-medium);
+}
+
+.button--inline {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+

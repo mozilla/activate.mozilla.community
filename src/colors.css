@@ -1,0 +1,17 @@
+.color--slate-grey {
+  color: var(--slate-grey-color);
+}
+
+.color--dark-blue-grey {
+  color: var(--dark-blue-grey-color);
+}
+
+.color--dark-grey-blue {
+  color: var(--dark-grey-blue-color);
+}
+
+.color--white {
+  color: var(--text-color-light);
+}
+
+

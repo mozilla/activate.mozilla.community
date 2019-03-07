@@ -15,13 +15,21 @@ class Content extends Component {
     this.props.changeLocales([urlLanguage]);
   }
 
+  componentDidUpdate() {
+    window.scrollTo({
+      top: 0,
+      left: 0,
+      behavior: 'smooth'
+    });
+  }
+
   render() {
     return this.props.children;
   }
 }
 
 const mapStateToProps = (state) => ({
-  currentLocales: state.currentLocales,
+  currentLocales: state.language.currentLocales,
 });
 const mapDispatchToProps = {
   changeLocales,

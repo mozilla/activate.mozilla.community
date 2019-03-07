@@ -1,0 +1,67 @@
+.title {
+  font-family: var(--alternate-font-family);
+  font-weight: var(--title-font-weight);
+  font-size: calc(var(--title-font-size) * 0.7);
+  line-height: .9;
+  color: var(--dark-blue-grey-color);
+  letter-spacing: 0.3px;
+  margin-bottom: 1.5rem;
+  margin-top: 3.5rem;
+}
+
+@media only screen and (min-width : 576px) {
+  .title {
+    font-size: var(--title-font-size);
+    line-height: 1.1;
+  }
+}
+
+.title--extra-extra-large {
+  font-size: calc(var(--title-extra-extra-large-font-size) * 0.7);
+  line-height: 1.1;
+  letter-spacing: 0.18px;
+  margin-bottom: 1rem;
+}
+
+@media only screen and (min-width : 576px) {
+  .title--extra-extra-large {
+    font-size: var(--title-extra-extra-large-font-size);
+    line-height: 1.2;
+  }
+}
+
+.title--extra-large {
+  font-size: var(--title-extra-large-font-size);
+  line-height: 1.2;
+  letter-spacing: 0.18px;
+  margin-bottom: 1rem;
+  margin-top: 0;
+}
+
+.title--large {
+  font-size: var(--title-large-font-size);
+  line-height: 1.2;
+  letter-spacing: 0.15px;
+  margin-bottom: 1rem;
+  margin-top: 0;
+}
+
+.title--medium {
+  font-size: var(--title-medium-font-size);
+  line-height: 1;
+  letter-spacing: -0.1px;
+  margin-top: 0;
+}
+
+/* Font size 24px. */
+.title--small {
+  font-size: var(--title-small-font-size);
+  line-height: 1;
+  letter-spacing: -0.1px;
+  margin-bottom: 1.9rem;
+  margin-top: 0;
+}
+
+.title--lighter {
+  color: var(--slate-grey-color);
+}
