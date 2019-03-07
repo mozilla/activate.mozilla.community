@@ -68,7 +68,7 @@ firefox-support-title = Firefox Support Sprint
 firefox-support-description = Help users who are asking for support in reviews on the Play Store. Join Mozillians around the world for a week of answering questions and helping users have a great experience!
 firefox-support-duration = June 2-9 2018
 
-firefox-addons-title = Add-ons Localization Campaing
+firefox-addons-title = Add-ons Localization Campaign
 firefox-addons-description = Join forces with your fellow Mozillians and help top Firefox Add-Ons by localizing them into the top 10 languages.
 firefox-addons-duration = June 14 - July 2 2018
 
