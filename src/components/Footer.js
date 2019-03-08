@@ -71,6 +71,11 @@ class Footer extends Component {
                     <Localized id="footer-legal"><span></span></Localized>
                   </a>
                 </li>
+                <li>
+                  <a href={`https://github.com/mozilla/activate.mozilla.community/issues`}>
+                    <Localized id="footer-github"><span></span></Localized>
+                  </a>
+                </li>
               </ul>
             </Col>
           </Row>
