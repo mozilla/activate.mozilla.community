@@ -137,4 +137,5 @@ webext-activity-resources = Resurse
 webext-activity-impact = Impact și metrici
 webext-activity-impact-2 = Impact:
 webext-activity-goals = Obiectivele campaniei
+webext-activity-goals-workshop = Obiectivele pentru workshopul tău
 webext-activity-participants = Găsirea participanților
