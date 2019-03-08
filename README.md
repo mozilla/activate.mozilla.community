@@ -89,7 +89,12 @@ $ npm run build
 
 ### How deployment works
 
-This website is hosted on GitHub Pages. To deploy you can simply run
+This website is hosted on GitHub Pages. There are automated builds and deployments by Travis CI:
+
+* whenever there is a push to the `deploy` branch
+* every 24 hours
+
+To deploy manually if needed, you can simply run
 
 ```
 $ npm run deploy
