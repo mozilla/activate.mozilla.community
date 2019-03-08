@@ -27,6 +27,7 @@ footer-contibution-2019 = Portions of this content are ©1998–2019 by individu
 footer-privacy-note = Website Privacy Notice
 footer-cookies = Cookies
 footer-legal = Legal
+footer-github = GitHub (Issue Tracker)
 
 not-found-title = 404 - Page not found!
 not-found-description = The page you are looking for could not be found. It may have been removed in the meantime or the URL might be wrong.
