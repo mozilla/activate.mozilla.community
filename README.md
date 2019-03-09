@@ -91,8 +91,13 @@ $ npm run build
 
 This website is hosted on GitHub Pages. There are automated builds and deployments by Travis CI:
 
-* whenever there is a push to the `deploy` branch
+* whenever there is a push to the `master` branch
 * every 24 hours
+
+To make sure there are not too many concurrent builds, Travis CI is set to:
+
+* cancel builds if it deems necessary
+* no parallel builds to make sure we keep order
 
 To deploy manually if needed, you can simply run
 

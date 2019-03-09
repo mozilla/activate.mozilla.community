@@ -3,7 +3,7 @@ node_js:
 - 10
 branches:
   only:
-  - deploy
+  - master
 
 install:
 - npm install
@@ -18,7 +18,7 @@ deploy:
   keep-history: true
   local-dir: build/
   on:
-    branch: deploy
+    branch: master
 
 notifications:
   email:
