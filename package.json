@@ -51,7 +51,7 @@
     "react-a11y": "^1.1.0",
     "react-app-polyfill": "^0.2.2",
     "react-bootstrap": "^0.32.3",
-    "react-dev-utils": "^6.1.1",
+    "react-dev-utils": "^7.0.5",
     "react-document-title": "^2.0.3",
     "react-dom": "^16.8.4",
     "react-feather": "^1.1.6",
