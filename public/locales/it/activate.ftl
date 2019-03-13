@@ -73,6 +73,7 @@ webcompat-duration = 2-3 ore
 faq-title = Domande frequenti
 faq-description = Hai delle domande? Noi abbiamo le risposte!
 faq-what-title = Che cos'è Activate Mozilla?
+faq-what-answer-2 = Con Activate Mozilla i Mozilliani di tutto il mondo possono dare un contributo nelle aree chiave della missione di Mozilla. Questo sito descrive le aree di contributo più importanti per Mozilla in questo momento e offre gli strumenti per essere coinvolti immediatamente.
 faq-who-title = Chi può collaborare alle attività?
 faq-how-title = Come posso collaborare?
 faq-why-title = Perché dovrei collaborare?
