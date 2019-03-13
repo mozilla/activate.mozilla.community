@@ -25,7 +25,9 @@ class CampaignTile extends Component {
         <article className={cardClassNames}>
         <div className="campaign-card__container">
             <div className="campaign-card__col campaign-card__col--small">
-              <img className="campaign-card__image" src={ titleImage } alt="" />
+              <a href={linkTarget}>
+                <img className="campaign-card__image" src={ titleImage } alt="" />
+              </a>
             </div>
             <div className="campaign-card__col campaign-card__col--small">
               <h2 className="title title--large color--slate-grey campaign-card__title">

@@ -25,7 +25,9 @@ class CampaignTileCurrent extends Component {
       <div className="content-contained">
         <article className={cardClassNames}>
           <div className="campaign-card__col">
-            <img src={ titleImage } alt="" />
+            <a href={linkTarget}>
+              <img src={ titleImage } alt="" />
+            </a>
           </div>
           <div className="campaign-card__col campaign-card__spaced-content">
             <Localized id={titleKey}>
