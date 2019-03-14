@@ -167,6 +167,7 @@ rust-activity-before2-1 = Obtenha o <materialLink>material</materialLink> e impr
 rust-activity-before2-2 = Promova seu evento localmente e online.
 rust-activity-flow = Fluxo do evento
 rust-activity-flow-4 = Quem são eles
+rust-activity-flow-8 = Apresente aos novatos os recursos existentes
 rust-activity-resources = Outros recursos
 rust-activity-resources-1 = Tutoriais
 rust-activity-resources-2 = Aprenda pelo exemplo
