@@ -37,7 +37,7 @@ let activeCampaign = null;
 // Campaign exists.
 // Comment out the following definition, if no active Campaign exists.
 activeCampaign = {
-  titleImage:"/images/firefox66-sumo-sprint.png",
+  titleImage:"/images/sumo-firefox-66.png",
   titleKey:"firefox66-sumo-sprint-title",
   descriptionKey:"firefox66-sumo-sprint-description",
   durationKey:"firefox66-sumo-sprint-duration",
