@@ -1,3 +1,5 @@
+campaigns-document-title =
+    .title = Campanias | Activate Mozilla
 nav-activities = Activitates
 nav-campaigns = Campanias
 nav-event-guide = Guida al eventos
@@ -22,6 +24,7 @@ activate = Que nos activa nos
 activate-description = Le campania Activar Mozilla mira a activar le bases de contributiones voluntari. Nos desira apportar plus attention sur le plus importante areas pro contribuer a Mozilla subito, per fornir guida al promotores sur como recrutar collaboratores e crear un communitate circum le projectos le plus significative de Mozilla.
 activities-homepage-title = Activitates
 activities-listing-title = Activitates
+adhaar-duration = Januario 2018
 current-campaign-learn-more = Collabora
 newsletter-title-2 = Reciper actualisationes
 newsletter-description-subscribe = Subscribe te a nostre littera de novas, junge te al mozillianos de tote le mundo e sape plus sur le opportunitates de grande impacto pro supportar le mission de Mozilla.
