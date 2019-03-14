@@ -22,6 +22,7 @@ legal = Jurídico
 footer-nav-title = Navegar
 footer-privacy-note = Aviso de privacidade do site
 footer-cookies = Cookies
+not-found-title = 404 - Página não encontrada!
 jumbotron-campaign-title = Contribua em 5… 4…
 activate = Ativar
 activate-description = A campanha Activate Mozilla tem como objetivo a base de contribuições voluntárias. Queremos deixar claro quais são as áreas mais importantes para contribuir na Mozilla, fornecendo orientação aos mobilizadores sobre como recrutar colaboradores e criar comunidades em torno de projetos significativos da Mozilla.
