@@ -82,7 +82,7 @@ firefox-fights-description = Help spread the word about Firefox by making your o
 firefox-fights-duration = January 11 - February 3 2019
 
 firefox66-sumo-sprint-title = Firefox 66 Support Mozilla (SUMO) Sprint
-firefox66-sumo-sprint-description = Join the SUMO community through supporting Firefox Desktop and Firefox for Android users. Let's save the world from behind the comfort of your computer!
+firefox66-sumo-sprint-description = Join the SUMO community by supporting Firefox Desktop and Firefox for Android users. Let's save the world from behind the comfort of your computer!
 firefox66-sumo-sprint-duration = March 19 - April 2 2019
 
 current-campaign-learn-more = Get Involved
