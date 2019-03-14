@@ -77,6 +77,7 @@ faq-what-answer-2 = Con Activate Mozilla i Mozilliani di tutto il mondo possono 
 faq-who-title = Chi può collaborare alle attività?
 faq-how-title = Come posso collaborare?
 faq-why-title = Perché dovrei collaborare?
+faq-why-answer-2 = Le campagne e le attività descritte in questo sito sono il risultato di uno sforzo congiunto per far emergere ciò che è più importante per Mozilla in questo momento. Se vuoi supportare Mozilla e non sai cosa fare, Activate Mozilla è per te.
 faq-questions-title = A chi posso rivolgermi se ho delle domande?
 eg-title = Guida alla pianificazione degli eventi di Activate
 eg-started = Per iniziare
