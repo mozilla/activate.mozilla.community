@@ -38,7 +38,7 @@ class CampaignTileCurrent extends Component {
               <Localized id={durationKey}><span></span></Localized>
             </div>
             <Localized id={descriptionKey}>
-              <h2 className="text campaign-card__text color--slate-grey"></h2>
+              <p className="text campaign-card__text color--slate-grey"></p>
             </Localized>
             <Localized id={buttonKey}>
               <a href={linkTarget} className="button campaign-card__button"></a>
