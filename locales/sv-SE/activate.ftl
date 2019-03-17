@@ -39,6 +39,7 @@ dark-funnel-duration = 17-24 september 2018
 firefox-fights-duration = 11 januari - 3 februari 2019
 firefox66-sumo-sprint-duration = 19 mars - 2 april 2019
 current-campaign-learn-more = Engagera dig
+campaign-active = Aktiv kampanj
 campaign-archive = Tidigare kampanjer
 newsletter-title-2 = Få uppdateringar
 newsletter-description-subscribe = Prenumerera på vårt nyhetsbrev och gå samman med Mozillians över hela världen och lär dig om effektiva möjligheter att stödja Mozillas uppdrag.
