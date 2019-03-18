@@ -118,6 +118,7 @@ faq-why-title = Perché dovrei collaborare?
 faq-why-answer-2 = Le campagne e le attività descritte in questo sito sono il risultato di uno sforzo congiunto per far emergere ciò che è più importante per Mozilla in questo momento. Se vuoi supportare Mozilla e non sai cosa fare, Activate Mozilla è per te.
 faq-questions-title = A chi posso rivolgermi se ho delle domande?
 faq-questions-answer-2 = Fai le tue domande su <discourseLink>Mozilla Discourse</ discourseLink> sotto l’argomento più pertinente. Se non sei sicuro di dove chiedere, scrivi sotto <mozilliansLink>Mozillians</mozilliansLink>.
+faq-code-title = Cosa devo fare se voglio contribuire al codice?
 faq-code-answer = La maggior parte delle attività su Activate Mozilla non richiede competenze o conoscenze avanzate, ma troverai anche molti, fantastici progetti di Mozilla di stampo più tecnico aperti alla collaborazione. Raccomandiamo di dare un'occhiata a questa <codetributeLink>directory</codetributeLink>.
 faq-budgetswag-answer = Ti incoraggiamo a organizzare i tuoi eventi riducendo al minimo le spese, ma a volte alcuni costi, come quelli per la logistica o i rinfreschi, sono inevitabili. Se stai preparando una campagna Activate Mozilla puoi richiedere un finanziamento per i seguenti articoli o servizi:
 faq-budgetswag-answer-2 = Adesivi promozionali prodotti sul posto e/o altri piccoli articoli (soltanto per eventi con più di 50 partecipanti)
