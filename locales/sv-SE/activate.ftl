@@ -28,6 +28,7 @@ footer-legal = Juridisk information
 footer-github = GitHub (Issue Tracker)
 not-found-title = 404- Sidan hittades inte!
 not-found-description = Sidan du söker kunde inte hittas. Det kan ha tagits bort under tiden eller URL-adressen kan vara fel.
+jumbotron-campaign-title = Bidra om 5 ... 4 ...
 jumbotron-no-campaign-title = Inkommande kampanj!
 jumbotron-no-campaign-description = En extra cool Mozilla-kampanj kommer snart, se till att du är den första som vet när den startar!
 activate = Aktivera
