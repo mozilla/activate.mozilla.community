@@ -1,4 +1,7 @@
+homepage-document-title =
+    .title = Selamat Datang di Activate Mozilla
 nav-activities = Kegiatan
+nav-campaigns = Kampanye
 nav-event-guide = Panduan Acara
 nav-faq = Tanya Jawab
 nav-impact = Dampak
@@ -7,6 +10,8 @@ twitter = Twitter
 discussion = Diskusi
 contribute = Kontribusi
 legal = Legal
+footer-nav-title = Navigasi
+footer-newsletter-title = Daftar Nawala
 footer-cookies = Kuki
 not-found-title = 404 - Laman tidak ditemukan!
 activate = Aktifkan
