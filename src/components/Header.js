@@ -49,7 +49,7 @@ class Header extends Component {
                 <FormControl
                   componentClass="select"
                   placeholder={currentLocales[0]}
-                  onBlur={(event) => changeLocalesWithURL(currentLocales[0], [event.target.value])}
+                  onChange={(event) => changeLocalesWithURL(currentLocales[0], [event.target.value])}
                   name="lang"
                   defaultValue={currentLocales[0]}
                   id="language-select"
