@@ -1,5 +1,5 @@
 homepage-document-title =
-    .title = Bem-vindo ao Activate Mozilla
+    .title = Boas-vindas ao Activate Mozilla
 activities-document-title =
     .title = Lista de atividades | Activate Mozilla
 campaigns-document-title =
@@ -104,7 +104,8 @@ eg-online-promotion-content-2 = Compartilhe seu link em outros sites, como impre
 eg-tech = Tecnologia
 eg-equipment = Equipamento
 eg-backup = Plano reserva
-eg-welcome-welcome = Bem-vindo
+eg-welcome = Boas-vindas e inscrição
+eg-welcome-welcome = Boas-vindas
 eg-signin = Entrar
 eg-documentation = Documentação
 eg-demos = Demonstrações
