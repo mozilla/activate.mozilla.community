@@ -36,6 +36,7 @@ activities-homepage-title = Activités
 activities-listing-title = Activités
 new-firefox-duration = 14 novembre 2017
 adhaar-duration = Janvier 2018
+dark-funnel-title = Devenez un détective Dark Funnel !
 newsletter-description-subscribe = Abonnez-vous à notre lettre d’information et rejoignez des Mozilliens du monde entier et découvrez les possibilités de soutenir la mission de Mozilla.
 newsletter-email = Adresse électronique
 newsletter-submit = Je m’inscris
