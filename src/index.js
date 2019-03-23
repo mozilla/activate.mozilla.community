@@ -11,7 +11,6 @@ import './index.css';
 import store from './store';
 import App from './App';
 import AppLocalizationProvider from './AppLocalizationProvider';
-import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(
   <Provider store={store}>
@@ -21,4 +20,3 @@ ReactDOM.render(
   </Provider>,
   document.getElementById('root')
 );
-registerServiceWorker();
