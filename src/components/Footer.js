@@ -46,6 +46,11 @@ class Footer extends Component {
                   </Localized>
                 </NavItem>
               </LinkContainer>
+              <li role="presentation" className="page-link">
+                <a href={`https://github.com/mozilla/activate.mozilla.community/issues`}>
+                  <Localized id="footer-github"><span></span></Localized>
+                </a>
+              </li>
             </Nav>
           </Col>
           <Col lg={4} md={5} sm={6} xs={12}>
@@ -69,11 +74,6 @@ class Footer extends Component {
                 <li>
                   <a href={`https://www.mozilla.org/about/legal/`}>
                     <Localized id="footer-legal"><span></span></Localized>
-                  </a>
-                </li>
-                <li>
-                  <a href={`https://github.com/mozilla/activate.mozilla.community/issues`}>
-                    <Localized id="footer-github"><span></span></Localized>
                   </a>
                 </li>
               </ul>
