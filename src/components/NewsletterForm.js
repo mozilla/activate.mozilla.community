@@ -5,7 +5,7 @@ import {
 } from "react-feather";
 
 import SelectCountry from './SelectCountry.js';
-// import SelectLanguage from './SelectLanguage.js';
+import SelectLanguage from './SelectLanguage.js';
 import './NewsletterForm.css';
 
 class NewsletterForm extends Component {
@@ -83,7 +83,6 @@ class NewsletterForm extends Component {
     // From: https://raw.githubusercontent.com/mozilla/basket-example/master/basket-client.js
     // @see: https://github.com/mozilla/basket-example
 
-    // !! this file assumes only one signup form per page !!
     const newsletterForm = document.getElementById('newsletter_form');
 
     // handle errors
@@ -147,7 +146,7 @@ class NewsletterForm extends Component {
       let fmt = document.getElementById('fmt').value;
       let email = document.getElementById('email').value;
       let newsletter = document.getElementById('newsletters').value;
-      // let newsletterLanguage = document.getElementById('newsletter-language').value;
+      let newsletterLanguage = document.getElementById('newsletter-language').value;
       let newsletterCountry = document.getElementById('newsletter-country').value;
       let privacy = document.querySelector('input[name="privacy"]:checked') ? '&privacy=true' : '';
 
@@ -156,7 +155,7 @@ class NewsletterForm extends Component {
         privacy +
         '&fmt=' + fmt +
         '&country=' + newsletterCountry +
-        // '&lang=' + newsletterLanguage +
+        '&lang=' + newsletterLanguage +
         '&source_url=' + encodeURIComponent(document.location.href);
 
       // eslint-disable-next-line no-undef
@@ -257,8 +256,12 @@ class NewsletterForm extends Component {
             </div>
             <div id="newsletter_details" className="newsletter__details">
               <SelectCountry id="newsletter-country" className="newsletter__select"/>
-              {/*<SelectLanguage id="newsletter-language" className="newsletter__select"/>*/}
+              <SelectLanguage id="newsletter-language" className="newsletter__select"/>
             </div>
+
+            <Localized id="newsletter-language-description">
+              <p className="text text--centered content-contained content-contained--extra-small"></p>
+            </Localized>
 
             <div id="newsletter_privacy" className="form_group newsletter__privacy-policy text text--small">
               <input type="checkbox" id="privacy" name="privacy" required />

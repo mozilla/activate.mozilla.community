@@ -36,8 +36,6 @@ class SelectCountry extends Component {
           name="country"
           defaultValue={this.state.value}
           onBlur={this.handleChange}
-          required
-          aria-required="true"
           className="is-placeholder"
         >
           <Localized id="newsletter-country-label-option">

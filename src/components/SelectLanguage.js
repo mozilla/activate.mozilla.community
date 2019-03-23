@@ -39,19 +39,16 @@ class SelectLanguage extends Component {
           name="country"
           defaultValue={this.state.value}
           onBlur={this.handleChange}
-          required
-          aria-required="true"
           className="is-placeholder"
         >
           <Localized id="newsletter-language-label-option">
             <option value="" disabled></option>
           </Localized>
-          <option value="de">Deutsch</option>
-          <option value="en">English</option>
-          <option value="es">Español</option>
-          <option value="fr">Français</option>
-          <option value="pl">Polski</option>
-          <option value="pt">Português</option>
+          <option value="pt">Brazilian Portuguese</option>
+          <option value="fr">French</option>
+          <option value="de">German</option>
+          <option value="es">Spanish</option>
+          <option value="pl">Russian</option>
         </select>
       </div>
     );
