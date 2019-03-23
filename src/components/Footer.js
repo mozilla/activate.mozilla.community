@@ -16,11 +16,29 @@ class Footer extends Component {
       <footer>
         <Grid>
           <Row>
-          <Col lg={5} md={4} sm={3} xs={6}>
+          <Col lg={4} md={4} sm={4} xs={4}>
             <Link to={`/${currentLocale}`} title="Mozilla Activate">
               <img src="/logo.svg" alt="Mozilla Activate logo" className="footer__logo" />
-            </Link></Col>
-          <Col lg={3} md={3} sm={3} xs={6} className="footer-nav">
+            </Link>
+          </Col>
+          <Col lg={2} md={2} sm={4} xs={4} className="footer-nav">
+            <Localized id="footer-contribute-title">
+              <div className="footer-nav__title"></div>
+            </Localized>
+            <Nav stacked className="footer-nav__menu">
+              <li role="presentation" className="page-link">
+                <a href={`https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction`}>
+                  <Localized id="footer-mozilla-code-base"><span></span></Localized>
+                </a>
+              </li>
+              <li role="presentation" className="page-link">
+                <a href={`https://wiki.mozilla.org/Contribute`}>
+                  <Localized id="footer-contribute-wiki"><span></span></Localized>
+                </a>
+              </li>
+            </Nav>
+          </Col>
+          <Col lg={2} md={2} sm={4} xs={4} className="footer-nav">
             <Localized id="footer-nav-title">
               <div className="footer-nav__title"></div>
             </Localized>
@@ -58,7 +76,7 @@ class Footer extends Component {
               </li>
             </Nav>
           </Col>
-          <Col lg={4} md={5} sm={6} xs={12}>
+          <Col lg={4} md={4} sm={12} xs={12}>
             <NewsletterFooterForm/>
           </Col>
           </Row>

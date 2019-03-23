@@ -21,6 +21,7 @@ discussion = Discussion
 contribute = Contribute
 legal = Legal
 
+footer-contribute-title = Contribute
 footer-nav-title = Navigate
 footer-newsletter-title = Newsletter Sign-up
 footer-contibution-2019 = Portions of this content are ©1998–2019 by individual mozilla.org contributors. Content available under a <mozillaLink>Creative Commons license</mozillaLink>.
@@ -29,6 +30,8 @@ footer-cookies = Cookies
 footer-legal = Legal
 footer-github = GitHub (Issue Tracker)
 footer-pontoon = Localize this website
+footer-mozilla-code-base = Mozilla Code Base
+footer-contribute-wiki = Contribute Wiki
 
 not-found-title = 404 - Page not found!
 not-found-description = The page you are looking for could not be found. It may have been removed in the meantime or the URL might be wrong.
