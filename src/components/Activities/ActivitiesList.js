@@ -28,6 +28,14 @@ class ActivitiesList extends Component {
           <Grid>
             <Row className="activity-row">
               <ActivityTile
+                titleImage="/images/commonvoice-header.png"
+                titleKey="commonvoice-title"
+                descriptionKey="commonvoice-activity-intro"
+                tagKey="contribution"
+                durationKey="commonvoice-duration"
+                linkTarget={`${locale}/commonvoice`}
+              />
+              <ActivityTile
                 titleImage="/images/nightly-header.png"
                 titleKey="nightly-title"
                 descriptionKey="nightly-description"

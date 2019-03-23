@@ -52,3 +52,12 @@
 .activity-participation .sidebar {
   border-bottom: 3px solid var(--purple-color);
 }
+
+.activity--contribution .sidebar__title,
+.activity--contribution .sidebar__icon {
+  color: var(--green-color);
+}
+
+.activity--contribution .sidebar {
+  border-bottom: 3px solid var(--green-color);
+}

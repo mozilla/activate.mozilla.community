@@ -89,6 +89,17 @@
   margin-bottom: 0;
 }
 
+.toggle__item-content h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.toggle__item-content ol,
+.toggle__item-content ul {
+  margin-bottom: 10px;
+}
+
 .toggle__icon {
   vertical-align: middle;
 }

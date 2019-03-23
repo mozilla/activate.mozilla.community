@@ -25,6 +25,13 @@ class ActivitiesOverview extends Component {
           <Grid>
             <Row className="activity-row">
               <ActivityTileShort
+                titleImage="/images/commonvoice-header.png"
+                titleKey="commonvoice-title"
+                tagKey="contribution"
+                durationKey="commonvoice-duration"
+                linkTarget={`${locale}/commonvoice`}
+              />
+              <ActivityTileShort
                 titleImage="/images/nightly-header.png"
                 titleKey="nightly-title"
                 tagKey="testing"
