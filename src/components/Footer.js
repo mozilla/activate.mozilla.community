@@ -51,6 +51,11 @@ class Footer extends Component {
                   <Localized id="footer-github"><span></span></Localized>
                 </a>
               </li>
+              <li role="presentation" className="page-link">
+                <a href={`https://pontoon.mozilla.org/projects/mozilla-activate/`}>
+                  <Localized id="footer-pontoon"><span></span></Localized>
+                </a>
+              </li>
             </Nav>
           </Col>
           <Col lg={4} md={5} sm={6} xs={12}>
