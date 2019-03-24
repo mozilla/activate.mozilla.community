@@ -37,6 +37,7 @@ activate-description = Active Mozilla 运动呼吁民众参与。我们期望借
 home-cta = 分享你参与 #MozActivate 的感想
 activities-homepage-title = 活动
 activities-listing-title = 活动
+activities-listing-description = 我们把这些活动算作“常青项目”，因为它们一直很重要，与 Mozilla 的使命息息相关，且时刻都期待你的参与！
 quantum-sprint-title = Firefox Quantum 冲刺
 quantum-sprint-duration = 2017 年 10 月 2 日 - 8 日
 new-firefox-duration = 2017 年 11 月 14 日
