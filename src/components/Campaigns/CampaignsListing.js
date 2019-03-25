@@ -61,7 +61,7 @@ class CampaignsListing extends Component {
             linkTarget="https://events.mozilla.org/firefoxfightsforyoucampaign"
           ></CampaignTile>
           <CampaignTile
-              titleImage="/images/dark-funnel.jpg"
+              titleImage="/images/dark-funnel.png"
               titleKey="dark-funnel-title"
               descriptionKey="dark-funnel-description"
               durationKey="dark-funnel-duration"

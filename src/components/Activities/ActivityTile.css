@@ -114,6 +114,21 @@
   fill: var(--pumpkin-orange-color);
 }
 
+.activity-card--contribution {
+  border-bottom: 3px solid var(--green-color);
+}
+.activity-card--contribution footer {
+  color: var(--green-color);
+}
+
+.activity-card--contribution footer .activity-card__tags-icon {
+  fill: var(--green-color);
+}
+
+.activity-card--contribution footer .activity-card__duration-icon {
+  fill: var(--green-color);
+}
+
 .activity-card--participation {
   border-bottom: 3px solid var(--purple-color);
 }
