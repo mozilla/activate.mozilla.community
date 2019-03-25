@@ -7,7 +7,7 @@
     },
     "participate": {
         "home": "https://activate.mozilla.community/",
-        "docs": "https://github.com/mozilla/activate.mozilla.community/blob/gh-pages/README.md",
+        "docs": "https://github.com/mozilla/activate.mozilla.community/blob/master/README.md",
         "irc-contacts": [
             "Nukeador",
             "nikos",

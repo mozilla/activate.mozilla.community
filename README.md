@@ -99,10 +99,4 @@ To make sure there are not too many concurrent builds, Travis CI is set to:
 * cancel builds if it deems necessary
 * no parallel builds to make sure we keep order
 
-To deploy manually if needed, you can simply run
-
-```
-$ npm run deploy
-```
-
-if you have write access to the repository. This will build the production version and commit it to GitHub pages. You will then see your changes live at [https://activate.mozilla.community/](https://activate.mozilla.community/). Please note that currently the github.io link would not work as there are static / dependent links.
+Once the Travis job is done, you will see the changes live at [https://activate.mozilla.community/](https://activate.mozilla.community/). Please note that currently the github.io link would not work as there are static / dependent links.
