@@ -44,6 +44,7 @@ activities-listing-title = 活动
 activities-listing-description = 我们把这些活动算作“常青项目”，因为它们一直很重要，与 Mozilla 的使命息息相关，且时刻都期待你的参与！
 quantum-sprint-title = Firefox Quantum 冲刺
 quantum-sprint-duration = 2017 年 10 月 2 日 - 8 日
+new-firefox-title = 新 Firefox 社交媒体
 new-firefox-duration = 2017 年 11 月 14 日
 adhaar-title = Aadhaar 运动
 adhaar-duration = 2018 年 1 月
