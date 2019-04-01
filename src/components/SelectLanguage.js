@@ -44,11 +44,11 @@ class SelectLanguage extends Component {
           <Localized id="newsletter-language-label-option">
             <option value="" disabled></option>
           </Localized>
-          <option value="pt">Brazilian Portuguese</option>
-          <option value="fr">French</option>
-          <option value="de">German</option>
-          <option value="es">Spanish</option>
-          <option value="pl">Russian</option>
+          <option value="de">Deutsch</option>
+          <option value="pt-BR">Português do Brasil</option>
+          <option value="fr">Français</option>
+          <option value="es">Español</option>
+          <option value="pl">русский язык</option>
         </select>
       </div>
     );
