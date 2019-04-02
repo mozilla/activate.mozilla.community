@@ -177,6 +177,7 @@ techspeakers-activity-setup-5 = Web Extension
 techspeakers-activity-after = Depois do evento
 techspeakers-activity-extra = Extra
 techspeakers-activity-goals = Objetivos desta atividade
+techspeakers-activity-goals-2 = Organize um evento para cerca de 50 desenvolvedores web
 techspeakers-activity-audience = Público-alvo
 webcompat-activity-general = Compatibilidade web, a capacidade de todo conteúdo web funcionar em todos os navegadores, é importante. Existem diversos mecanismos de conteúdo web em execução em vários dispositivos e, às vezes, com poucos testes e alguns pequenos ajustes no site, os desenvolvedores podem garantir que mais usuários possam ter a experiência completa desejada.
 webcompat-activity-format = Formato da atividade
