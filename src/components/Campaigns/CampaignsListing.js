@@ -54,6 +54,13 @@ class CampaignsListing extends Component {
         <Grid>
           <Row className="campaign-list__row">
           <CampaignTile
+            titleImage="/images/sumo-firefox-66.png"
+            titleKey="firefox66-sumo-sprint-title"
+            descriptionKey="firefox66-sumo-sprint-description"
+            durationKey="firefox66-sumo-sprint-duration"
+            linkTarget="https://events.mozilla.org/firefox66supportsprint"
+          ></CampaignTile>
+          <CampaignTile
             titleImage="/images/firefox-fights.jpg"
             titleKey="firefox-fights-title"
             descriptionKey="firefox-fights-description"

@@ -37,14 +37,14 @@ let activeCampaign = null;
 
 // Campaign exists.
 // Comment out the following definition, if no active Campaign exists.
-activeCampaign = {
-  titleImage:"/images/sumo-firefox-66.png",
-  titleKey:"firefox66-sumo-sprint-title",
-  descriptionKey:"firefox66-sumo-sprint-description",
-  durationKey:"firefox66-sumo-sprint-duration",
-  buttonKey: "current-campaign-learn-more",
-  linkTarget:"https://events.mozilla.org/firefox66supportsprint"
-};
+// activeCampaign = {
+//   titleImage:"/images/sumo-firefox-66.png",
+//   titleKey:"firefox66-sumo-sprint-title",
+//   descriptionKey:"firefox66-sumo-sprint-description",
+//   durationKey:"firefox66-sumo-sprint-duration",
+//   buttonKey: "current-campaign-learn-more",
+//   linkTarget:"https://events.mozilla.org/firefox66supportsprint"
+// };
 
 
 class App extends Component {
