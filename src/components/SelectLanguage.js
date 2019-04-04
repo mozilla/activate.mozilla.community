@@ -45,10 +45,10 @@ class SelectLanguage extends Component {
             <option value="" disabled></option>
           </Localized>
           <option value="de">Deutsch</option>
-          <option value="pt">Português</option>
-          <option value="pt-BR">Português do Brasil</option>
           <option value="fr">Français</option>
+          <option value="en">English</option>
           <option value="es">Español</option>
+          <option value="pt">Português do Brasil</option>
           <option value="ru">русский язык</option>
         </select>
       </div>
