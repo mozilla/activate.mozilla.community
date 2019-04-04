@@ -216,6 +216,7 @@ commonvoice-activity-time-description-9 = Como as pessoas podem contribuir?
 commonvoice-activity-time-description-10 = Doações de voz (15 minutos - 30 minutos)
 commonvoice-activity-time-description-12 = Tempo de revisão! (30 minutos)
 commonvoice-activity-time-description-14 = O proprietário da atividade controlará o tempo e solicitará que os pares mudem de papéis após os primeiros 15 minutos.
+commonvoice-activity-time-description-15 = Resumo e compartilhamento (5 minutos)
 commonvoice-activity-crowd = 🤩 Alcance a multidão
 commonvoice-activity-crowd-description-3 = <posterLink>PÔSTER</posterLink> do Common Voice
 commonvoice-activity-crowd-description-4 = <signageLink>SINALIZAÇÃO</ signageLink> de instruções (faça uma cópia para editar)
