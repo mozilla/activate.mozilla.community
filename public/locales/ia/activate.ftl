@@ -33,6 +33,7 @@ footer-contribute-wiki = Pagina wiki per collaboratores
 not-found-title = 404 - Pagina non trovate
 not-found-description = Le pagina que tu recerca non pote ser trovate. Illo pote haber essite eliminate intertanto o le URL pote ser incorrecte.
 jumbotron-campaign-title = Dona in 5… 4…
+jumbotron-campaign-description = Trova manieras amusante, de grande impacto pro supportar le <missionLink>mission Mozilla</missionLink> per collaborar. Activate ora!
 jumbotron-no-campaign-title = Campania in arrivata!
 activate = Que nos activa nos
 activate-description = Le campania Activar Mozilla mira a activar le bases de contributiones voluntari. Nos desira apportar plus attention sur le plus importante areas pro contribuer a Mozilla subito, per fornir guida al promotores sur como recrutar collaboratores e crear un communitate circum le projectos le plus significative de Mozilla.
