@@ -5,7 +5,7 @@ import {
 } from "react-feather";
 
 import SelectCountry from './SelectCountry.js';
-// import SelectLanguage from './SelectLanguage.js';
+import SelectLanguage from './SelectLanguage.js';
 
 class NewsletterFooterForm extends Component {
 
@@ -18,7 +18,6 @@ class NewsletterFooterForm extends Component {
     // From: https://raw.githubusercontent.com/mozilla/basket-example/master/basket-client.js
     // @see: https://github.com/mozilla/basket-example
 
-    // !! this file assumes only one signup form per page !!
     const newsletterForm = document.getElementById('newsletter_footer_form');
 
     // handle errors
@@ -70,7 +69,7 @@ class NewsletterFooterForm extends Component {
       let fmt = document.getElementById('fmt-footer').value;
       let email = document.getElementById('email-footer').value;
       let newsletter = document.getElementById('newsletters-footer').value;
-      // let newsletterLanguage = document.getElementById('newsletter-language-footer').value;
+      let newsletterLanguage = document.getElementById('newsletter-language-footer').value;
       let newsletterCountry = document.getElementById('newsletter-country-footer').value;
       let privacy = document.querySelector('input[name="privacy-footer"]:checked') ? '&privacy=true' : '';
 
@@ -79,7 +78,7 @@ class NewsletterFooterForm extends Component {
         privacy +
         '&fmt=' + fmt +
         '&country=' + newsletterCountry +
-        // '&lang=' + newsletterLanguage +
+        '&lang=' + newsletterLanguage +
         '&source_url=' + encodeURIComponent(document.location.href);
 
       // eslint-disable-next-line no-undef
@@ -181,7 +180,13 @@ class NewsletterFooterForm extends Component {
             </div>
             <div id="newsletter_details_footer" className="newsletter__details">
               <SelectCountry id="newsletter-country-footer" className="newsletter__select"/>
-              {/*<SelectLanguage id="newsletter-language-footer" className="newsletter__select"/>*/}
+              <SelectLanguage id="newsletter-language-footer" className="newsletter__select"/>
+            </div>
+
+            <div className="form_group text text--small newsletter__description">
+              <Localized id="newsletter-language-description">
+                <p></p>
+              </Localized>
             </div>
 
             <div id="newsletter_privacy_footer" className="form_group newsletter__privacy-policy text text--small">

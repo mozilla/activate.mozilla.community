@@ -112,6 +112,7 @@ newsletter-country-label = Country
 newsletter-country-label-option = Select country
 newsletter-language-label = Language
 newsletter-language-label-option = Select language
+newsletter-language-description = We’ll default to English but send in these languages whenever we can.
 
 hours = Hours
 testing = Testing

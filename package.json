@@ -2,7 +2,7 @@
   "name": "activate-mozilla",
   "version": "1.0.1",
   "private": true,
-  "homepage": "https://rewrite.michaelkohler.info/",
+  "homepage": "https://activate.mozilla.community",
   "dependencies": {
     "bootstrap": "^3.4.1",
     "fluent": "^0.11.0",
