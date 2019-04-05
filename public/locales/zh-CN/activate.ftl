@@ -226,6 +226,7 @@ commonvoice-document-title =
     .title = 为 Common Voice 作出贡献 | Activate Mozilla
 commonvoice-title = 为 Common Voice 作出贡献
 commonvoice-activity-impact-title = 影响与指标
+commonvoice-activity-impact-2 = 每种语言 1000 条新的语音
 commonvoice-activity-audience = 受众
 commonvoice-activity-solo = 🤠 孤独的牛仔/女牛仔
 commonvoice-activity-solo-record = 捐出您的声音
