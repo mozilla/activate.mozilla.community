@@ -135,6 +135,7 @@ nightly-activity-during-3 = Εξηγήστε την τηλεμετρία
 nightly-activity-during-4 = Ανάλογα με το ιστορικό του κοινού σας
 nightly-activity-during-5 = Εξηγήστε πώς γίνεται <bugsLink>η αναφορά σφαλμάτων του Nightly</bugsLink>
 nightly-activity-during-6 = Εξηγήστε την εγκατάσταση του <regressionLink>mozregression</regressionLink>
+nightly-activity-during-8 = Ενθαρρύνετε τους συμμετέχοντες ώστε να συνεχίσουν να χρησιμοποιούν το Nightly
 nightly-activity-end = Στο τέλος της δραστηριότητας
 nightly-activity-end-1 = Αμέσως μετά την εκδήλωση, μην ξεχάσετε να μοιραστείτε με τους παρευρισκόμενους το σύνδεσμο της φόρμας επίδρασης:
 nightly-activity-output = Αποτέλεσμα
