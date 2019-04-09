@@ -76,6 +76,7 @@ hours = Timmar
 testing = Testning
 programming = Programmering
 participation = Delta
+contribution = Bidrag
 nightly-title = Använda & testa Nightly
 nightly-document-title =
     .title = Använda & testa Nightly | Activate Mozilla
