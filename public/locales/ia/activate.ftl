@@ -238,6 +238,7 @@ nightly-activity-impact-4 = 50 mozillianos developpa eventos
 nightly-activity-impact-5 = 100 nove adherentes al conto Twitter de Nightly
 nightly-activity-audience = Auditorio
 nightly-activity-audience-description = Tu auditorio pro iste activitate es personas que es confortabile a usar le differente functionalitates de Firefox e volerea immerger se un poco plus profundemente. Forsan unos de illes desira apprender alcun utile habilitates fundamenta que adjutara illes como Mozillianos, ma forsan il ha usatores fidel  del Edition pro disveloppatores qui desira saper plus circa Nightly. Pois que le sol uso Nightly da nos importante informationes tal como le crashes, illoo non es solmente utile al uso per le sol disveloppatores o technicos.
+commonvoice-title = Collabora a Common Voice
 commonvoice-duration = variabile
 commonvoice-activity-impact-title = Impacto e metrica
 commonvoice-activity-audience = Publico
