@@ -50,6 +50,7 @@ new-firefox-title = Nove retes social de Firefox
 new-firefox-description = Adjuta nos a diffunder le parola re le nove Firefox! Martedi 14, al 14:00 UTC, face un tweet re lo que tu ama in le nove Firefox includente #NewFirefox, o comparti le tweets de Firefox.
 new-firefox-duration = 14 novembre 2017
 adhaar-title = Campania Aadhaar
+adhaar-description = Junge te a Mitchell Baker, presidente executive de Mozilla, pro firmar un littera aperte al Committee de Justitia del Srikrishna pro evidentiar nostre principal anxietates.
 adhaar-duration = Januario 2018
 common-voice-title = Common Voice Sprint
 common-voice-duration = 10-11 maio 2018
