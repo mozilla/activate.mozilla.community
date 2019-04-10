@@ -258,6 +258,7 @@ commonvoice-activity-audience = Publico
 commonvoice-activity-audience-2 = Tu: individuos pote collaborar ex casa o in movimento, in lor proprie rhythmo.
 commonvoice-activity-audience-3 = Micre gruppos: amicos intime o familia gruppos que voler pro vider in action que iste projecto es re. Micre gruppos: amicos intime o gruppos familiar que vole vider in action le argumentos tractate in iste projecto.
 commonvoice-activity-audience-4 = Gruppos de medie e grande dimension: gruppos de studentes, participantes al evento.
+commonvoice-activity-audience-5 = Multitudes: involve le public per preparar un cabina o un tabula in un spatio multo frequentate.
 commonvoice-activity-flows = Fluxos de activitates
 commonvoice-activity-flows-description = Iste activitate de collaboration pote ser facite a solo, con amicos, como un evento o in un spatio public.
 commonvoice-activity-solo = 🤠 Cowboy (o cowgirl) solitari
