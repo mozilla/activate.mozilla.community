@@ -126,6 +126,7 @@ nightly-activity-impact-3 = 50 comptes Bugzilla rapportant activement des bugs (
 nightly-activity-impact-4 = 50 évènements organisés par des Mozilliens
 nightly-activity-impact-5 = 100 nouveaux abonnés au compte Twitter de Nightly
 nightly-activity-audience = Public visé
+commonvoice-activity-crowd-description-6 = Exemples :
 techspeakers-activity-ready = Êtes-vous prêt ?
 techspeakers-activity-setup-3 = Web VR
 techspeakers-activity-setup-4 = Rust
