@@ -89,6 +89,10 @@ firefox66-sumo-sprint-title = Firefox 66 Support Mozilla (SUMO) Sprint
 firefox66-sumo-sprint-description = Join the SUMO community by supporting Firefox Desktop and Firefox for Android users. Let's save the world from behind the comfort of your computer!
 firefox66-sumo-sprint-duration = March 19 - April 2 2019
 
+cv-100-sprint-title = Common Voice 100 Hours Sprint
+cv-100-sprint-description = Mozilla's Common Voice is the project that aims to unlock and open the voice ecosystem. It needs YOUR help to advance English voice collection and get to the next level.
+cv-100-sprint-duration = April 22 - May 5 2019
+
 current-campaign-learn-more = Get Involved
 campaign-active = Active Campaign
 campaign-active-description = This is the best way to get active with Mozilla right now. Give it a try!
