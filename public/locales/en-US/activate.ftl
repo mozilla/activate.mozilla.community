@@ -11,15 +11,10 @@ newsletter-document-title =
 
 nav-activities = Activities
 nav-campaigns = Campaigns
-nav-event-guide = Event Guide
 nav-faq = FAQ
 nav-impact = Impact
 nav-impact-form = Impact Form
 nav-select-language = Select Language
-twitter = Twitter
-discussion = Discussion
-contribute = Contribute
-legal = Legal
 
 footer-contribute-title = Contribute
 footer-nav-title = Navigate
@@ -41,9 +36,6 @@ jumbotron-campaign-description = Find fun, impactful ways to support <missionLin
 
 jumbotron-no-campaign-title = Campaign incoming!
 jumbotron-no-campaign-description = An extra cool Mozilla campaign is coming soon, make sure you’ll be the first to know when it launches!
-
-activate = Activate
-activate-description = The Activate Mozilla campaign aims at the grassroots of volunteer contributions. We want to bring more clarity on what are the most important areas to contribute to at Mozilla right now by providing guidance to mobilizers on how to recruit contributors and create community around meaningful Mozilla projects.
 
 home-cta = Share your experience with #MozActivate
 
