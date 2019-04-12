@@ -53,10 +53,10 @@ class ActivitiesList extends Component {
               />
               <ActivityTile
                 titleImage="/images/webextensions-header.png"
-                titleKey="webextensions-title"
-                descriptionKey="webextensions-description"
+                titleKey="webext-title"
+                descriptionKey="webext-description"
                 tagKey="programming"
-                durationKey="webextensions-duration"
+                durationKey="webext-duration"
                 linkTarget={`${locale}/webextensions`}
               />
               <ActivityTile

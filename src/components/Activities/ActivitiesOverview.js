@@ -47,9 +47,9 @@ class ActivitiesOverview extends Component {
               />
               <ActivityTileShort
                 titleImage="/images/webextensions-header.png"
-                titleKey="webextensions-title"
+                titleKey="webext-title"
                 tagKey="programming"
-                durationKey="webextensions-duration"
+                durationKey="webext-duration"
                 linkTarget={`${locale}/webextensions`}
               />
               <ActivityTileShort

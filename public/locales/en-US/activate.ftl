@@ -8,6 +8,20 @@ faq-document-title =
     .title = Frequently Asked Question | Activate Mozilla
 newsletter-document-title =
     .title = Sign up for our Newsletter | Activate Mozilla
+nightly-document-title =
+    .title = Using & Testing Nightly | Activate Mozilla
+rust-document-title =
+    .title = Dive Into Rust | Activate Mozilla
+webvr-document-title =
+    .title = WebVR Camp | Activate Mozilla
+webcompat-document-title =
+    .title = Web Compatibility Sprint | Activate Mozilla
+commonvoice-document-title =
+    .title = Contribute to Common Voice | Activate Mozilla
+techspeakers-document-title =
+    .title = Host a Technology Talk with Tech Speakers! | Activate Mozilla
+webext-document-title =
+    .title = Build Your Own Extension for Firefox | Activate Mozilla
 
 nav-activities = Activities
 nav-campaigns = Campaigns
@@ -117,32 +131,21 @@ participation = Participation
 contribution = Contribution
 
 nightly-title = Using & Testing Nightly
-nightly-document-title =
-    .title = Using & Testing Nightly | Activate Mozilla
 nightly-description = This activity has great potential to make an impact by increasing overall involvement in Nightly, simply by introducing community to tasks that they can engage in related to Nightly. Finding and filing issues early in the cycle means by the time Firefox gets to release, the code is in good shape.
 nightly-duration = 1-3 hours
 techspeakers-title = Host a Technology Talk with Tech Speakers!
 techspeakers-description = As Mozilla we’re working to help to keep the internet healthy, open and accessible to all but we can’t do it alone. We need to engage with people who are on the front lines of building the internet: web developers, designers, and other technologists who care about the open web. We need to get them excited about Mozilla as a technology leader.
 techspeakers-duration = 1-2 hours
-webextensions-title = Build Your Own Extension for Firefox
-webextensions-description = Add-ons provide a safe, simple, and powerful way to personalize your browsing experience. With WebExtensions APIs, it’s easier than ever to create extensions that can be easily ported to Firefox, Chrome, Edge, and Opera. Through this activity you’ll help connect new developers with an opportunity to create browser extensions to solve real problems and make their lives and the web better.
-webextensions-duration= 1-3 hours
+webext-title = Build Your Own Extension for Firefox
+webext-duration = 1.5-3 hours
+commonvoice-title = Contribute to Common Voice
+commonvoice-duration = variable
 rust-title = Dive Into Rust
-rust-document-title =
-    .title = Dive Into Rust | Activate Mozilla
-
 rust-description = Rust is a systems programming language important to the future of the web. It runs blazingly fast, prevents segfaults, and guarantees thread safety. With your help, we want more developers to understand, use and evangelize this language in order to make the web better and more secure.
 rust-duration = 2-3 hours
-
 webvr-title = WebVR Camp
-webvr-document-title =
-    .title = WebVR Camp | Activate Mozilla
-
 webvr-description = A-Frame is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality. Run events to onboard developers into 3D and write some great demos. This will advance WebVR, an open platform for virtual reality that leverages the Web.
 webvr-duration = 3-4 hours
-
-webcompat-document-title =
-    .title = Web Compatibility Sprint | Activate Mozilla
 webcompat-title = Web Compatibility Sprint
 webcompat-description = Web Compatibility, the ability for all Web content to run in all browsers, is important. There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired. Test sites and spread the message about compatibility.
 webcompat-duration = 2-3 hours
@@ -270,10 +273,6 @@ nightly-activity-impact-5 = 100 new followers to Nightly Twitter account
 nightly-activity-audience = Audience
 nightly-activity-audience-description = Your audience for this activity are people that are comfortable using the different features of Firefox and would like to dive a little deeper.  Maybe they want to learn some useful core skills that will help them as Mozillians or perhaps are comfortable using Developer Edition and want to learn more about Nightly. As just using Nightly gives us important information such as crashes, this is not only for developers or technical persons.
 
-commonvoice-document-title =
-    .title = Contribute to Common Voice | Activate Mozilla
-commonvoice-title = Contribute to Common Voice
-commonvoice-duration = variable
 commonvoice-activity-intro = Common Voice is a project to help make voice recognition open to everyone. To create voice systems, developers need an extremely large amount of voice data. Most of the data used by large companies isn’t available to the majority of people. We think that stifles innovation. So we’ve launched Common Voice, a project to help make voice recognition open and accessible to everyone! Raise your voice and get involved!
 commonvoice-activity-general = A useable data set needs at least 2000 hours of validated voice recorded by at least 1000 different voices. Voice diversity is key: gender, age, background noise, accents. We believe we can get this voice diversity from communities participation, and we’re hoping to see around 10% of the total goal (around 200 hours) in a few locales by the end of June, 2019.
 commonvoice-activity-general-2 = You and your community can make a huge impact by sharing your voice, reviewing clips and unleashing a viral effect to get more people involved and promote the common voice project.
@@ -351,9 +350,6 @@ commonvoice-activity-conversation = Join the Conversation
 commonvoice-activity-conversation-1 = Help us find others to donate their voice! Ask participants to share on social media - “Help teach machines how real people speak, I’ve just donated my voice at https://voice.mozilla.org #CommonVoice”
 commonvoice-activity-conversation-2 = If you run into any problems - ask questions in the <discourseLink>Common Voice Discourse</discourseLink> or join the conversation on <slackLink>Common Voice Slack</slackLink>.
 commonvoice-activity-conversation-3 = Have feedback about this activity? File an issue on <githubLink>GitHub</githubLink> or leave a comment on <discourseLink>Discourse</discourseLink>.
-
-techspeakers-document-title =
-    .title = Host a Technology Talk with Tech Speakers! | Activate Mozilla
 
 techspeakers-activity-intro = As Mozilla we’re working to help to keep the internet healthy, open and accessible to all but we can’t do it alone. We need to engage with people who are on the front lines of building the internet: web developers, designers, and other technologists who care about the open web. We need to get them excited about Mozilla as a technology leader.
 techspeakers-activity-general = Mozilla Tech Speakers are volunteer contributors who have undergone a six week training program to learn how to spread open web technologies to developers all over the world, from the voice of Mozilla. The aim of this activity is for you to work with Tech Speakers to reach as many web developers as we can with tech topics, and to get their feedback back to Mozilla.
@@ -583,10 +579,6 @@ vr-activity-strength-4 = 400 people are introduced to and starting to build with
 vr-activity-audience = Audience for this activity
 vr-activity-audience-1 = Your audience for this event should be anyone interested in virtual reality including web developers, designers and students. The audience should have a basic grasp of HTML.
 
-webext-title = Build Your Own Extension for Firefox
-webext-duration = 1.5-3 hours
-webext-document-title =
-    .title = Build Your Own Extension for Firefox | Activate Mozilla
 webext-activity-intro = Firefox is an open-source web browser that cares about user control and privacy, and extensions provide a safe, simple, and powerful way to personalize your browsing experience. From blocking ads to organizing tabs, add-ons help make Firefox your own.
 webext-activity-general = It’s very easy to create extensions for Firefox using <docLink>WebExtensions APIs</docLink>. This Web-based technology framework offers a powerful way to create browser extensions that can be easily ported to Chrome, Opera, and Edge, and you only need to know HTML, JavaScript and CSS to build them.
 webext-activity-general-1 = In this series of workshops, you’ll help connect new developers with an opportunity to create extensions to solve real problems and make their lives and the web better.
