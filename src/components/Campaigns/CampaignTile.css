@@ -71,6 +71,7 @@
   }
 
   .campaign-card__col:first-child {
+    text-align: center;
     padding-right: 30px;
   }
 
