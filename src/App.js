@@ -30,7 +30,7 @@ import RustHack from './components/Activities/RustHack';
 import WebVRCamp from './components/Activities/WebVRCamp';
 import WebcompatSprint from './components/Activities/WebcompatSprint';
 
-import {ADD_CURRENT_CAMPAIGN} from './actions/campaign';
+import {ADD_CURRENT_CAMPAIGN, ADD_UPCOMING_CAMPAIGNS} from './actions/campaign';
 
 
 let activeCampaign = null;
@@ -46,6 +46,19 @@ activeCampaign = {
   linkTarget:"https://events.mozilla.org/commonvoice100"
 };
 
+let upcomingCampaigns = null;
+
+// Comment out the following definition, if no upcoming campaign exists.
+upcomingCampaigns = [
+  // {
+  //   titleImage:"/images/firefox-fights.jpg",
+  //   titleKey:"firefox66-sumo-sprint-title",
+  //   descriptionKey:"firefox66-sumo-sprint-description",
+  //   durationKey:"firefox66-sumo-sprint-duration",
+  //   linkTarget:"https://events.mozilla.org/commonvoice100"
+  // }
+];
+
 
 class App extends Component {
 
@@ -53,7 +66,12 @@ class App extends Component {
     store.dispatch({
       type: ADD_CURRENT_CAMPAIGN,
       payload: activeCampaign
-    })
+    });
+
+    store.dispatch({
+      type: ADD_UPCOMING_CAMPAIGNS,
+      payload: upcomingCampaigns
+    });
   }
 
   render(props) {
@@ -105,7 +123,8 @@ class App extends Component {
 }
 
 const mapStateToProps = (state) => ({
-  activeCampaign: state.campaigns
+  activeCampaign: state.campaigns,
+  upcomingCampaigns: state.upcomingCampaigns,
 });
 
 export default connect(mapStateToProps)(App);

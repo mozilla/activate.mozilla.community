@@ -103,6 +103,9 @@ current-campaign-learn-more = Get Involved
 campaign-active = Active Campaign
 campaign-active-description = This is the best way to get active with Mozilla right now. Give it a try!
 
+campaign-upcoming = Upcoming Campaigns
+campaign-upcoming-description = Fasten your seatbelts!
+
 campaign-archive = Past Campaigns
 campaign-archive-description = Mozilla communities do great work together. These campaigns are over now but feel free to check out what everyone accomplished.
 
