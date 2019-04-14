@@ -35,6 +35,7 @@ footer-legal = Legal
 footer-github = GitHub (Pelacak Isu)
 footer-pontoon = Lokalkan situs web ini
 footer-mozilla-code-base = Basis Kode Mozilla
+footer-contribute-wiki = Kontribusi Wiki
 not-found-title = 404 - Laman tidak ditemukan!
 jumbotron-campaign-title = Berkontribusi dalam 5… 4…
 jumbotron-no-campaign-description = Kampanye Mozilla yang ekstra keren akan segera hadir, pastikan Anda menjadi yang pertama tahu kapan ini diluncurkan!
