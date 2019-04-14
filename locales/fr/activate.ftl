@@ -160,6 +160,7 @@ webcompat-activity-setup-2 = <firefoxLink>Firefox pour Android</firefoxLink>
 webcompat-activity-setup-3 = <iosLink>Firefox pour iOS</iosLink>
 webcompat-activity-impact-title = Impact :
 webcompat-activity-audience = Public visé pour cette activité
+rust-activity-before = 2-4 semaines avant l’évènement
 rust-activity-before2-2 = Promouvez votre évènement localement et en ligne.
 rust-activity-end = Directement à la fin de l’activité
 rust-activity-resources = Autres ressources
