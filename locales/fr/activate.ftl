@@ -102,6 +102,7 @@ faq-how-title = Comment puis-je contribuer ?
 faq-why-title = Pourquoi devrais-je m’impliquer ?
 faq-questions-title = Que dois-je faire si j'ai des questions ?
 faq-code-title = Et si je veux contribuer au code ?
+faq-budgetswag-answer-4 = La location d’une salle (s’il n’y a aucune autre solution)
 eg-started = Pour commencer
 eg-started-content-1 = Décider quelle activité organiser
 eg-started-content-2 = Estimer combien de personnes participeront
