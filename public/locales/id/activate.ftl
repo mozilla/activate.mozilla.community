@@ -75,6 +75,7 @@ cv-100-sprint-description = Mozilla Common Voice adalah proyek yang bertujuan un
 cv-100-sprint-duration = 22 April - 5 Mei 2019
 current-campaign-learn-more = Mari Berperan
 campaign-active = Kampanye Aktif
+campaign-upcoming-description = Siapkan diri Anda!
 campaign-archive = Kampanye Terdahulu
 campaign-archive-description = Komunitas-komunitas Mozilla bekerjasama dengan baik. Kampanye-kampanye ini kini telah selesai tetapi Anda masih bisa melihat kontribusi masing-masing orang.
 newsletter-title-2 = Dapatkan Pembaruan
