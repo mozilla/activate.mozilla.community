@@ -268,6 +268,7 @@ commonvoice-activity-solo-record-7 = Ripeti finché non raggiungi 225!
 commonvoice-activity-solo-review = Per convalidare le registrazioni
 commonvoice-activity-solo-review-3 = Fai clic su “Ascolta”
 commonvoice-activity-solo-review-7 = Ripeti
+commonvoice-activity-time-description-9 = Come si può contribuire?
 commonvoice-activity-crowd-description-6 = Esempi:
 commonvoice-activity-crowd-description-8 = Ciao! Sai che Common Voice vuole insegnare alle macchine a capirci e a proteggere la nostra privacy?
 commonvoice-activity-conversation = Partecipa alla discussione
