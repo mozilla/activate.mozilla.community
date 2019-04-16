@@ -74,6 +74,7 @@ newsletter-country-label = Pays
 newsletter-country-label-option = Sélectionnez votre pays
 newsletter-language-label = Langue
 newsletter-language-label-option = Sélectionnez votre langue
+newsletter-language-description = Nous utiliserons l’anglais par défaut, mais communiquerons dans ces langues chaque fois que nous le pourrons.
 hours = Heures
 testing = Test
 programming = Développement
