@@ -168,6 +168,7 @@ nightly-activity-audience = Audiens
 commonvoice-activity-impact-title = Dampak & Metrik
 commonvoice-activity-audience = Audiens
 commonvoice-activity-flows = Alur Kegiatan
+commonvoice-activity-flows-description = Kegiatan kontribusi ini dapat dilakukan sendiri, dengan teman, berbentuk acara atau di ruang publik. Mengapa tidak mencoba semuanya?
 commonvoice-activity-solo-record = Untuk mendonasikan suara Anda
 commonvoice-activity-solo-record-2 = Kunjungi https://voice.mozilla.org dan buat akun (pastikan Anda juga berlangganan nawala!)
 commonvoice-activity-solo-review = Untuk meninjau klip
