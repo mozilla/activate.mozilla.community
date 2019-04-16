@@ -268,6 +268,7 @@ commonvoice-activity-solo-record = Per donare la tua voce
 commonvoice-activity-solo-record-2 = Visita https://voice.mozilla.org e crea un account (non dimenticare di iscriverti alla newsletter!)
 commonvoice-activity-solo-record-3 = Fai clic su “Parla”
 commonvoice-activity-solo-record-4 = Fai clic sul microfono e leggi la frase a voce alta
+commonvoice-activity-solo-record-5 = Quando hai finito fai clic sull’icona rossa di stop.
 commonvoice-activity-solo-record-7 = Ripeti finché non raggiungi 225!
 commonvoice-activity-solo-review = Per convalidare le registrazioni
 commonvoice-activity-solo-review-3 = Fai clic su “Ascolta”
