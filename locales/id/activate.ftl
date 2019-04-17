@@ -70,6 +70,7 @@ dark-funnel-duration = 17–24 September 2018
 firefox-fights-title = Firefox berjuang untuk Anda
 firefox-fights-duration = 11 Januari - 3 Februari 2019
 firefox66-sumo-sprint-title = Acara Sprint Support Mozilla (SUMO) untuk Firefox 66
+firefox66-sumo-sprint-description = Bergabunglah dengan komunitas SUMO dengan mendukung pengguna Firefox Desktop dan Firefox untuk Android. Mari selamatkan dunia dari balik kenyamanan komputer Anda!
 firefox66-sumo-sprint-duration = 19 Maret - 2 April 2019
 cv-100-sprint-title = Sprint Common Voice 100 Jam
 cv-100-sprint-description = Mozilla Common Voice adalah proyek yang bertujuan untuk membuka ekosistem suara. Perlu bantuan ANDA untuk melanjutkan pengumpulan suara dalam bahasa Inggris dan mencapai tingkat selanjutnya.
