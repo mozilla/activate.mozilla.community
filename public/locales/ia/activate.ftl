@@ -77,6 +77,7 @@ firefox-fights-duration = 11 januario - 3 februario 2019
 firefox66-sumo-sprint-title = Sprint Mozilla (SUMO) pro supporto de Firefox 66
 firefox66-sumo-sprint-description = Junge te al communitate SUMO per supportar Firefox Scriptorio e Firefox pro usatores de Android. Que nos salva le mundo detra le commoditate de tu computator!
 firefox66-sumo-sprint-duration = 19 martio - 2 april 2019
+cv-100-sprint-title = Sprint de 100 horas de Common Voice
 current-campaign-learn-more = Collabora
 campaign-active = Campania active
 campaign-active-description = Isto es al momento le melior maniera de tener se active con Mozilla.
