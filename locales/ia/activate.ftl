@@ -280,6 +280,7 @@ commonvoice-activity-solo-review-4 = Ascolta le voce (prova a non leger le scher
 commonvoice-activity-solo-review-5 = Ora lege le schermo e compara con illo que tu ascoltava
 commonvoice-activity-solo-review-6 = Si le audio es equal al texto clicca Si, alteremente clicca No (nota que accentos differente es acceptabile)
 commonvoice-activity-solo-review-7 = Repeter
+commonvoice-activity-solo-end = Un vice que tu ha registrate 225 retalios vocal e tu ha revidite al minus 450 de illos, il es probabilemente tempore pro te de passar al defia successive: Discoperi le activate “Amusamento tra amicos”.
 commonvoice-activity-friends = 👨‍👩‍👧‍👦 Amusar se con amicos
 commonvoice-activity-time = 🤹‍♀️ Tempore de manifestation
 commonvoice-activity-time-description-12 = Tempore de revision! (30 minutas)
