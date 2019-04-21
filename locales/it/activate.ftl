@@ -294,6 +294,7 @@ commonvoice-activity-time-description-7 = Perché è importante?
 commonvoice-activity-time-description-8 = Quali sono gli obiettivi dell’evento?
 commonvoice-activity-time-description-9 = Come si può contribuire?
 commonvoice-activity-time-description-12 = Tempo di revisione! (30 minuti)
+commonvoice-activity-crowd-description-3 = <posterLink>POSTER</posterLink> di Common Voice
 commonvoice-activity-crowd-description-5 = Incoraggia i passanti a scoprire come possono aiutare a creare un dataset di voci che protegge la loro privacy, dedicando 2 o 3 minuti del loro tempo.
 commonvoice-activity-crowd-description-6 = Esempi:
 commonvoice-activity-crowd-description-7 = Ciao! Come va? Sai che puoi farti capire dalle macchine proteggendo allo stesso tempo la tua privacy?
