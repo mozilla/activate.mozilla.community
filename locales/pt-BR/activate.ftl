@@ -78,6 +78,7 @@ firefox66-sumo-sprint-title = Suporte Mozilla (SUMO) Sprint para Firefox 66
 firefox66-sumo-sprint-description = Participe da comunidade SUMO, dando suporte a usuários do Firefox Desktop e Firefox para Android. Vamos salvar o mundo atrás do conforto do computador!
 firefox66-sumo-sprint-duration = 19 de março a 2 de abril de 2019
 cv-100-sprint-title = Common Voice 100 Horas Sprint
+cv-100-sprint-description = Common Voice da Mozilla é o projeto que visa desbloquear e abrir o ecossistema de voz. Ele precisa da SUA ajuda para avançar a coleta de vozes em inglês e chegar ao próximo nível.
 cv-100-sprint-duration = 22 de abril a 5 de maio de 2019
 current-campaign-learn-more = Envolva-se
 campaign-active = Campanha ativa
