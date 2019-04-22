@@ -223,6 +223,7 @@ vr-activity-output-7 = Liens importants
 vr-activity-contact = Contact
 vr-activity-strength-3 = 30 évènements
 vr-activity-strength-4 = 400 personnes sont initiées et commencent à créer avec A-Frame
+vr-activity-audience = Public cible pour cette activité
 webext-activity-second-4 = Sujet
 webext-activity-second-5 = Exemples d’extensions
 webext-activity-second-6 = Vidéos
