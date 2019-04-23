@@ -44,6 +44,7 @@ not-found-description = Η σελίδα που ψάχνετε δεν ήταν δ
 jumbotron-campaign-title = Συνεισφορά σε 5… 4…
 jumbotron-campaign-description = Βρείτε διασκεδαστικούς και εμπνευσμένους τρόπους για να υποστηρίξετε την <missionLink>αποστολή της Mozilla</missionLink>. Λάβετε δράση τώρα!
 jumbotron-no-campaign-title = Επερχόμενη εκστρατεία!
+jumbotron-no-campaign-description = Μια υπέροχη εκστρατεία έρχεται σύντομα από τη Mozilla, βεβαιωθείτε ότι θα μάθετε πρώτοι πότε ξεκινά!
 home-cta = Μοιραστείτε την εμπειρία σας με το #MozActivate
 activities-homepage-title = Δραστηριότητες
 activities-homepage-description = Συνεισφέρετε τις ικανότητές σας και μάθετε από άλλους. Ορίστε μερικοί τρόποι με τους οποίους μπορείτε να συμμετάσχετε σήμερα.
