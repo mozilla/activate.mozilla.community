@@ -217,6 +217,7 @@ nightly-activity-impact-2 = 500 instalações do Nightly
 nightly-activity-impact-4 = 50 eventos organizados por Mozillians
 nightly-activity-impact-5 = 100 novos seguidores da conta do Nightly no Twitter
 nightly-activity-audience = Audiência
+commonvoice-activity-intro = Common Voice é um projeto para ajudar a tornar o reconhecimento de voz aberto a todos. Para criar sistemas de voz, os desenvolvedores precisam de uma quantidade extremamente grande de dados de voz. A maioria dos dados usados por grandes empresas não está disponível para a maioria das pessoas. Nós achamos que isso reprime a inovação. Por isso lançamos o Common Voice, um projeto para ajudar a tornar o reconhecimento de voz aberto e acessível a todos! Levante sua voz e envolva-se!
 commonvoice-activity-general-2 = Você e sua comunidade podem causar um enorme impacto ao compartilhar suas vozes, revisar clipes e desencadear um efeito viral para envolver mais pessoas e promover o projeto Common Voice.
 commonvoice-activity-impact-title = Impacto e Métrica
 commonvoice-activity-impact-2 = 1000 novas vozes por idioma
