@@ -334,6 +334,7 @@ webext-activity-resources-8 = <rLink>Πίνακας συμβατότητας π�
 webext-activity-resources-9 = <rLink>Webextensions.tech - a scaffolding tool for browser extensions</rLink> από τους Shivam Singhal, Tushar Arora & Trishul
 webext-activity-followup = Συνέχεια εκδήλωσης
 webext-activity-followup-1 = Αμέσως μετά την κάθε εκδήλωση, μοιραστείτε με τους παρευρισκόμενους το σύνδεσμο για τη φόρμα επίδρασης: <feedbackLink>mzl.la/howwasit</feedbackLink>. Επί τη ευκαιρία, γιατί δεν στέλνετε και ένα αντίγραφο των διαφανειών σας, καθώς και μια πρόσκληση για την ομάδα Telegram <telegramLink>@addonchats</telegramLink> στους παρευρισκόμενους;
+webext-activity-followup-2 = Συμπληρώστε τους δείκτες μετά την εκδήλωση στη σελίδα που δημιουργήσατε στην πύλη Reps.
 webext-activity-ack = Αναγνωρίσεις
 webext-activity-impact = Επίδραση και δείκτες
 webext-activity-impact-2 = Επίδραση:
