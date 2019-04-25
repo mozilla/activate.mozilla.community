@@ -291,6 +291,7 @@ commonvoice-activity-friends-description-6 = Passa le resto del tempore a revide
 commonvoice-activity-friends-description-7 = Quere a totes de mantener tracia del numero de lor collaborationes in le culmine del pagina pertinente del sito web
 commonvoice-activity-friends-description-8 = Quere al personas de annunciar quando illes supera le objectivos de 25, 50 o 100; assi que tu pote mesmo crear un classifica in le spatio del evento.
 commonvoice-activity-friends-description-9 = Un vice que unes attinge lor objectivos, controla lor contributiones e distribue le premios!
+commonvoice-activity-friends-end = Invita les a compartir sur retes social con le hashtag #CommonVoice e a facer fluer iste mesme activitate con 2-3 personas qui illes cognosce e vole compartir retro le experientia con te.
 commonvoice-activity-time = 🤹‍♀️ Tempore de manifestation
 commonvoice-activity-time-description-4 = Presentation del projecto (10 minutas)
 commonvoice-activity-time-description-6 = Re que tracta iste projecto?
