@@ -303,6 +303,7 @@ commonvoice-activity-time-description-7 = Perque es illo importante?
 commonvoice-activity-time-description-8 = Qual es le propositos del evento ?
 commonvoice-activity-time-description-9 = Como pote on collaborar?
 commonvoice-activity-time-description-10 = Donationes de voce (15 minutas - 30 minutas)
+commonvoice-activity-time-description-11 = Le personas accedera al sito e con lor smartphonos e microphonos illes comenciara a donar lor voces pro quindece minutas. Si le spatio es micre o multo ruitose tu pote poner medietate del gruppo a comenciar le revisiones e le altere medietate le donationes de voce, con excambio de rolos post quindece minutas. Le gestor del activitate controlara le tempore e demandara al personas de mover al grado sequente del activitate.
 commonvoice-activity-time-description-12 = Tempore de revision! (30 minutas)
 commonvoice-activity-crowd-description-3 = <posterLink>POSTER</posterLink> de Common Voice
 commonvoice-activity-crowd-description-5 = Incoragia passantes a apprender como illes pote adjutar a crear un collection de datos vocal que protege lor confidentialitate si illos dona 2-3 minutas de lor tempore.
