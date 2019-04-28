@@ -181,6 +181,7 @@ commonvoice-activity-solo-review-4 = Dengarkan rekaman suara (usahakan untuk tid
 commonvoice-activity-solo-review-5 = Sekarang baca pada layar dan bandingkan dengan yang Anda dengar
 commonvoice-activity-solo-review-6 = JIka sama maka pilih ya, jika tidak maka pilih tidak (perhatian: aksen yang berbeda diperbolehkan)
 commonvoice-activity-solo-review-7 = Ulangi
+commonvoice-activity-friends = 👨‍👩‍👧‍👦 Bersenang-senang dengan teman
 commonvoice-activity-time-description-7 = Mengapa ini penting?
 commonvoice-activity-time-description-9 = Bagaimana orang-orang dapat berkontribusi?
 commonvoice-activity-time-description-12 = Waktunya mengulas! (30 menit)
