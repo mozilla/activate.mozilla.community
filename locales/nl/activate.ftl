@@ -1,0 +1,10 @@
+homepage-document-title =
+    .title = Welkom bij Activate Mozilla
+activities-document-title =
+    .title = Activiteitenlijst | Activate Mozilla
+campaigns-document-title =
+    .title = Campagnes | Activate Mozilla
+faq-document-title =
+    .title = Veelgestelde vragen | Activate Mozilla
+newsletter-document-title =
+    .title = Meld u aan voor onze nieuwsbrief | Activate Mozilla
