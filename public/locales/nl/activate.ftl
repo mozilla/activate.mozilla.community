@@ -189,3 +189,4 @@ eg-signin-content = Als uw evenement eenmaal van start gaat, kan het heel moeili
 eg-documentation = Documentatie
 eg-documentation-content = Evenementen verlopen snel en het is vaak onmogelijk om alle geweldige dingen die gemaakt worden vast te leggen of er koppelingen naar te krijgen. Bedenk een proces om werk al vroeg vast te leggen en te delen, en deel dit met vrijwilligers, organisatoren en deelnemers.
 eg-wrapup = Afronding
+eg-demos = Demo’s
