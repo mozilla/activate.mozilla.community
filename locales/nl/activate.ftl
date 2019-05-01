@@ -133,3 +133,7 @@ faq-activaties = Activiteiten
 faq-what-title = Wat is Activate Mozilla?
 faq-what-answer-2 = Activate is een manier voor Mozillians van over de hele wereld om van betekenis te zijn op gebieden die cruciaal zijn voor Mozilla’s missie. Deze website geeft duidelijkheid over de belangrijkste bijdragegebieden voor Mozilla op dit moment en biedt eenvoudige manieren om direct deel te nemen.
 faq-who-title = Wie kan aan de activiteiten meedoen?
+faq-who-answer-2 = Iedereen die Mozilla wil ondersteunen door op een gezonde en constructieve manier bij te dragen. Om een veilige en positieve gemeenschapservaring voor iedereen te creëren, vragen we iedereen die deelneemt akkoord te gaan met de <cpgLink>Deelnamerichtlijnen van de gemeenschap</cpgLink> en deze te volgen.
+faq-how-title = Hoe doe ik mee?
+faq-how-answer-2 = Navigeer gewoon door de website en lees over de verschillende beschreven campagnes en activiteiten. Hier vindt u meer informatie over de gekozen activiteiten en instructies over hoe u een bijdrage kunt leveren aan elk van deze activiteiten.
+faq-why-title = Waarom zou ik meedoen?
