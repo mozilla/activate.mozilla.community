@@ -49,6 +49,7 @@ home-cta = Dela din erfarenhet med #MozActivate
 activities-homepage-title = Aktiviteter
 activities-homepage-description = Bidra med dina färdigheter och lär dig av andra. Här är några sätt som du kan engagera dig idag.
 activities-listing-title = Aktiviteter
+activities-listing-description = Vi kallar dessa aktiviteter "evergreen" eftersom de alltid är viktiga, relevanta för Mozillas uppdrag och behöver ditt deltagande nu!
 quantum-sprint-title = Firefox Quantum Sprint
 quantum-sprint-description = Firefox Quantum kommer snart att lanseras och det här är vår möjlighet att få användandet av Firefox att stiga igen. Delta i Firefox Quantum Sprint och gör skillnad genom att se till att Firefox fungerar smidigt i din region.
 quantum-sprint-duration = 2-8 oktober 2017
