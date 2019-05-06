@@ -147,14 +147,14 @@ class CommonVoice extends Component {
             titleKey="commonvoice-activity-friends"
             id="activity-flow-1"
           >
-            <Localized id="commonvoice-activity-friends-description">
-              <p></p>
-            </Localized>
-            <Localized id="commonvoice-activity-friends-description-2">
+            <Localized id="commonvoice-activity-friends-description-gather">
               <p></p>
             </Localized>
 
             <img src="/images/commonvoice-track.png" width="200" alt=""></img>
+            <Localized id="commonvoice-activity-friends-description-track">
+              <small></small>
+            </Localized>
 
             <ol>
               <Localized id="commonvoice-activity-friends-description-3"
@@ -272,20 +272,11 @@ class CommonVoice extends Component {
             </Localized>
 
             <Localized id="commonvoice-activity-crowd-description-2"
-              voiceLink={<a href="https://voice.mozilla.org/"></a>}>
+              posterLink={<a href="https://drive.google.com/file/d/0BzWVc2pf7zzKeXRFVjRYZy1Sa3Z5WWYzZmsyakF5cFd1aHpV/view?usp=sharing"></a>}
+              signageLink={<a href="https://docs.google.com/document/d/1T0eMygnmxDz-tTbNJbXWEy7nZNM4eNIzEg63IjKLxJY/edit#"></a>}
+              >
               <p></p>
             </Localized>
-
-            <ul>
-              <Localized id="commonvoice-activity-crowd-description-3"
-                posterLink={<a href="https://drive.google.com/file/d/0BzWVc2pf7zzKeXRFVjRYZy1Sa3Z5WWYzZmsyakF5cFd1aHpV/view?usp=sharing"></a>}>
-                <li></li>
-              </Localized>
-              <Localized id="commonvoice-activity-crowd-description-4"
-              signageLink={<a href="https://docs.google.com/document/d/1T0eMygnmxDz-tTbNJbXWEy7nZNM4eNIzEg63IjKLxJY/edit#"></a>}>
-                <li></li>
-              </Localized>
-            </ul>
 
             <Localized id="commonvoice-activity-crowd-description-5">
               <p></p>
