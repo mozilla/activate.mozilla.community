@@ -87,6 +87,13 @@ class CampaignsListing extends Component {
               <Grid>
                 <Row className="campaign-list__row">
                 <CampaignTile
+                  titleImage="/images/cv-100.jpg"
+                  titleKey="cv-100-sprint-title"
+                  descriptionKey="cv-100-sprint-description"
+                  durationKey="cv-100-sprint-duration"
+                  linkTarget="https://events.mozilla.org/commonvoice100"
+                ></CampaignTile>
+                <CampaignTile
                   titleImage="/images/sumo-firefox-66.png"
                   titleKey="firefox66-sumo-sprint-title"
                   descriptionKey="firefox66-sumo-sprint-description"
