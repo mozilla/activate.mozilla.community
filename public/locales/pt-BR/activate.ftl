@@ -262,6 +262,7 @@ commonvoice-activity-friends-description-8 = Faça com que as pessoas anunciem q
 commonvoice-activity-friends-description-9 = Assim que alguém atingir sua meta, marque sua contribuição e entregue os prêmios!
 commonvoice-activity-friends-end = Peça para compartilhar nas mídias sociais usando #CommonVoice e realizar essa mesma atividade com 2 a 3 pessoas que eles conheçam e depois compartilhar a experiência com você.
 commonvoice-activity-time = 🤹‍♀️ É hora do show
+commonvoice-activity-time-description = Transforme em um grande evento! Reúna seus conhecidos, colegas de classe e amigos para fazer uma contribuição gigantesca ao Common Voice. Aqui está um <posterLink>POSTER</posterLink> que você pode usar no seu evento.
 commonvoice-activity-time-description-4 = Introdução ao projeto (10 minutos)
 commonvoice-activity-time-description-6 = Sobre o que é o projeto?
 commonvoice-activity-time-description-7 = Por que é importante?
