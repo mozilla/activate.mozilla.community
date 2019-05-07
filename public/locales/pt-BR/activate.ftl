@@ -272,6 +272,7 @@ commonvoice-activity-time-description-7 = Por que é importante?
 commonvoice-activity-time-description-8 = Quais são os objetivos do evento?
 commonvoice-activity-time-description-9 = Como as pessoas podem contribuir?
 commonvoice-activity-time-description-10 = Doações de voz (15 minutos - 30 minutos)
+commonvoice-activity-time-description-11 = Indivíduos irão entrar no site do Common Voice e doar suas vozes por aproximadamente 15 minutos. Se o espaço for pequeno ou barulhento, você pode dividir o grupo em dois, metade doando clipes de voz e a outra metade revisando clipes, alternando a cada 15 minutos.
 commonvoice-activity-time-description-12 = Tempo de revisão! (30 minutos)
 commonvoice-activity-time-description-13 = Quando todos tiverem compartilhado suas vozes, faça com que o grupo se divida em pares. Uma pessoa vai reproduzir uma gravação em seu dispositivo e a outra vai ouvir (sem ler na tela). O ouvinte vai repetir o que ouviu para a dupla confirmar se o clipe de voz está correto.
 commonvoice-activity-time-description-14 = O proprietário da atividade controlará o tempo e solicitará que os pares mudem de papéis após os primeiros 15 minutos.
