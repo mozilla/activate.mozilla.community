@@ -253,6 +253,7 @@ commonvoice-activity-solo-review-6 = Se for exatamente a mesma coisa, clique em 
 commonvoice-activity-solo-review-7 = Repetir
 commonvoice-activity-solo-end = Uma vez que você tenha (ou estiver quase) gravado 225 clipes e revisado no mínimo 450, provavelmente está na hora de você ir para o próximo desafio, confira a atividade "Diversão com amigos".
 commonvoice-activity-friends = 👨‍👩‍👧‍👦  Diversão com amigos
+commonvoice-activity-friends-description-track = Acompanhe o seu progresso no site.
 commonvoice-activity-friends-description-3 = Apresente a elas o projeto Common Voice visitando juntos o site <voiceLink>voice.mozilla.org</voiceLink>. Fale sobre a importância e mostre a facilidade de, com apenas um celular, doar sua voz e revisar vozes de outras pessoas. Aqui estão alguns <slidesLink>SLIDES</slidesLink> que podem ser úteis.
 commonvoice-activity-friends-description-4 = Faça com que todos criem uma conta (eles podem usar seus celulares ou qualquer dispositivo)
 commonvoice-activity-friends-description-5 = Gaste 15 minutos se divertindo gravando clipes de voz (talvez você precise se afastar um pouco se estiver em um local barulhento). Para começar, clique em:
