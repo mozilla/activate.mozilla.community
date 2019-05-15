@@ -99,6 +99,10 @@ cv-100-sprint-title = Common Voice 100 Hours Sprint
 cv-100-sprint-description = Mozilla's Common Voice is the project that aims to unlock and open the voice ecosystem. It needs YOUR help to advance English voice collection and get to the next level.
 cv-100-sprint-duration = April 22 - May 5 2019
 
+ff-preview-title = Become a Beta Testing BugHunter
+ff-preview-description = Mozilla is launching a NEW Android web browser and we need your help to get it ready for the free and open web. We’re asking YOU to become a fearless beta tester and BUG HUNTER to gather with friends and family, install this brand new browser and test it until you can test no more!
+ff-preview-duration = May 15 - June 18 2019
+
 current-campaign-learn-more = Get Involved
 campaign-active = Active Campaign
 campaign-active-description = This is the best way to get active with Mozilla right now. Give it a try!

@@ -37,14 +37,14 @@ let activeCampaign = null;
 
 // Campaign exists.
 // Comment out the following definition, if no active Campaign exists.
-// activeCampaign = {
-//   titleImage:"/images/cv-100.jpg",
-//   titleKey:"cv-100-sprint-title",
-//   descriptionKey:"cv-100-sprint-description",
-//   durationKey:"cv-100-sprint-duration",
-//   buttonKey: "current-campaign-learn-more",
-//   linkTarget:"https://events.mozilla.org/commonvoice100"
-// };
+activeCampaign = {
+  titleImage:"/images/ff-preview.png",
+  titleKey:"ff-preview-title",
+  descriptionKey:"ff-preview-description",
+  durationKey:"ff-preview-duration",
+  buttonKey: "current-campaign-learn-more",
+  linkTarget:"https://events.mozilla.org/becomeabetatestingbughunter"
+};
 
 let upcomingCampaigns = null;
 
