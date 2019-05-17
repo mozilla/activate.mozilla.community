@@ -81,6 +81,7 @@ cv-100-sprint-title = Sprint di 100 ore di Common Voice
 cv-100-sprint-description = Common Voice di Mozilla è il progetto che mira a rendere accessibile e aperto a tutti l’ecosistema vocale. Abbiamo bisogno del TUO aiuto per ampliare la raccolta vocale in italiano e passare alla fase successiva.
 cv-100-sprint-duration = 22 aprile - 5 maggio 2019
 ff-preview-title = Diventa un beta tester cacciatore di bug
+ff-preview-description = Mozilla sta per lanciare un nuovo browser web per Android e abbiamo bisogno del tuo aiuto per renderlo pronto per il web libero e aperto. Ti chiediamo di diventare un impavido beta tester e cacciatore di bug da scovare con amici e familiari, di installare questo nuovo browser e testarlo finché non rimane nulla da testare!
 ff-preview-duration = 15 maggio - 18 giugno 2019
 current-campaign-learn-more = Collabora
 campaign-active = Campagna attiva
