@@ -3,7 +3,32 @@ import { negotiateLanguages } from 'fluent-langneg/compat';
 
 import history from '../history';
 
-const AVAILABLE_LOCALES = ['en-US', 'it', 'ru'];
+const AVAILABLE_LOCALES = [
+  'en-US',
+  'bn-BD',
+  'cs',
+  'el',
+  'es',
+  'fr',
+  'fy-NL',
+  'hi-IN',
+  'hu',
+  'ia',
+  'id',
+  'it',
+  'kab',
+  'nl',
+  'pt-BR',
+  'pt-PT',
+  'ro',
+  'ru',
+  'sq',
+  'sv-SE',
+  'th',
+  'tr',
+  'zh-CN',
+  'zh-TW',
+];
 
 async function fetchMessages(locale) {
   const response = await fetch(`/locales/${locale}/activate.ftl`);
