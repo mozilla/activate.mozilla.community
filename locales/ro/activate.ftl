@@ -80,6 +80,7 @@ firefox66-sumo-sprint-duration = 19 martie - 2 aprilie 2019
 cv-100-sprint-title = Sprintul de 100 de ore pentru Common Voice
 cv-100-sprint-description = Common Voice de la Mozilla este proiectul care vizează să descătușeze și să deschidă ecosistemul vocal. Are nevoie de ajutorul TĂU pentru progresul colectării de secvențe vocale în română și ca să trecem la nivelul următor.
 cv-100-sprint-duration = 22 aprilie - 5 mai 2019
+ff-preview-title = Devino tester Beta pentru depistarea defectelor
 current-campaign-learn-more = Implică-te
 campaign-active = Campanie activă
 campaign-active-description = Este cea mai bună modalitate ca să te implici chiar acum în Mozilla. Încearcă!
