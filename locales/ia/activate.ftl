@@ -81,6 +81,7 @@ cv-100-sprint-title = Sprint de 100 horas de Common Voice
 cv-100-sprint-description = Common Voice de Mozilla es le projecto que mira a render accessibile e libere pro omnes le ecosystema del voce. Nos besonia TE pro ampliar le collection de voces de interlingua e passar al phase sequente.
 cv-100-sprint-duration = 22 april - 5 maio 2019
 ff-preview-title = Deveni un beta tester cassator de bug
+ff-preview-description = Mozilla lancea un NOVE navigator del Web pro Android e nos besonia de tu adjuta pro render lo preste pro le Web libere e aperte. Nos te demanda de devenir un intrepide probator beta e CHASSATOR DE DEFECTOS pro reunir te con amicos e familiares, installa iste navigator nove de fabrica e proba illo usque tu pote probar jammais plus!
 ff-preview-duration = 15 maio - 18 junio 2019
 current-campaign-learn-more = Collabora
 campaign-active = Campania active
