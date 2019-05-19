@@ -19,6 +19,7 @@ not-found-title = 404 - ไม่พบหน้า!
 activities-homepage-title = กิจกรรม
 activities-listing-title = กิจกรรม
 firefox-fights-title = Firefox ต่อสู้เพื่อคุณ
+cv-100-sprint-duration = 22 เมษายน - 5 พฤษภาคม 2019
 current-campaign-learn-more = มีส่วนร่วม
 newsletter-email = อีเมล
 newsletter-form-email-placeholder =
