@@ -378,6 +378,7 @@ webcompat-activity-output = Rezultate
 webcompat-activity-output-1 = În plus față de fluxul recomandat al evenimentului, iată câteva lucruri pe care am vrea să le faci în calitate de organizator al evenimentului:
 webcompat-activity-output-2 = Completează metricile post-eveniment pe pagina evenimentului creată pe portalul reprezentanților
 webcompat-activity-output-3 = Opțional, spune-ne despre eveniment. Poate fi înainte sau după. Ne face mare plăcere să auzim de planuri pentru viitorul apropiat și despre ce s-a realizat la eveniment, cu o fotografie sau două!
+webcompat-activity-extra = Extra
 webcompat-activity-impact = Impact și metrici
 webcompat-activity-goals = Obiective pentru această zonă
 webcompat-activity-impact-title = Impact:
