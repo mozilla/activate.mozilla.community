@@ -18,9 +18,13 @@ class HomeCTA extends Component {
 
     return (
       <div className={classString}>
-        <Localized id="home-cta">
-          <span className="home-cta__text"></span>
-        </Localized>
+        <a target="_blank"
+         rel="noopener noreferrer"
+         href="https://twitter.com/intent/tweet?text=%23MozActivate">
+          <Localized id="home-cta">
+            <span className="home-cta__text"></span>
+          </Localized>
+        </a>
       </div>
     );
   }
