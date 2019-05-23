@@ -1,4 +1,4 @@
-.newsletter {
+.nl {
   padding: 40px;
   background: white;
   box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.15);
@@ -247,29 +247,29 @@
 
 
 /* Footer Variant */
-.newsletter--footer .footer-nav__title{
+.nl--footer .footer-nav__title{
   margin-bottom: 10px;
 }
 
-.newsletter--footer .newsletter__email,
-.newsletter--footer .newsletter__select {
+.nl--footer .newsletter__email,
+.nl--footer .newsletter__select {
   margin-bottom: 15px;
 }
 
-.newsletter--footer .newsletter__details {
+.nl--footer .newsletter__details {
   margin-bottom: 0;
 }
 
-.newsletter--footer .newsletter__privacy-policy label {
+.nl--footer .newsletter__privacy-policy label {
   color: white;
   text-align: left;
 }
 
-.newsletter--footer .newsletter__privacy-policy label a{
+.nl--footer .newsletter__privacy-policy label a{
   color: white;
 }
 
-.newsletter--footer .newsletter__email .form_input {
+.nl--footer .newsletter__email .form_input {
   font-size: var(--small-font-size);
   line-height: var(--base-line-height);
   border-color: var(--grey-color-medium);
@@ -278,25 +278,25 @@
 }
 
 @media all and (min-width: 576px) {
-  .newsletter--footer .newsletter__details {
+  .nl--footer .newsletter__details {
     display: flex;
     justify-content: space-between;
   }
 }
 
 @media all and (min-width: 576px) {
-  .newsletter--footer .newsletter__select {
+  .nl--footer .newsletter__select {
     position: relative;
     display: inline-block;
     width: 48%;
   }
 }
 
-.newsletter--footer .newsletter__select select.is-placeholder {
+.nl--footer .newsletter__select select.is-placeholder {
   color: var(--grey-color-medium);
 }
 
-.newsletter--footer .newsletter__select select {
+.nl--footer .newsletter__select select {
   display: inline-block;
   font-size: var(--small-font-size);
   line-height: var(--base-line-height);
@@ -305,13 +305,13 @@
   border-color: var(--grey-color-medium);
 }
 
-.newsletter--footer .newsletter__select:after {
+.nl--footer .newsletter__select:after {
   top: 9px;
   right: 14px;
   border-color: transparent var(--grey-color-medium) var(--grey-color-medium) transparent;
 }
 
-.newsletter--footer .newsletter__select:before {
+.nl--footer .newsletter__select:before {
   right: 37px;
   background: var(--grey-color-medium);
 }

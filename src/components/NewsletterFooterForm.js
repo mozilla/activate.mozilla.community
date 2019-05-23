@@ -67,11 +67,11 @@ class NewsletterFooterForm extends Component {
       while (newsletterErrors.firstChild) newsletterErrors.removeChild(newsletterErrors.firstChild);
 
       let fmt = document.getElementById('fmt-footer').value;
-      let email = document.getElementById('email-footer').value;
-      let newsletter = document.getElementById('newsletters-footer').value;
+      let email = document.getElementById('em-footer').value;
+      let newsletter = document.getElementById('nl-footer').value;
       let newsletterLanguage = document.getElementById('newsletter-language-footer').value;
       let newsletterCountry = document.getElementById('newsletter-country-footer').value;
-      let privacy = document.querySelector('input[name="privacy-footer"]:checked') ? '&privacy=true' : '';
+      let privacy = document.querySelector('input[name="priv-footer"]:checked') ? '&privacy=true' : '';
 
       let params = 'email=' + encodeURIComponent(email) +
         '&newsletters=' + newsletter +
@@ -140,7 +140,7 @@ class NewsletterFooterForm extends Component {
   }
 
   render() {
-    let classes = ['newsletter--footer', 'js-newsletter--footer'];
+    let classes = ['nl--footer', 'js-nl--footer'];
     const classString = classes.join(' ');
 
     return (
@@ -156,16 +156,16 @@ class NewsletterFooterForm extends Component {
               </Localized>
             </div>
             <input type="hidden" id="fmt-footer" name="fmt-footer" value="H" />
-            <input type="hidden" id="newsletters-footer" name="newsletters-footer" value="about-mozilla" />
+            <input type="hidden" id="nl-footer" name="nl-footer" value="about-mozilla" />
 
             <div id="newsletter_footer_errors" className="newsletter__errors--footer text text--small color--white" />
 
             <div id="newsletter_email_footer" className="form_group newsletter__email">
               <Localized id="newsletter-email">
-                <label htmlFor="email-footer" className="form_label element-invisible">..</label>
+                <label htmlFor="em-footer" className="form_label element-invisible">..</label>
               </Localized>
               <Localized id="newsletter-form-email-placeholder" attrs={{placeholder: true, "aria-label": true}}>
-                <input aria-label="Enter your e-mail" aria-required="true" type="email" id="email-footer" name="email-footer" className="form_input" required placeholder="Enter your e-mail" />
+                <input aria-label="Enter your e-mail" aria-required="true" type="email" id="em-footer" name="em-footer" className="form_input" required placeholder="Enter your e-mail" />
               </Localized>
 
               <button type="submit" className="button button--gray button--inline newsletter__subscribe newsletter__subscribe--small newsletter__subscribe--with-icon" >
@@ -190,10 +190,10 @@ class NewsletterFooterForm extends Component {
             </div>
 
             <div id="newsletter_privacy_footer" className="form_group newsletter__privacy-policy text text--small">
-              <input type="checkbox" id="privacy-footer" name="privacy-footer" required />
+              <input type="checkbox" id="priv-footer" name="priv-footer" required />
               <Localized id="newsletter-privacy"
                          privacyLink={<a target="_blank" rel="noopener noreferrer" href="https://www.mozilla.org/privacy/websites/"></a>}>
-                <label htmlFor="privacy-footer">..</label>
+                <label htmlFor="priv-footer">..</label>
               </Localized>
             </div>
           </form>

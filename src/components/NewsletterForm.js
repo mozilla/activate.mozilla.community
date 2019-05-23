@@ -20,7 +20,7 @@ class NewsletterForm extends Component {
 
   getNewsletterFormTextDefault = () => {
     return (
-      <div className="newsletter__text-wrapper js-newsletter-header">
+      <div className="newsletter__text-wrapper js-nl-header">
         <Localized id="newsletter-title-2">
           <h1 className="title title--extra-large title--lighter text--centered newsletter__title"></h1>
         </Localized>
@@ -34,7 +34,7 @@ class NewsletterForm extends Component {
 
   getNewsletterFormTextIllustrated = () => {
     return (
-      <div className="newsletter__text-wrapper js-newsletter-header">
+      <div className="newsletter__text-wrapper js-nl-header">
         <Localized id="newsletter-title-2">
           <h1 className="title text--centered newsletter__title"></h1>
         </Localized>
@@ -110,7 +110,7 @@ class NewsletterForm extends Component {
 
     // Hide newsletter header
     function newsletterHeader() {
-      let header = document.getElementsByClassName('js-newsletter-header');
+      let header = document.getElementsByClassName('js-nl-header');
       // Hide newsletter header.
       header[0].style.display = 'none';
     }
@@ -119,7 +119,7 @@ class NewsletterForm extends Component {
     // show success message
     function newsletterThanks() {
       let thanks = document.getElementById('newsletter_thanks');
-      let newsletterFormWrapper = document.getElementsByClassName('js-newsletter-form-wrapper');
+      let newsletterFormWrapper = document.getElementsByClassName('js-nl-form-wrapper');
       window.scrollTo({
         top: newsletterFormWrapper[0].offsetTop,
         behavior: "smooth"
@@ -217,11 +217,11 @@ class NewsletterForm extends Component {
   }
 
   render() {
-    let classes = ['newsletter', 'js-newsletter'];
+    let classes = ['nl', 'js-nl'];
     if(this.isInIllustratedSlice()) {
       classes.push('newsletter--illustrated');
     } else {
-      classes.push('content-contained', 'section--pull-up', 'js-newsletter-form-wrapper');
+      classes.push('content-contained', 'section--pull-up', 'js-nl-form-wrapper');
     }
     if(this.props.className) classes.push(this.props.className);
     const classString = classes.join(' ');

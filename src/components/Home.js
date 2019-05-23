@@ -48,7 +48,7 @@ class Home extends Component {
               }
             />
             <ActivitiesOverview />
-            <div className="home__illustrated-slice home__illustrated-slice--large js-newsletter-form-wrapper">
+            <div className="home__illustrated-slice home__illustrated-slice--large js-nl-form-wrapper">
               <div className="container">
                 <div className="content-contained">
                   <NewsletterForm isInIllustratedSlice/>
