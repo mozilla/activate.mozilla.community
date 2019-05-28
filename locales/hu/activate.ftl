@@ -232,6 +232,7 @@ commonvoice-activity-time-description-14 = 15 perc után kérje meg a párokat, 
 commonvoice-activity-time-description-15 = Lezárás és megosztás (5 perc)
 commonvoice-activity-time-description-16 = A tevékenységtulajdonos megkéri a résztvevőket, hogy osszák meg az előrehaladásukat, és osszák meg az eseményt a közösségi médiában a #CommonVoice címke használatával.
 commonvoice-activity-crowd = 🤩 Érje el a tömeget
+commonvoice-activity-crowd-description-6 = Példák:
 techspeakers-activity-ready = Készen áll?
 techspeakers-activity-setup = Az esemény összeállítása
 techspeakers-activity-setup-3 = Web VR
