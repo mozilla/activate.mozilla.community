@@ -584,6 +584,7 @@ webext-activity-help-idea = Als uw deelnemers hulp nodig hebben bij het bedenken
 webext-activity-upload = Vraag deelnemers die een originele extensie hebben gebouwd om deze bij addons.mozilla.org in te dienen. Na de indiening, kunnen ze navigeren naar ‘Mijn bijdragen beheren’ en ‘Informatie bewerken’ om hun extensie te labelen met ‘#mozactivate17’. Klik op ‘Wijzigingen opslaan’ na toevoegen van het label!
 webext-activity-third = Derde bijeenkomst: API’s in actie, deel 2
 webext-activity-third-2 = Voor deze vergadering wordt de volgende agenda aanbevolen:
+webext-activity-third-3 = 1e helft van de bijeenkomst: geef een overzicht en demonstratie van de volgende onderwerpen:
 webext-activity-third-4 = Onderwerp
 webext-activity-third-5 = Voorbeelden van extensies
 webext-activity-third-6 = Video’s
