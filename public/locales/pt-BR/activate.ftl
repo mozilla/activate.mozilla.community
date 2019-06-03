@@ -184,6 +184,7 @@ eg-backup = Plano reserva
 eg-backup-content = Infelizmente, problemas técnicos são parte familiar até demais em eventos. Não importa a preparação, redes sem fio ou computadores podem causar problemas inesperados. Se alguns computadores estiverem com defeito, talvez possa pedir aos participantes que compartilhem computadores e trabalhem em grupo. Sugerimos ter algumas atividades offline preparadas no caso de uma emergência.
 eg-setup = Preparação
 eg-welcome = Boas-vindas e inscrição
+eg-welcome-content = Uma boa primeira impressão ajuda muito as pessoas a se sentirem confortáveis e felizes no seu evento.
 eg-welcome-welcome = Boas-vindas
 eg-signin = Entrar
 eg-documentation = Documentação
