@@ -479,6 +479,7 @@ webext-activity-resources = Resurser
 webext-activity-resources-6 = <rLink>Låt oss skriva ett webbtillägg av Blake Winton</rLink>
 webext-activity-resources-7 = <rLink>Skapa en simpel WebExtension av David Wals</rLink>
 webext-activity-followup = Evenemangsuppföljning
+webext-activity-new-ack = Tack till Viswaprasanth Ks, Santosh Viswanatham, Trishul Goel, Karthic Keyan, Andre Garzia, Daniele Scasciafratte, Michael Kohler, Shivam Singhal och Tushar Arora.
 webext-activity-impact = Inverkan och mätvärden
 webext-activity-impact-2 = Inverkan:
 webext-activity-impact-4 = 20 tillägg taggade med '#mozactivate' i addons.mozilla.org.
