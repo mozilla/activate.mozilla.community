@@ -22,6 +22,7 @@ footer-privacy-note = Aviso de privacidade do website
 footer-cookies = Cookies
 footer-legal = Informação legal
 not-found-title = 404 - Página não encontrada!
+ff-preview-title = Torne-se num "Caçador de Erros" (Bugs) da versão beta de testes
 newsletter-description-subscribe = Subscreva a nossa newsletter e junte-se aos Mozillians de todo o mundo e aprenda acerca de oportunidades impactantes para apoiar a missão da Mozilla.
 newsletter-slice-title = Mantenha-se atualizado(a).
 newsletter-email = Email
