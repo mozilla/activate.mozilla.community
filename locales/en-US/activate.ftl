@@ -41,6 +41,12 @@ footer-github = GitHub (Issue Tracker)
 footer-pontoon = Localize this website
 footer-mozilla-code-base = Mozilla Code Base
 footer-contribute-wiki = Contribute Wiki
+footer-mozilla-title = Mozilla
+footer-mozilla-about = About
+footer-mozilla-blog = Blog
+footer-mozilla-contact = Contact Us
+footer-mozilla-donate = Donate
+footer-mozilla-coc = Code of Conduct
 
 not-found-title = 404 - Page not found!
 not-found-description = The page you are looking for could not be found. It may have been removed in the meantime or the URL might be wrong.
