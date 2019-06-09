@@ -25,6 +25,10 @@ footer {
   padding-bottom: 5px;
 }
 
+.footer-nav__title:not(:first-child) {
+  margin-top: 30px;
+}
+
 .footer-nav__menu {
   margin: 0;
 }

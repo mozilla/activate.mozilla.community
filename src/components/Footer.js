@@ -37,6 +37,36 @@ class Footer extends Component {
                 </a>
               </li>
             </Nav>
+            <Localized id="footer-mozilla-title">
+              <div className="footer-nav__title"></div>
+            </Localized>
+            <Nav stacked className="footer-nav__menu">
+              <li role="presentation" className="page-link">
+                <a href="https://www.mozilla.org/about/">
+                  <Localized id="footer-mozilla-about"><span></span></Localized>
+                </a>
+              </li>
+              <li role="presentation" className="page-link">
+                <a href="https://blog.mozilla.org/">
+                  <Localized id="footer-mozilla-blog"><span></span></Localized>
+                </a>
+              </li>
+              <li role="presentation" className="page-link">
+                <a href="https://www.mozilla.org/contact/">
+                  <Localized id="footer-mozilla-contact"><span></span></Localized>
+                </a>
+              </li>
+              <li role="presentation" className="page-link">
+                <a href="https://donate.mozilla.org/?presets=50,30,20,10&amount=30&utm_source=activate.mozilla.community&utm_medium=referral&utm_content=footer&currency=usd">
+                  <Localized id="footer-mozilla-donate"><span></span></Localized>
+                </a>
+              </li>
+              <li role="presentation" className="page-link">
+                <a href="https://www.mozilla.org/about/governance/policies/participation/">
+                  <Localized id="footer-mozilla-coc"><span></span></Localized>
+                </a>
+              </li>
+            </Nav>
           </Col>
           <Col lg={2} md={2} sm={4} xs={4} className="footer-nav">
             <Localized id="footer-nav-title">
