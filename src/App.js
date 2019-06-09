@@ -43,7 +43,7 @@ activeCampaign = {
   descriptionKey:"ff-preview-description",
   durationKey:"ff-preview-duration",
   buttonKey: "current-campaign-learn-more",
-  linkTarget:"https://events.mozilla.org/becomeabetatestingbughunter"
+  linkTarget: "https://events.mozilla.org/becomeabetatestingbughunter"
 };
 
 let upcomingCampaigns = null;

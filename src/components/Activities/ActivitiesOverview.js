@@ -29,49 +29,56 @@ class ActivitiesOverview extends Component {
                 titleKey="commonvoice-title"
                 tagKey="contribution"
                 durationKey="commonvoice-duration"
-                linkTarget={`${locale}/commonvoice`}
+                linkTarget={`/${locale}/commonvoice`}
               />
               <ActivityTileShort
                 titleImage="/images/nightly-header.png"
                 titleKey="nightly-title"
                 tagKey="testing"
                 durationKey="nightly-duration"
-                linkTarget={`${locale}/nightly`}
+                linkTarget={`/${locale}/nightly`}
               />
               <ActivityTileShort
                 titleImage="/images/techspeakers-header.png"
                 titleKey="techspeakers-title"
                 tagKey="programming"
                 durationKey="techspeakers-duration"
-                linkTarget={`${locale}/techspeakers`}
+                linkTarget={`/${locale}/techspeakers`}
               />
               <ActivityTileShort
                 titleImage="/images/webextensions-header.png"
                 titleKey="webext-title"
                 tagKey="programming"
                 durationKey="webext-duration"
-                linkTarget={`${locale}/webextensions`}
+                linkTarget={`/${locale}/webextensions`}
               />
               <ActivityTileShort
                 titleImage="/images/rust-header.png"
                 titleKey="rust-title"
                 tagKey="programming"
                 durationKey="rust-duration"
-                linkTarget={`${locale}/rust-hack`}
+                linkTarget={`/${locale}/rust-hack`}
               />
               <ActivityTileShort
                 titleImage="/images/webvr-header.png"
                 titleKey="webvr-title"
                 tagKey="programming"
                 durationKey="webvr-duration"
-                linkTarget={`${locale}/webvr-camp`}
+                linkTarget={`/${locale}/webvr-camp`}
               />
               <ActivityTileShort
                 titleImage="/images/webcompat-header.png"
                 titleKey="webcompat-title"
                 tagKey="testing"
                 durationKey="webcompat-duration"
-                linkTarget={`${locale}/webcompat-sprint`}
+                linkTarget={`/${locale}/webcompat-sprint`}
+              />
+              <ActivityTileShort
+                titleImage="/images/coding-header.png"
+                titleKey="coding-title"
+                tagKey="programming"
+                durationKey="coding-duration"
+                linkTarget="https://developer.mozilla.org/docs/Mozilla/Developer_guide/Introduction"
               />
             </Row>
           </Grid>

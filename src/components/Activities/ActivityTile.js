@@ -25,42 +25,58 @@ class ActivityTile extends Component {
       tagKey
     ].join(" ");
 
-    return (
-      <Col lg={4} md={4} sm={12} xs={12} className={cardClassNames}>
-        <Link to={`/${linkTarget}`}>
-          <header className="activity-card__header">
-            <img src={titleImage} alt="" />
-          </header>
+    const isExternalLink = linkTarget.startsWith('http');
 
-          <Localized id={titleKey}>
-            <h2 className="activity-card__title title title--medium"></h2>
+    const content = (
+      <>
+        <header className="activity-card__header">
+          <img src={titleImage} alt="" />
+        </header>
+
+        <Localized id={titleKey}>
+          <h2 className="activity-card__title title title--medium"></h2>
+        </Localized>
+        <div className="activity-card__content text">
+          <Localized id={descriptionKey}>
+            <p />
           </Localized>
-          <div className="activity-card__content text">
-            <Localized id={descriptionKey}>
-              <p />
+        </div>
+        <footer className="activity-card__footer">
+          <div className="activity-card__tags">
+            <Tag size = {
+              18
+            }
+            className = "activity-card__icon icon" />
+            <Localized id={tagKey}>
+              <span />
             </Localized>
           </div>
-          <footer className="activity-card__footer">
-            <div className="activity-card__tags">
-              <Tag size = {
-                18
-              }
-              className = "activity-card__icon icon" />
-              <Localized id={tagKey}>
-                <span />
-              </Localized>
-            </div>
-            <div className="activity-card__duration">
-              < Watch size = {
-                18
-              }
-              className = "activity-card__icon icon" />
-              <Localized id={durationKey}>
-                <span />
-              </Localized>
-            </div>
-          </footer>
-        </Link>
+          <div className="activity-card__duration">
+            < Watch size = {
+              18
+            }
+            className = "activity-card__icon icon" />
+            <Localized id={durationKey}>
+              <span />
+            </Localized>
+          </div>
+        </footer>
+      </>
+    );
+
+    return (
+      <Col lg={4} md={4} sm={12} xs={12} className={cardClassNames}>
+        {isExternalLink && (
+          <a href={linkTarget}>
+            {content}
+          </a>
+        )}
+
+        {!isExternalLink && (
+          <Link to={linkTarget}>
+            {content}
+          </Link>
+        )}
       </Col>
     );
   }

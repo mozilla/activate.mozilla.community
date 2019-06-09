@@ -26,37 +26,53 @@ class ActivityTileShort extends Component {
       tagKey,
     ].join(' ');
 
+    const isExternalLink = linkTarget.startsWith('http');
+
+    const content = (
+      <>
+        <header className="activity-card__item-header">
+          <img src={ titleImage } alt="" />
+        </header>
+
+        <Localized id={titleKey}>
+          <h2 className="activity-card__title title title--medium"></h2>
+        </Localized>
+        <footer>
+          <div className="activity-card__tags">
+            < Tag size = {
+              18
+            }
+            className = "activity-card__icon icon" / >
+            <Localized id={tagKey}>
+              <span></span>
+            </Localized>
+          </div>
+          <div className="activity-card__duration">
+            < Watch size = {
+              18
+            }
+            className = "activity-card__icon icon" / >
+            <Localized id={durationKey}>
+              <span></span>
+            </Localized>
+          </div>
+        </footer>
+      </>
+    );
+
     return (
       <Col lg={4} md={4} sm={6} xs={12} className={cardClassNames}>
-        <Link to={`/${linkTarget}`}>
-          <header className="activity-card__item-header">
-            <img src={ titleImage } alt="" />
-          </header>
+        {isExternalLink && (
+          <a href={linkTarget}>
+            {content}
+          </a>
+        )}
 
-          <Localized id={titleKey}>
-            <h2 className="activity-card__title title title--medium"></h2>
-          </Localized>
-          <footer>
-            <div className="activity-card__tags">
-              < Tag size = {
-                18
-              }
-              className = "activity-card__icon icon" / >
-              <Localized id={tagKey}>
-                <span></span>
-              </Localized>
-            </div>
-            <div className="activity-card__duration">
-              < Watch size = {
-                18
-              }
-              className = "activity-card__icon icon" / >
-              <Localized id={durationKey}>
-                <span></span>
-              </Localized>
-            </div>
-          </footer>
-        </Link>
+        {!isExternalLink && (
+          <Link to={linkTarget}>
+            {content}
+          </Link>
+        )}
       </Col>
     );
   }

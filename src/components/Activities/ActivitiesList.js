@@ -33,7 +33,7 @@ class ActivitiesList extends Component {
                 descriptionKey="commonvoice-activity-intro"
                 tagKey="contribution"
                 durationKey="commonvoice-duration"
-                linkTarget={`${locale}/commonvoice`}
+                linkTarget={`/${locale}/commonvoice`}
               />
               <ActivityTile
                 titleImage="/images/nightly-header.png"
@@ -41,7 +41,7 @@ class ActivitiesList extends Component {
                 descriptionKey="nightly-description"
                 tagKey="testing"
                 durationKey="nightly-duration"
-                linkTarget={`${locale}/nightly`}
+                linkTarget={`/${locale}/nightly`}
               />
               <ActivityTile
                 titleImage="/images/techspeakers-header.png"
@@ -49,7 +49,7 @@ class ActivitiesList extends Component {
                 descriptionKey="techspeakers-description"
                 tagKey="programming"
                 durationKey="techspeakers-duration"
-                linkTarget={`${locale}/techspeakers`}
+                linkTarget={`/${locale}/techspeakers`}
               />
               <ActivityTile
                 titleImage="/images/webextensions-header.png"
@@ -57,7 +57,7 @@ class ActivitiesList extends Component {
                 descriptionKey="webext-description"
                 tagKey="programming"
                 durationKey="webext-duration"
-                linkTarget={`${locale}/webextensions`}
+                linkTarget={`/${locale}/webextensions`}
               />
               <ActivityTile
                 titleImage="/images/rust-header.png"
@@ -65,7 +65,7 @@ class ActivitiesList extends Component {
                 descriptionKey="rust-description"
                 tagKey="programming"
                 durationKey="rust-duration"
-                linkTarget={`${locale}/rust-hack`}
+                linkTarget={`/${locale}/rust-hack`}
               />
               <ActivityTile
                 titleImage="/images/webvr-header.png"
@@ -73,7 +73,7 @@ class ActivitiesList extends Component {
                 descriptionKey="webvr-description"
                 tagKey="programming"
                 durationKey="webvr-duration"
-                linkTarget={`${locale}/webvr-camp`}
+                linkTarget={`/${locale}/webvr-camp`}
               />
               <ActivityTile
                 titleImage="/images/webcompat-header.png"
@@ -81,7 +81,14 @@ class ActivitiesList extends Component {
                 descriptionKey="webcompat-description"
                 tagKey="testing"
                 durationKey="webcompat-duration"
-                linkTarget={`${locale}/webcompat-sprint`}
+                linkTarget={`/${locale}/webcompat-sprint`}
+              />
+              <ActivityTile
+                titleImage="/images/coding-header.png"
+                titleKey="coding-title"
+                tagKey="programming"
+                durationKey="coding-duration"
+                linkTarget="https://developer.mozilla.org/docs/Mozilla/Developer_guide/Introduction"
               />
             </Row>
           </Grid>
