@@ -44,6 +44,7 @@ footer-mozilla-about = Informazioni
 footer-mozilla-blog = Blog
 footer-mozilla-contact = Contatti
 footer-mozilla-donate = Fai una donazione
+footer-mozilla-coc = Codice di condotta
 not-found-title = Errore 404: pagina non trovata.
 not-found-description = Impossibile trovare la pagina richiesta. La pagina potrebbe essere stata rimossa in un secondo momento oppure l’URL potrebbe essere sbagliato.
 jumbotron-campaign-title = Contribuisci in 5… 4…
