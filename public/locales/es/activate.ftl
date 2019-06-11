@@ -286,6 +286,7 @@ webext-activity-third-5 = Ejemplos de extensión
 webext-activity-third-6 = Vídeos
 webext-activity-resources = Recursos
 webext-activity-followup = Seguimiento del evento
+webext-activity-impact = Impacto y métricas
 webext-activity-impact-2 = Impacto:
 webext-activity-goals = Objetivos de la campaña
 webext-activity-goals-workshop = Objetivos de tu taller
