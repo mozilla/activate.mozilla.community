@@ -50,13 +50,13 @@ let upcomingCampaigns = null;
 
 // Comment out the following definition, if no upcoming campaign exists.
 upcomingCampaigns = [
-  // {
-  //   titleImage:"/images/firefox-fights.jpg",
-  //   titleKey:"firefox66-sumo-sprint-title",
-  //   descriptionKey:"firefox66-sumo-sprint-description",
-  //   durationKey:"firefox66-sumo-sprint-duration",
-  //   linkTarget:"https://events.mozilla.org/commonvoice100"
-  // }
+  {
+    titleImage: "/images/firefoxforgood.png",
+    titleKey: "firefoxforgood-sprint-title",
+    descriptionKey: "firefoxforgood-sprint-description",
+    durationKey: "firefoxforgood-sprint-duration",
+    linkTarget: "https://events.mozilla.org/firefoxforgood-surfacingqualitycontentandconversat"
+  }
 ];
 
 

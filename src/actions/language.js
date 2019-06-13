@@ -30,11 +30,17 @@ const AVAILABLE_LOCALES = [
   'zh-TW',
 ];
 
-async function fetchMessages(locale) {
-  const response = await fetch(`/locales/${locale}/activate.ftl`);
-  const messages = await response.text();
+function getText(response) {
+  return response.text();
+}
 
-  return { [locale]: messages };
+async function fetchMessages(locale) {
+  const allMessages = await Promise.all([
+    fetch(`/locales/${locale}/activate.ftl`).then(getText),
+    fetch(`/locales/${locale}/campaigns.ftl`).then(getText),
+  ]);
+
+  return { [locale]: allMessages.join('\n') };
 }
 
 export function changeLocales(userLocales) {
