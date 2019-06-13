@@ -53,12 +53,13 @@ class CampaignsListing extends Component {
             <Row className="campaign-list__row">
 
               { this.props.upcomingCampaigns && this.props.upcomingCampaigns.map((campaign) => (
-                <CampaignTile
+                <CampaignTileCurrent
                     key={campaign.titleKey}
                     titleImage={campaign.titleImage}
                     titleKey={campaign.titleKey}
                     descriptionKey={campaign.descriptionKey}
                     durationKey={campaign.durationKey}
+                    buttonKey = {campaign.buttonKey}
                     linkTarget={campaign.linkTarget}
                   />
               ))}

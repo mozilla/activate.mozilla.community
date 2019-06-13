@@ -55,6 +55,7 @@ upcomingCampaigns = [
     titleKey: "firefoxforgood-sprint-title",
     descriptionKey: "firefoxforgood-sprint-description",
     durationKey: "firefoxforgood-sprint-duration",
+    buttonKey: "current-campaign-learn-more",
     linkTarget: "https://events.mozilla.org/firefoxforgood-surfacingqualitycontentandconversat"
   }
 ];
