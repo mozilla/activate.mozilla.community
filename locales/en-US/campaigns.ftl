@@ -1,0 +1,3 @@
+firefoxforgood-sprint-title = Firefox For Good Contest
+firefoxforgood-sprint-description = Imagine the web that is not an overwhelming blur of advertising, fake news, hate and toxic social media, but a place where meaningful and credible content is easily found.  A place where everyone feels safe, empowered, and accurately informed. How can browser technology amplify credible and quality content and conversations?
+firefoxforgood-sprint-duration = June 11 - July 9 2019
