@@ -159,6 +159,7 @@ faq-budgetswag-answer-2 = 本地制作的贴纸和（或）其他小物品（仅
 faq-budgetswag-answer-3 = 5 小时以上活动参与者的食物
 faq-budgetswag-answer-4 = 场地租赁（在无其他选择的情况下）
 faq-budgetswag-answer-5 = 更多详细信息将在相关活动页面上提供。
+faq-budgetswag-answer-6 = 若需申请，可以<repLink>联系当地的 Resources Rep </repLink>协助。这些志愿者已受训来帮助全球各地像您这样的贡献者来申请预算。
 faq-budgetswag-answer-7 = 请记住至少提前 2-3 周询问，以确保有足够的时间运送。
 eg-title = Activate 活动筹备指南
 eg-started = 新手上路
