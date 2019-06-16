@@ -44,6 +44,7 @@ footer-mozilla-about = О нас
 footer-mozilla-blog = Блог
 footer-mozilla-contact = Связаться с нами
 footer-mozilla-donate = Пожертвовать
+footer-mozilla-coc = Правила поведения
 not-found-title = 404 - Страница не найдена!
 not-found-description = Страница, которую вы ищете, не может быть найдена. Возможно, она была удалена или в URL-адресе содержится ошибка.
 jumbotron-campaign-title = Начните на 5… 4…
