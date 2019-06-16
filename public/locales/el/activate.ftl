@@ -98,6 +98,7 @@ newsletter-country-label = Χώρα
 newsletter-country-label-option = Επιλογή χώρας
 newsletter-language-label = Γλώσσα
 newsletter-language-label-option = Επιλογή γλώσσας
+newsletter-language-description = Η προεπιλεγμένη γλώσσα είναι τα Αγγλικά, αλλά θα κάνουμε αποστολή σε αυτές τις γλώσσες όποτε μπορούμε.
 hours = Ώρες
 testing = Δοκιμή
 programming = Προγραμματισμός
