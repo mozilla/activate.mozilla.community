@@ -3,7 +3,7 @@ export default function reducer(state = {
   userLocales: navigator.languages,
   currentLocales: navigator.languages,
   availableLocales: [],
-  messages: null
+  messages: null,
 }, action) {
   switch (action.type) {
     case 'CHANGE_LOCALES_REQUEST': {
@@ -17,7 +17,8 @@ export default function reducer(state = {
         userLocales,
         currentLocales,
         bundles,
-        availableLocales
+        availableLocales,
+        commonVoiceDiscourseLink,
       } = action;
 
       return {
@@ -26,6 +27,7 @@ export default function reducer(state = {
         userLocales,
         currentLocales,
         availableLocales,
+        commonVoiceDiscourseLink,
         bundles,
       };
     }

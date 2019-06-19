@@ -1,12 +1,13 @@
 import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
+import { connect } from 'react-redux';
 import DocumentTitle from 'react-document-title';
 import {Toggle, ToggleItem} from './../Toggle.js'
 import ActivityDetail from './ActivityDetail';
 import { SidebarItem } from './../Sidebar.js'
 
 class CommonVoice extends Component {
-  buildSidebarContent = () => {
+  buildSidebarContent() {
     return (
       <div>
         <SidebarItem titleKey="commonvoice-activity-impact-title" >
@@ -44,9 +45,9 @@ class CommonVoice extends Component {
         </SidebarItem>
       </div>
     );
-  };
+  }
 
-  buildMainContentTop = () => {
+  buildMainContentTop() {
     return (
       <div>
         <Localized id="commonvoice-activity-intro">
@@ -60,11 +61,13 @@ class CommonVoice extends Component {
         <Localized id="commonvoice-activity-general-2">
           <p></p>
         </Localized>
-      </ div>
+      </div>
     );
-  };
+  }
 
-  buildMainContentToggleItems = () => {
+  buildMainContentToggleItems() {
+    const discourseLink = (<a href={this.props.commonVoiceDiscourseLink}></a>);
+
     return (
       <div>
         <Toggle
@@ -313,20 +316,20 @@ class CommonVoice extends Component {
           </Localized>
 
           <Localized id="commonvoice-activity-conversation-2"
-            discourseLink={<a href="https://discourse.mozilla.org/c/voice"></a>}
+            discourseLink={discourseLink}
             slackLink={<a href="https://common-voice-slack-invite.herokuapp.com/"></a>}>
             <p></p>
           </Localized>
 
           <Localized id="commonvoice-activity-conversation-3"
-            discourseLink={<a href="https://discourse.mozilla.org/c/voice"></a>}
+          discourseLink={discourseLink}
             githubLink={<a href="https://github.com/mozilla/voice-web"></a>}>
             <p></p>
           </Localized>
         </Toggle>
       </div>
     );
-  };
+  }
 
   render() {
     return (
@@ -346,4 +349,8 @@ class CommonVoice extends Component {
   }
 }
 
-export default CommonVoice;
+const mapStateToProps = (state) => ({
+  commonVoiceDiscourseLink: state.language.commonVoiceDiscourseLink,
+});
+
+export default connect(mapStateToProps)(CommonVoice);

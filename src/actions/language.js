@@ -69,12 +69,24 @@ export function changeLocales(userLocales) {
       }
     };
 
+    const commonVoiceDiscourseLink = await fetch(`https://raw.githubusercontent.com/mozilla/voice-web/master/locales/discourse.json`)
+      .then((response) => response.json())
+      .then((discourseMapping) => {
+        if (discourseMapping.includes(currentLocales[0])) {
+          const localizedDiscourseLink = `https://discourse.mozilla.org/c/voice/${currentLocales[0]}`;
+          return localizedDiscourseLink;
+        }
+
+        return 'https://discourse.mozilla.org/c/voice';
+      });
+
     dispatch({
       type: 'CHANGE_LOCALES_RESPONSE',
       userLocales,
       currentLocales,
       availableLocales: AVAILABLE_LOCALES,
       bundles: generateMessages(),
+      commonVoiceDiscourseLink,
     });
   };
 }
