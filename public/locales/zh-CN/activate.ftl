@@ -151,6 +151,7 @@ faq-how-answer-2 = 只需浏览网站并阅读所描述的不同区域和活动�
 faq-why-title = 为什么我该参与？
 faq-why-answer-2 = 本网站上描述的活动和活动是共同努力的结果，旨在展示目前 Mozilla 最重要的成果。如果您想支持 Mozilla，并且不确定该怎么做，Activate 就是为您准备的。
 faq-questions-title = 如果我有疑问该怎么办？
+faq-questions-answer-2 = 可以在 <discourseLink>Mozilla 的 Discourse 论坛</discourseLink> 相应版块提出你的疑问。不太清楚你的问题属于哪个版块的话，发到 <mozilliansLink>Mozillians</mozilliansLink> 版块就行。
 faq-code-title = 如果我想贡献代码呢？
 faq-code-answer = Activate 上的大多数活动都不需要高级技能或知识。但是，Mozilla 有很多非常棒的技术项目供您参与。我们建议您<codetributeLink>在此</codetributeLink>查看。
 faq-budgetswag-title = 可以为这些活动申请礼物和预算吗？
