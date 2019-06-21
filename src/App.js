@@ -46,19 +46,28 @@ activeCampaign = {
   linkTarget: "https://events.mozilla.org/becomeabetatestingbughunter"
 };
 
+activeCampaign = {
+  titleImage: "/images/firefoxforgood.png",
+  titleKey: "firefoxforgood-sprint-title",
+  descriptionKey: "firefoxforgood-sprint-description",
+  durationKey: "firefoxforgood-sprint-duration",
+  buttonKey: "current-campaign-learn-more",
+  linkTarget: "https://events.mozilla.org/firefoxforgood-surfacingqualitycontentandconversat"
+};
+
 let upcomingCampaigns = null;
 
 // Comment out the following definition, if no upcoming campaign exists.
-upcomingCampaigns = [
-  {
-    titleImage: "/images/firefoxforgood.png",
-    titleKey: "firefoxforgood-sprint-title",
-    descriptionKey: "firefoxforgood-sprint-description",
-    durationKey: "firefoxforgood-sprint-duration",
-    buttonKey: "current-campaign-learn-more",
-    linkTarget: "https://events.mozilla.org/firefoxforgood-surfacingqualitycontentandconversat"
-  }
-];
+// upcomingCampaigns = [
+//   {
+//     titleImage: "/images/firefoxforgood.png",
+//     titleKey: "firefoxforgood-sprint-title",
+//     descriptionKey: "firefoxforgood-sprint-description",
+//     durationKey: "firefoxforgood-sprint-duration",
+//     buttonKey: "current-campaign-learn-more",
+//     linkTarget: "https://events.mozilla.org/firefoxforgood-surfacingqualitycontentandconversat"
+//   }
+// ];
 
 
 class App extends Component {

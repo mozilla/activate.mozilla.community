@@ -88,6 +88,13 @@ class CampaignsListing extends Component {
               <Grid>
                 <Row className="campaign-list__row">
                 <CampaignTile
+                  titleImage="/images/ff-preview.png"
+                  titleKey="ff-preview-title"
+                  descriptionKey="ff-preview-description"
+                  durationKey="ff-preview-duration"
+                  linkTarget="https://events.mozilla.org/becomeabetatestingbughunter"
+                ></CampaignTile>
+                <CampaignTile
                   titleImage="/images/cv-100.jpg"
                   titleKey="cv-100-sprint-title"
                   descriptionKey="cv-100-sprint-description"
