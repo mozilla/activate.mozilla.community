@@ -499,6 +499,7 @@ webext-activity-third-6 = Videor
 webext-activity-resources = Resurser
 webext-activity-resources-6 = <rLink>Låt oss skriva ett webbtillägg av Blake Winton</rLink>
 webext-activity-resources-7 = <rLink>Skapa en simpel WebExtension av David Wals</rLink>
+webext-activity-resources-8 = <rLink>Webbläsarkompatibilitetstabell för API:er</rLink>
 webext-activity-followup = Evenemangsuppföljning
 webext-activity-ack = Tack
 webext-activity-new-ack = Tack till Viswaprasanth Ks, Santosh Viswanatham, Trishul Goel, Karthic Keyan, Andre Garzia, Daniele Scasciafratte, Michael Kohler, Shivam Singhal och Tushar Arora.
