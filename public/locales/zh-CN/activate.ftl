@@ -348,6 +348,7 @@ webcompat-activity-flow-4 = 测试并反馈！
 webcompat-activity-flow-5 = 如果您遇到某网站在 Firefox 中工作不正常，但在其他浏览器中正常工作，请点击地址栏三点菜单按步骤进行反馈
 webcompat-activity-end = 活动尾声时
 webcompat-activity-output = 输出
+webcompat-activity-output-4 = <discourseLink>前往 Discourse 帖子留言</discourseLink>
 webcompat-activity-extra = 更多
 webcompat-activity-extra-4 = <contributorsLink>Webcompat 贡献者页面</contributorsLink>提供了更多有关如何入门和加入社区的基础信息。
 webcompat-activity-impact = 影响与效益统计
