@@ -275,6 +275,7 @@ commonvoice-activity-audience-5 = 人群：在繁忙的场地设置一个摊位�
 commonvoice-activity-flows = 活动流程
 commonvoice-activity-flows-description = 这种贡献活动可以在公共场所中单独或者与朋友一同参与完成。为什么不尝试一下呢？
 commonvoice-activity-solo = 🤠 孤独的牛仔/女牛仔
+commonvoice-activity-solo-description = 尝试开一个马拉松式的会或者创建一个计划。方便你将贡献纳入你的日程安排。例如你可以使用休息时间，比如你喜欢的电视节目的广告时间。或者每天你在等公共汽车的时候来做贡献。如果你将贡献和常规任务相关联，那么它将很容易记住，并且你每天都可以做出有意义的改变！
 commonvoice-activity-solo-record = 捐出您的声音
 commonvoice-activity-solo-record-2 = 访问 https://voice.mozilla.org 并创建账户（确保您订阅了新闻通讯！）
 commonvoice-activity-solo-record-3 = 点击“说话”
