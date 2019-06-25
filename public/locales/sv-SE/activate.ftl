@@ -291,6 +291,7 @@ commonvoice-activity-time-description-9 = Hur kan människor bidra?
 commonvoice-activity-time-description-10 = Röstdonationer (15 minuter - 30 minuter)
 commonvoice-activity-time-description-12 = Granskningstid! (30 minuter)
 commonvoice-activity-time-description-14 = Efter 15 minuter, be paren att byta roller.
+commonvoice-activity-crowd = 🤩 Nå publiken
 commonvoice-activity-crowd-description-6 = Exempel:
 commonvoice-activity-conversation = Delta i konversationen
 commonvoice-activity-conversation-1 = Hjälp oss att hitta andra som vill donera sin röst! Be deltagarna att dela på sociala medier - "Hjälp att lära maskiner hur riktiga människor talar, jag har precis bidragit med min röst på https://voice.mozilla.org #CommonVoice"
