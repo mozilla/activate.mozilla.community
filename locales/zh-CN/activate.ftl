@@ -307,6 +307,7 @@ commonvoice-activity-time-description-15 = 总结和分享（5 分钟）
 commonvoice-activity-time-description-16 = 活动所有者将要求参与者使用 #CommonVoice 在他们的社交媒体上分享此活动。考虑获得最佳推文的奖励或分享活动！
 commonvoice-activity-crowd = 🤩 水到渠成
 commonvoice-activity-crowd-description-6 = 示例：
+commonvoice-activity-crowd-description-9 = 你好！您有一分钟时间来帮助我们的开源语音技术计划吗？
 commonvoice-activity-conversation = 加入对话
 commonvoice-activity-conversation-3 = 对此活动有反馈意见吗？在 <githubLink>GitHub</githubLink> 上提出问题或在 <discourseLink>Discourse</discourseLink> 上留下评论。
 techspeakers-activity-intro = Mozilla 致力于捍卫互联网健康、开放、人人可用的状态，但凭一己之力难以达成。我们呼唤愿意在前线共同建设互联网的朋友们：Web 开发者、设计师以及其他关心互联网开放的技术极客。我们须要让他们对作为技术领导者的 Mozilla 充满热情。
