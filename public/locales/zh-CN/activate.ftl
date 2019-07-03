@@ -294,6 +294,7 @@ commonvoice-activity-friends-description-track = 跟踪您在网站上的进度�
 commonvoice-activity-friends-description-4 = 让每个人都创建一个账户（他们可以使用他们的手机或任何设备）
 commonvoice-activity-friends-description-7 = 让每个人在网站顶部记录他们的贡献
 commonvoice-activity-friends-description-9 = 一旦有人达到了他们的目标，检查他们的贡献并分发奖品！
+commonvoice-activity-friends-end = 邀请您的参与者使用 #CommonVoice 在社交媒体上分享他们的进程，并鼓励他们与一群朋友一起进行同样的的活动。
 commonvoice-activity-time = 🤹‍♀️ 大显身手
 commonvoice-activity-time-description-4 = 项目介绍（10 分钟）
 commonvoice-activity-time-description-6 = 这个项目是关于什么的？
