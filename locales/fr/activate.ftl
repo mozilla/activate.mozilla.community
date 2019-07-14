@@ -169,6 +169,7 @@ eg-schedule = Planifier
 eg-promotion = Promouvoir l’évènement
 eg-strategy = Stratégie de recrutement
 eg-online-promotion = Presse et promotion en ligne
+eg-online-promotion-content-1 = Assurez-vous de créer un évènement sur Meetup.com ou Facebook afin d’avoir un lien que vous pouvez partager rapidement pour inviter des personnes.
 eg-online-promotion-content-2 = Partagez votre lien sur d’autres sites web, comme dans la presse étudiante, les agendas d’évènements et d’autres organismes locaux.
 eg-tech = Matériel
 eg-equipment = Logistique
