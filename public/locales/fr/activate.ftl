@@ -184,6 +184,7 @@ eg-demos = Démonstrations
 eg-feedback = Avoir des retours utilisateurs
 eg-cleanup = Nettoyage
 nightly-activity-before = 2-4 semaines avant l’évènement
+nightly-activity-before-1 = Lisez le <eventGuideLink>Guide d’évènement</eventGuideLink> qui vous aidera à organiser l’activité.
 nightly-activity-before-2 = Copiez et adaptez cette <nightlyIntroLink>présentation d’introduction à Nightly</nightlyIntroLink>
 nightly-activity-before-4 = Créez une page d’évènement sur une plate-forme populaire dans votre pays, telle que Facebook ou Meetup.com, et publiez des informations intéressantes sur Nightly et les sujets associés pour poursuivre la conversation sur Twitter.
 nightly-activity-tip-2 = Si vous vous attendez à des problèmes de bande passante, vous pouvez télécharger des copies de <downloadLink>Nightly pour chaque plate-forme</downloadLink> ainsi que des builds pour <androidLink>Android</androidLink> sur une clé USB au cas où vous ne disposiez pas de suffisamment de bande passante pour les télécharger pendant l’évènement.
