@@ -5,7 +5,7 @@ import history from '../history';
 
 const AVAILABLE_LOCALES = [
   'en-US',
-  'bn-BD',
+  'bn',
   'cs',
   'el',
   'es',
