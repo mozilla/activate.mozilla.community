@@ -37,23 +37,15 @@ let activeCampaign = null;
 
 // Campaign exists.
 // Comment out the following definition, if no active Campaign exists.
-activeCampaign = {
-  titleImage:"/images/ff-preview.png",
-  titleKey:"ff-preview-title",
-  descriptionKey:"ff-preview-description",
-  durationKey:"ff-preview-duration",
-  buttonKey: "current-campaign-learn-more",
-  linkTarget: "https://events.mozilla.org/becomeabetatestingbughunter"
-};
 
-activeCampaign = {
-  titleImage: "/images/firefoxforgood.png",
-  titleKey: "firefoxforgood-sprint-title",
-  descriptionKey: "firefoxforgood-sprint-description",
-  durationKey: "firefoxforgood-sprint-duration",
-  buttonKey: "current-campaign-learn-more",
-  linkTarget: "https://events.mozilla.org/firefoxforgood-surfacingqualitycontentandconversat"
-};
+// activeCampaign = {
+//   titleImage: "/images/firefoxforgood.png",
+//   titleKey: "firefoxforgood-sprint-title",
+//   descriptionKey: "firefoxforgood-sprint-description",
+//   durationKey: "firefoxforgood-sprint-duration",
+//   buttonKey: "current-campaign-learn-more",
+//   linkTarget: "https://events.mozilla.org/firefoxforgood-surfacingqualitycontentandconversat"
+// };
 
 let upcomingCampaigns = null;
 

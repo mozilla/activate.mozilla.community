@@ -88,6 +88,13 @@ class CampaignsListing extends Component {
               <Grid>
                 <Row className="campaign-list__row">
                 <CampaignTile
+                  titleImage="/images/firefoxforgood.png"
+                  titleKey="firefoxforgood-sprint-title"
+                  descriptionKey="firefoxforgood-sprint-description"
+                  durationKey="firefoxforgood-sprint-duration"
+                  linkTarget="https://events.mozilla.org/firefoxforgood-surfacingqualitycontentandconversat"
+                ></CampaignTile>
+                <CampaignTile
                   titleImage="/images/ff-preview.png"
                   titleKey="ff-preview-title"
                   descriptionKey="ff-preview-description"
