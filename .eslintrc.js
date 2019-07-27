@@ -12,6 +12,7 @@ module.exports = {
   ],
   plugins: ["standard", "react", "jsx-a11y", "only-warn"],
   rules: {
+    "semi": [2, "always"],
     "react/prop-types": 0,
     "react/display-name": 0,
     "jsx-a11y/anchor-has-content": 0,
