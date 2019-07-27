@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
-import { Grid, Row, Col } from "react-bootstrap";
-import { ChevronRight } from "react-feather";
+import { Grid, Row, Col } from 'react-bootstrap';
+import { ChevronRight } from 'react-feather';
 
 import './answers.css';
 
 class EventGuide extends Component {
-  render() {
+  render () {
     return (
       <section className="wrapper">
         <Localized id="eg-title">
@@ -72,7 +72,7 @@ class EventGuide extends Component {
                 </div>
                 <div className="event-sub-section__body">
                   <Localized id="eg-schedule-content"
-                            wikiLink={<a href="https://wiki.mozilla.org/ReMo/SOPs/Event_hosting"></a>}
+                    wikiLink={<a href="https://wiki.mozilla.org/ReMo/SOPs/Event_hosting"></a>}
                   >
                     <p></p>
                   </Localized>
@@ -259,7 +259,7 @@ class EventGuide extends Component {
                     </li>
                     <li>
                       <Localized id="eg-feedback-content-2"
-                                feedbackLink={<a href="https://mzl.la/howwasit"></a>}
+                        feedbackLink={<a href="https://mzl.la/howwasit"></a>}
                       >
                         <p></p>
                       </Localized>

@@ -13,9 +13,9 @@ import store from './store';
 import App from './App';
 import AppLocalizationProvider from './AppLocalizationProvider';
 
-if(navigator.doNotTrack !== "1") {
+if (navigator.doNotTrack !== '1') {
   const tagManagerArgs = {
-    gtmId: 'GTM-WHL2PP8'
+    gtmId: 'GTM-WHL2PP8',
   };
   TagManager.initialize(tagManagerArgs);
 }
@@ -26,5 +26,5 @@ ReactDOM.render(
       <App />
     </AppLocalizationProvider>
   </Provider>,
-  document.getElementById('root')
+  document.getElementById('root'),
 );

@@ -16,11 +16,11 @@ const isLocalhost = Boolean(
     window.location.hostname === '[::1]' ||
     // 127.0.0.1/8 is considered localhost for IPv4.
     window.location.hostname.match(
-      /^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/
-    )
+      /^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/,
+    ),
 );
 
-export default function register() {
+export default function register () {
   if (process.env.NODE_ENV === 'production' && 'serviceWorker' in navigator) {
     window.addEventListener('load', () => {
       const swUrl = `${process.env.PUBLIC_URL}/service-worker.js`;
@@ -34,7 +34,7 @@ export default function register() {
         navigator.serviceWorker.ready.then(() => {
           console.log(
             'This web app is being served cache-first by a service ' +
-              'worker. To learn more, visit https://goo.gl/SC7cgQ'
+              'worker. To learn more, visit https://goo.gl/SC7cgQ',
           );
         });
       } else {
@@ -45,7 +45,7 @@ export default function register() {
   }
 }
 
-function registerValidSW(swUrl) {
+function registerValidSW (swUrl) {
   navigator.serviceWorker
     .register(swUrl)
     .then(registration => {
@@ -63,7 +63,7 @@ function registerValidSW(swUrl) {
               // At this point, everything has been precached.
               // It's the perfect time to display a
               // "Content is cached for offline use." message.
-             console.log('Content is cached for offline use.');
+              console.log('Content is cached for offline use.');
             }
           }
         };
@@ -74,7 +74,7 @@ function registerValidSW(swUrl) {
     });
 }
 
-function checkValidServiceWorker(swUrl) {
+function checkValidServiceWorker (swUrl) {
   // Check if the service worker can be found. If it can't reload the page.
   // eslint-disable-next-line no-undef
   fetch(swUrl)
@@ -97,12 +97,12 @@ function checkValidServiceWorker(swUrl) {
     })
     .catch(() => {
       console.log(
-        'No internet connection found. App is running in offline mode.'
+        'No internet connection found. App is running in offline mode.',
       );
     });
 }
 
-export function unregister() {
+export function unregister () {
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker.ready.then(registration => {
       registration.unregister();

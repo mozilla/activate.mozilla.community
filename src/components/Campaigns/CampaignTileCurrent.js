@@ -4,7 +4,7 @@ import { Localized } from 'fluent-react/compat';
 import './CampaignTile.css';
 
 class CampaignTileCurrent extends Component {
-  render() {
+  render () {
     const {
       titleImage,
       titleKey,
@@ -12,14 +12,14 @@ class CampaignTileCurrent extends Component {
       descriptionKey,
       buttonKey,
       linkTarget,
-      visibleOnHomepage
+      visibleOnHomepage,
     } = this.props;
 
     const cardClassNames = [
       'campaign-card',
       'campaign-card--active',
       'campaign-card__container',
-      (visibleOnHomepage ? 'section--pull-up' : '')
+      (visibleOnHomepage ? 'section--pull-up' : ''),
     ].join(' ');
 
     return (

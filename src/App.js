@@ -17,7 +17,7 @@ import Footer from './components/Footer';
 import Home from './components/Home';
 import FAQ from './components/FAQ';
 import ActivitiesList from './components/Activities/ActivitiesList';
-import CampaignsListing from "./components/Campaigns/CampaignsListing";
+import CampaignsListing from './components/Campaigns/CampaignsListing';
 import EventGuide from './components/EventGuide';
 import NewsletterPage from './components/NewsletterPage';
 import NotFound from './components/NotFound';
@@ -30,9 +30,9 @@ import RustHack from './components/Activities/RustHack';
 import WebVRCamp from './components/Activities/WebVRCamp';
 import WebcompatSprint from './components/Activities/WebcompatSprint';
 
-import {ADD_CURRENT_CAMPAIGN, ADD_UPCOMING_CAMPAIGNS} from './actions/campaign';
+import { ADD_CURRENT_CAMPAIGN, ADD_UPCOMING_CAMPAIGNS } from './actions/campaign';
 
-
+// eslint-disable-next-line prefer-const
 let activeCampaign = null;
 
 // Campaign exists.
@@ -47,6 +47,7 @@ let activeCampaign = null;
 //   linkTarget: "https://events.mozilla.org/firefoxforgood-surfacingqualitycontentandconversat"
 // };
 
+// eslint-disable-next-line prefer-const
 let upcomingCampaigns = null;
 
 // Comment out the following definition, if no upcoming campaign exists.
@@ -61,22 +62,20 @@ let upcomingCampaigns = null;
 //   }
 // ];
 
-
 class App extends Component {
-
-  componentDidMount() {
+  componentDidMount () {
     store.dispatch({
       type: ADD_CURRENT_CAMPAIGN,
-      payload: activeCampaign
+      payload: activeCampaign,
     });
 
     store.dispatch({
       type: ADD_UPCOMING_CAMPAIGNS,
-      payload: upcomingCampaigns
+      payload: upcomingCampaigns,
     });
   }
 
-  render(props) {
+  render (props) {
     return (
       <Router history={history}>
         <main>
@@ -116,7 +115,7 @@ class App extends Component {
             <Route path='/:lang/webcompat-sprint' render={(props) => (<Content><WebcompatSprint {...props} /></Content>)} />
 
             <Route path='*' component={NotFound} />
-            </Switch>
+          </Switch>
           <Footer />
         </main>
       </Router>

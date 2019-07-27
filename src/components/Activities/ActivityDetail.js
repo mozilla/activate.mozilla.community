@@ -1,16 +1,16 @@
 import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
 import { Col, Row, Grid } from 'react-bootstrap';
-import { Sidebar } from './../Sidebar.js'
+import { Sidebar } from './../Sidebar.js';
 
 import './ActivityDetail.css';
 
 class ActivityDetail extends Component {
-  componentDidMount() {
+  componentDidMount () {
     window.scrollTo(0, 0);
   }
 
-  render() {
+  render () {
     const {
       titleKey,
       titleImage,
@@ -22,10 +22,10 @@ class ActivityDetail extends Component {
     } = this.props;
 
     const cardClassNames = [
-      "activity-page",
-      "activity--" + tagKey,
-      "container"
-    ].join(" ");
+      'activity-page',
+      'activity--' + tagKey,
+      'container',
+    ].join(' ');
 
     return (
       <article className={cardClassNames}>

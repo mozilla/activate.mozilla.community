@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
 import {
-  Send
-} from "react-feather";
+  Send,
+} from 'react-feather';
 
 import SelectCountry from './SelectCountry.js';
 import SelectLanguage from './SelectLanguage.js';
@@ -14,7 +14,7 @@ class NewsletterForm extends Component {
   //  on front when there is no active campaign.
   isInIllustratedSlice = () => {
     // campaign must not be false and must not be null.
-    const isInIllustratedSlice = !!this.props.isInIllustratedSlice && this.props.isInIllustratedSlice !== null ;
+    const isInIllustratedSlice = !!this.props.isInIllustratedSlice && this.props.isInIllustratedSlice !== null;
     return isInIllustratedSlice;
   };
 
@@ -74,8 +74,7 @@ class NewsletterForm extends Component {
     );
   };
 
-  componentDidMount() {
-
+  componentDidMount () {
     /* This Source Code Form is subject to the terms of the Mozilla Public
      * License, v. 2.0. If a copy of the MPL was not distributed with this
      * file, You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -87,14 +86,14 @@ class NewsletterForm extends Component {
 
     // handle errors
     let errorArray = [];
-    let newsletterErrors = document.getElementById('newsletter_errors');
+    const newsletterErrors = document.getElementById('newsletter_errors');
 
-    function newsletterError() {
-      let errorList = document.createElement('ul');
+    function newsletterError () {
+      const errorList = document.createElement('ul');
 
-      if(errorArray.length) {
+      if (errorArray.length) {
         for (let i = 0; i < errorArray.length; i++) {
-          let item = document.createElement('li');
+          const item = document.createElement('li');
           item.appendChild(document.createTextNode(errorArray[i]));
           errorList.appendChild(item);
         }
@@ -109,28 +108,28 @@ class NewsletterForm extends Component {
     }
 
     // Hide newsletter header
-    function newsletterHeader() {
-      let header = document.getElementsByClassName('js-nl-header');
+    function newsletterHeader () {
+      const header = document.getElementsByClassName('js-nl-header');
       // Hide newsletter header.
       header[0].style.display = 'none';
     }
 
     // TODO: Correct offset top according to final markup.
     // show success message
-    function newsletterThanks() {
-      let thanks = document.getElementById('newsletter_thanks');
-      let newsletterFormWrapper = document.getElementsByClassName('js-nl-form-wrapper');
+    function newsletterThanks () {
+      const thanks = document.getElementById('newsletter_thanks');
+      const newsletterFormWrapper = document.getElementsByClassName('js-nl-form-wrapper');
       window.scrollTo({
         top: newsletterFormWrapper[0].offsetTop,
-        behavior: "smooth"
+        behavior: 'smooth',
       });
       // show thanks message
       thanks.style.display = 'block';
     }
 
     // XHR subscribe; handle errors; display thanks message on success.
-    function newsletterSubscribe(evt) {
-      let skipXHR = newsletterForm.getAttribute('data-skip-xhr');
+    function newsletterSubscribe (evt) {
+      const skipXHR = newsletterForm.getAttribute('data-skip-xhr');
       if (skipXHR) {
         return true;
       }
@@ -143,14 +142,14 @@ class NewsletterForm extends Component {
       newsletterErrors.style.display = 'none';
       while (newsletterErrors.firstChild) newsletterErrors.removeChild(newsletterErrors.firstChild);
 
-      let fmt = document.getElementById('fmt').value;
-      let email = document.getElementById('email').value;
-      let newsletter = document.getElementById('newsletters').value;
-      let newsletterLanguage = document.getElementById('newsletter-language').value;
-      let newsletterCountry = document.getElementById('newsletter-country').value;
-      let privacy = document.querySelector('input[name="privacy"]:checked') ? '&privacy=true' : '';
+      const fmt = document.getElementById('fmt').value;
+      const email = document.getElementById('email').value;
+      const newsletter = document.getElementById('newsletters').value;
+      const newsletterLanguage = document.getElementById('newsletter-language').value;
+      const newsletterCountry = document.getElementById('newsletter-country').value;
+      const privacy = document.querySelector('input[name="privacy"]:checked') ? '&privacy=true' : '';
 
-      let params = 'email=' + encodeURIComponent(email) +
+      const params = 'email=' + encodeURIComponent(email) +
         '&newsletters=' + newsletter +
         privacy +
         '&fmt=' + fmt +
@@ -159,13 +158,13 @@ class NewsletterForm extends Component {
         '&source_url=' + encodeURIComponent(document.location.href);
 
       // eslint-disable-next-line no-undef
-      let xhr = new XMLHttpRequest();
+      const xhr = new XMLHttpRequest();
 
-      xhr.onload = function(r) {
+      xhr.onload = function (r) {
         if (r.target.status >= 200 && r.target.status < 300) {
           // response is null if handled by service worker
-          let response = r.target.response;
-          if (response === null ) {
+          const response = r.target.response;
+          if (response === null) {
             newsletterError();
             return;
           }
@@ -173,9 +172,8 @@ class NewsletterForm extends Component {
             newsletterForm.style.display = 'none';
             newsletterHeader();
             newsletterThanks();
-          }
-          else {
-            if(response.errors) {
+          } else {
+            if (response.errors) {
               for (let i = 0; i < response.errors.length; i++) {
                 errorArray.push(response.errors[i]);
               }
@@ -183,21 +181,20 @@ class NewsletterForm extends Component {
 
             newsletterError();
           }
-        }
-        else {
+        } else {
           newsletterError();
         }
       };
 
-      xhr.onerror = function() {
+      xhr.onerror = function () {
         newsletterError();
       };
 
-      let url = newsletterForm.getAttribute('action');
+      const url = newsletterForm.getAttribute('action');
 
       xhr.open('POST', url, true);
       xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
-      xhr.setRequestHeader('X-Requested-With','XMLHttpRequest');
+      xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
       xhr.timeout = 5000;
       xhr.ontimeout = newsletterError;
       xhr.responseType = 'json';
@@ -208,22 +205,22 @@ class NewsletterForm extends Component {
 
     newsletterForm.addEventListener('submit', newsletterSubscribe, false);
   }
-  constructor(props)
-  {
+
+  constructor (props) {
     super(props);
     this.state = {
-      value: 'placeholder'
+      value: 'placeholder',
     };
   }
 
-  render() {
-    let classes = ['nl', 'js-nl'];
-    if(this.isInIllustratedSlice()) {
+  render () {
+    const classes = ['nl', 'js-nl'];
+    if (this.isInIllustratedSlice()) {
       classes.push('newsletter--illustrated');
     } else {
       classes.push('content-contained', 'section--pull-up', 'js-nl-form-wrapper');
     }
-    if(this.props.className) classes.push(this.props.className);
+    if (this.props.className) classes.push(this.props.className);
     const classString = classes.join(' ');
 
     return (
@@ -245,7 +242,7 @@ class NewsletterForm extends Component {
               <Localized id="newsletter-email">
                 <label htmlFor="email" className="form_label element-invisible">..</label>
               </Localized>
-              <Localized id="newsletter-form-email-placeholder" attrs={{placeholder: true, "aria-label": true}}>
+              <Localized id="newsletter-form-email-placeholder" attrs={{ placeholder: true, 'aria-label': true }}>
                 <input aria-label="Enter your e-mail" aria-required="true" type="email" id="email" name="email" className="form_input" required placeholder="Enter your e-mail" />
               </Localized>
               {
@@ -266,7 +263,7 @@ class NewsletterForm extends Component {
             <div id="newsletter_privacy" className="form_group newsletter__privacy-policy text text--small">
               <input type="checkbox" id="privacy" name="privacy" required />
               <Localized id="newsletter-privacy"
-                         privacyLink={<a target="_blank" rel="noopener noreferrer" href="https://www.mozilla.org/privacy/websites/"></a>}>
+                privacyLink={<a target="_blank" rel="noopener noreferrer" href="https://www.mozilla.org/privacy/websites/"></a>}>
                 <label htmlFor="privacy">..</label>
               </Localized>
             </div>

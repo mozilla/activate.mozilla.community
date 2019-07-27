@@ -10,14 +10,12 @@ import CampaignTileCurrent from './CampaignTileCurrent.js';
 import './CampaignsListing.css';
 
 class CampaignsListing extends Component {
-
-  render() {
-
+  render () {
     let activeCampaign = <div></div>;
     if (this.props.activeCampaign) {
-      const campaign = {...this.props.activeCampaign};
+      const campaign = { ...this.props.activeCampaign };
 
-      activeCampaign =  (
+      activeCampaign = (
         <section className="campaign">
           <Localized id="campaign-active">
             <h1 className="title text--centered"></h1>
@@ -54,14 +52,14 @@ class CampaignsListing extends Component {
 
               { this.props.upcomingCampaigns && this.props.upcomingCampaigns.map((campaign) => (
                 <CampaignTileCurrent
-                    key={campaign.titleKey}
-                    titleImage={campaign.titleImage}
-                    titleKey={campaign.titleKey}
-                    descriptionKey={campaign.descriptionKey}
-                    durationKey={campaign.durationKey}
-                    buttonKey = {campaign.buttonKey}
-                    linkTarget={campaign.linkTarget}
-                  />
+                  key={campaign.titleKey}
+                  titleImage={campaign.titleImage}
+                  titleKey={campaign.titleKey}
+                  descriptionKey={campaign.descriptionKey}
+                  durationKey={campaign.durationKey}
+                  buttonKey = {campaign.buttonKey}
+                  linkTarget={campaign.linkTarget}
+                />
               ))}
 
             </Row>
@@ -71,7 +69,7 @@ class CampaignsListing extends Component {
     }
 
     return (
-      <Localized id="campaigns-document-title" attrs={{title: true}}>
+      <Localized id="campaigns-document-title" attrs={{ title: true }}>
         <DocumentTitle>
           <React.Fragment>
             {activeCampaign}
@@ -87,42 +85,42 @@ class CampaignsListing extends Component {
               </div>
               <Grid>
                 <Row className="campaign-list__row">
-                <CampaignTile
-                  titleImage="/images/firefoxforgood.png"
-                  titleKey="firefoxforgood-sprint-title"
-                  descriptionKey="firefoxforgood-sprint-description"
-                  durationKey="firefoxforgood-sprint-duration"
-                  linkTarget="https://events.mozilla.org/firefoxforgood-surfacingqualitycontentandconversat"
-                ></CampaignTile>
-                <CampaignTile
-                  titleImage="/images/ff-preview.png"
-                  titleKey="ff-preview-title"
-                  descriptionKey="ff-preview-description"
-                  durationKey="ff-preview-duration"
-                  linkTarget="https://events.mozilla.org/becomeabetatestingbughunter"
-                ></CampaignTile>
-                <CampaignTile
-                  titleImage="/images/cv-100.jpg"
-                  titleKey="cv-100-sprint-title"
-                  descriptionKey="cv-100-sprint-description"
-                  durationKey="cv-100-sprint-duration"
-                  linkTarget="https://events.mozilla.org/commonvoice100"
-                ></CampaignTile>
-                <CampaignTile
-                  titleImage="/images/sumo-firefox-66.png"
-                  titleKey="firefox66-sumo-sprint-title"
-                  descriptionKey="firefox66-sumo-sprint-description"
-                  durationKey="firefox66-sumo-sprint-duration"
-                  linkTarget="https://events.mozilla.org/firefox66supportsprint"
-                ></CampaignTile>
-                <CampaignTile
-                  titleImage="/images/firefox-fights.jpg"
-                  titleKey="firefox-fights-title"
-                  descriptionKey="firefox-fights-description"
-                  durationKey="firefox-fights-duration"
-                  linkTarget="https://events.mozilla.org/firefoxfightsforyoucampaign"
-                ></CampaignTile>
-                <CampaignTile
+                  <CampaignTile
+                    titleImage="/images/firefoxforgood.png"
+                    titleKey="firefoxforgood-sprint-title"
+                    descriptionKey="firefoxforgood-sprint-description"
+                    durationKey="firefoxforgood-sprint-duration"
+                    linkTarget="https://events.mozilla.org/firefoxforgood-surfacingqualitycontentandconversat"
+                  ></CampaignTile>
+                  <CampaignTile
+                    titleImage="/images/ff-preview.png"
+                    titleKey="ff-preview-title"
+                    descriptionKey="ff-preview-description"
+                    durationKey="ff-preview-duration"
+                    linkTarget="https://events.mozilla.org/becomeabetatestingbughunter"
+                  ></CampaignTile>
+                  <CampaignTile
+                    titleImage="/images/cv-100.jpg"
+                    titleKey="cv-100-sprint-title"
+                    descriptionKey="cv-100-sprint-description"
+                    durationKey="cv-100-sprint-duration"
+                    linkTarget="https://events.mozilla.org/commonvoice100"
+                  ></CampaignTile>
+                  <CampaignTile
+                    titleImage="/images/sumo-firefox-66.png"
+                    titleKey="firefox66-sumo-sprint-title"
+                    descriptionKey="firefox66-sumo-sprint-description"
+                    durationKey="firefox66-sumo-sprint-duration"
+                    linkTarget="https://events.mozilla.org/firefox66supportsprint"
+                  ></CampaignTile>
+                  <CampaignTile
+                    titleImage="/images/firefox-fights.jpg"
+                    titleKey="firefox-fights-title"
+                    descriptionKey="firefox-fights-description"
+                    durationKey="firefox-fights-duration"
+                    linkTarget="https://events.mozilla.org/firefoxfightsforyoucampaign"
+                  ></CampaignTile>
+                  <CampaignTile
                     titleImage="/images/dark-funnel.png"
                     titleKey="dark-funnel-title"
                     descriptionKey="dark-funnel-description"

@@ -6,11 +6,11 @@ import { LocalizationProvider } from 'fluent-react/compat';
 import { changeLocales } from './actions/language.js';
 
 class AppLocalizationProvider extends Component {
-  async componentDidMount() {
+  async componentDidMount () {
     await this.props.changeLocales(navigator.languages);
   }
 
-  render() {
+  render () {
     const { bundles, children } = this.props;
     if (!bundles) {
       return <div>…</div>;
@@ -25,10 +25,10 @@ class AppLocalizationProvider extends Component {
 }
 
 const mapStateToProps = state => {
-  return ({ bundles: state.language.bundles })
+  return ({ bundles: state.language.bundles });
 };
 const mapDispatchToProps = { changeLocales };
 
 export default connect(mapStateToProps, mapDispatchToProps)(
-  AppLocalizationProvider
+  AppLocalizationProvider,
 );

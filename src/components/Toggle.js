@@ -14,32 +14,29 @@ class Toggle extends Component {
         <ul className="toggle__content">
           { toggleItems }
         </ul>
-      )
+      );
     }
   };
 
-  render() {
+  render () {
     const {
       titleKey,
       className,
-      id
+      id,
     } = this.props;
 
     const classes = `${className || ''} toggle`;
 
     // Split children to description and toggle items.
-    let description = [];
-    let toggleItems = [];
+    const description = [];
+    const toggleItems = [];
     Children.forEach(this.props.children, child => {
-      if(child.type.name === 'ToggleItem') {
+      if (child.type.name === 'ToggleItem') {
         toggleItems.push(child);
-      }
-      else {
+      } else {
         description.push(child);
       }
     });
-
-
 
     return (
       <div>
@@ -60,10 +57,10 @@ class Toggle extends Component {
 }
 
 class ToggleItem extends Component {
-  constructor(props) {
+  constructor (props) {
     super(props);
     this.state = {
-      open: false
+      open: false,
     };
   }
 
@@ -87,26 +84,25 @@ class ToggleItem extends Component {
             <span></span>
           </Localized>
         </div>
-      )
+      );
     }
   };
 
   getIcon = (snapshot) => {
-    if(snapshot.open) {
+    if (snapshot.open) {
       return (
         <ChevronDown size={14} className="toggle__icon toggle__icon--chevron-down icon" />
-      )
-    }
-    else {
-      return(<ChevronRight size={14} className="toggle__icon toggle__icon--chevron-right icon" />)
+      );
+    } else {
+      return (<ChevronRight size={14} className="toggle__icon toggle__icon--chevron-right icon" />);
     }
   };
 
-  render() {
+  render () {
     const {
       titleKey,
       id,
-      className
+      className,
     } = this.props;
 
     const snapshot = { ...this.state };
@@ -114,11 +110,10 @@ class ToggleItem extends Component {
     const stateClass = snapshot.open ? 'is-expanded' : 'is-collapsed';
     const isHidden = !snapshot.open;
 
-
-    let classes = ['toggle__item'];
+    const classes = ['toggle__item'];
     if (stateClass) classes.push(stateClass);
     if (className) classes.push(className);
-    let classString = classes.join(' ');
+    const classString = classes.join(' ');
 
     return (
       <li className={classString}>
@@ -138,7 +133,7 @@ class ToggleItem extends Component {
               <span></span>
             </Localized>
           </button>
-         {this.getDuration()}
+          {this.getDuration()}
 
         </h3>
         <div id={id} className="toggle__item-content" hidden={isHidden}>
@@ -149,4 +144,4 @@ class ToggleItem extends Component {
   }
 }
 
-export {Toggle, ToggleItem}
+export { Toggle, ToggleItem };

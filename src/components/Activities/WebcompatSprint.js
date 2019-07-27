@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
 import DocumentTitle from 'react-document-title';
-import {Toggle} from './../Toggle.js'
+import { Toggle } from './../Toggle.js';
 import ActivityDetail from './ActivityDetail';
-import { SidebarItem } from './../Sidebar.js'
+import { SidebarItem } from './../Sidebar.js';
 
 class WebcompatSprint extends Component {
   buildSidebarContent = () => {
@@ -223,9 +223,9 @@ class WebcompatSprint extends Component {
     );
   };
 
-  render() {
+  render () {
     return (
-      <Localized id="webcompat-document-title" attrs={{title: true}}>
+      <Localized id="webcompat-document-title" attrs={{ title: true }}>
         <DocumentTitle>
           <ActivityDetail
             titleImage="/images/webcompat-post-header.png"

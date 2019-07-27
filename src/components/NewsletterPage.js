@@ -8,7 +8,6 @@ import NewsletterForm from './NewsletterForm.js';
 import './NewsletterPage.css';
 
 class NewsletterPage extends Component {
-
   componentDidMount = () => {
     document.body.classList.add('is-header-no-bg');
   };
@@ -17,22 +16,22 @@ class NewsletterPage extends Component {
     document.body.classList.remove('is-header-no-bg');
   };
 
-  render() {
+  render () {
     return (
-      <Localized id="newsletter-document-title" attrs={{title: true}}>
-      <DocumentTitle>
-      <div className="newsletter-page">
-        <div className="container newsletter-page__inner">
-          <div className="content-contained">
-            <div className="row">
-              <div className="newsletter-page__newsletter-form-wrapper">
-                <NewsletterForm />
+      <Localized id="newsletter-document-title" attrs={{ title: true }}>
+        <DocumentTitle>
+          <div className="newsletter-page">
+            <div className="container newsletter-page__inner">
+              <div className="content-contained">
+                <div className="row">
+                  <div className="newsletter-page__newsletter-form-wrapper">
+                    <NewsletterForm />
+                  </div>
+                </div>
               </div>
             </div>
           </div>
-        </div>
-      </div>
-      </DocumentTitle>
+        </DocumentTitle>
       </Localized>
     );
   }

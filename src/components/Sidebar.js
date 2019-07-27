@@ -2,14 +2,13 @@
 // Toggle Item has title, optional duration, and body.
 import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
-import { File, Link as LinkIcon , Users, Target, Info, Watch, Tag } from 'react-feather';
-import { Link } from "react-router-dom";
+import { File, Link as LinkIcon, Users, Target, Info, Watch, Tag } from 'react-feather';
+import { Link } from 'react-router-dom';
 
 import './Sidebar.css';
 
 class Sidebar extends Component {
-
-  render() {
+  render () {
     const {
       imgSrc,
       durationKey,
@@ -43,7 +42,6 @@ class Sidebar extends Component {
   }
 }
 
-
 class SidebarItem extends Component {
   // Build icons.
   getIcon = (type) => {
@@ -76,7 +74,7 @@ class SidebarItem extends Component {
     }
   };
 
-  render() {
+  render () {
     const {
       titleKey,
       className,
@@ -106,7 +104,6 @@ class SidebarItem extends Component {
 }
 
 class SidebarLink extends Component {
-
   buildLink = (props) => {
     const {
       type,
@@ -115,7 +112,7 @@ class SidebarLink extends Component {
       targetUrl,
     } = props;
 
-    if(type === 'internal') {
+    if (type === 'internal') {
       return (
         <Link to={ targetUrl } className="sidebar__link">
           <LinkIcon size={16} className="sidebar__link-icon" />
@@ -125,9 +122,8 @@ class SidebarLink extends Component {
             </span>
           </Localized>
         </Link >
-      )
-    }
-    else {
+      );
+    } else {
       return (
         <a href={ targetUrl } className="sidebar__link">
           <LinkIcon size={16} className="sidebar__link-icon" />
@@ -137,11 +133,11 @@ class SidebarLink extends Component {
             </span>
           </Localized>
         </a >
-      )
+      );
     }
   };
 
-  render() {
+  render () {
     return (
       <span>
         { this.buildLink(this.props) }
@@ -150,4 +146,4 @@ class SidebarLink extends Component {
   }
 }
 
-export {Sidebar, SidebarItem, SidebarLink}
+export { Sidebar, SidebarItem, SidebarLink };

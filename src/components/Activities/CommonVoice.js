@@ -2,12 +2,12 @@ import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
 import { connect } from 'react-redux';
 import DocumentTitle from 'react-document-title';
-import {Toggle, ToggleItem} from './../Toggle.js'
+import { Toggle, ToggleItem } from './../Toggle.js';
 import ActivityDetail from './ActivityDetail';
-import { SidebarItem } from './../Sidebar.js'
+import { SidebarItem } from './../Sidebar.js';
 
 class CommonVoice extends Component {
-  buildSidebarContent() {
+  buildSidebarContent () {
     return (
       <div>
         <SidebarItem titleKey="commonvoice-activity-impact-title" >
@@ -47,7 +47,7 @@ class CommonVoice extends Component {
     );
   }
 
-  buildMainContentTop() {
+  buildMainContentTop () {
     return (
       <div>
         <Localized id="commonvoice-activity-intro">
@@ -65,7 +65,7 @@ class CommonVoice extends Component {
     );
   }
 
-  buildMainContentToggleItems() {
+  buildMainContentToggleItems () {
     const discourseLink = (<a href={this.props.commonVoiceDiscourseLink}></a>);
 
     return (
@@ -237,7 +237,7 @@ class CommonVoice extends Component {
               <h3></h3>
             </Localized>
 
-            <img src="/images/commonvoice-speak.png" width="200" className="float-left"  alt=""></img>
+            <img src="/images/commonvoice-speak.png" width="200" className="float-left" alt=""></img>
 
             <Localized id="commonvoice-activity-time-description-11">
               <p></p>
@@ -277,7 +277,7 @@ class CommonVoice extends Component {
             <Localized id="commonvoice-activity-crowd-description-2"
               posterLink={<a href="https://drive.google.com/file/d/0BzWVc2pf7zzKeXRFVjRYZy1Sa3Z5WWYzZmsyakF5cFd1aHpV/view?usp=sharing"></a>}
               signageLink={<a href="https://docs.google.com/document/d/1T0eMygnmxDz-tTbNJbXWEy7nZNM4eNIzEg63IjKLxJY/edit#"></a>}
-              >
+            >
               <p></p>
             </Localized>
 
@@ -322,7 +322,7 @@ class CommonVoice extends Component {
           </Localized>
 
           <Localized id="commonvoice-activity-conversation-3"
-          discourseLink={discourseLink}
+            discourseLink={discourseLink}
             githubLink={<a href="https://github.com/mozilla/voice-web"></a>}>
             <p></p>
           </Localized>
@@ -331,9 +331,9 @@ class CommonVoice extends Component {
     );
   }
 
-  render() {
+  render () {
     return (
-      <Localized id="commonvoice-document-title" attrs={{title: true}}>
+      <Localized id="commonvoice-document-title" attrs={{ title: true }}>
         <DocumentTitle>
           <ActivityDetail
             titleImage="/images/commonvoice-header.png"

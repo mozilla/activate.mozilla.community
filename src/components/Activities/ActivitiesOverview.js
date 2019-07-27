@@ -8,7 +8,7 @@ import ActivityTileShort from './ActivityTileShort.js';
 import './ActivitiesList.css';
 
 class ActivitiesOverview extends Component {
-  render() {
+  render () {
     const locale = this.props.currentLocales[0];
 
     return (

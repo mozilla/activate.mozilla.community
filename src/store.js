@@ -7,7 +7,7 @@ const middlewares = [thunk];
 
 const reducers = combineReducers({
   campaign: campaignReducer,
-  language: languageReducer
+  language: languageReducer,
 });
 
 export default createStore(

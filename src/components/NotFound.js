@@ -4,7 +4,7 @@ import { Localized } from 'fluent-react/compat';
 import './NotFound.css';
 
 class NotFound extends Component {
-  render() {
+  render () {
     return (
       <section className="not-found content-contained">
         <Localized id="not-found-title">

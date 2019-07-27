@@ -2,11 +2,10 @@ import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
 import { Col } from 'react-bootstrap';
 
-
 import './CampaignTile.css';
 
 class CampaignTile extends Component {
-  render() {
+  render () {
     const {
       titleImage,
       titleKey,
@@ -23,7 +22,7 @@ class CampaignTile extends Component {
     return (
       <Col lg={6} md={6} sm={6} xs={12} className="campaign-list__row-item">
         <article className={cardClassNames}>
-        <div className="campaign-card__container">
+          <div className="campaign-card__container">
             <div className="campaign-card__col campaign-card__col--small">
               <a href={linkTarget}>
                 <img className="campaign-card__image" src={ titleImage } alt="" />

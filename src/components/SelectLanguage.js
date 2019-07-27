@@ -4,29 +4,27 @@ import { Localized } from 'fluent-react/compat';
 // Select Country components
 // For each use a unique id needs to be provided
 class SelectLanguage extends Component {
-  constructor(props)
-  {
+  constructor (props) {
     super(props);
     this.state = {
-      value: ''
+      value: '',
     };
   }
 
   handleChange = event => {
-    this.setState({value: event.target.value});
-    if(event.target.value !== '') {
+    this.setState({ value: event.target.value });
+    if (event.target.value !== '') {
       document.getElementById(this.props.id).classList.remove('is-placeholder');
-    }
-    else {
+    } else {
       document.getElementById(this.props.id).classList.add('is-placeholder');
     }
   };
 
-  render() {
+  render () {
     const id = this.props.id;
 
-    let classes = [];
-    if(this.props.className) classes.push(this.props.className);
+    const classes = [];
+    if (this.props.className) classes.push(this.props.className);
     const classString = classes.join(' ');
 
     return (

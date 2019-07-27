@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
 import DocumentTitle from 'react-document-title';
-import {Toggle, ToggleItem} from './../Toggle.js'
+import { Toggle, ToggleItem } from './../Toggle.js';
 import ActivityDetail from './ActivityDetail';
-import { SidebarItem } from './../Sidebar.js'
+import { SidebarItem } from './../Sidebar.js';
 
 class RustHack extends Component {
   buildSidebarContent = () => {
@@ -68,7 +68,7 @@ class RustHack extends Component {
         </Localized>
 
         <Localized id="rust-activity-general"
-            moreLink={<a href="https://www.rust-lang.org"></a>}>
+          moreLink={<a href="https://www.rust-lang.org"></a>}>
           <p></p>
         </Localized>
         <div className="embed-responsive embed-responsive-16by9">
@@ -345,9 +345,9 @@ class RustHack extends Component {
     );
   };
 
-  render() {
+  render () {
     return (
-      <Localized id="rust-document-title" attrs={{title: true}}>
+      <Localized id="rust-document-title" attrs={{ title: true }}>
         <DocumentTitle>
           <ActivityDetail
             titleImage="/images/rust-header.png"

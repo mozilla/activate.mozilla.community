@@ -5,25 +5,24 @@ import { Localized } from 'fluent-react/compat';
 // For each use a unique id needs to be provided and localized text needs to be
 // added in the translation source file.
 class SelectCountry extends Component {
-  constructor(props)
-  {
+  constructor (props) {
     super(props);
     this.state = {
-      value: ''
+      value: '',
     };
     this.handleChange = this.handleChange.bind(this);
   }
 
-  handleChange(event) {
-    this.setState({value: event.target.value});
+  handleChange (event) {
+    this.setState({ value: event.target.value });
     document.getElementById(this.props.id).classList.toggle('is-placeholder');
   }
 
-  render() {
+  render () {
     const id = this.props.id;
 
-    let classes = [];
-    if(this.props.className) classes.push(this.props.className);
+    const classes = [];
+    if (this.props.className) classes.push(this.props.className);
     const classString = classes.join(' ');
 
     return (

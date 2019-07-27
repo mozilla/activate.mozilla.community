@@ -10,7 +10,7 @@ import { changeLocalesWithURL } from '../actions/language.js';
 import './Header.css';
 
 class Header extends Component {
-  render() {
+  render () {
     const {
       availableLocales,
       currentLocales,
@@ -25,8 +25,8 @@ class Header extends Component {
         collapseOnSelect
         onToggle={
           (event) => {
-            document.getElementsByClassName("js-header")[0].classList.toggle("is-closed");
-            document.getElementsByClassName("js-header")[0].classList.toggle("is-open");
+            document.getElementsByClassName('js-header')[0].classList.toggle('is-closed');
+            document.getElementsByClassName('js-header')[0].classList.toggle('is-open');
           }
         }
       >
@@ -58,7 +58,7 @@ class Header extends Component {
                     availableLocales.map((locale) => {
                       return (
                         <option key={locale} value={locale}>{locale}</option>
-                      )
+                      );
                     })
                   }
                 </FormControl>
@@ -67,7 +67,7 @@ class Header extends Component {
             </FormGroup>
           </Navbar.Form>
           <Nav pullRight>
-            <LinkContainer exact className="page-link" to={`/${currentLocale}/campaigns`} activeClassName={"is-active"}
+            <LinkContainer exact className="page-link" to={`/${currentLocale}/campaigns`} activeClassName={'is-active'}
             >
               <NavItem>
                 <Localized id="nav-campaigns">
@@ -75,14 +75,14 @@ class Header extends Component {
                 </Localized>
               </NavItem>
             </LinkContainer>
-            <LinkContainer exact className="page-link" to={`/${currentLocale}/activities`} activeClassName={"is-active"}>
+            <LinkContainer exact className="page-link" to={`/${currentLocale}/activities`} activeClassName={'is-active'}>
               <NavItem>
                 <Localized id="nav-activities">
                   <span></span>
                 </Localized>
               </NavItem>
             </LinkContainer>
-            <LinkContainer exact className="page-link" to={`/${currentLocale}/faq`} activeClassName={"is-active"}>
+            <LinkContainer exact className="page-link" to={`/${currentLocale}/faq`} activeClassName={'is-active'}>
               <NavItem>
                 <Localized id="nav-faq">
                   <span></span>

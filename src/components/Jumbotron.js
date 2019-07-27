@@ -5,7 +5,7 @@ import { Localized } from 'fluent-react/compat';
 import './Jumbotron.css';
 
 class Jumbotron extends Component {
-  render() {
+  render () {
     let jumbotronContent = <div></div>;
     if (this.props.activeCampaign) {
       jumbotronContent = (<div className="hero">
@@ -21,9 +21,8 @@ class Jumbotron extends Component {
           </Localized>
         </section>
       </div>
-      )
-    }
-    else {
+      );
+    } else {
       jumbotronContent = (<div className="hero">
         <section className="hero__wrapper container">
           <Localized id="jumbotron-no-campaign-title">
@@ -34,12 +33,12 @@ class Jumbotron extends Component {
           </Localized>
         </section>
       </div>
-      )
+      );
     }
 
     return (
       <React.Fragment>
-         {jumbotronContent}
+        {jumbotronContent}
       </React.Fragment>
     );
   }

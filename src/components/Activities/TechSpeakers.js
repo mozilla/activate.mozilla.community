@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
 import DocumentTitle from 'react-document-title';
-import {Toggle} from './../Toggle.js'
+import { Toggle } from './../Toggle.js';
 import ActivityDetail from './ActivityDetail';
-import { SidebarItem } from './../Sidebar.js'
+import { SidebarItem } from './../Sidebar.js';
 
 class TechSpeakers extends Component {
   buildSidebarContent = () => {
@@ -50,14 +50,14 @@ class TechSpeakers extends Component {
         </Localized>
 
         <Localized id="techspeakers-activity-general">
-            <p></p>
-          </Localized>
+          <p></p>
+        </Localized>
 
-          <p><img src="/images/techspeakers.jpg" alt="TechSpeakers Group" /></p>
+        <p><img src="/images/techspeakers.jpg" alt="TechSpeakers Group" /></p>
 
-          <Localized id="techspeakers-activity-ready">
-            <p></p>
-          </Localized>
+        <Localized id="techspeakers-activity-ready">
+          <p></p>
+        </Localized>
 
       </ div>
     );
@@ -139,9 +139,9 @@ class TechSpeakers extends Component {
     );
   };
 
-  render() {
+  render () {
     return (
-      <Localized id="techspeakers-document-title" attrs={{title: true}}>
+      <Localized id="techspeakers-document-title" attrs={{ title: true }}>
         <DocumentTitle>
           <ActivityDetail
             titleImage="/images/techspeakers-header.png"

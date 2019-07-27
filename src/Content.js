@@ -10,20 +10,22 @@ import { changeLocales } from './actions/language';
 */
 
 class Content extends Component {
-  componentDidMount() {
+  componentDidMount () {
     const urlLanguage = this.props.match.params && this.props.match.params.lang;
-    this.props.changeLocales([urlLanguage]);
+    this.props.changeLocales([
+      urlLanguage,
+    ]);
   }
 
-  componentDidUpdate() {
+  componentDidUpdate () {
     window.scrollTo({
       top: 0,
       left: 0,
-      behavior: 'smooth'
+      behavior: 'smooth',
     });
   }
 
-  render() {
+  render () {
     return this.props.children;
   }
 }
@@ -36,5 +38,5 @@ const mapDispatchToProps = {
 };
 
 export default withRouter(
-  connect(mapStateToProps, mapDispatchToProps)(Content)
+  connect(mapStateToProps, mapDispatchToProps)(Content),
 );

@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
 import DocumentTitle from 'react-document-title';
-import {Toggle, ToggleItem} from './../Toggle.js'
+import { Toggle, ToggleItem } from './../Toggle.js';
 import ActivityDetail from './ActivityDetail';
-import { SidebarItem } from './../Sidebar.js'
+import { SidebarItem } from './../Sidebar.js';
 
 class WebVRCamp extends Component {
   buildSidebarContent = () => {
@@ -12,7 +12,7 @@ class WebVRCamp extends Component {
         <SidebarItem titleKey="vr-activity-impact-1-reworked" >
           <ul>
             <Localized id="vr-activity-impact-2"
-                       slackLink={<a href="https://aframe.io/community/#a-frame"></a>}>
+              slackLink={<a href="https://aframe.io/community/#a-frame"></a>}>
               <li></li>
             </Localized>
             <Localized id="vr-activity-impact-3">
@@ -57,7 +57,7 @@ class WebVRCamp extends Component {
         </Localized>
 
         <Localized id="vr-activity-general"
-                   aframeLink={<a href="https://aframe.io/"></a>}>
+          aframeLink={<a href="https://aframe.io/"></a>}>
           <p></p>
         </Localized>
 
@@ -86,23 +86,23 @@ class WebVRCamp extends Component {
           >
             <ol>
               <Localized id="vr-activity-format-3"
-                         eventGuideLink={<a href="/eventguide/"></a>}>
+                eventGuideLink={<a href="/eventguide/"></a>}>
                 <li></li>
               </Localized>
               <Localized id="vr-activity-format-4"
-                         telegramLink={<a href="https://telegram.me/MozillaVR"></a>}
-                         slackLink={<a href="https://aframevr-slack.herokuapp.com/"></a>}>
+                telegramLink={<a href="https://telegram.me/MozillaVR"></a>}
+                slackLink={<a href="https://aframevr-slack.herokuapp.com/"></a>}>
                 <li></li>
               </Localized>
               <Localized id="vr-activity-format-5">
                 <li></li>
               </Localized>
               <Localized id="vr-activity-format-6"
-                         presentationLink={<a href="https://github.com/aframevr/aframe-presentation-kit"></a>}>
+                presentationLink={<a href="https://github.com/aframevr/aframe-presentation-kit"></a>}>
                 <li></li>
               </Localized>
               <Localized id="vr-activity-format-7"
-                         awesomeLink={<a href="https://github.com/aframevr/awesome-aframe"></a>}>
+                awesomeLink={<a href="https://github.com/aframevr/awesome-aframe"></a>}>
                 <li></li>
               </Localized>
               <Localized id="vr-activity-format-8">
@@ -127,17 +127,17 @@ class WebVRCamp extends Component {
                   <li></li>
                 </Localized>
                 <Localized id="vr-activity-format-13"
-                           contributeLink={<a href="https://github.com/aframevr/aframe/blob/master/CONTRIBUTING.md"></a>}
-                           aframeLink={<a href="https://aframe.io/"></a> }>
+                  contributeLink={<a href="https://github.com/aframevr/aframe/blob/master/CONTRIBUTING.md"></a>}
+                  aframeLink={<a href="https://aframe.io/"></a> }>
                   <li></li>
                 </Localized>
                 <Localized id="vr-activity-format-14"
-                           slackLink={<a href="https://aframevr-slack.herokuapp.com/"></a>}>
+                  slackLink={<a href="https://aframevr-slack.herokuapp.com/"></a>}>
                   <li></li>
                 </Localized>
                 <Localized id="vr-activity-format-15"
-                           worldScene={<a href="https://codepen.io/mozvr/pen/BjygdO"></a>}
-                           docLink={<a href="https://aframe.io/docs/0.3.0/introduction/getting-started.html"></a>}>
+                  worldScene={<a href="https://codepen.io/mozvr/pen/BjygdO"></a>}
+                  docLink={<a href="https://aframe.io/docs/0.3.0/introduction/getting-started.html"></a>}>
                   <li></li>
                 </Localized>
               </ol>
@@ -162,15 +162,15 @@ class WebVRCamp extends Component {
           >
             <ul>
               <Localized id="vr-activity-flow-3"
-                         ballLink={<a href="https://businessmajors.about.com/od/icebreakers/a/Icebreaker8.htm"></a>}>
+                ballLink={<a href="https://businessmajors.about.com/od/icebreakers/a/Icebreaker8.htm"></a>}>
                 <li></li>
               </Localized>
               <Localized id="vr-activity-flow-4"
-                         missionLink={<a href="https://www.mozilla.org/mission/"></a>}>
+                missionLink={<a href="https://www.mozilla.org/mission/"></a>}>
                 <li></li>
               </Localized>
               <Localized id="vr-activity-flow-5"
-                         blogLink={<a href="https://gurumukhi.wordpress.com/2016/09/21/a-frame-for-vr-development-on-web/"></a>}>
+                blogLink={<a href="https://gurumukhi.wordpress.com/2016/09/21/a-frame-for-vr-development-on-web/"></a>}>
                 <li></li>
               </Localized>
               <Localized id="vr-activity-flow-6">
@@ -186,16 +186,16 @@ class WebVRCamp extends Component {
           >
             <ul>
               <Localized id="vr-activity-flow-8"
-                         demoLink={<a href="https://aframe.io/examples"></a>}
-                         weekLink={<a href="https://aframe.io/blog/"></a>}>
+                demoLink={<a href="https://aframe.io/examples"></a>}
+                weekLink={<a href="https://aframe.io/blog/"></a>}>
                 <li></li>
               </Localized>
               <Localized id="vr-activity-flow-9"
-                         apainterLink={<a href="https://blog.mozvr.com/a-painter/"></a>}>
+                apainterLink={<a href="https://blog.mozvr.com/a-painter/"></a>}>
                 <li></li>
               </Localized>
               <Localized id="vr-activity-flow-10"
-                         patternLink={<a href="https://aframe.io/docs/0.3.0/introduction/#entity-component-system"></a>}>
+                patternLink={<a href="https://aframe.io/docs/0.3.0/introduction/#entity-component-system"></a>}>
                 <li></li>
               </Localized>
             </ul>
@@ -211,13 +211,13 @@ class WebVRCamp extends Component {
                 <li></li>
               </Localized>
               <Localized id="vr-activity-flow-13"
-                         codepenLink={<a href="https://codepen.io/mozvr/pen/BjygdO"></a>}
-                         boilerplateLink={<a href="https://github.com/aframevr/aframe-boilerplate"></a>}>
+                codepenLink={<a href="https://codepen.io/mozvr/pen/BjygdO"></a>}
+                boilerplateLink={<a href="https://github.com/aframevr/aframe-boilerplate"></a>}>
                 <li></li>
               </Localized>
               <ul>
                 <Localized id="vr-activity-flow-14"
-                           mongooseLink={<a href="https://www.cesanta.com/products/binary"></a>}>
+                  mongooseLink={<a href="https://www.cesanta.com/products/binary"></a>}>
                   <li></li>
                 </Localized>
               </ul>
@@ -255,7 +255,7 @@ class WebVRCamp extends Component {
                 <li></li>
               </Localized>
               <Localized id="vr-activity-flow-21"
-                         communityLink={<a href="https://aframe.io/community/"></a>}>
+                communityLink={<a href="https://aframe.io/community/"></a>}>
                 <li></li>
               </Localized>
               <Localized id="vr-activity-flow-22">
@@ -317,12 +317,11 @@ class WebVRCamp extends Component {
                 <li></li>
               </Localized>
               <Localized id="vr-activity-output-9"
-                         discourseLink={<a href="https://discourse.mozilla-community.org/t/activate-mozilla-webvr-camp/11190"></a>}>
+                discourseLink={<a href="https://discourse.mozilla-community.org/t/activate-mozilla-webvr-camp/11190"></a>}>
                 <li></li>
               </Localized>
             </ul>
           </ToggleItem>
-
 
         </Toggle>
 
@@ -331,9 +330,9 @@ class WebVRCamp extends Component {
           id="contact"
         >
           <Localized id="vr-activity-contact-1"
-                     slackLink={<a href="https://aframevr-slack.herokuapp.com/"></a>}
-                     twitterLink={<a href="https://twitter.com/aframevr"></a>}
-                     communityLink={<a href="https://aframe.io/community/"></a>}>
+            slackLink={<a href="https://aframevr-slack.herokuapp.com/"></a>}
+            twitterLink={<a href="https://twitter.com/aframevr"></a>}
+            communityLink={<a href="https://aframe.io/community/"></a>}>
             <p></p>
           </Localized>
         </Toggle>
@@ -341,9 +340,9 @@ class WebVRCamp extends Component {
     );
   };
 
-  render() {
+  render () {
     return (
-      <Localized id="webvr-document-title" attrs={{title: true}}>
+      <Localized id="webvr-document-title" attrs={{ title: true }}>
         <DocumentTitle>
           <ActivityDetail
             titleImage="/images/webvr-header.png"

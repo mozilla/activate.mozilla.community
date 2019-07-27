@@ -1,29 +1,29 @@
-import React, { Component } from "react";
-import { Link } from "react-router-dom";
-import { Localized } from "fluent-react/compat";
-import { Col } from "react-bootstrap";
+import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
+import { Localized } from 'fluent-react/compat';
+import { Col } from 'react-bootstrap';
 import {
-  Watch, Tag
-} from "react-feather";
+  Watch, Tag,
+} from 'react-feather';
 
-import "./ActivityTile.css";
+import './ActivityTile.css';
 
 class ActivityTile extends Component {
-  render() {
+  render () {
     const {
       titleImage,
       titleKey,
       descriptionKey,
       tagKey,
       durationKey,
-      linkTarget
+      linkTarget,
     } = this.props;
 
     const cardClassNames = [
-      "activity-card",
-      "activity-card--" + tagKey,
-      tagKey
-    ].join(" ");
+      'activity-card',
+      'activity-card--' + tagKey,
+      tagKey,
+    ].join(' ');
 
     const isExternalLink = linkTarget.startsWith('http');
 

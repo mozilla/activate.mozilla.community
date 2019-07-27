@@ -1,4 +1,4 @@
-export default function reducer(state = {
+export default function reducer (state = {
   isFetching: false,
   userLocales: navigator.languages,
   currentLocales: navigator.languages,

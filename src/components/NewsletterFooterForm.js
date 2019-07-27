@@ -1,16 +1,14 @@
 import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
 import {
-  Send
-} from "react-feather";
+  Send,
+} from 'react-feather';
 
 import SelectCountry from './SelectCountry.js';
 import SelectLanguage from './SelectLanguage.js';
 
 class NewsletterFooterForm extends Component {
-
-  componentDidMount() {
-
+  componentDidMount () {
     /* This Source Code Form is subject to the terms of the Mozilla Public
      * License, v. 2.0. If a copy of the MPL was not distributed with this
      * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -22,14 +20,14 @@ class NewsletterFooterForm extends Component {
 
     // handle errors
     let errorArray = [];
-    let newsletterErrors = document.getElementById('newsletter_footer_errors');
+    const newsletterErrors = document.getElementById('newsletter_footer_errors');
 
-    function newsletterError() {
-      let errorList = document.createElement('ul');
+    function newsletterError () {
+      const errorList = document.createElement('ul');
 
-      if(errorArray.length) {
+      if (errorArray.length) {
         for (let i = 0; i < errorArray.length; i++) {
-          let item = document.createElement('li');
+          const item = document.createElement('li');
           item.appendChild(document.createTextNode(errorArray[i]));
           errorList.appendChild(item);
         }
@@ -45,15 +43,15 @@ class NewsletterFooterForm extends Component {
 
     // TODO: Correct offset top according to final markup.
     // show success message
-    function newsletterThanks() {
-      let thanks = document.getElementById('newsletter_thanks_footer');
+    function newsletterThanks () {
+      const thanks = document.getElementById('newsletter_thanks_footer');
       // show thanks message
       thanks.style.display = 'block';
     }
 
     // XHR subscribe; handle errors; display thanks message on success.
-    function newsletterSubscribe(evt) {
-      let skipXHR = newsletterForm.getAttribute('data-skip-xhr');
+    function newsletterSubscribe (evt) {
+      const skipXHR = newsletterForm.getAttribute('data-skip-xhr');
       if (skipXHR) {
         return true;
       }
@@ -66,14 +64,14 @@ class NewsletterFooterForm extends Component {
       newsletterErrors.style.display = 'none';
       while (newsletterErrors.firstChild) newsletterErrors.removeChild(newsletterErrors.firstChild);
 
-      let fmt = document.getElementById('fmt-footer').value;
-      let email = document.getElementById('em-footer').value;
-      let newsletter = document.getElementById('nl-footer').value;
-      let newsletterLanguage = document.getElementById('newsletter-language-footer').value;
-      let newsletterCountry = document.getElementById('newsletter-country-footer').value;
-      let privacy = document.querySelector('input[name="priv-footer"]:checked') ? '&privacy=true' : '';
+      const fmt = document.getElementById('fmt-footer').value;
+      const email = document.getElementById('em-footer').value;
+      const newsletter = document.getElementById('nl-footer').value;
+      const newsletterLanguage = document.getElementById('newsletter-language-footer').value;
+      const newsletterCountry = document.getElementById('newsletter-country-footer').value;
+      const privacy = document.querySelector('input[name="priv-footer"]:checked') ? '&privacy=true' : '';
 
-      let params = 'email=' + encodeURIComponent(email) +
+      const params = 'email=' + encodeURIComponent(email) +
         '&newsletters=' + newsletter +
         privacy +
         '&fmt=' + fmt +
@@ -82,22 +80,21 @@ class NewsletterFooterForm extends Component {
         '&source_url=' + encodeURIComponent(document.location.href);
 
       // eslint-disable-next-line no-undef
-      let xhr = new XMLHttpRequest();
+      const xhr = new XMLHttpRequest();
 
-      xhr.onload = function(r) {
+      xhr.onload = function (r) {
         if (r.target.status >= 200 && r.target.status < 300) {
           // response is null if handled by service worker
-          let response = r.target.response;
-          if (response === null ) {
+          const response = r.target.response;
+          if (response === null) {
             newsletterError();
             return;
           }
           if (response.success === true) {
             newsletterForm.style.display = 'none';
             newsletterThanks();
-          }
-          else {
-            if(response.errors) {
+          } else {
+            if (response.errors) {
               for (let i = 0; i < response.errors.length; i++) {
                 errorArray.push(response.errors[i]);
               }
@@ -105,21 +102,20 @@ class NewsletterFooterForm extends Component {
 
             newsletterError();
           }
-        }
-        else {
+        } else {
           newsletterError();
         }
       };
 
-      xhr.onerror = function() {
+      xhr.onerror = function () {
         newsletterError();
       };
 
-      let url = newsletterForm.getAttribute('action');
+      const url = newsletterForm.getAttribute('action');
 
       xhr.open('POST', url, true);
       xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
-      xhr.setRequestHeader('X-Requested-With','XMLHttpRequest');
+      xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
       xhr.timeout = 5000;
       xhr.ontimeout = newsletterError;
       xhr.responseType = 'json';
@@ -131,16 +127,15 @@ class NewsletterFooterForm extends Component {
     newsletterForm.addEventListener('submit', newsletterSubscribe, false);
   }
 
-  constructor(props)
-  {
+  constructor (props) {
     super(props);
     this.state = {
-      value: 'placeholder'
+      value: 'placeholder',
     };
   }
 
-  render() {
-    let classes = ['nl--footer', 'js-nl--footer'];
+  render () {
+    const classes = ['nl--footer', 'js-nl--footer'];
     const classString = classes.join(' ');
 
     return (
@@ -164,7 +159,7 @@ class NewsletterFooterForm extends Component {
               <Localized id="newsletter-email">
                 <label htmlFor="em-footer" className="form_label element-invisible">..</label>
               </Localized>
-              <Localized id="newsletter-form-email-placeholder" attrs={{placeholder: true, "aria-label": true}}>
+              <Localized id="newsletter-form-email-placeholder" attrs={{ placeholder: true, 'aria-label': true }}>
                 <input aria-label="Enter your e-mail" aria-required="true" type="email" id="em-footer" name="em-footer" className="form_input" required placeholder="Enter your e-mail" />
               </Localized>
 
@@ -192,7 +187,7 @@ class NewsletterFooterForm extends Component {
             <div id="newsletter_privacy_footer" className="form_group newsletter__privacy-policy text text--small">
               <input type="checkbox" id="priv-footer" name="priv-footer" required />
               <Localized id="newsletter-privacy"
-                         privacyLink={<a target="_blank" rel="noopener noreferrer" href="https://www.mozilla.org/privacy/websites/"></a>}>
+                privacyLink={<a target="_blank" rel="noopener noreferrer" href="https://www.mozilla.org/privacy/websites/"></a>}>
                 <label htmlFor="priv-footer">..</label>
               </Localized>
             </div>

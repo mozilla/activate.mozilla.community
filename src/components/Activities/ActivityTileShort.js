@@ -4,13 +4,13 @@ import { Localized } from 'fluent-react/compat';
 import { Col } from 'react-bootstrap';
 import {
   Watch,
-  Tag
-} from "react-feather";
+  Tag,
+} from 'react-feather';
 
 import './ActivityTile.css';
 
 class ActivityTileShort extends Component {
-  render() {
+  render () {
     const {
       titleImage,
       titleKey,

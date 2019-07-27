@@ -30,11 +30,11 @@ const AVAILABLE_LOCALES = [
   'zh-TW',
 ];
 
-function getText(response) {
+function getText (response) {
   return response.text();
 }
 
-async function fetchMessages(locale) {
+async function fetchMessages (locale) {
   const allMessages = await Promise.all([
     fetch(`/locales/${locale}/activate.ftl`).then(getText),
     fetch(`/locales/${locale}/campaigns.ftl`).then(getText),
@@ -43,25 +43,25 @@ async function fetchMessages(locale) {
   return { [locale]: allMessages.join('\n') };
 }
 
-export function changeLocales(userLocales) {
-  return async function(dispatch) {
+export function changeLocales (userLocales) {
+  return async function (dispatch) {
     dispatch({ type: 'CHANGE_LOCALES_REQUEST' });
 
     const currentLocales = negotiateLanguages(
       userLocales,
       AVAILABLE_LOCALES,
-      { defaultLocale: 'en-US' }
+      { defaultLocale: 'en-US' },
     );
 
     const fetched = await Promise.all(
-      currentLocales.map(fetchMessages)
+      currentLocales.map(fetchMessages),
     );
 
     const messages = fetched.reduce(
-      (obj, cur) => Object.assign(obj, cur)
+      (obj, cur) => Object.assign(obj, cur),
     );
 
-    const generateMessages = function* () {
+    const generateMessages = function * () {
       for (const locale of currentLocales) {
         const bundle = new FluentBundle(locale);
         bundle.addMessages(messages[locale]);
@@ -91,8 +91,8 @@ export function changeLocales(userLocales) {
   };
 }
 
-export function changeLocalesWithURL(previousLocale, userLocales) {
-  return async function(dispatch) {
+export function changeLocalesWithURL (previousLocale, userLocales) {
+  return async function (dispatch) {
     let newPath;
     const path = history.location.pathname;
 

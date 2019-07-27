@@ -12,7 +12,6 @@ import './Home.css';
 import '../section.css';
 
 class Home extends Component {
-
   componentDidMount = () => {
     document.body.classList.add('is-header-no-bg');
   };
@@ -23,16 +22,15 @@ class Home extends Component {
 
   existActiveCampaign = () => {
     // campaign must not be false and must not be null.
-    const campaignExist = !!this.props.activeCampaign && this.props.activeCampaign !== null ;
+    const campaignExist = !!this.props.activeCampaign && this.props.activeCampaign !== null;
     return campaignExist;
   };
 
   getHomeWhenActiveCampaign = () => {
-
-    const campaign = {...this.props.activeCampaign};
+    const campaign = { ...this.props.activeCampaign };
 
     return (
-      <Localized id="homepage-document-title" attrs={{title: true}}>
+      <Localized id="homepage-document-title" attrs={{ title: true }}>
         <DocumentTitle>
           <>
             <Jumbotron />
@@ -44,7 +42,7 @@ class Home extends Component {
               buttonKey = {campaign.buttonKey}
               linkTarget={campaign.linkTarget}
               visibleOnHomepage = {
-                (this.existActiveCampaign() ? true : false)
+                (!!this.existActiveCampaign())
               }
             />
             <ActivitiesOverview />
@@ -56,7 +54,7 @@ class Home extends Component {
               </div>
             </div>
             <div className="container">
-                <HomeCTA />
+              <HomeCTA />
             </div>
           </>
         </DocumentTitle>
@@ -67,7 +65,7 @@ class Home extends Component {
 
   getHomeWithNoCampaign = () => {
     return (
-      <Localized id="homepage-document-title" attrs={{title: true}}>
+      <Localized id="homepage-document-title" attrs={{ title: true }}>
         <DocumentTitle>
           <>
             <Jumbotron />
@@ -86,7 +84,7 @@ class Home extends Component {
     );
   };
 
-  render() {
+  render () {
     return (
       <section>
         {

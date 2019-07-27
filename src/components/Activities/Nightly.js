@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import { Localized } from 'fluent-react/compat';
 import DocumentTitle from 'react-document-title';
-import {Toggle, ToggleItem} from './../Toggle.js'
+import { Toggle, ToggleItem } from './../Toggle.js';
 import ActivityDetail from './ActivityDetail';
-import { SidebarItem } from './../Sidebar.js'
+import { SidebarItem } from './../Sidebar.js';
 
 class Nightly extends Component {
   buildSidebarContent = () => {
@@ -68,11 +68,11 @@ class Nightly extends Component {
           >
             <ol>
               <Localized id="nightly-activity-before-1"
-                         eventGuideLink={<a href="/eventguide/"></a>}>
+                eventGuideLink={<a href="/eventguide/"></a>}>
                 <li></li>
               </Localized>
               <Localized id="nightly-activity-before-2"
-                         nightlyIntroLink={<a href="https://docs.google.com/presentation/d/1dnl5jShMYDO-f_SDGM3yRr3Ac3XRF4XCZqlVwGcYm34/edit?usp=sharing">Introduction to Nightly slides</a>}>
+                nightlyIntroLink={<a href="https://docs.google.com/presentation/d/1dnl5jShMYDO-f_SDGM3yRr3Ac3XRF4XCZqlVwGcYm34/edit?usp=sharing">Introduction to Nightly slides</a>}>
                 <li></li>
               </Localized>
               <Localized id="nightly-activity-before-3">
@@ -83,8 +83,8 @@ class Nightly extends Component {
               </Localized>
             </ol>
             <Localized id="nightly-activity-tip-2"
-                         downloadLink={<a href="https://www.mozilla.org/en-US/firefox/channel/desktop/">Nightly for every platform</a>}
-                         androidLink={<a href="https://www.mozilla.org/en-US/firefox/channel/android/">Android builds</a>}>
+              downloadLink={<a href="https://www.mozilla.org/en-US/firefox/channel/desktop/">Nightly for every platform</a>}
+              androidLink={<a href="https://www.mozilla.org/en-US/firefox/channel/android/">Android builds</a>}>
               <p></p>
             </Localized>
             <Localized id="nightly-activity-before-4">
@@ -218,9 +218,9 @@ class Nightly extends Component {
     );
   };
 
-  render() {
+  render () {
     return (
-      <Localized id="nightly-document-title" attrs={{title: true}}>
+      <Localized id="nightly-document-title" attrs={{ title: true }}>
         <DocumentTitle>
           <ActivityDetail
             titleImage="/images/nightly-header.png"
