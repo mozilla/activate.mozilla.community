@@ -1,1 +1,2 @@
+firefoxforgood-sprint-description = Představte si web, který není zahlcený reklamami, falešnými zprávami a toxickými sociálními sítěmi, ale je to místo, kde lehce najdete smysluplný a důvěryhodný obsah. Místo, kde se všichni cítí bezpečně a získávají přesné informace. Jak může technologie prohlížeče zvýšit důvěryhodnost a kvalitu obsahu a komunikace?
 firefoxforgood-sprint-duration = 11. června - 9. července 2019
