@@ -257,6 +257,7 @@ commonvoice-activity-audience-2 = Du: Personer kan bidra hemifrån eller på spr
 commonvoice-activity-audience-3 = Små grupper: Nära vänner eller familjegrupper som vill se vad det här projektet handlar om.
 commonvoice-activity-audience-4 = Mellanstora och stora grupper: Studentgrupper, evenemangsdeltagare.
 commonvoice-activity-flows = Aktivitetsflöden
+commonvoice-activity-solo = 🤠 Ensamvarg
 commonvoice-activity-solo-description = Gör en maraton session eller försök skapa en rutin som gör det enkelt att komma ihåg att bidra. Testa till exempel att använda reklamfilmer i ditt favoritprogram eller varje dag medan du väntar på bussen. Om du associerar detta med en vanlig uppgift blir det enkelt att komma ihåg och du kommer att göra ett meningsfullt bidrag varje dag!
 commonvoice-activity-solo-description-2 = Kom ihåg - eftersom vi behöver en mångfald av röster - att donera 15 minuter av din röst är tillräckligt, det är ungefär 225 klipp. Om alla granskar 450 klipp uppfyller vi våra röstmål men det finns ingen gräns för hur många klipp du kan granska!
 commonvoice-activity-solo-record = För att donera din röst
