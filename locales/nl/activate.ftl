@@ -272,6 +272,7 @@ commonvoice-activity-audience-2 = U: Individuen kunnen vanuit thuis of onderweg 
 commonvoice-activity-audience-3 = Kleine groepen: goede vrienden of families die in de praktijk willen zien waar dit project over gaat.
 commonvoice-activity-audience-4 = Middelgrote en grote groepen: studentengroepen, deelnemers aan evenementen.
 commonvoice-activity-audience-5 = Grote groepen: benader het publiek door een stand of tafel in een drukke ruimte op te zetten.
+commonvoice-activity-try-it = Probeer het eens!
 commonvoice-activity-flows = Activiteitenworkflows
 commonvoice-activity-flows-description = Deze bijdrage-activiteit kan alleen, met vrienden, als een evenement of in een openbare ruimte worden gedaan. Waarom probeert u ze niet allemaal?
 commonvoice-activity-solo = 🤠 Eenzame cowboy / cowgirl
