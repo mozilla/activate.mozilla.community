@@ -34,3 +34,24 @@
   border-bottom-left-radius: 0;
 }
 
+.link-button {
+  display: inline-block;
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 4px;
+  padding: 9px 27px;
+  font-weight: 700;
+  transition: background-color 250ms ease-in-out;
+}
+
+.button--contribution {
+  color: #ffffff;
+  background-color: var(--green-color);
+}
+
+.button--contribution:hover,
+.button--contribution:focus {
+  color: var(--grey-color-light);
+}

@@ -70,6 +70,12 @@ class CommonVoice extends Component {
 
     return (
       <div>
+        <div className="content-center">
+          <Localized id="commonvoice-activity-try-it">
+            <a href="https://voice.mozilla.org" className="link-button button--contribution"></a>
+          </Localized>
+        </div>
+
         <Toggle
           titleKey="commonvoice-activity-flows"
           id="event-flow"
