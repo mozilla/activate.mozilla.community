@@ -302,6 +302,7 @@ commonvoice-activity-audience-2 = You: Individuals can contribute from home or o
 commonvoice-activity-audience-3 = Small groups: Close friends or family groups that want to see in action what this project is about.
 commonvoice-activity-audience-4 = Medium & large groups: Student groups, event attendees, etc.
 commonvoice-activity-audience-5 = Crowds: Engage the public by setting up a temporary booth in a busy space.
+commonvoice-activity-try-it = Try it out!
 commonvoice-activity-flows = Activity Flows
 commonvoice-activity-flows-description = This contribution activity can be done solo, with friends, as an event or in a public space. Why not try them all?
 commonvoice-activity-solo = 🤠 Lone ranger
