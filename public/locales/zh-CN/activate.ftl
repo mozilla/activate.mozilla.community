@@ -272,6 +272,7 @@ commonvoice-activity-audience-2 = 您：个人可以按照自己的节奏在家�
 commonvoice-activity-audience-3 = 小团体：亲密的朋友或家庭团体，希望看到这个项目的内容。
 commonvoice-activity-audience-4 = 大中型团体：学生团体、活动参与者。
 commonvoice-activity-audience-5 = 人群：在繁忙的场地设置一个摊位或桌子来吸引公众。
+commonvoice-activity-try-it = 快来试试！
 commonvoice-activity-flows = 活动流程
 commonvoice-activity-flows-description = 这种贡献活动可以在公共场所中单独或者与朋友一同参与完成。为什么不尝试一下呢？
 commonvoice-activity-solo = 🤠 孤独的牛仔/女牛仔
