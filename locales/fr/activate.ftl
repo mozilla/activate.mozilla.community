@@ -319,6 +319,7 @@ webcompat-activity-setup-3 = <iosLink>Firefox pour iOS</iosLink>
 webcompat-activity-flow-1 = Choisissez les sites que vous désirez tester
 webcompat-activity-flow-4 = Testez et signalez !
 webcompat-activity-end = Directement à la fin de l’activité
+webcompat-activity-output = Conclusion
 webcompat-activity-impact-title = Impact :
 webcompat-activity-impact-2 = 300 modules complémentaires installés
 webcompat-activity-impact-3 = 200 problèmes de compatibilité signalés
