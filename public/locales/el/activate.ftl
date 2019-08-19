@@ -116,6 +116,7 @@ webvr-title = ]WebVR Camp
 webvr-duration = 3-4 ώρες
 webcompat-title = Web Compatibility Sprint
 webcompat-duration = 2-3 ώρες
+coding-title = Προγραμματισμός για το Firefox
 coding-duration = μεταβλητή
 faq-title = Συχνές ερωτήσεις
 faq-description = Έχετε ερωτήσεις; Έχουμε τις απαντήσεις!
