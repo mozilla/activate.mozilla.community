@@ -118,6 +118,7 @@ programming = Programmearje
 participation = Meiwurkje
 contribution = Bydrage
 nightly-title = Nightly brûke en teste
+nightly-description = Dizze aktiviteit hat in grut potinsjeel om ynfloed te hawwen troch de algemiene belutsenheid by Nightly te fergrutsjen, ienfâldichwei troch in mienskip taken dy't sy útfiere kinne yn ferbân mei Nightly foar te stellen. It betiid yn de syklus sykje en melde fan problemen betsjut dat de koade goed yn inoar sit tsjin de tiid dat Firefox frijjûn wurdt.
 nightly-duration = 1-3 oeren
 techspeakers-title = Organisearje in technologypetear mei Tech Speakers!
 techspeakers-duration = 1-2 oeren
