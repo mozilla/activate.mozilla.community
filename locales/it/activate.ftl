@@ -272,6 +272,7 @@ commonvoice-activity-audience-2 = Tu: ciascuno può collaborare individualmente 
 commonvoice-activity-audience-3 = Piccoli gruppi: amici intimi o gruppi familiari che vogliono vedere in azione il progetto e capire di cosa si tratta.
 commonvoice-activity-audience-4 = Gruppi di medie e grandi dimensioni: di studenti o di partecipanti a un evento.
 commonvoice-activity-audience-5 = Folle: coinvolgi il pubblico dei passanti allestendo una cabina o un tavolo in uno spazio frequentato.
+commonvoice-activity-try-it = Provalo ora
 commonvoice-activity-flows = Flusso dell’attività
 commonvoice-activity-flows-description = Puoi partecipare a questa attività individualmente, con amici, come evento o in uno spazio pubblico. Perché non provarlo in tutti i modi?
 commonvoice-activity-solo = 🤠 Cowboy (o cowgirl) solitario
