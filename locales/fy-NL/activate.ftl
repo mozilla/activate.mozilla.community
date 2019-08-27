@@ -131,6 +131,7 @@ rust-title = Dûk yn Rust
 rust-description = Rust is in systeemprogrammeartaal dy't wichtich is foar de takomst fan it ynternet. It wurket poer fluch, foarkomt segfaults en garandearret thread-feilichheid. Mei jo help wolle wy dat mear ûntwikkelers dizze taal begripe, brûke en propagearje, om sa it web better en feiliger te meitsjen.
 rust-duration = 2-3 oeren
 webvr-title = WebVR-kamp
+webvr-description = A-Frame is in webframework foar it bouwen fan virtual reality-ûnderfiningen, wêrtroch elkenien him ienfâldich mei virtual reality dwaande hâlde kin. Organisearje eveneminten om ûntwikkelers foar 3D te werven en skriuw inkelde geweldige demo’s. Dit sil WebVR, in iepen platfoarm foar virtual reality dat gebrûk makket fan it web, foarút helpe.
 webvr-duration = 3-4 oeren
 webcompat-title = Webkomptabiliteitssprint
 webcompat-duration = 2-3 oeren
