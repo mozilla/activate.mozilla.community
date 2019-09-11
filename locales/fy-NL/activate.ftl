@@ -171,6 +171,7 @@ eg-started-content-3 = Doelen definiearje
 eg-venue = Sykje in lokaasje
 eg-venue-content = Sykje, wannear't jo betinke wêr't jo jo evenemint hâlde wolle, in komfortabele, fleksibele romte dy't geskikt is foar it oantal dielnimmers dat jo ferwachtsje. Wês kreatyf – kafees, buerthuzen, dielde kantoaren, biblioteken en hackerspaces binne geweldige plakken om te begjinnen. Omdat jo evenemint hooplik troch mear as ien of twa minsken besocht wurdt, hawwe jo tafels foar alle dielnimmers nedich en romte om te bewegen. Soargje foar betrouber ynternet, genôch stopkontakten en goede ferljochting.
 eg-experience = Untwerp in aardige ûnderfining
+eg-experience-content = Jo evenemint soe as in feest fiele moatte! Inkelde ienfâldige trúks om in útnûgjende, kreative sfear te meitsjen binne ûnder mear it ôfspyljen fan muzyk, snacks meinimme en nammekaartsjes jaan. In startaktiviteit of iisbrekker is in geweldige manier om elkenien yn de kunde komme te litten.
 eg-schedule = Skema
 eg-promotion = Promoasje
 eg-strategy = Wervingsstrategy
