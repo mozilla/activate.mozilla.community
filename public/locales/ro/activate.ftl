@@ -272,6 +272,7 @@ commonvoice-activity-audience-2 = Voi: Persoane care pot contribui de acasă sau
 commonvoice-activity-audience-3 = Grupuri mici: Prieteni apropiați sau grupuri familiale care vor să vadă în acțiune proiectul.
 commonvoice-activity-audience-4 = Grupuri medii și mari: Grupuri de studenți, participanți la evenimente etc.
 commonvoice-activity-audience-5 = Mase: Intrați în contact cu publicul larg prin instalarea unui stand temporar într-un loc aglomerat.
+commonvoice-activity-try-it = Încearcă!
 commonvoice-activity-flows = Fluxuri de activități
 commonvoice-activity-flows-description = Această activitate de contribuție poate fi realizată individual, cu prietenii, ca eveniment sau într-un spațiu public. De ce nu le încerci pe toate?
 commonvoice-activity-solo = 🤠 Călărețul singuratic
