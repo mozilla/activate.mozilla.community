@@ -292,6 +292,7 @@ commonvoice-activity-solo-review-4 = 听声音（尽量不要看屏幕）
 commonvoice-activity-solo-review-5 = 现在阅读屏幕，并与您听到的内容进行比较
 commonvoice-activity-solo-review-6 = 如果完全相同，请单击“是”，如果不一致，请单击“否”(注意，不同的口音也可以)
 commonvoice-activity-solo-review-7 = 重复
+commonvoice-activity-solo-end = 当您录制 225 个片段并查看了至少 450 个片段后，就可以开始下一个挑战了。选中“众乐乐”活动。
 commonvoice-activity-friends = 👨‍👩‍👧‍👦 众乐乐
 commonvoice-activity-friends-description-track = 跟踪您在网站上的进度。
 commonvoice-activity-friends-description-4 = 让每个人都创建一个账户（他们可以使用他们的手机或任何设备）
