@@ -294,6 +294,7 @@ commonvoice-activity-solo-review-6 = 如果完全相同，请单击“是”，�
 commonvoice-activity-solo-review-7 = 重复
 commonvoice-activity-solo-end = 当您录制 225 个片段并查看了至少 450 个片段后，就可以开始下一个挑战了。选中“众乐乐”活动。
 commonvoice-activity-friends = 👨‍👩‍👧‍👦 众乐乐
+commonvoice-activity-friends-description-gather = 最多可以聚集10个朋友或家人，并为您要一起查看和贡献的语音剪辑的数量设定一个目标。想要玩一个游戏吗？为最先达到您目标的人或活动期间获得最多评论的人提供价格！奖品可以像贴纸一样，甚至可以像在比赛中大喊大叫一样简单。只要确保您的目标能够在分配的时间内实现即可。
 commonvoice-activity-friends-description-track = 跟踪您在网站上的进度。
 commonvoice-activity-friends-description-4 = 让每个人都创建一个账户（他们可以使用他们的手机或任何设备）
 commonvoice-activity-friends-description-7 = 让每个人在网站顶部记录他们的贡献
