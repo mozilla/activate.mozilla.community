@@ -183,6 +183,7 @@ eg-online-promotion-content-1 = Meitsje in evenemint op Meetup.com of Facebook, 
 eg-online-promotion-content-2 = Diel jo keppeling op oare websites, lykas studintewebsites, evenemintenkalinders en oare lokale organisaasjes.
 eg-online-promotion-content-3 = Jo netwurk is in krêftich helpmiddel! Jo kinne ek foto’s op Instagram pleatse of jo Twitter-folgers freegje om jo evenemint te promoatsjen (ferjit net om in hashtag te kiezen!).
 eg-online-promotion-content-4 = Stjoer evenemintdetails nei lokale foarums of berjochtetsjinsten dy't in publyk hawwe dat ynteressearre wêze kin.
+eg-online-promotion-content-5 = Underskat de wearde fan in flyer net as in ynformele manier om oaren te ynformearjen oer jo evenemint.
 eg-tech = Tech
 eg-equipment = Apparatuur
 eg-backup = Back-up-plan
