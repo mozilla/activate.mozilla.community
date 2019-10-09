@@ -305,6 +305,7 @@ commonvoice-activity-friends-description-8 = 让人们在超过25、50和100的�
 commonvoice-activity-friends-description-9 = 一旦有人达到了他们的目标，检查他们的贡献并分发奖品！
 commonvoice-activity-friends-end = 邀请您的参与者使用 #CommonVoice 在社交媒体上分享他们的进程，并鼓励他们与一群朋友一起进行同样的的活动。
 commonvoice-activity-time = 🤹‍♀️ 大显身手
+commonvoice-activity-time-description = 造一个大事件！召集您的同事，同学或朋友在一起，共同举办 Common Voice 马拉松。这是您可以在活动中使用的<posterLink> 明信片 </ posterLink>。
 commonvoice-activity-time-description-4 = 项目介绍（10 分钟）
 commonvoice-activity-time-description-6 = 这个项目是关于什么的？
 commonvoice-activity-time-description-7 = 它为什么如此重要？
