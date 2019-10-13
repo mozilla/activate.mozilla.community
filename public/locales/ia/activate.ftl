@@ -629,4 +629,4 @@ webext-activity-goals-workshop-2 = 60% de participantes ex le prime seminario at
 webext-activity-goals-workshop-3 = 100% de participantes recipe le email de sequito de evento
 webext-activity-participants = Trovar participantes
 webext-activity-participants-1 = Tu auditorio pro iste evento debe esser personas qui ha scribite codice HTML e JavaScript in le passato.
-webext-activity-participants-2 = Nove pro JavaScript e HTML? Discoperi iste breve instructiones per le membros del communitate <tutorialOneLink>Viswaprasath Ks</tutorialOneLink> e <tutorialTwoLink>Trishul Goel</tutorialTwoLink> pro crear tu habilitates de programmation e crear extensiones de navigator!
+webext-activity-participants-2 = Es tu comenciante de JavaScript e HTML? Percurre iste tutoriales per le membros del communitate <tutorialOneLink>Viswaprasath Ks</tutorialOneLink> e <tutorialTwoLink>Trishul Goel</tutorialTwoLink> pro disveloppar tu habilitates de programmation e crear extensiones de navigator!
