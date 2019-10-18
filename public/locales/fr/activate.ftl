@@ -365,6 +365,7 @@ webcompat-activity-impact-3 = 200 problèmes de compatibilité signalés
 webcompat-activity-strength = Force :
 webcompat-activity-strength-1 = 50 Mozilliens organisent des évènements
 webcompat-activity-audience = Public visé pour cette activité
+rust-activity-format = Format d’activité
 rust-activity-duration = Concernant la durée, nous recommandons un évènement d’au moins 2 à 3 heures avec un minimum de 10 participants.
 rust-activity-before = 2-4 semaines avant l’évènement
 rust-activity-before-2 = Choisissez une date et réservez un lieu.
