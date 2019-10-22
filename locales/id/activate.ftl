@@ -169,6 +169,7 @@ eg-promotion = Promosi
 eg-promotion-content = Ada berbagai cara mempromosikan acara anda untuk menarik perhatian dan mendatangkan lebih banyak peserta.
 eg-strategy = Strategi Rekrutmen
 eg-online-promotion = Promosi dan Pers Daring
+eg-online-promotion-content-1 = Pastikan untuk membuat acara di Meetup.com atau Facebook sehingga Anda memiliki tautan cepat yang dapat Anda bagikan untuk mengundang orang.
 eg-tech = Teknologi
 eg-equipment = Peralatan
 eg-backup = Rencana Cadangan
