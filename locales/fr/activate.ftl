@@ -331,6 +331,7 @@ commonvoice-activity-conversation-3 = Vous avez des commentaires sur cette activ
 techspeakers-activity-ready = Êtes-vous prêt·e ?
 techspeakers-activity-setup = Préparez votre évènement
 techspeakers-activity-setup-1 = Consultez la <tsLink>liste des orateurs et oratrices techniques</tsLink> et recherchez dans votre région une personne qui conviendrait parfaitement à votre évènement.
+techspeakers-activity-setup-2 = Contactez le conférencier ou la conférencière technique et convenez d’une date et d’un sujet pour votre évènement. Nous vous recommandons l’un des sujets suivants (plusieurs choix sont possibles) :
 techspeakers-activity-setup-3 = Web VR
 techspeakers-activity-setup-4 = Rust
 techspeakers-activity-setup-5 = Web Extension
