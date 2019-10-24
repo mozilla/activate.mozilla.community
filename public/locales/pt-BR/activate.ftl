@@ -199,6 +199,7 @@ eg-signin = Entrar
 eg-signin-content = Uma vez que seu evento tenha começado, pode ser muito difícil acompanhar quem está lá. Montar uma mesa de boas-vindas oferece a oportunidade de alcançar as pessoas assim que chegam, para que se possa obter os nomes e detalhes de contato dos participantes para depois poder enviar agradecimentos, links, notícias e convites para futuros eventos. Também pode fornecer crachás para facilitar tanto encontrar pessoas como a conversa entre elas. Você pode aplicar o jogo dos crachás, pedindo às pessoas que anotem suas coisas favoritas: tecnologias, videogames, programas de TV, etc. abaixo de seus nomes, para as ajudar a iniciar conversas. Não tenha medo de ser criativo e ajudar as pessoas a quebrar o gelo!
 eg-documentation = Documentação
 eg-wrapup = Conclusão
+eg-wrapup-content = Quando é hora de finalizar, seus participantes se sentirão inspirados, energizados e prontos para compartilhar o que aprenderam. Você vai querer aproveitar esse momento.
 eg-demos = Demonstrações
 eg-feedback = Receba opiniões
 eg-cleanup = Limpeza
