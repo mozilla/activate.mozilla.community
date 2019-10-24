@@ -341,6 +341,7 @@ techspeakers-activity-setup-8 = Commencez à contacter les développeurs web de 
 techspeakers-activity-setup-9 = Lisez le <eventGuideLink>guide des évènements</eventGuideLink> pour savoir comment créer une page d’évènement et organiser un évènement.
 techspeakers-activity-after = Après l’évènement
 techspeakers-activity-after-1 = Immédiatement après l’évènement, n’oubliez pas de partager le lien vers le formulaire d’impact avec vos participants :
+techspeakers-activity-after-2 = Rappelez-vous que c’est ainsi que vous saurez qui a assisté à votre évènement, et si vous les avez motivés à agir ! Nous vous suggérons de l’ajouter à votre diapositive finale et de l’envoyer par courrier électronique après l’évènement.
 techspeakers-activity-extra = Autre
 techspeakers-activity-extra-1 = Pour le budget, veuillez suivre la <faqLink>FAQ d’Activate</faqLink>. Toutes les dépenses des conférenciers techniques seront gérées par le programme Tech Speaker.
 techspeakers-activity-goals = Objectifs de l’atelier
