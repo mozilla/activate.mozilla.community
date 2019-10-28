@@ -189,6 +189,7 @@ eg-tech-content = Wannear't jo it ynternet ûnderwize, is it hawwen fan de krekt
 eg-equipment = Apparatuur
 eg-equipment-content = Bepaal yn it foar jo technyske behoeften en beslis oft jo laptops, projektoren, audiofisuele apparatuer, ferlingsnoeren en netsnoeren nedich hawwe. Guon eveneminten binne BYOL (Bring Your Own Laptop), yn dat gefal is it goed om de dei foar it evenemint dielnimmers in omtinken te stjoeren om harren laptop net te ferjitten. As dielnimmers net yn steat binne om harren eigen laptop mei te nimmen, betink dan om in romte te brûken mei tagong ta in kompjûterromte of laptops. In oar idee is om kontakt op te nimmen mei lokale technyske organisaasjes of kompjûterlokalen yn de mienskip en harren te freegjen apparatuer foar it evenemint te sponsorjen, yn ruil foar reklame. Wannear't jo beslisse hoe folle kompjûters jo nedich hawwe, ferjit dan net dat jo dielnimmers per twa of gruttere groepen wurkje litte kinne. It is in goed idee om te probearjen in ekstra laptop efter de hân te hawwen foar dielnimmers, foar it gefal der technyske problemen barre.
 eg-backup = Back-up-plan
+eg-backup-content = Spitigernôch binne tech-problemen in al te bekend ûnderdiel fan eveneminten.  De tarieding makket net út, triedleaze netwurken of kompjûters kinne ûnferwachte problemen feroarsaakje. As in pear kompjûters net goed funksjonearje, freegje de dielnimmers dan om yn groepen te wurkjen. Wy riede oan dat jo in pear offline aktiviteiten tariede foar as it mis giet.
 eg-setup = Opsette
 eg-welcome = Wolkom & Registraasje
 eg-welcome-welcome = Wolkom
