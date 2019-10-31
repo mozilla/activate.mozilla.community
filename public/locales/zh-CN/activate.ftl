@@ -450,6 +450,7 @@ vr-activity-flow-2-duration = 30 分钟
 vr-activity-flow-5 = 关于 <blogLink>VR、WebVR 与 A-Frame</blogLink>
 vr-activity-flow-7-reworked = A-Frame 概念
 vr-activity-flow-7-duration = 30 分钟
+vr-activity-flow-11-reworked = 上手时间
 vr-activity-flow-11-duration = 1 小时
 vr-activity-flow-12 = 提出构建 VR 体验的想法
 vr-activity-flow-13 = 可以使用 <codepenLink>Codepen</codepenLink> 或 <boilerplateLink>Boilerplate</boilerplateLink> 入门
