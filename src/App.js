@@ -38,14 +38,14 @@ let activeCampaign = null;
 // Campaign exists.
 // Comment out the following definition, if no active Campaign exists.
 
-// activeCampaign = {
-//   titleImage: "/images/firefoxforgood.png",
-//   titleKey: "firefoxforgood-sprint-title",
-//   descriptionKey: "firefoxforgood-sprint-description",
-//   durationKey: "firefoxforgood-sprint-duration",
-//   buttonKey: "current-campaign-learn-more",
-//   linkTarget: "https://events.mozilla.org/firefoxforgood-surfacingqualitycontentandconversat"
-// };
+activeCampaign = {
+  titleImage: '/images/firefox-preview-respond.png',
+  titleKey: 'firefox-preview-respond-sprint-title',
+  descriptionKey: 'firefox-preview-respond-sprint-description',
+  durationKey: 'firefox-preview-respond-sprint-duration',
+  buttonKey: 'current-campaign-learn-more',
+  linkTarget: 'https://events.mozilla.org/respond_campaign',
+};
 
 // eslint-disable-next-line prefer-const
 let upcomingCampaigns = null;
@@ -53,12 +53,12 @@ let upcomingCampaigns = null;
 // Comment out the following definition, if no upcoming campaign exists.
 // upcomingCampaigns = [
 //   {
-//     titleImage: "/images/firefoxforgood.png",
-//     titleKey: "firefoxforgood-sprint-title",
-//     descriptionKey: "firefoxforgood-sprint-description",
-//     durationKey: "firefoxforgood-sprint-duration",
-//     buttonKey: "current-campaign-learn-more",
-//     linkTarget: "https://events.mozilla.org/firefoxforgood-surfacingqualitycontentandconversat"
+//     titleImage: '/images/firefoxforgood.png',
+//     titleKey: 'firefoxforgood-sprint-title',
+//     descriptionKey: 'firefoxforgood-sprint-description',
+//     durationKey: 'firefoxforgood-sprint-duration',
+//     buttonKey: 'current-campaign-learn-more',
+//     linkTarget: 'https://events.mozilla.org/firefoxforgood-surfacingqualitycontentandconversat',
 //   }
 // ];
 
