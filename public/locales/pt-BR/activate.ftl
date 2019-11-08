@@ -136,6 +136,7 @@ webvr-duration = 3 a 4 horas
 webcompat-title = Web Compatibility Sprint
 webcompat-description = Compatibilidade web, a capacidade de todo conteúdo web funcionar em todos os navegadores, é importante. Existem diversos mecanismos de conteúdo web em execução em vários dispositivos e, às vezes, com poucos testes e alguns pequenos ajustes no site, os desenvolvedores podem garantir que mais usuários possam ter a experiência completa desejada. Teste sites e divulgue a mensagem sobre compatibilidade.
 webcompat-duration = 2 a 3 horas
+coding-title = Programe para Firefox
 coding-duration = variável
 faq-title = Perguntas frequentes
 faq-description = Você tem perguntas? Nós temos respostas!
