@@ -86,6 +86,13 @@ class CampaignsListing extends Component {
               <Grid>
                 <Row className="campaign-list__row">
                   <CampaignTile
+                    titleImage="/images/firefox-preview-respond.png"
+                    titleKey="firefox-preview-respond-sprint-title"
+                    descriptionKey="firefox-preview-respond-sprint-description"
+                    durationKey="firefox-preview-respond-sprint-duration"
+                    linkTarget="https://events.mozilla.org/respond_campaign"
+                  ></CampaignTile>
+                  <CampaignTile
                     titleImage="/images/firefoxforgood.png"
                     titleKey="firefoxforgood-sprint-title"
                     descriptionKey="firefoxforgood-sprint-description"
