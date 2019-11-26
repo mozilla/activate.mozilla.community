@@ -5,3 +5,7 @@ firefoxforgood-sprint-duration = June 11 - July 9 2019
 firefox-preview-respond-sprint-title = Respond Campaign
 firefox-preview-respond-sprint-description = On November 12th Mozilla is launching major updates to  its new Android web browser Firefox Preview. We need your help to support all the enthusiastic new users. We’re asking YOU to join Mozillians around the world for a month of answering questions and helping users have a great experience!
 firefox-preview-respond-sprint-duration = November 13 - December 2 2019
+
+firefoxaccounts-sprint-title = Join Firefox Campaign
+firefoxaccounts-sprint-description = Mozilla’s goal is to empower people across their connected lives. By getting our friends and family to join Firefox, they get ways to share files securely, keep their passwords safe, sync their browser across devices, and test new products, and keep their data safe.
+firefoxaccounts-sprint-duration = November 25 - December 31 2019
