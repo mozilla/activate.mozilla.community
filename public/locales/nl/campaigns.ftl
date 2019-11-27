@@ -4,3 +4,6 @@ firefoxforgood-sprint-duration = 11 juni – 9 juli 2019
 firefox-preview-respond-sprint-title = Respond-campagne
 firefox-preview-respond-sprint-description = Op 12 november lanceert Mozilla belangrijke updates voor de nieuwe Android-webbrowser Firefox Preview. We hebben uw hulp nodig om alle enthousiaste nieuwe gebruikers te ondersteunen. We vragen U om samen met Mozillians over de hele wereld een maand lang vragen te beantwoorden en gebruikers te helpen een geweldige ervaring te hebben!
 firefox-preview-respond-sprint-duration = 13 november - 2 december 2019
+firefoxaccounts-sprint-title = Campagne Doe mee met Firefox
+firefoxaccounts-sprint-description = Mozilla heeft tot doel om mensen in hun verbonden leven meer mogelijkheden te geven. Door onze vrienden en familie mee te laten doen met Firefox, krijgen ze manieren om bestanden veilig te delen, hun wachtwoorden veilig te houden, hun browser op verschillende apparaten te synchroniseren, nieuwe producten te testen en hun gegevens veilig te houden.
+firefoxaccounts-sprint-duration = 25 november - 31 december 2019
