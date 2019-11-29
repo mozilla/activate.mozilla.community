@@ -5,4 +5,5 @@ firefox-preview-respond-sprint-title = Campagna delle risposte
 firefox-preview-respond-sprint-description = Il 12 novembre Mozilla lancerà grandi aggiornamenti sul suo nuovo browser web per Android: Firefox Preview. Abbiamo bisogno del TUO aiuto per offrire assistenza a tutti i nuovi utenti entusiasti. Unisciti ai mozilliani di tutto il mondo e rispondi per un mese alle domande degli utenti, aiutandoli ad avere un’esperienza ottimale!
 firefox-preview-respond-sprint-duration = 13 novembre – 2 dicembre 2019
 firefoxaccounts-sprint-title = Unisciti alla campagna di Firefox
+firefoxaccounts-sprint-description = L’obiettivo di Mozilla è assicurare agli utenti la facoltà di decidere della propria vita online. Con Firefox è possibile condividere file in sicurezza con i propri amici e familiari, mantenere i dati e le password al sicuro, sincronizzare i browser tra i vari dispositivi e provare nuovi prodotti.
 firefoxaccounts-sprint-duration = 25 novembre – 31 dicembre 2019
