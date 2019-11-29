@@ -5,5 +5,5 @@ firefox-preview-respond-sprint-title = Campania de responsas
 firefox-preview-respond-sprint-description = Le 12 de novembre, Mozilla lancea grande actualisationes a su nove navigator web pro Android, Firefox Preview. Nos require tu adjuta pro supportar tote le nove enthusiastas. Nos demanda a TE de unir te al Mozillianos de tote le mundo durante un mense pro responder questiones e adjutar le usatores a haber un optime experientia!
 firefox-preview-respond-sprint-duration = 13 de novembre - 2 de decembre 2019
 firefoxaccounts-sprint-title = Junge te al Campania Firefox
-firefoxaccounts-sprint-description = Le proposito de Mozilla es integrar personas inter lor vitas in internet. Si nostre amicos e familia se junge a Firefox illes pote compartir files con securitate, mantener lor contrasignos secur, synchronisar lor navigator inter le apparatos, testar nove productos e mantener lor datos secur.
+firefoxaccounts-sprint-description = Le proposito de Mozilla es liberar le potentialitates del personas in lor vitas online. Si nostre amicos e nostre familia se junge a Firefox illes pote compartir files con securitate, mantener lor contrasignos secur, synchronisar le navigator inter lor apparatos, testar nove productos e mantener lor datos secur.
 firefoxaccounts-sprint-duration = 25 de novembre - 31 de decembre 2019
