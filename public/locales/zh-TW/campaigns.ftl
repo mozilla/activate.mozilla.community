@@ -3,3 +3,7 @@ firefoxforgood-sprint-description = 想像 Web 中沒有滿滿廣告、假新聞
 firefoxforgood-sprint-duration = 2019 年 6 月 11 日 - 7 月 9 日
 firefox-preview-respond-sprint-title = 響應活動
 firefox-preview-respond-sprint-description = Mozilla 將於 11 月 12 日推出 Android 網頁瀏覽器 Firefox Preview 的重大更新。我們需要您的幫忙，來支持所有熱情新用戶。邀請您與世界各地的 Mozillians 一起回答問題一個月，幫助用戶獲得優秀體驗！
+firefox-preview-respond-sprint-duration = 2019 年 11 月 13 日 - 12 月 2 日
+firefoxaccounts-sprint-title = Join Firefox 活動
+firefoxaccounts-sprint-description = Mozilla 的目標是人們更能自行控制線上生活。透過邀請朋友與家庭加入 Firefox，它們可以安全地分享檔案、確保密碼安全、同步上網資料到不同裝置上、測試新產品，並確保資料安全。
+firefoxaccounts-sprint-duration = 2019 年 11 月 25 日 - 12 月 31 日
