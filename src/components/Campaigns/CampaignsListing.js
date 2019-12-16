@@ -11,12 +11,10 @@ import './CampaignsListing.css';
 
 class CampaignsListing extends Component {
   render () {
-    let activeCampaign = <div></div>;
-    if (this.props.activeCampaign) {
-      const campaign = { ...this.props.activeCampaign };
-
-      activeCampaign = (
-        <section className="campaign">
+    let activeCampaigns = <div></div>;
+    if (this.props.activeCampaigns) {
+      activeCampaigns = this.props.activeCampaigns.map((campaign) => (
+        <section className="campaign" key={campaign.titleKey}>
           <Localized id="campaign-active">
             <h1 className="title text--centered"></h1>
           </Localized>
@@ -30,9 +28,11 @@ class CampaignsListing extends Component {
             durationKey={campaign.durationKey}
             buttonKey = {campaign.buttonKey}
             linkTarget={campaign.linkTarget}
+            credit={campaign.credit}
+            creditUrl={campaign.creditUrl}
           />
         </section>
-      );
+      ));
     }
 
     let upcomingCampaigns = <div></div>;
@@ -59,6 +59,8 @@ class CampaignsListing extends Component {
                   durationKey={campaign.durationKey}
                   buttonKey = {campaign.buttonKey}
                   linkTarget={campaign.linkTarget}
+                  credit={campaign.credit}
+                  creditUrl={campaign.creditUrl}
                 />
               ))}
 
@@ -72,7 +74,7 @@ class CampaignsListing extends Component {
       <Localized id="campaigns-document-title" attrs={{ title: true }}>
         <DocumentTitle>
           <React.Fragment>
-            {activeCampaign}
+            {activeCampaigns}
             {upcomingCampaigns}
             <section className="campaign-list">
               <Localized id="campaign-archive">
@@ -188,7 +190,7 @@ class CampaignsListing extends Component {
 
 const mapStateToProps = (state) => ({
   currentLocales: state.language.currentLocales,
-  activeCampaign: state.campaign.active,
+  activeCampaigns: state.campaign.active,
   upcomingCampaigns: state.campaign.upcoming,
 });
 

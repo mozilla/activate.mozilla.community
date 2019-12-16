@@ -22,29 +22,31 @@ class Home extends Component {
 
   existActiveCampaign = () => {
     // campaign must not be false and must not be null.
-    const campaignExist = !!this.props.activeCampaign && this.props.activeCampaign !== null;
+    const campaignExist = !!this.props.activeCampaigns && this.props.activeCampaigns !== null;
     return campaignExist;
   };
 
   getHomeWhenActiveCampaign = () => {
-    const campaign = { ...this.props.activeCampaign };
-
     return (
       <Localized id="homepage-document-title" attrs={{ title: true }}>
         <DocumentTitle>
           <>
             <Jumbotron />
-            <CampaignTileCurrent
-              titleImage={campaign.titleImage}
-              titleKey={campaign.titleKey}
-              descriptionKey={campaign.descriptionKey}
-              durationKey={campaign.durationKey}
-              buttonKey = {campaign.buttonKey}
-              linkTarget={campaign.linkTarget}
-              visibleOnHomepage = {
-                (!!this.existActiveCampaign())
-              }
-            />
+            { this.props.activeCampaigns.map((campaign, index) => (
+              <CampaignTileCurrent
+                key={campaign.titleKey}
+                titleImage={campaign.titleImage}
+                titleKey={campaign.titleKey}
+                descriptionKey={campaign.descriptionKey}
+                durationKey={campaign.durationKey}
+                buttonKey = {campaign.buttonKey}
+                linkTarget={campaign.linkTarget}
+                isTop={index === 0}
+                credit={campaign.credit}
+                creditUrl={campaign.creditUrl}
+              />
+            ))}
+
             <ActivitiesOverview />
             <div className="home__illustrated-slice home__illustrated-slice--large js-nl-form-wrapper">
               <div className="container">
@@ -98,7 +100,7 @@ class Home extends Component {
 }
 
 const mapStateToProps = (state) => ({
-  activeCampaign: state.campaign.active,
+  activeCampaigns: state.campaign.active,
 });
 
 export default connect(mapStateToProps)(Home);

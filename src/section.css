@@ -2,6 +2,10 @@
   margin-top: -50px;
 }
 
+.spacing-top {
+  margin-top: 50px;
+}
+
 @media all and (min-width: 768px) {
   .section--pull-up {
     margin-top: -180px;

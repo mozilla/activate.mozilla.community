@@ -41,6 +41,10 @@
   margin-right: 15px;
 }
 
+.campaign-card__credit {
+  font-size: .6em;
+}
+
 @media only screen and (min-width : 576px) {
   .campaign-card--active .campaign-card__col:first-child {
     min-width: 320px;

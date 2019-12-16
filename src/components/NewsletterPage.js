@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { connect } from 'react-redux';
 import DocumentTitle from 'react-document-title';
 import { Localized } from 'fluent-react/compat';
 
@@ -37,8 +36,4 @@ class NewsletterPage extends Component {
   }
 }
 
-const mapStateToProps = (state) => ({
-  activeCampaign: state.campaign.active,
-});
-
-export default connect(mapStateToProps)(NewsletterPage);
+export default NewsletterPage;

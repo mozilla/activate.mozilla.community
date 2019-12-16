@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Router, Switch, Route } from 'react-router-dom';
 import store from './store';
-import { connect } from 'react-redux';
 
 import './App.css';
 import './title.css';
@@ -33,19 +32,28 @@ import WebcompatSprint from './components/Activities/WebcompatSprint';
 import { ADD_CURRENT_CAMPAIGN, ADD_UPCOMING_CAMPAIGNS } from './actions/campaign';
 
 // eslint-disable-next-line prefer-const
-let activeCampaign = null;
+let activeCampaigns = null;
 
 // Campaign exists.
 // Comment out the following definition, if no active Campaign exists.
 
-activeCampaign = {
+activeCampaigns = [{
+  titleImage: 'https://images.unsplash.com/photo-1461685265823-f8d5d0b08b9b?auto=format&fit=crop&w=500&q=80',
+  titleKey: 'soti-sprint-title',
+  descriptionKey: 'soti-sprint-description',
+  durationKey: 'soti-sprint-duration',
+  buttonKey: 'current-campaign-learn-more',
+  linkTarget: 'TODO',
+  credit: 'Matthew Henry',
+  creditUrl: 'https://unsplash.com/@matthewhenry?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText',
+}, {
   titleImage: '/images/firefoxaccounts.png',
   titleKey: 'firefoxaccounts-sprint-title',
   descriptionKey: 'firefoxaccounts-sprint-description',
   durationKey: 'firefoxaccounts-sprint-duration',
   buttonKey: 'current-campaign-learn-more',
   linkTarget: 'https://mozilla.github.io/firefox-accounts-campaign/',
-};
+}];
 
 // eslint-disable-next-line prefer-const
 let upcomingCampaigns = null;
@@ -66,7 +74,7 @@ class App extends Component {
   componentDidMount () {
     store.dispatch({
       type: ADD_CURRENT_CAMPAIGN,
-      payload: activeCampaign,
+      payload: activeCampaigns,
     });
 
     store.dispatch({
@@ -75,7 +83,7 @@ class App extends Component {
     });
   }
 
-  render (props) {
+  render () {
     return (
       <Router history={history}>
         <main>
@@ -123,9 +131,4 @@ class App extends Component {
   }
 }
 
-const mapStateToProps = (state) => ({
-  activeCampaign: state.campaigns,
-  upcomingCampaigns: state.upcomingCampaigns,
-});
-
-export default connect(mapStateToProps)(App);
+export default App;
