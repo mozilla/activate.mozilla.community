@@ -203,6 +203,7 @@ eg-documentation-content = Eveneminten ferrinne fluch en it is faaks net mooglik
 eg-wrapup = Gearfetting
 eg-wrapup-content = Wannear it tiid is om te stopjen, sille jo oanwêzigen ynspirearre, enerzjyk en klear wêze om te dielen wat se leard hawwe. Hjir sille jo fan profitearje wolle.
 eg-demos = Demo' s
+eg-demos-content = Hâld tiid frij foar organisaasjes om inoars aktiviteiten te dielen en ideeën út te wikseljen. Bring oan it ein fan it evenemint elkenien wer tegearre yn in sirkel. Fier wat dielnimmers makke hawwe. Nûgje in pear minsken út om harren wurk te dielen. Moedigje de groep oan om harren wurk online te posten mei de hashtag fan jo klup.
 eg-feedback = Krij kommentaar
 eg-cleanup = Skjinmeitsje
 eg-cleanup-content = Bou en ûnderhâld in goede relaasje mei jo lokaasje troch derfoar te soargjen dat jo it krekt sa skjin efterlitte as doe't jo oankamen. Op dy manier sille se, as jo folgjend jier noch in oar evenemint hâlde wolle, hiel bliid binne om jo werom te sjen.
