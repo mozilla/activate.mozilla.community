@@ -205,6 +205,7 @@ eg-wrapup-content = Wannear it tiid is om te stopjen, sille jo oanwêzigen ynspi
 eg-demos = Demo' s
 eg-demos-content = Hâld tiid frij foar organisaasjes om inoars aktiviteiten te dielen en ideeën út te wikseljen. Bring oan it ein fan it evenemint elkenien wer tegearre yn in sirkel. Fier wat dielnimmers makke hawwe. Nûgje in pear minsken út om harren wurk te dielen. Moedigje de groep oan om harren wurk online te posten mei de hashtag fan jo klup.
 eg-feedback = Krij kommentaar
+eg-feedback-content-1 = Freegje dielnimmers om kommentaar. Wat hawwe se leard? Wat fûnen se aardich? As se suggestjes hawwe foar ferbettering, meitje dan notysjes of nûgje se út om deroer te bloggen. Ferjit net te freegjen wat de dielnimmers yn de takomst dwaan soene wolle. Jou keppelingen nei de kampuswebsites wêr't se nije feardichheden leare kinne bliuwe. Blik letter werom mei dielnimmende organisaasjes en frijwilligers as jo dy hiene. Sammelje kommentaar en freegje oft it evenemint in goede manier wie om harren mienskip te betsjinjen. Besprek manieren om tegearre troch te gean mei hacken om de faasje deryn te hâlden.
 eg-cleanup = Skjinmeitsje
 eg-cleanup-content = Bou en ûnderhâld in goede relaasje mei jo lokaasje troch derfoar te soargjen dat jo it krekt sa skjin efterlitte as doe't jo oankamen. Op dy manier sille se, as jo folgjend jier noch in oar evenemint hâlde wolle, hiel bliid binne om jo werom te sjen.
 nightly-activity-event-flow = Evenemintworkflow
