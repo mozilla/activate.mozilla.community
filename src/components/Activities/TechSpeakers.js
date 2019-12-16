@@ -9,21 +9,6 @@ class TechSpeakers extends Component {
   buildSidebarContent = () => {
     return (
       <div>
-        <SidebarItem titleKey="techspeakers-activity-goals" >
-          <Localized id="techspeakers-activity-goals-1">
-            <p></p>
-          </Localized>
-
-          <ul>
-            <Localized id="techspeakers-activity-goals-2">
-              <li></li>
-            </Localized>
-            <Localized id="techspeakers-activity-goals-3">
-              <li></li>
-            </Localized>
-          </ul>
-        </SidebarItem>
-
         <SidebarItem titleKey="techspeakers-activity-audience" >
           <Localized id="techspeakers-activity-audience-1">
             <p></p>

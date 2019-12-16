@@ -10,23 +10,6 @@ class CommonVoice extends Component {
   buildSidebarContent () {
     return (
       <div>
-        <SidebarItem titleKey="commonvoice-activity-impact-title" >
-          <ul>
-            <Localized id="commonvoice-activity-impact-2">
-              <li></li>
-            </Localized>
-            <Localized id="commonvoice-activity-impact-3">
-              <li></li>
-            </Localized>
-            <Localized id="commonvoice-activity-impact-4">
-              <li></li>
-            </Localized>
-            <Localized id="commonvoice-activity-impact-5">
-              <li></li>
-            </Localized>
-          </ul>
-        </SidebarItem>
-
         <SidebarItem titleKey="commonvoice-activity-audience" type="audience">
           <ul>
             <Localized id="commonvoice-activity-audience-2">

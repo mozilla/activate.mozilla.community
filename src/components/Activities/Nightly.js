@@ -9,23 +9,6 @@ class Nightly extends Component {
   buildSidebarContent = () => {
     return (
       <div>
-        <SidebarItem titleKey="nightly-activity-impact" >
-          <ul>
-            <Localized id="nightly-activity-impact-2">
-              <li></li>
-            </Localized>
-            <Localized id="nightly-activity-impact-3">
-              <li></li>
-            </Localized>
-            <Localized id="nightly-activity-impact-4">
-              <li></li>
-            </Localized>
-            <Localized id="nightly-activity-impact-5">
-              <li></li>
-            </Localized>
-          </ul>
-        </SidebarItem>
-
         <SidebarItem titleKey="nightly-activity-audience" type="audience">
           <Localized id="nightly-activity-audience-description">
             <p></p>

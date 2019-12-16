@@ -9,48 +9,6 @@ class RustHack extends Component {
   buildSidebarContent = () => {
     return (
       <div>
-        <SidebarItem titleKey="rust-activity-goals" >
-          <Localized id="rust-activity-impact-1">
-            <p></p>
-          </Localized>
-
-          <Localized id="rust-activity-impact-2">
-            <p></p>
-          </Localized>
-
-          <Localized id="rust-activity-impact-3">
-            <p></p>
-          </Localized>
-        </SidebarItem>
-
-        <SidebarItem titleKey="rust-activity-impact-4" >
-          <ul>
-            <Localized id="rust-activity-impact-5">
-              <li></li>
-            </Localized>
-            <Localized id="rust-activity-impact-6">
-              <li></li>
-            </Localized>
-            <Localized id="rust-activity-impact-7">
-              <li></li>
-            </Localized>
-            <Localized id="rust-activity-impact-8">
-              <li></li>
-            </Localized>
-          </ul>
-        </SidebarItem>
-        <SidebarItem titleKey="rust-activity-strength">
-          <ul>
-            <Localized id="rust-activity-strength-1">
-              <li></li>
-            </Localized>
-            <Localized id="rust-activity-strength-2"
-              rustTeamLink={<a href="https://www.rust-lang.org/team.html"></a>}>
-              <li></li>
-            </Localized>
-          </ul>
-        </SidebarItem>
-
         <SidebarItem titleKey="rust-activity-audience" type="audience">
           <Localized id="rust-activity-audience-1">
             <p></p>

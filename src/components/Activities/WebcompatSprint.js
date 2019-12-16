@@ -9,28 +9,6 @@ class WebcompatSprint extends Component {
   buildSidebarContent = () => {
     return (
       <div>
-        <SidebarItem titleKey="webcompat-activity-impact-title" >
-          <ul>
-            <Localized id="webcompat-activity-impact-2">
-              <li></li>
-            </Localized>
-            <Localized id="webcompat-activity-impact-3">
-              <li></li>
-            </Localized>
-          </ul>
-        </SidebarItem>
-        <SidebarItem titleKey="webcompat-activity-strength">
-          <ul>
-            <Localized id="webcompat-activity-strength-1">
-              <li></li>
-            </Localized>
-            <Localized id="webcompat-activity-strength-2"
-              compatList={<a href="https://www.mozilla.org/about/forums/#compatibility"></a>}>
-              <li></li>
-            </Localized>
-          </ul>
-        </SidebarItem>
-
         <SidebarItem titleKey="webcompat-activity-audience" type="audience">
           <Localized id="webcompat-activity-audience-1">
             <p></p>

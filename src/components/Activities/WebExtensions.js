@@ -9,38 +9,6 @@ class WebExtensions extends Component {
   buildSidebarContent = () => {
     return (
       <div>
-        <SidebarItem titleKey="webext-activity-impact-2" >
-          <ul>
-            <Localized id="webext-activity-impact-3">
-              <li></li>
-            </Localized>
-            <Localized id="webext-activity-impact-4">
-              <li></li>
-            </Localized>
-          </ul>
-        </SidebarItem>
-        <SidebarItem titleKey="webext-activity-impact-5">
-          <ul>
-            <Localized id="webext-activity-impact-6">
-              <li></li>
-            </Localized>
-          </ul>
-        </SidebarItem>
-
-        <SidebarItem titleKey="webext-activity-goals-workshop" type="audience">
-          <ul>
-            <Localized id="webext-activity-goals-workshop-1">
-              <li></li>
-            </Localized>
-            <Localized id="webext-activity-goals-workshop-2">
-              <li></li>
-            </Localized>
-            <Localized id="webext-activity-goals-workshop-3">
-              <li></li>
-            </Localized>
-          </ul>
-        </SidebarItem>
-
         <SidebarItem titleKey="webext-activity-participants" type="audience">
           <Localized id="webext-activity-participants-1">
             <p></p>

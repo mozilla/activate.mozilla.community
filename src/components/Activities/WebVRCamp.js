@@ -9,37 +9,6 @@ class WebVRCamp extends Component {
   buildSidebarContent = () => {
     return (
       <div>
-        <SidebarItem titleKey="vr-activity-impact-1-reworked" >
-          <ul>
-            <Localized id="vr-activity-impact-2"
-              slackLink={<a href="https://aframe.io/community/#a-frame"></a>}>
-              <li></li>
-            </Localized>
-            <Localized id="vr-activity-impact-3">
-              <li></li>
-            </Localized>
-            <Localized id="vr-activity-impact-4">
-              <li></li>
-            </Localized>
-            <Localized id="vr-activity-impact-5">
-              <li></li>
-            </Localized>
-          </ul>
-        </SidebarItem>
-        <SidebarItem titleKey="vr-activity-strength-reworked">
-          <ul>
-            <Localized id="vr-activity-strength-2">
-              <li></li>
-            </Localized>
-            <Localized id="vr-activity-strength-3">
-              <li></li>
-            </Localized>
-            <Localized id="vr-activity-strength-4">
-              <li></li>
-            </Localized>
-          </ul>
-        </SidebarItem>
-
         <SidebarItem titleKey="vr-activity-audience" type="audience">
           <Localized id="vr-activity-audience-1">
             <p></p>
