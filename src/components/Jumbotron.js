@@ -7,7 +7,7 @@ import './Jumbotron.css';
 class Jumbotron extends Component {
   render () {
     let jumbotronContent = <div></div>;
-    if (this.props.activeCampaign) {
+    if (this.props.activeCampaigns) {
       jumbotronContent = (<div className="hero">
         <section className="hero__wrapper container">
           <Localized id="jumbotron-campaign-title">
@@ -45,7 +45,7 @@ class Jumbotron extends Component {
 }
 
 const mapStateToProps = (state) => ({
-  activeCampaign: state.campaign.active,
+  activeCampaigns: state.campaign.active,
 });
 
 export default connect(mapStateToProps)(Jumbotron);

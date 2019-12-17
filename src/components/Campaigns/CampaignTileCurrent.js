@@ -12,14 +12,16 @@ class CampaignTileCurrent extends Component {
       descriptionKey,
       buttonKey,
       linkTarget,
-      visibleOnHomepage,
+      isTop,
+      credit,
+      creditUrl,
     } = this.props;
 
     const cardClassNames = [
       'campaign-card',
       'campaign-card--active',
       'campaign-card__container',
-      (visibleOnHomepage ? 'section--pull-up' : ''),
+      (isTop ? 'section--pull-up' : 'spacing-top'),
     ].join(' ');
 
     return (
@@ -29,6 +31,7 @@ class CampaignTileCurrent extends Component {
             <a href={linkTarget}>
               <img src={ titleImage } alt="" />
             </a>
+            <a href={creditUrl} className="campaign-card__credit">{credit}</a>
           </div>
           <div className="campaign-card__col campaign-card__spaced-content">
             <Localized id={titleKey}>
