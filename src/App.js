@@ -43,7 +43,7 @@ activeCampaigns = [{
   descriptionKey: 'soti-sprint-description',
   durationKey: 'soti-sprint-duration',
   buttonKey: 'current-campaign-learn-more',
-  linkTarget: 'TODO',
+  linkTarget: 'https://mozilla-soti.consider.it/',
   credit: 'Matthew Henry',
   creditUrl: 'https://unsplash.com/@matthewhenry?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText',
 }, {

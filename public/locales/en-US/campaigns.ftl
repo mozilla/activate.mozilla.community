@@ -12,4 +12,4 @@ firefoxaccounts-sprint-duration = November 25 - December 31 2019
 
 soti-sprint-title = Share your thoughts on the Surveillance Economy
 soti-sprint-description = Mozilla is evaluating how we might be bolder, broader and bigger in our work through the open and transparent ‘State of the Internet’ project. Outcomes will inform what longer horizon bets we might place to better address critical topics in online life. The project’s initial focus is on the Surveillance Economy. Share your insights on the Surveillance Economy, by reviewing and commenting on these 3 provocations.
-soti-sprint-duration = December 16 2019 - January 2 2020
+soti-sprint-duration = December 17 2019 - January 2 2020
