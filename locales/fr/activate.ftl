@@ -356,6 +356,7 @@ webcompat-activity-setup-2 = <firefoxLink>Firefox pour Android</firefoxLink>
 webcompat-activity-setup-3 = <iosLink>Firefox pour iOS</iosLink>
 webcompat-activity-flow-1 = Choisissez les sites que vous désirez tester
 webcompat-activity-flow-4 = Testez et signalez !
+webcompat-activity-flow-7 = Pour devenir un·e expert·e en compatibilité Web, <guideLink>rendez-vous ici</guideLink>.
 webcompat-activity-end = Directement à la fin de l’activité
 webcompat-activity-output = Conclusion
 webcompat-activity-extra = Pour aller plus loin
