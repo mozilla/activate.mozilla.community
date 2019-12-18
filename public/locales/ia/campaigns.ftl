@@ -7,3 +7,5 @@ firefox-preview-respond-sprint-duration = 13 de novembre - 2 de decembre 2019
 firefoxaccounts-sprint-title = Junge te al Campania Firefox
 firefoxaccounts-sprint-description = Le proposito de Mozilla es liberar le potentialitates del personas in lor vitas online. Si nostre amicos e nostre familia se junge a Firefox illes pote compartir files con securitate, mantener lor contrasignos secur, synchronisar le navigator inter lor apparatos, testar nove productos e mantener lor datos secur.
 firefoxaccounts-sprint-duration = 25 de novembre - 31 de decembre 2019
+soti-sprint-title = Comparti tu pensatas sur le Surveillance Economy
+soti-sprint-description = Mozilla valuta nostre modo de poter esser plus hardite, plus ample e plus grande in nostre labor tra le projecto ‘Stato del internet’ aperte e <t0/>transparente.
