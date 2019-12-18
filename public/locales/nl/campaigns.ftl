@@ -8,4 +8,5 @@ firefoxaccounts-sprint-title = Campagne Doe mee met Firefox
 firefoxaccounts-sprint-description = Mozilla heeft tot doel om mensen in hun verbonden leven meer mogelijkheden te geven. Door onze vrienden en familie mee te laten doen met Firefox, krijgen ze manieren om bestanden veilig te delen, hun wachtwoorden veilig te houden, hun browser op verschillende apparaten te synchroniseren, nieuwe producten te testen en hun gegevens veilig te houden.
 firefoxaccounts-sprint-duration = 25 november - 31 december 2019
 soti-sprint-title = Deel uw mening over de Toezichteconomie
+soti-sprint-description = Mozilla evalueert hoe we krachtiger, breder en groter in ons werk kunnen zijn door het open en transparante project ‘State of the Internet’. De uitkomsten geven informatie over welke zaken aan de horizon verschijnen die als cruciale onderwerpen in het online leven worden gezien. De initiële focus van het project ligt op de Toezichteconomie. Deel uw inzichten in de Toezichteconomie, door de volgende drie uitdagende stellingen te beoordelen en te becommentariëren.
 soti-sprint-duration = 17 december 2019 - 2 januari 2020
