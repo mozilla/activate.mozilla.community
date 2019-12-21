@@ -96,6 +96,7 @@ campaign-archive = Timesbaniyin yezrin
 campaign-archive-description = Tirebbaɛ n Mozilla xeddmen leqdic meqqren ticki llant lwaḥid. Timesbaniyin-a fukkent yakant, maca ur tettu ara ad tegreḍ tiṭ ɣer ugmuḍ.
 newsletter-title-2 = Awi amaynut
 newsletter-description-subscribe = Jerred ɣer tebrat-nneɣ n telɣut sakin ddu ɣer Imuẓilyanen deg umadal meṛṛa daɣen lmed ɣef tagnatin yellan deg uɛiwen n tuɣdaḍt n Mozilla.
+newsletter-slice-title = Qqim deg yisallen.
 newsletter-email = Imayl
 newsletter-form-email-placeholder =
     .placeholder = Sekcem imayl inek
