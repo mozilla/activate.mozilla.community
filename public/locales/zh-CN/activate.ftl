@@ -327,6 +327,7 @@ commonvoice-activity-crowd-description-2 = 建议至少有两台设备以全屏�
 commonvoice-activity-crowd-description-5 = 在你的摊位上向参与者解释他们录制的声音是用来帮助建立一个开放的数据集，以及这样做对公众有什么好处。
 commonvoice-activity-crowd-description-6 = 示例：
 commonvoice-activity-crowd-description-7 = 你好！我们在做一个跟语音识别有关的公益项目。我们希望收集尽可能多元的语音来创建公众可以免费任意使用的、有包容性的语音识别技术。有兴趣参与吗？
+commonvoice-activity-crowd-description-8 = 您好！能耽误您一点时间聊聊数据隐私和语音技术吗？ Common Voice 项目是 Mozilla 发起的倡议，旨在帮助教会机器真人的说话方式。
 commonvoice-activity-crowd-description-9 = 你好！您有一分钟时间来帮助我们的开源语音技术计划吗？
 commonvoice-activity-conversation = 加入对话
 commonvoice-activity-conversation-3 = 对此活动有反馈意见吗？在 <githubLink>GitHub</githubLink> 上提出问题或在 <discourseLink>Discourse</discourseLink> 上留下评论。
