@@ -359,6 +359,7 @@ webcompat-activity-flow-4 = Testez et signalez !
 webcompat-activity-flow-7 = Pour devenir un·e expert·e en compatibilité Web, <guideLink>rendez-vous ici</guideLink>.
 webcompat-activity-end = Directement à la fin de l’activité
 webcompat-activity-output = Conclusion
+webcompat-activity-output-2 = Remplissez les statistiques post-évènement sur la page de l’évènement que vous avez créée sur le portail Reps
 webcompat-activity-extra = Pour aller plus loin
 webcompat-activity-impact = Impact et statistiques
 webcompat-activity-goals = Objectifs pour ce domaine
