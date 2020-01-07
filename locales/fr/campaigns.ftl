@@ -4,6 +4,7 @@ firefoxforgood-sprint-duration = 11 juin - 9 juillet 2019
 firefox-preview-respond-sprint-description = Le 12 novembre, Mozilla déploiera des mises à jour majeures pour son nouveau navigateur web Firefox Preview sur Android. Nous avons besoin de votre aide afin d’aider les nouveaux utilisateurs. Joignez-vous aux Mozilliens du monde entier pour un mois de questions-réponses afin que les utilisateurs aient une expérience optimale !
 firefox-preview-respond-sprint-duration = 13 novembre - 2 décembre 2019
 firefoxaccounts-sprint-title = Campagne Rejoignez Firefox
+firefoxaccounts-sprint-description = L’objectif de Mozilla est d’offrir à tout le monde les bons outils pour leur vie numérique. En amenant nos amis et notre famille à utiliser Firefox, nous leur donnons le moyen de partager leurs fichiers en toute sécurité, de protéger leurs mots de passe, de synchroniser leur navigateur sur plusieurs appareils, de tester de nouveaux logiciels et de protéger leurs données.
 firefoxaccounts-sprint-duration = 25 novembre - 31 décembre 2019
 soti-sprint-title = Partagez vos réflexions sur l’économie de surveillance
 soti-sprint-duration = 17 décembre 2019 - 2 janvier 2020
