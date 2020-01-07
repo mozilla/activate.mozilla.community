@@ -88,6 +88,20 @@ class CampaignsListing extends Component {
               <Grid>
                 <Row className="campaign-list__row">
                   <CampaignTile
+                    titleImage="https://images.unsplash.com/photo-1461685265823-f8d5d0b08b9b?auto=format&fit=crop&w=500&q=80"
+                    titleKey="soti-sprint-title"
+                    descriptionKey="soti-sprint-description"
+                    durationKey="soti-sprint-duration"
+                    linkTarget="https://mozilla-soti.consider.it/"
+                  ></CampaignTile>
+                  <CampaignTile
+                    titleImage="/images/firefoxaccounts.png"
+                    titleKey="firefoxaccounts-sprint-title"
+                    descriptionKey="firefoxaccounts-sprint-description"
+                    durationKey="firefoxaccounts-sprint-duration"
+                    linkTarget="https://mozilla.github.io/firefox-accounts-campaign/"
+                  ></CampaignTile>
+                  <CampaignTile
                     titleImage="/images/firefox-preview-respond.png"
                     titleKey="firefox-preview-respond-sprint-title"
                     descriptionKey="firefox-preview-respond-sprint-description"

@@ -37,23 +37,14 @@ let activeCampaigns = null;
 // Campaign exists.
 // Comment out the following definition, if no active Campaign exists.
 
-activeCampaigns = [{
-  titleImage: 'https://images.unsplash.com/photo-1461685265823-f8d5d0b08b9b?auto=format&fit=crop&w=500&q=80',
-  titleKey: 'soti-sprint-title',
-  descriptionKey: 'soti-sprint-description',
-  durationKey: 'soti-sprint-duration',
-  buttonKey: 'current-campaign-learn-more',
-  linkTarget: 'https://mozilla-soti.consider.it/',
-  credit: 'Matthew Henry',
-  creditUrl: 'https://unsplash.com/@matthewhenry?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText',
-}, {
-  titleImage: '/images/firefoxaccounts.png',
-  titleKey: 'firefoxaccounts-sprint-title',
-  descriptionKey: 'firefoxaccounts-sprint-description',
-  durationKey: 'firefoxaccounts-sprint-duration',
-  buttonKey: 'current-campaign-learn-more',
-  linkTarget: 'https://mozilla.github.io/firefox-accounts-campaign/',
-}];
+// activeCampaigns = [{
+//   titleImage: '/images/firefoxaccounts.png',
+//   titleKey: 'firefoxaccounts-sprint-title',
+//   descriptionKey: 'firefoxaccounts-sprint-description',
+//   durationKey: 'firefoxaccounts-sprint-duration',
+//   buttonKey: 'current-campaign-learn-more',
+//   linkTarget: 'https://mozilla.github.io/firefox-accounts-campaign/',
+// }];
 
 // eslint-disable-next-line prefer-const
 let upcomingCampaigns = null;
