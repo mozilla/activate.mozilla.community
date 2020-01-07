@@ -37,14 +37,14 @@ let activeCampaigns = null;
 // Campaign exists.
 // Comment out the following definition, if no active Campaign exists.
 
-// activeCampaigns = [{
-//   titleImage: '/images/firefoxaccounts.png',
-//   titleKey: 'firefoxaccounts-sprint-title',
-//   descriptionKey: 'firefoxaccounts-sprint-description',
-//   durationKey: 'firefoxaccounts-sprint-duration',
-//   buttonKey: 'current-campaign-learn-more',
-//   linkTarget: 'https://mozilla.github.io/firefox-accounts-campaign/',
-// }];
+activeCampaigns = [{
+  titleImage: '/images/firefox-voice.png',
+  titleKey: 'firefox-voice-sprint-title',
+  descriptionKey: 'firefox-voice-sprint-description',
+  durationKey: 'firefox-voice-sprint-duration',
+  buttonKey: 'current-campaign-learn-more',
+  linkTarget: 'https://events.mozilla.org/firefoxvoicecampaign',
+}];
 
 // eslint-disable-next-line prefer-const
 let upcomingCampaigns = null;
