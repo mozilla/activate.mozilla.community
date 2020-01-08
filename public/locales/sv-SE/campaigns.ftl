@@ -10,3 +10,6 @@ firefoxaccounts-sprint-duration = 25 november - 31 december 2019
 soti-sprint-title = Dela dina tankar om övervakningsekonomin
 soti-sprint-description = Mozilla utvärderar hur vi kan bli djärvare, bredare och större i vårt arbete genom det öppna och transparenta "State of the Internet"-projektet. Resultaten kommer att informera oss om vilka satsningar vi kan göra för att bättre ta itu med kritiska ämnen i livet online. Projektets inledande fokus är på övervakningsekonomin. Dela dina insikter om övervakningsekonomi genom att granska och kommentera dessa tre provokationer.
 soti-sprint-duration = 17 december 2019 - 2 januari 2020
+firefox-voice-sprint-title = Firefox Voice-kampanj
+firefox-voice-sprint-description = Firefox Voice är ett experiment från Mozilla som låter dig surfa och få mer gjort med din röst - snabbare än någonsin. Vi letar efter orädda användare som är villiga att testa det nya tillägget och ge oss feedback innan den släpps offentligt. Är du redo att gå med oss? Installera webbläsartillägget och styr sedan hela Internet med bara din röst.
+firefox-voice-sprint-duration = 9 december 2019 - 31 januari 2020
