@@ -10,3 +10,6 @@ firefoxaccounts-sprint-duration = 25 november - 31 december 2019
 soti-sprint-title = Deel uw mening over de Toezichteconomie
 soti-sprint-description = Mozilla evalueert hoe we krachtiger, breder en groter in ons werk kunnen zijn door het open en transparante project ‘State of the Internet’. De uitkomsten geven informatie over welke zaken aan de horizon verschijnen die als cruciale onderwerpen in het online leven worden gezien. De initiële focus van het project ligt op de Toezichteconomie. Deel uw inzichten in de Toezichteconomie, door de volgende drie uitdagende stellingen te beoordelen en te becommentariëren.
 soti-sprint-duration = 17 december 2019 - 2 januari 2020
+firefox-voice-sprint-title = Firefox Voice-campagne
+firefox-voice-sprint-description = Firefox Voice is een experiment van Mozilla waarmee u kunt surfen en meer kunt doen met uw stem – sneller dan ooit. We zijn op zoek naar onverschrokken early adopters die de nieuwe add-on willen testen en ons feedback te geven voordat deze wordt uitgegeven voor het grote publiek. Bent u klaar om met ons mee te doen? Installeer de browseradd-on en bestuur vervolgens het hele internet met slechts uw stem.
+firefox-voice-sprint-duration = 9 december 2019 - 31 januari 2020
