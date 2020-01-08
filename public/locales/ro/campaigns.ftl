@@ -1,3 +1,5 @@
 firefoxforgood-sprint-title = Concursul Firefox For Good
 firefoxforgood-sprint-description = Imaginează-ți un web care nu este o vastă nălucă de publicitate, fake news, ură și rețele sociale toxice, ci un loc în care se găsește cu ușurință conținut pertinent și credibil. Un loc în care toată lumea se simte în siguranță, deține controlul asupra propriei experiențe și sunt informați exact. Cum poate tehnologia browserului să amplifice conținutul și conversațiile de calitate și credibile?
 firefoxforgood-sprint-duration = 11 iunie - 9 iulie 2019
+firefox-preview-respond-sprint-description = Pe 12 noiembrie, Mozilla lansează actualizări majore ale  noului browser web pentru dispozitive Android, Firefox Preview. Avem nevoie de ajutorul vostru ca să susținem toți noii utilizatori entuziaști. Îți cerem ȚIE să te alături mozillienilor din întreaga lume pentru o lună de răspunsuri la întrebări și pentru a ajuta utilizatorii să obțină o experiență grozavă!
+firefox-preview-respond-sprint-duration = 13 noiembrie - 2 decembrie 2019
