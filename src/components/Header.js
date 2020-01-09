@@ -82,6 +82,27 @@ class Header extends Component {
                 </Localized>
               </NavItem>
             </LinkContainer>
+            <li className="page-link">
+              <a href="https://community.mozilla.org/events/">
+                <Localized id="nav-events">
+                  <span></span>
+                </Localized>
+              </a>
+            </li>
+            <li className="page-link">
+              <a href="https://community.mozilla.org/groups/">
+                <Localized id="nav-groups">
+                  <span></span>
+                </Localized>
+              </a>
+            </li>
+            <li className="page-link">
+              <a href="https://community.mozilla.org/people/">
+                <Localized id="nav-people">
+                  <span></span>
+                </Localized>
+              </a>
+            </li>
             <LinkContainer exact className="page-link" to={`/${currentLocale}/faq`} activeClassName={'is-active'}>
               <NavItem>
                 <Localized id="nav-faq">
