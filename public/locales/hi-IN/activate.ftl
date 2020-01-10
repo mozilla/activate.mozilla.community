@@ -176,6 +176,7 @@ commonvoice-activity-impact-2 = प्रति भाषा 1000 नई आव�
 commonvoice-activity-impact-3 = 225 वॉयस क्लिप (15 मिनट) प्रति आवाज
 commonvoice-activity-impact-4 = प्रति आवाज 450 क्लिप की समीक्षा की
 commonvoice-activity-audience = दर्शक
+commonvoice-activity-try-it = आज़मा कर देखें!
 commonvoice-activity-flows = कार्यक्रम प्रवाह
 commonvoice-activity-solo-record = अपनी आवाज दान करने के लिए
 commonvoice-activity-solo-record-3 = "बोलो" पर क्लिक करें
