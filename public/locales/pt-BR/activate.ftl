@@ -333,6 +333,7 @@ webcompat-activity-setup-3 = <iosLink>Firefox para iOS</iosLink>
 webcompat-activity-flow-4 = Teste e informe!
 webcompat-activity-flow-5 = Se você encontrar um site que não funciona no Firefox, mas funciona em outro navegador, clique no botão da extensão e siga as etapas para relatar
 webcompat-activity-flow-6 = Preste atenção especial ao que estamos procurando <reportingLink>em problemas reportados</reportingLink>
+webcompat-activity-flow-7 = Se você quer se tornar um especialista em compatibilidade com a web, <guideLink>acesse</guideLink>
 webcompat-activity-end = Diretamente no final da atividade
 webcompat-activity-output = Resultado
 webcompat-activity-extra = Extra
