@@ -10,3 +10,5 @@ firefoxaccounts-sprint-duration = 25 novembre – 31 dicembre 2019
 soti-sprint-title = Parliamo dell’economia della sorveglianza
 soti-sprint-description = Mozilla sta valutando nuovi modi per rendere le nostre azioni più audaci, più aperte e più ambiziose tramite il progetto aperto e trasparente “Stato di Internet”. L’esito di questa indagine ci aiuterà a prendere decisioni informate sulle scommesse a lungo termine su cui puntare per affrontare gli aspetti più delicati della vita online. Il primo tema del progetto è la Surveillance Economy, “l’economia della sorveglianza”. Condividi le tue riflessioni sull’economia della sorveglianza leggendo e commentando queste tre provocazioni.
 soti-sprint-duration = 17 dicembre 2019 - 2 gennaio 2020
+firefox-voice-sprint-title = Campagna di Firefox Voice
+firefox-voice-sprint-duration = 9 dicembre 2019 - 31 gennaio 2020
