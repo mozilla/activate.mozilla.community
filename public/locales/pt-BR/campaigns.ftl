@@ -3,6 +3,7 @@ firefoxforgood-sprint-description = Imagine a internet que não é uma imensa co
 firefoxforgood-sprint-duration = 11 de junho a 9 de julho de 2019
 firefox-preview-respond-sprint-title = Campanha de resposta
 firefox-preview-respond-sprint-duration = 13 de novembro - 2 de dezembro de 2019
+firefoxaccounts-sprint-title = Participe da campanha do Firefox
 firefoxaccounts-sprint-duration = 25 de novembro - 31 de dezembro de 2019
 soti-sprint-duration = 17 de dezembro de 2019 - 2 de janeiro de 2020
 firefox-voice-sprint-title = Campanha do Firefox Voice
