@@ -1,3 +1,9 @@
 firefoxforgood-sprint-title = Firefox 从善竞赛
 firefoxforgood-sprint-description = 想象网络世界中没有满满广告、假新闻、仇恨言论、有毒的社交媒体内容，而是一个可以轻易找到有意义、可信内容的地方，每个人都能觉得安全、有力量，且能收到准确资讯。要如何通过浏览器技术吧可信且有品质的内容和对话发扬光大？
 firefoxforgood-sprint-duration = 2019年6月11日 - 2019年7月9日
+firefox-preview-respond-sprint-title = 响应运动
+firefox-preview-respond-sprint-description = Mozilla 将于 11 月 12 日对其新的 Android 网络浏览器 Firefox Preview 进行重大更新。我们需要您的帮助来支持所有热情的新用户。我们邀请您与世界各地的谋智人一起回答一个月的问题，帮助用户获得良好的体验！
+firefox-preview-respond-sprint-duration = 2019 年 11 月 13 日 - 12 月 2 日
+firefoxaccounts-sprint-title = 加入 Firefox 运动
+firefoxaccounts-sprint-description = Mozilla 的目标是增强人们在彼此联系的生活中的能力。通过让我们的朋友和家人加入 Firefox，他们可以安全地共享文件，保护密码安全，在设备之间同步浏览器，测试新产品并确保数据安全。
+firefoxaccounts-sprint-duration = 2019 年 11 月 25 日 - 12 月 31 日
