@@ -25,6 +25,9 @@ webext-document-title =
 
 nav-activities = Activities
 nav-campaigns = Campaigns
+nav-events = Events
+nav-groups = Groups
+nav-people = People
 nav-faq = FAQ
 nav-impact = Impact
 nav-impact-form = Impact Form
