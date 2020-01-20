@@ -11,3 +11,5 @@ soti-sprint-title = Comparti tu pensatas sur le Surveillance Economy
 soti-sprint-description = Mozilla valuta nostre modo de poter esser plus hardite, plus ample e plus grande in nostre labor tra le projecto ‘Stato del internet’ aperte e <t0/>transparente.Resultatos informara qual sponsiones de horizonte plus longe nos poterea placiar pro melio affrontar argumentos critic in le vita online. Le foco initial del projecto es sur le Surveillance Economy. Comparti tu intuitiones sur le Surveillance Economy, per revider e commentar sur iste 3 provocationes.
 soti-sprint-duration = 17 decembre 2019 - 2 januario 2020
 firefox-voice-sprint-title = Campania Firefox Voice
+firefox-voice-sprint-description = Firefox Voice es un experimento de Mozilla que te consenti de navigar in internet e facer altere actiones per commandos vocal, plus veloce que mais. Nos recerca prime usatores intrepide qui vole testar le nove additivo e dar nos commentarios ante le publication principal. Es tu preste a junger te a nos? Installa le additivo del navigator e commanda le integre internet con tu sol voce.
+firefox-voice-sprint-duration = 9 decembre 2019 - 31 januario 2020
