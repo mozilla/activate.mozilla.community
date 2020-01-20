@@ -1,3 +1,7 @@
+.warning-top {
+  padding: 10px;
+}
+
 .navbar-default {
   min-height: 75px;
   background-color: var(--dark-blue-grey-color);
@@ -7,7 +11,6 @@
   position: absolute;
   width:100%;
   left: 0;
-  top: 0;
 }
 
 img.logo {
