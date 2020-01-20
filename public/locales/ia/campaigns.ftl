@@ -10,3 +10,4 @@ firefoxaccounts-sprint-duration = 25 de novembre - 31 de decembre 2019
 soti-sprint-title = Comparti tu pensatas sur le Surveillance Economy
 soti-sprint-description = Mozilla valuta nostre modo de poter esser plus hardite, plus ample e plus grande in nostre labor tra le projecto ‘Stato del internet’ aperte e <t0/>transparente.Resultatos informara qual sponsiones de horizonte plus longe nos poterea placiar pro melio affrontar argumentos critic in le vita online. Le foco initial del projecto es sur le Surveillance Economy. Comparti tu intuitiones sur le Surveillance Economy, per revider e commentar sur iste 3 provocationes.
 soti-sprint-duration = 17 decembre 2019 - 2 januario 2020
+firefox-voice-sprint-title = Campania Firefox Voice
