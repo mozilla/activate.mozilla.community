@@ -2,6 +2,10 @@
   padding: 10px;
 }
 
+.warning-top p {
+  margin-bottom: 0;
+}
+
 .navbar-default {
   min-height: 75px;
   background-color: var(--dark-blue-grey-color);

@@ -102,22 +102,10 @@ body {
   background-color: var(--background-color);
   font-kerning: normal;
   margin: 0;
-  padding: 83px 0 0 0;
 }
 
 .is-header-no-bg {
   padding-top: 0;
-}
-
-/* Tablet up */
-@media only screen and (min-width : 768px) {
-  body {
-    padding-top: 96px;
-  }
-
-  .is-header-no-bg {
-    padding-top: 0;
-  }
 }
 
 /**
