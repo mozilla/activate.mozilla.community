@@ -63,6 +63,7 @@ quantum-sprint-title = Firefox Quantum Sprint
 quantum-sprint-description = A Firefox Quantum hamarosan elindul, és ez a lehetőségünk arra, hogy a Firefox ismét felívelő pályára lépjen. Vegyen részt a Firefox Quantum Sprintben, és tegyen azért, hogy a Firefox zökkenőmentesen működjön az Ön régiójában.
 quantum-sprint-duration = 2017. október 2-8.
 new-firefox-title = Új Firefox közösségi média
+new-firefox-description = Segítsen terjeszteni az új Firefox hírét! 14.-én kedden, 14:00-kor (UTC szerint), tweeteljen arról, hogy mit szeret az új Firefoxban a #NewFirefox címke használatával, vagy ossza meg a Firefox tweetjeit.
 new-firefox-duration = 2017. november 14.
 adhaar-title = Aadhaar kampány
 adhaar-duration = 2018. január
