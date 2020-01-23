@@ -8,3 +8,4 @@ firefoxaccounts-sprint-description = L’objectif de Mozilla est d’offrir à t
 firefoxaccounts-sprint-duration = 25 novembre - 31 décembre 2019
 soti-sprint-title = Partagez vos réflexions sur l’économie de surveillance
 soti-sprint-duration = 17 décembre 2019 - 2 janvier 2020
+firefox-voice-sprint-duration = 9 décembre 2019 - 31 janvier 2020
