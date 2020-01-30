@@ -1,6 +1,7 @@
 firefoxforgood-sprint-title = Concours Firefox For Good
 firefoxforgood-sprint-description = Imaginez que le Web ne soit pas un mélange de publicités, de fausses informations, de haine et de réseaux sociaux toxiques, mais un endroit où l’on trouve facilement des contenus utiles et dignes de confiance. Un endroit où tout le monde se sent en sécurité, aux commandes et bien informé. Comment la technologie des navigateurs peut-elle amplifier des contenus et des conversations fiables et de qualité ?
 firefoxforgood-sprint-duration = 11 juin - 9 juillet 2019
+firefox-preview-respond-sprint-title = Campagne Respond
 firefox-preview-respond-sprint-description = Le 12 novembre, Mozilla déploiera des mises à jour majeures pour son nouveau navigateur web Firefox Preview sur Android. Nous avons besoin de votre aide afin d’aider les nouveaux utilisateurs. Joignez-vous aux Mozilliens du monde entier pour un mois de questions-réponses afin que les utilisateurs aient une expérience optimale !
 firefox-preview-respond-sprint-duration = 13 novembre - 2 décembre 2019
 firefoxaccounts-sprint-title = Campagne Rejoignez Firefox
@@ -9,5 +10,6 @@ firefoxaccounts-sprint-duration = 25 novembre - 31 décembre 2019
 soti-sprint-title = Partagez vos réflexions sur l’économie de surveillance
 soti-sprint-description = Chez Mozilla nous examinons comment envisager une perspective plus large et mener un travail plus ambitieux à travers le projet ouvert et transparent « State of the Internet ». Les suggestions recueillies détermineront des engagements à plus long terme que nous pourrions prendre pour mieux aborder les sujets cruciaux de la vie en ligne. Le projet se concentre initialement sur l’économie de la surveillance. Partagez vos idées sur l’économie de la surveillance, en examinant et en commentant ces 3 provocations.
 soti-sprint-duration = 17 décembre 2019 - 2 janvier 2020
+firefox-voice-sprint-title = Campagne Firefox Voice
 firefox-voice-sprint-description = Firefox Voice est une expérience de Mozilla qui vous permet de naviguer et d’en faire plus avec votre voix — plus rapidement que jamais. Nous recherchons des précurseurs téméraires prêts à tester le nouveau module complémentaire et à nous faire part de leurs commentaires avant la sortie publique majeure. Êtes-vous prêt·e à nous rejoindre ? Installez le module complémentaire du navigateur, puis commandez tout Internet avec votre voix.
 firefox-voice-sprint-duration = 9 décembre 2019 - 31 janvier 2020
