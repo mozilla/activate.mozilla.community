@@ -437,6 +437,7 @@ webext-activity-impact-1 = Organiser un atelier aide davantage de personnes à a
 webext-activity-impact-2 = Impact :
 webext-activity-impact-3 = 125 développeurs sont initiés et créent des extensions de navigateur, en ligne ou lors d’évènements régionaux.
 webext-activity-impact-4 = 20 modules complémentaires marqués avec « #mozactivate » dans addons.mozilla.org.
+webext-activity-impact-5 = Force :
 webext-activity-impact-6 = 15 Mozilliens organisent des ateliers « Créez votre propre extension »
 webext-activity-goals = Objectifs de la campagne
 webext-activity-goals-workshop = Objectifs pour votre atelier
