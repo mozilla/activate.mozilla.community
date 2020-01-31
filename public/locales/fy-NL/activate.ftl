@@ -439,6 +439,7 @@ rust-activity-resources-5 = <rLink>‘Rust troch foarbyld’</rLink>
 rust-activity-resources-6 = Fisueel leare
 rust-activity-resources-7 = <rLink>‘Into Rust’, in searje ynliedende screencasts oer Rust</rLink>
 rust-activity-resources-8 = <rLink>In selsstudzjerige op fideo oer Rust</rLink>
+rust-activity-resources-9 = Kommend fan oare programmeartalen út
 rust-activity-resources-10 = <rLink>Ruby-ûntwikkelers</rLink>
 rust-activity-resources-11 = <rLink>node.js-ûntwikkelers</rLink>
 rust-activity-resources-12 = <rLink>Java-ûntwikkelers</rLink>
