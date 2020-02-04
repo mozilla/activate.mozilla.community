@@ -39,13 +39,6 @@ class ActivitiesOverview extends Component {
                 linkTarget={`/${locale}/nightly`}
               />
               <ActivityTileShort
-                titleImage="/images/techspeakers-header.png"
-                titleKey="techspeakers-title"
-                tagKey="programming"
-                durationKey="techspeakers-duration"
-                linkTarget={`/${locale}/techspeakers`}
-              />
-              <ActivityTileShort
                 titleImage="/images/webextensions-header.png"
                 titleKey="webext-title"
                 tagKey="programming"

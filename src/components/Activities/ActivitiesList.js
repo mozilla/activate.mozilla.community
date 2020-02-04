@@ -44,14 +44,6 @@ class ActivitiesList extends Component {
                     linkTarget={`/${locale}/nightly`}
                   />
                   <ActivityTile
-                    titleImage="/images/techspeakers-header.png"
-                    titleKey="techspeakers-title"
-                    descriptionKey="techspeakers-description"
-                    tagKey="programming"
-                    durationKey="techspeakers-duration"
-                    linkTarget={`/${locale}/techspeakers`}
-                  />
-                  <ActivityTile
                     titleImage="/images/webextensions-header.png"
                     titleKey="webext-title"
                     descriptionKey="webext-description"

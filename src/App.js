@@ -24,7 +24,6 @@ import NotFound from './components/NotFound';
 import CommonVoice from './components/Activities/CommonVoice';
 import Nightly from './components/Activities/Nightly';
 import WebExtensions from './components/Activities/WebExtensions';
-import TechSpeakers from './components/Activities/TechSpeakers';
 import RustHack from './components/Activities/RustHack';
 import WebVRCamp from './components/Activities/WebVRCamp';
 import WebcompatSprint from './components/Activities/WebcompatSprint';
@@ -94,7 +93,6 @@ class App extends Component {
             <Route path='/newsletter' component={NewsletterPage}/>
             <Route path='/nightly' component={Nightly}/>
             <Route path='/webextensions' component={WebExtensions}/>
-            <Route path='/techspeakers' component={TechSpeakers}/>
             <Route path='/rust-hack' component={RustHack}/>
             <Route path='/webvr-camp' component={WebVRCamp}/>
             <Route path='/webcompat-sprint' component={WebcompatSprint}/>
@@ -108,7 +106,6 @@ class App extends Component {
             <Route path='/:lang/newsletter' render={(props) => (<Content><NewsletterPage {...props} /></Content>)} />
             <Route path='/:lang/nightly' render={(props) => (<Content><Nightly {...props} /></Content>)} />
             <Route path='/:lang/webextensions' render={(props) => (<Content><WebExtensions {...props} /></Content>)} />
-            <Route path='/:lang/techspeakers' render={(props) => (<Content><TechSpeakers {...props} /></Content>)} />
             <Route path='/:lang/rust-hack' render={(props) => (<Content><RustHack {...props} /></Content>)} />
             <Route path='/:lang/webvr-camp' render={(props) => (<Content><WebVRCamp {...props} /></Content>)} />
             <Route path='/:lang/webcompat-sprint' render={(props) => (<Content><WebcompatSprint {...props} /></Content>)} />
