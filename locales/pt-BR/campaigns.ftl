@@ -2,6 +2,7 @@ firefoxforgood-sprint-title = Concurso Firefox para Sempre
 firefoxforgood-sprint-description = Imagine a internet que não é uma imensa confusão de anúncios, notícias falsas, ódio e redes sociais tóxicas, mas sim um lugar onde conteúdo significativo e de credibilidade é encontrado com facilidade. Um lugar onde todos se sentem seguros, capacitados e informados com precisão. Como a tecnologia de navegadores pode amplificar conteúdos e conversações de qualidade e credibilidade?
 firefoxforgood-sprint-duration = 11 de junho a 9 de julho de 2019
 firefox-preview-respond-sprint-title = Campanha de resposta
+firefox-preview-respond-sprint-description = No dia 12 de novembro, a Mozilla vai lançar grandes atualizações em seu novo navegador Android, o Firefox Preview. Precisamos da sua ajuda para dar suporte a todos os entusiastas novos usuários. Pedimos que VOCÊ se junte à comunidade de Mozillians do mundo todo durante um mês para responder perguntas e ajudar os usuários a ter uma ótima experiência de uso!
 firefox-preview-respond-sprint-duration = 13 de novembro - 2 de dezembro de 2019
 firefoxaccounts-sprint-title = Participe da campanha do Firefox
 firefoxaccounts-sprint-duration = 25 de novembro - 31 de dezembro de 2019
