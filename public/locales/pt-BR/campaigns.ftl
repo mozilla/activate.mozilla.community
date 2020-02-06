@@ -8,6 +8,7 @@ firefoxaccounts-sprint-title = Participe da campanha do Firefox
 firefoxaccounts-sprint-description = O objetivo da Mozilla é capacitar pessoas em suas vidas enquanto conectadas. Ao trazer nossos amigos e familiares para o Firefox, eles obtêm maneiras de compartilhar arquivos com segurança, manter suas senhas protegidas, sincronizar seus navegadores entre dispositivos, testar novos produtos e proteger seus dados.
 firefoxaccounts-sprint-duration = 25 de novembro - 31 de dezembro de 2019
 soti-sprint-title = Compartilhe seus pensamentos sobre a economia de vigilância
+soti-sprint-description = A Mozilla está avaliando como podemos ser mais arrojados, amplos e maiores em nosso trabalho por meio do projeto aberto e transparente 'Estado da Internet'. Os resultados informarão quais apostas de longo prazo poderemos estabelecer para melhor abordar tópicos críticos na vida online. O foco inicial do projeto está na Economia de Vigilância. Compartilhe suas ideias sobre Economia de Vigilância, revisando e tecendo comentários sobre essas três provocações.
 soti-sprint-duration = 17 de dezembro de 2019 - 2 de janeiro de 2020
 firefox-voice-sprint-title = Campanha do Firefox Voice
 firefox-voice-sprint-duration = 9 de dezembro de 2019 - 31 de janeiro de 2020
