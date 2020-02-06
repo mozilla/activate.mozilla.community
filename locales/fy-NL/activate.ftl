@@ -549,6 +549,7 @@ webext-activity-first-5 = Freegje de dielnimmers harren ûnderfining mei browser
 webext-activity-first-6 = Fier dielnimmers troch de hantlieding foar <borderifyLink>it bouwen fan de útwreiding borderify</borderifyLink> op MDN Web Docs.
 webext-activity-first-7 = Besprek de <anatomyLink>anatomy fan in útwreiding</anatomyLink>.
 webext-activity-first-8 = Lit de dielnimmers de MDN-hantlieding foar it <complexLink>bouwen fan in kompleksere útwreiding</complexLink> folgje.
+webext-activity-first-9 = Fertel de dielnimmers oan it ein fan de sesje wannear't it folgjende evenemint yn de rige hâlden wurdt en moedigje se oan om harren der yn it foar foar yn te skriuwen. Sjoch de seksje ‘Evenemintopfolging’ foar mear ynformaasje oer hoe't jo nei jo evenemint opfolgje kinne.
 webext-activity-second-4 = Underwerp
 webext-activity-second-5 = Foarbylden fan útwreiding
 webext-activity-second-6 = Fideo's
