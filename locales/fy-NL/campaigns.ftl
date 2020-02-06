@@ -2,6 +2,7 @@ firefoxforgood-sprint-title = Firefox For Good-wedstriid
 firefoxforgood-sprint-description = Stel jo jo in web foar dat gjin oerweldigjende massa fan advertinsjes, nepnijs, haat en giftige sosjale media is, mar in plak wêr't betsjuttingsfolle en loftweardiger ynhâld ienfâldich fûn wurde kin. In plak wêr't elkenien harren feilich, sterke en goed ynformearre fielt. Hoe kin browsertechnology loftweardige en kwalitative ynhâld en diskusjes fersterkje?
 firefoxforgood-sprint-duration = 11 juny – 9 july 2019
 firefox-preview-respond-sprint-title = Respond-kampanje
+firefox-preview-respond-sprint-description = Op 12 novimber lansearret Mozilla wichtige updates foar de nije Android-webbrowser Firefox Preview. Wy hawwe jo help nedich om alle entûsjaste nije brûkers te stypjen. Wy freegje jo om tegearre mei Mozillians oer de hiele wrâld in moanne lang fragen te beäntwurdzjen en brûkers te helpen in geweldige ûnderfining te hawwen!
 firefox-preview-respond-sprint-duration = 13 novimber - 2 desimber 2019
 firefoxaccounts-sprint-title = Kampanje Doch mei mei Firefox
 firefoxaccounts-sprint-duration = 25 novimber - 31 desimber 2019
