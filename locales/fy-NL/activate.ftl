@@ -561,6 +561,7 @@ webext-activity-second-7 = Twadde helte fan de gearkomst: freegje dielnimmers om
 webext-activity-second-8 = Fertel de dielnimmers oan it ein fan de sesje wannear it folgjende evenemint yn de rige hâlden wurdt en moedigje se oan om harren der  yn it foar foar yn te skriuwen.
 webext-activity-help-idea = As jo dielnimmers help nedich hawwe by it betinken fan in idee foar it bouwen fan in orizjinele útwreiding, freegje harren dan om de <repolink>repository fan ideeën foar útwreidingen</repolink> te besykjen foar ynspiraasje.
 webext-activity-upload = Freegje dielnimmers dy't in orizjinele útwreiding boud hawwe om dizze by addons.mozilla.org yn te tsjinjen. Nei de yntsjinning, kinne se navigearje nei ‘Myn bydragen beheare’ en ‘Ynformaasje bewurkje’ om harren útwreiding te labeljen mei ‘#mozactivate17’. Klik op ‘Wizigingen bewarje’ nei tafoegjen fan it label!
+webext-activity-third = Tredde gearkomst: API’s yn aksje, diel 2
 webext-activity-third-4 = Underwerp
 webext-activity-third-5 = Foarbylden fan útwreidingen
 webext-activity-third-6 = Fideo's
