@@ -421,6 +421,7 @@ rust-activity-strength = 优点：
 rust-activity-strength-1 = 50 位举办 Rust Hack and Learn 活动的谋智人
 rust-activity-strength-2 = 有 1-2 个人加入 <rustTeamLink>Rust 团队</rustTeamLink>
 rust-activity-audience = 此活动的与会者
+vr-activity-general-2 = A-Frame 在 Mozilla VR 团队里充分实际用于制作 WebVR 的原型和相关试验。提高贡献者对 A-Frame 的了解可以让大家更有机会涉足这个振奋人心的前沿技术。
 vr-activity-format = 活动安排
 vr-activity-format-2 = 活动前 2-4 周
 vr-activity-format-3 = 阅读<eventGuideLink>活动指南</eventGuideLink>以了解如何设置活动页面以及如何组织一场活动。
