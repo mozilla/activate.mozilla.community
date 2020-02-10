@@ -376,6 +376,7 @@ rust-activity-resources = Outros recursos
 rust-activity-resources-1 = Tutoriais
 rust-activity-resources-2 = Aprenda pelo exemplo
 rust-activity-resources-3 = <rLink>Acostume-se a ler e escrever código Rust</rLink>
+rust-activity-resources-4 = <rLink>“Exercism” - desafios de codificação</rLink>
 rust-activity-resources-5 = <rLink>“Rust pelo exemplo”</rLink>
 rust-activity-resources-6 = Aprendizagem visual
 rust-activity-resources-9 = Vindo de outras linguagens de programação
