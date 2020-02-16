@@ -24,6 +24,7 @@ nav-activities = 活动
 nav-campaigns = 运动
 nav-events = 事件
 nav-groups = 群组
+nav-people = 人脉
 nav-faq = 常见问题
 nav-impact = 影响
 nav-impact-form = 影响形式
