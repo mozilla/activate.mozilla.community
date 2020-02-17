@@ -369,6 +369,7 @@ rust-activity-resources-11 = <rLink>Développeurs node.js</rLink>
 rust-activity-resources-12 = <rLink>Développeurs Java</rLink>
 rust-activity-resources-13 = <rLink>Développeurs C++</rLink>
 rust-activity-resources-14 = <rLink>Développeurs Python</rLink>
+rust-activity-output = Résultat
 rust-activity-output-5 = Ajoutez un lien vers un projet GitHub ou un billet de blog pour montrer votre travail !
 rust-activity-extra = Pour aller plus loin
 rust-activity-impact = Impact et statistiques
