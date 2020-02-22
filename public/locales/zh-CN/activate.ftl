@@ -421,6 +421,7 @@ rust-activity-extra = 更多
 rust-activity-extra-1 = 尽管此活动的重点应该放在这些事件上，但人们之后可以更多地参与 Rust 社区。
 rust-activity-impact = 影响与效益统计
 rust-activity-impact-1 = Rust 编程语言对于 Web 的未来非常重要，它将使 Web 变得更安全和强大。让更多的开发者理解、使用和推广这种语言将使 Web 变得更美好、更安全。
+rust-activity-impact-3 = Rust 也是一个很好的让人们认识 Mozilla 的主题，因为它具有小型项目和个人贡献的潜力——例如，编写一个实用库。
 rust-activity-impact-4 = 影响：
 rust-activity-impact-5 = 1000 名程序员被招募并且正在学习 Rust
 rust-activity-impact-6 = 10 场 Rust Hack and Learn 活动
