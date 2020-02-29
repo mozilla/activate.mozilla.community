@@ -18,6 +18,7 @@ webext-document-title =
     .title = สร้างส่วนขยายของคุณเองสำหรับ Firefox | Activate Mozilla
 nav-activities = กิจกรรม
 nav-campaigns = แคมเปญ
+nav-events = เหตุการณ์
 nav-groups = กลุ่ม
 nav-people = ผู้คน
 nav-faq = คำถามที่พบบ่อย
