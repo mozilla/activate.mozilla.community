@@ -484,6 +484,7 @@ vr-activity-strength-reworked = 优势
 vr-activity-strength-3 = 30 场活动
 vr-activity-strength-4 = 400 人引入使用 A-Frame 进行构建
 vr-activity-audience = 此活动的与会者
+webext-activity-general = 使用 <docLink>WebExtensions API</docLink> 为 Firefox 创建扩展程序非常简单。这个基于 Web 的技术框架提供了一种创建浏览器扩展的强大方法，并可轻松扩展到 Chrome、Opera 和 Edge。您只需了解 HTML、JavaScript 和 CSS 即可构建这些扩展程序。
 webext-activity-planning = 展开您的工坊计划
 webext-activity-flow = 工坊流程
 webext-activity-flow-1 = 活动前
