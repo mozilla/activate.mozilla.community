@@ -379,6 +379,7 @@ rust-activity-before2-2 = Promouvez votre évènement localement et en ligne.
 rust-activity-flow = Déroulement
 rust-activity-flow-4 = Qui sont-ils
 rust-activity-flow-5 = Quelle est leur expérience en matière de programmation
+rust-activity-flow-6 = Ce sur quoi ils ont l’intention de travailler (ou s’ils recherchent un projet)
 rust-activity-flow-7 = Encouragez les gens à se regrouper ou à travailler seuls
 rust-activity-flow-9 = Aidez les personnes qui n’ont pas de projets à en trouver un
 rust-activity-end = Directement à la fin de l’activité
