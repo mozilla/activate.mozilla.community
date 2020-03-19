@@ -49,6 +49,7 @@ footer-mozilla-coc = Kodex chování
 not-found-title = 404 - Stránka nebyla nalezena!
 not-found-description = Hledanou stránku nelze nalézt. Mohla být mezitím odstraněna nebo adresa URL může být nesprávná.
 jumbotron-campaign-title = Přispět za 5… 4…
+jumbotron-campaign-description = Najděte zábavné a efektní způsoby jak podpořit <missionLink>misi Mozilly</missionLink> vlastním přispíváním. Začněte hned!
 jumbotron-no-campaign-title = Kampaň se blíží!
 jumbotron-no-campaign-description = Skvělá kampaň Mozilly se blíží! Ujistěte se, že budete první, kdo o ní bude vědět, až bude spuštěna.
 home-cta = Podělte se o své zkušenosti s tagem #MozActivate
