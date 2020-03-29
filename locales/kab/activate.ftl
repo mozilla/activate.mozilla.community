@@ -145,6 +145,7 @@ faq-what-answer-2 = Activate d allal i yimuẓilyanen deg uma dal akken ad sɛun
 faq-who-title = Aniwa izemren ad ittekki deg yirmad-a?
 faq-who-answer-2 = Yal yiwen ara yebɣun ad yefk afus i Mozilla s uttekki s wudem zeddigen, udem abannay. Akken ad ternuḍ tarmit n terbaɛt yelhan ne d taɣelsant, neḥwaǧ meṛṛa imdanen ara ittekkin akken ad qeblen <cpgLink>Ilugan icudden ɣer uttekki deg terbaɛt</cpgLink>.
 faq-how-title = Amek ara ttekkiɣ?
+faq-how-answer-2 = Inig kan ɣer usmel daɣen af-d iberriḥen imgaraden akked irmad i d-yettwaseknen. Ad tafeḍ dagi ugar n yisallen ɣef yirmad yettwafernen akked wamek ara tettekkiḍ deg yiwen seg-sen.
 faq-why-title = Iwacu ara ttekkiɣ?
 faq-questions-title = Acu ilaq ad xedmeƔ ma sƐiƔ isteqsiyen?
 faq-code-title = I ma yella bɣiɣ ad kkiɣ deg tengalt?
