@@ -149,6 +149,7 @@ faq-how-answer-2 = Inig kan ɣer usmel daɣen af-d iberriḥen imgaraden akked i
 faq-why-title = Iwacu ara ttekkiɣ?
 faq-why-answer-2 = Iberriḥen akked yirmad i d-yettwasgelmen deg usmel-ad agmuḍ n tcemlit akken ad d-nesuffeɣ ayen yella d axatar i Mozilla akka tura. Ma tebɣiḍ dad tɛiwneḍ Mozilla. maca ur teẓriḍ ara ayen ara txedmeḍ, Activate yettwaxdam i kečč.
 faq-questions-title = Acu ilaq ad xedmeƔ ma sƐiƔ isteqsiyen?
+faq-questions-answer-2 = Sers-d isteqsiyen-ik deg <discourseLink>Discourse n Mozilla</discourseLink>, deg taggayt icudden ugar ɣer usteqsi-ik. Ma yella ur teẓriḍ ara anida ara tsutreḍ, suter deg taggayt <mozilliansLink>Mozillians</mozilliansLink>.
 faq-code-title = I ma yella bɣiɣ ad kkiɣ deg tengalt?
 faq-budgetswag-title = Zemreɣ ad ssutreɣ tadrimt i yirmad-a?
 eg-started = Bdu
