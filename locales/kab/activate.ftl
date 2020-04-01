@@ -151,6 +151,7 @@ faq-why-answer-2 = Iberriḥen akked yirmad i d-yettwasgelmen deg usmel-ad agmu�
 faq-questions-title = Acu ilaq ad xedmeƔ ma sƐiƔ isteqsiyen?
 faq-questions-answer-2 = Sers-d isteqsiyen-ik deg <discourseLink>Discourse n Mozilla</discourseLink>, deg taggayt icudden ugar ɣer usteqsi-ik. Ma yella ur teẓriḍ ara anida ara tsutreḍ, suter deg taggayt <mozilliansLink>Mozillians</mozilliansLink>.
 faq-code-title = I ma yella bɣiɣ ad kkiɣ deg tengalt?
+faq-code-answer = Tuget n yirmadseg Activate ur sran ara tiwezza neɣ tussniwin lqayen. Maca, ddeqs n yisenfaren itiknikanen igerrezen anida i tzemrem ad tettekkim deg Mozilla. Ad k-nwelleh ad tedduḍ ɣer ukaram <codetributeLink>dagi</codetributeLink>.
 faq-budgetswag-title = Zemreɣ ad ssutreɣ tadrimt i yirmad-a?
 eg-started = Bdu
 eg-started-content-1 = Fren anwa leqdic ara tsedduḍ
