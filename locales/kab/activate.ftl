@@ -153,6 +153,7 @@ faq-questions-answer-2 = Sers-d isteqsiyen-ik deg <discourseLink>Discourse n Moz
 faq-code-title = I ma yella bɣiɣ ad kkiɣ deg tengalt?
 faq-code-answer = Tuget n yirmadseg Activate ur sran ara tiwezza neɣ tussniwin lqayen. Maca, ddeqs n yisenfaren itiknikanen igerrezen anida i tzemrem ad tettekkim deg Mozilla. Ad k-nwelleh ad tedduḍ ɣer ukaram <codetributeLink>dagi</codetributeLink>.
 faq-budgetswag-title = Zemreɣ ad ssutreɣ tadrimt i yirmad-a?
+faq-budgetswag-answer-3 = Tagella i yimttekkiyen n temliliyin akka 5 n yisragen
 eg-started = Bdu
 eg-started-content-1 = Fren anwa leqdic ara tsedduḍ
 eg-started-content-2 = Inid acḥal n yimdanen ara yekkin
