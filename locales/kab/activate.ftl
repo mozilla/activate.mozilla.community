@@ -170,6 +170,7 @@ eg-welcome = Asebter agejdan akked ujerred
 eg-welcome-welcome = Ansuf
 eg-signin = Qqen
 eg-documentation = Tasemlit
+eg-feedback = Awi tikti
 eg-cleanup = Sfeḍ
 nightly-activity-before = 2-4 Dduṛtat send tadyant
 nightly-activity-before-1 = Ɣeṛ <eventGuideLink>Amnir n tedyanin  <eventGuideLink> ara k-id-imudden afus deg useddes n tedyant
