@@ -162,6 +162,7 @@ faq-budgetswag-answer-6 = Akken ad tsutreḍ, tzemreḍ <repLink>ad tneremseḍ 
 faq-budgetswag-answer-7 = Cfu kan ad tsutreḍ xarsum 2-3 n yimalasen uqbel ad neḍmen ad yili wakud i tuzna.
 eg-title = Aminir n usɣiwes n yineḍruyen n Activate
 eg-started = Bdu
+eg-started-content = Anwa i tebɣiḍ ad tawḍeḍ, neɣ ad tsuddseḍ aneḍru, daɣen amek ad tberḥeḍ, aya yebna ɣef wanaw n uneḍru ara tesɣiwseḍ.
 eg-started-content-1 = Fren anwa leqdic ara tsedduḍ
 eg-started-content-2 = Inid acḥal n yimdanen ara yekkin
 eg-started-content-3 = Sbadu iswiyen
