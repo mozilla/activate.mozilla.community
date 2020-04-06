@@ -3,4 +3,5 @@ firefoxforgood-sprint-description = I lemmer web ulac deg-s adellel s uqettun, y
 firefoxforgood-sprint-duration = Seg 11 Yunyu ɣer 9 Yulyu 2019
 firefox-preview-respond-sprint-duration = Seg 13 unbir ɣer 2 dujember 2019
 firefoxaccounts-sprint-duration = Seg 25 unbir ɣer 31 dujember 2019
+soti-sprint-title = Bḍu tiktiwin-ik ɣef tdamsa n uqareɛ
 firefox-voice-sprint-duration = Seg 9 dujember 2019 ɣer 31 yennayer 2020
