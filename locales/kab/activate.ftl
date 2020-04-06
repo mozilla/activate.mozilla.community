@@ -170,6 +170,7 @@ eg-venue = Af-d amḍiq i temlilit
 eg-experience = Feṣṣel tirmit yesnecraḥen
 eg-schedule = Asiher
 eg-promotion = Adellel
+eg-promotion-content = Llan aṭas n yiberdan swayes ara tesnerniḍ tadyant-ik wid ara d-ijebden lwelha d waṭas n yimttekkiyen.
 eg-online-promotion = Adellel srid akked Tɣamsa
 eg-tech = Tatiknulujit
 eg-equipment = Allalen
