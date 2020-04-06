@@ -225,6 +225,7 @@ commonvoice-activity-solo = Aranǧer awḥid
 commonvoice-activity-solo-record = Efk-d taɣect-inek(inem)
 commonvoice-activity-solo-record-3 = Senned ɣef "Meslay"
 commonvoice-activity-solo-record-4 = Seddu amikṛu-inek imir ɣɣaṛ tafyirt s usiɛliy n taɣect.
+commonvoice-activity-solo-record-5 = Ssit ɣef tqeffalt tazeggaɣt ticki tfukkeḍ.
 commonvoice-activity-solo-record-7 = Ales arma tewwḍeḍ 225!
 commonvoice-activity-solo-review = I uwali n uklip tikkeltnin
 commonvoice-activity-solo-review-3 = Seg usebter agejdan, tekki ɣef “Sel.”
