@@ -205,6 +205,7 @@ nightly-activity-during-8 = Sebɣes imttekkiyen akken ad kemmlen aseqdec n Night
 nightly-activity-end = Srid di tagara n tedyant
 nightly-activity-end-1 = Deffir kan n uneḍru, ur tettu ara ad tebḍuḍ aseɣwen ɣer tferkit ɣef wayen i d-yegla uneḍru-ik:
 nightly-activity-output = Tuffɣa
+nightly-activity-output-4 = Azen imayl i yimttekkiyen akk s ugzul rnu ssuter-asen ad d-rren ɣef yisteqsiyen.
 nightly-activity-content = Agbur
 nightly-activity-extra = Ayen-nniḍen
 nightly-activity-goals = Iswan
