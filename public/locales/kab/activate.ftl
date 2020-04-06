@@ -241,6 +241,7 @@ commonvoice-activity-solo-review-2 = Mi fukent 15 n dqiqat n usekles n taɣect, 
 commonvoice-activity-solo-review-3 = Seg usebter agejdan, tekki ɣef “Sel.”
 commonvoice-activity-solo-review-4 = Sel i taɣect (ɣreḍ ur qqaṛ ara deg ugdil).
 commonvoice-activity-solo-review-5 = Tura ɣer-d tafyirt   sakin serwe-it d wayen i tesliḍ yakan.
+commonvoice-activity-solo-review-6 = Ma twalaḍ asekles-agi aɣectan iwata akked tefyirt, ssit ɣef “ih”, neɣ mulac ssit ɣef “ala” (Tamawt: timeslayin n yal tama lhant, ansuf yis-sent!)
 commonvoice-activity-solo-review-7 = Ales
 commonvoice-activity-friends = Anecṛaḥ akked imddukal
 commonvoice-activity-friends-description-track = Ḍfer iswiren-ik deg usmel.
