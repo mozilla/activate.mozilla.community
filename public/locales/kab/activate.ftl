@@ -187,6 +187,7 @@ nightly-activity-event-flow = Ḍfer tadyant
 nightly-activity-solo = Ulamma armud-a yezmer ad yettwasuddes iman-is, ad k-nessebɣes akken ad tessuddseḍ tadyant deg tmezdagnut-ik.
 nightly-activity-before = 2-4 n yimalasen send tadyant
 nightly-activity-before-1 = Ɣeṛ <eventGuideLink>Amnir n tedyanin  <eventGuideLink> ara k-id-imudden afus deg useddes n tedyant
+nightly-activity-before-4 = Snulfu-d asebter n tedyanin deg tɣerɣert mucaɛen deg temnaḍt-ik, am Facebook neɣ Meetup.cim, rnu bḍu tilɣa i tebɣiḍ ɣef Nightly d yisental yesɛan assaɣ akken ad tkemmleḍ ameslay deg Twitter.
 nightly-activity-duration = Tanzagt: I tenzagt, ad k-nwelleh 1-3 n yisragen xarsum s 5 n yimttekkiyen.
 nightly-activity-before2 = 1 Ddurt send tadyant
 nightly-activity-before2-1 = Sentem afran n yimttekkiyen s yimayl
