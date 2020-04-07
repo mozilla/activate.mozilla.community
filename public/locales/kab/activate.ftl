@@ -238,6 +238,7 @@ commonvoice-activity-audience-3 = Agraw amecṭuḥ : imdukkal iqriben neɣ igra
 commonvoice-activity-audience-4 = Igrawen ilemmasen & imeqṛanen: igrawen n inelmaden, imttekkiyen ɣer uneḍru.
 commonvoice-activity-audience-5 = Lɣaci: Efk tagʷnit i medden ad kkin s usali ustand neɣ ṭabla deg ubrid deg ttɛeddin aṭṭas n yemdanen.
 commonvoice-activity-try-it = Ɛerḍ-it!
+commonvoice-activity-flows-description = Armud-agi n uttekki yezmer ad t-txedmeḍ weḥd-k, akked yimeddukkal, d tadyant neɣ deg tallunt tazayezt. Ayɣer ur ten-tettaɛraḍeḍ ara i meṛṛa?
 commonvoice-activity-solo = Aranǧer awḥid
 commonvoice-activity-solo-record = Efk-d taɣect-inek(inem)
 commonvoice-activity-solo-record-3 = Senned ɣef "Meslay"
