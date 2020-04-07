@@ -240,6 +240,7 @@ commonvoice-activity-audience-5 = Lɣaci: Efk tagʷnit i medden ad kkin s usali 
 commonvoice-activity-try-it = Ɛerḍ-it!
 commonvoice-activity-flows-description = Armud-agi n uttekki yezmer ad t-txedmeḍ weḥd-k, akked yimeddukkal, d tadyant neɣ deg tallunt tazayezt. Ayɣer ur ten-tettaɛraḍeḍ ara i meṛṛa?
 commonvoice-activity-solo = Aranǧer awḥid
+commonvoice-activity-solo-description-2 = Cfu, imi laqent-aɣ aṭas n tuɣac yemgaraden, mudd-d 15 n tesdatin kan seg taɣuct-ik — azal n 225 yiklipen — ddeqs. Ma yella yal yiwen isenqed azal n 450 yiklipen, ad nessiweḍ ɣer yiswan-nneɣ n taɣect deg wakud i ilaqen, maca ulac tilisa i umḍan n yiklipen i tzemreḍ ad tesneqdeḍ!
 commonvoice-activity-solo-record = Efk-d taɣect-inek(inem)
 commonvoice-activity-solo-record-3 = Senned ɣef "Meslay"
 commonvoice-activity-solo-record-4 = Seddu amikṛu-inek imir ɣɣaṛ tafyirt s usiɛliy n taɣect.
