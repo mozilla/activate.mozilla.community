@@ -259,6 +259,7 @@ commonvoice-activity-solo-end = Mi teskelseḍ 225 yiklipen, terniḍ tesneqde�
 commonvoice-activity-friends = Anecṛaḥ akked imddukal
 commonvoice-activity-friends-description-track = Ḍfer iswiren-ik deg usmel.
 commonvoice-activity-friends-description-4 = Qenneɛ yal imttekki ad yesɛu amiḍan deg ifecka-ines.
+commonvoice-activity-friends-description-5 = Ṭṭef 15 n tesdatin deg usekles n yiklipen n taɣuct. (Tamawt: ahat ilaq ad tbeɛdeḍ cwiṭ ma yella deg umkan ideg yella ṣṣut i telliḍ). Akken ad tebduḍ, sit dagi:
 commonvoice-activity-time = 🤹‍♀️ Sken akud
 commonvoice-activity-crowd-description-6 = Imedyaten:
 webcompat-activity-setup-1 = <firefoxLink>Firefox</firefoxLink>
