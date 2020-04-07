@@ -167,6 +167,7 @@ eg-started-content-1 = Fren anwa leqdic ara tsedduḍ
 eg-started-content-2 = Inid acḥal n yimdanen ara yekkin
 eg-started-content-3 = Sbadu iswiyen
 eg-venue = Af-d amḍiq i temlilit
+eg-venue-content = Di lawan deg ara theggiḍ aneḍru-inek, nadi amḍiq yelhan, wessiɛen ara  iwalmen i inebgawen i tettrajuḍ. Ili-k d bu-tikta – Leqhawi, tizeɣwa timezdagennutin, imeḍqan co-working neɣ timkarḍiyin akked hackerspaces d imeḍqan iwulmen deg tazwara. Ad d-nini belli aneḍru-inek nessarem ad ilin deg-s  ugar n yiwen neɣ sin n inebgawen, ad teḥwiǧeḍ tabla i yal yiwen deg-sen akked texxamt wessiɛen i wembiwel. Sɛu ttbut belli tesɛiḍ Internet iǧehden, laprizat n trisiti akked tafat ilaqen.
 eg-experience = Feṣṣel tirmit yesnecraḥen
 eg-schedule = Asiher
 eg-promotion = Adellel
