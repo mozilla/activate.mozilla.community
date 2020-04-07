@@ -181,6 +181,7 @@ eg-equipment = Allalen
 eg-setup = Sebded
 eg-welcome = Asebter agejdan akked ujerred
 eg-welcome-welcome = Ansuf
+eg-welcome-welcome-content = Tanemmirt i yal yiwen. Ansuf s yimttekkiyen ijdiden d yiqdimen, ɣas kkset aɣilif ad tili tezwart i wid i d-yusan d ijdiden.
 eg-signin = Qqen
 eg-documentation = Tasemlit
 eg-feedback = Awi tikti
