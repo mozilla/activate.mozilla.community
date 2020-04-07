@@ -177,6 +177,7 @@ eg-online-promotion = Adellel srid akked Tɣamsa
 eg-online-promotion-content-2 = Bḍu aseɣwen-ik deg yismal-nniḍen n web, am tɣamsa n yinelmaden, iwitayen n tedyanin d tuddsiwin-nniḍen.
 eg-online-promotion-content-3 = Aẓeṭṭa-inek d taɣawsa iǧehden! Tzemreḍ daɣen ad ad tebḍuḍ tiwlafin deg Instagram neɣ ad tesxedmeḍ ineḍfaren-ik n Twitter akken ad ak-ɛawnen deg usnerni n tedyant-ik (ur ttettu ara ad tferneḍ ahactag!).
 eg-tech = Tatiknulujit
+eg-tech-content = Mi ara tselmadeḍ web, yewwi-d fell-ak ad tesɛuḍ tawila tatiknulujit igerrzen d uɣawas B ifazen akken tawḍeḍ ɣer yiswi n tedyant-inek.
 eg-equipment = Allalen
 eg-setup = Sebded
 eg-welcome = Asebter agejdan akked ujerred
