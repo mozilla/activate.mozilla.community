@@ -296,6 +296,7 @@ webcompat-activity-duration = I tenzagt, ad k-nwelleḥ ɣer tedyant n uzgen n w
 webcompat-activity-setup = Heyyi iman-ik akked Firefox. Yiwen neɣ akk ileqman i d-itteddun:
 webcompat-activity-setup-1 = <firefoxLink>Firefox</firefoxLink>
 webcompat-activity-setup-2 = <firefoxLink>Firefox i Android</firefoxLink>
+webcompat-activity-setup-3 = <iosLink> Firefox i iOS</iosLink>
 webcompat-activity-flow-1 = Fren ismal i tebƔiḍ ad teskeydeḍ
 webcompat-activity-flow-3 = Daɣen ismal i teḥwaǧeḍ neɣ i tesseqdaceḍ deg tmezdagnutin-ik!
 webcompat-activity-flow-4 = Sekyed u azen aneqqis!
