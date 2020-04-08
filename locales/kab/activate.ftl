@@ -290,6 +290,7 @@ commonvoice-activity-time-description-14 = Send 15 tesdatin, suter i tyigwin ad 
 commonvoice-activity-time-description-15 = Tagrayt d beṭṭu (5 tesdatin)
 commonvoice-activity-time-description-16 = Bab n urmud ad d-isuter i yimttekkiyen ad bḍun asfari-nsen, rnu ad d-suffɣen aneḍru s ttawil n #CommonVoice deg yizeḍwan inmettiyen.
 commonvoice-activity-crowd = Aweḍ ɣer lɣaci
+commonvoice-activity-crowd-description = Tikkelt-nniḍen mi ara tiliḍ deg usarag neɣ tkecmeḍ ɣer wadeg azayez hrawen anda tzemreḍ ad tesbeddeḍ tasqift, ɛreḍ ad tgemreḍ ayen iwumi tzemreḍ n tuɣac i usenfar Common Voice.
 commonvoice-activity-crowd-description-6 = Imedyaten:
 commonvoice-activity-crowd-description-7 = Azul! Amek i tettiliḍ? Teẓriḍ belli tzemreḍ ad d-tmuddeḍ afus akken tatiknululujit n uɛqal n taɣect ad teddu akken iwata i yal yiwen s tikci n taɣect-ik?
 commonvoice-activity-conversation = Ttekki deg udiwenni
