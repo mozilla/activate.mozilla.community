@@ -276,6 +276,7 @@ commonvoice-activity-time-description-10 = Tikci n taɣect (15 tesdatin - 30 tes
 commonvoice-activity-time-description-12 = Akud n usenqed! (30 tesdatin)
 commonvoice-activity-time-description-14 = Send 15 tesdatin, suter i tyigwin ad myibdalen tamlilt.
 commonvoice-activity-time-description-15 = Tagrayt d beṭṭu (5 tesdatin)
+commonvoice-activity-crowd = 🤩 Aweḍ ɣer medden
 commonvoice-activity-crowd-description-6 = Imedyaten:
 webcompat-activity-setup-1 = <firefoxLink>Firefox</firefoxLink>
 webcompat-activity-setup-2 = <firefoxLink>Firefox i Android</firefoxLink>
