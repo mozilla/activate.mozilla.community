@@ -297,6 +297,7 @@ webcompat-activity-setup = Heyyi iman-ik akked Firefox. Yiwen neɣ akk ileqman i
 webcompat-activity-setup-1 = <firefoxLink>Firefox</firefoxLink>
 webcompat-activity-setup-2 = <firefoxLink>Firefox i Android</firefoxLink>
 webcompat-activity-setup-3 = <iosLink> Firefox i iOS</iosLink>
+webcompat-activity-setup-4 = <reporterLink>Sebded azegrir Webcompat.com Reporter </reporterLink>
 webcompat-activity-flow-1 = Fren ismal i tebƔiḍ ad teskeydeḍ
 webcompat-activity-flow-3 = Daɣen ismal i teḥwaǧeḍ neɣ i tesseqdaceḍ deg tmezdagnutin-ik!
 webcompat-activity-flow-4 = Sekyed u azen aneqqis!
