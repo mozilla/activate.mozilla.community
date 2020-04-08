@@ -287,6 +287,7 @@ commonvoice-activity-time-description-14 = Send 15 tesdatin, suter i tyigwin ad 
 commonvoice-activity-time-description-15 = Tagrayt d beṭṭu (5 tesdatin)
 commonvoice-activity-time-description-16 = Bab n urmud ad d-isuter i yimttekkiyen ad bḍun asfari-nsen, rnu ad d-suffɣen aneḍru s ttawil n #CommonVoice deg yizeḍwan inmettiyen.
 commonvoice-activity-crowd-description-6 = Imedyaten:
+commonvoice-activity-crowd-description-7 = Azul! Amek i tettiliḍ? Teẓriḍ belli tzemreḍ ad d-tmuddeḍ afus akken tatiknululujit n uɛqal n taɣect ad teddu akken iwata i yal yiwen s tikci n taɣect-ik?
 commonvoice-activity-conversation = Ttekki deg udiwenni
 webcompat-activity-setup-1 = <firefoxLink>Firefox</firefoxLink>
 webcompat-activity-setup-2 = <firefoxLink>Firefox i Android</firefoxLink>
