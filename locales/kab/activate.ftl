@@ -192,6 +192,7 @@ eg-welcome-welcome = Ansuf
 eg-welcome-welcome-content = Tanemmirt i yal yiwen. Ansuf s yimttekkiyen ijdiden d yiqdimen, ɣas kkset aɣilif ad tili tezwart i wid i d-yusan d ijdiden.
 eg-signin = Qqen
 eg-documentation = Tasemlit
+eg-documentation-content = Tidyanin ḍerrunt s tɣawla tikwal d awezɣi ad d-neṭṭef neɣ ad d-nawi iseɣwan n wayen yessewhamen akk i yeḍran. Af-d akala i tuṭṭfa d beṭṭu n seg tazwara rnu bḍu-ten akked yiwiziwen, imsishilen d yimttekkiyen.
 eg-wrapup = Kmes
 eg-wrapup-content = Ma yili d lawan n ukmas, imttekkiyen-nwen ad ḥalfun s uɛǧab, ad d-yaɣ deg-sen wafud, ad ḥalfun heggan iman-nsen ad bḍun ayen akk lemden. Faṛes akken ilaq tagnit-a.
 eg-feedback = Awi tikti
