@@ -186,6 +186,7 @@ eg-welcome-welcome-content = Tanemmirt i yal yiwen. Ansuf s yimttekkiyen ijdiden
 eg-signin = Qqen
 eg-documentation = Tasemlit
 eg-wrapup = Kmes
+eg-wrapup-content = Ma yili d lawan n ukmas, imttekkiyen-nwen ad ḥalfun s uɛǧab, ad d-yaɣ deg-sen wafud, ad ḥalfun heggan iman-nsen ad bḍun ayen akk lemden. Faṛes akken ilaq tagnit-a.
 eg-feedback = Awi tikti
 eg-feedback-content-2 = Bḍu aseɣwen agejdan <feedbackLink> taferkit n tektiwin</feedbackLink> i akk imttekkiyen ɣer taggara n tedyant i ugmar n tektiwin.
 eg-cleanup = Sfeḍ
