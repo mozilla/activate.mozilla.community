@@ -272,6 +272,7 @@ commonvoice-activity-friends-description-4 = Qenneɛ yal imttekki ad yesɛu ami�
 commonvoice-activity-friends-description-5 = Ṭṭef 15 n tesdatin deg usekles n yiklipen n taɣuct. (Tamawt: ahat ilaq ad tbeɛdeḍ cwiṭ ma yella deg umkan ideg yella ṣṣut i telliḍ). Akken ad tebduḍ, sit dagi:
 commonvoice-activity-friends-description-6 = Ekk ayen i d-yeggran seg wakud deg uɛawed n tmuɣli n tuɣac n yimdanen-nniḍen s useqdec n tewwurt "Timesliwt" deg usebter agejdan n Common Voice.
 commonvoice-activity-friends-description-7 = Wali ma imttekkiyen-ik sɛan amiḍan akken yal yiwen ad yezmer ad yeḍfer ittekkiyen-is s useqdec n umesmiḍan i yellan deg ufella n usmel web:
+commonvoice-activity-friends-description-8 = Ssuter seg medden ad d-berrḥen mi ara ɛeddin i 25, 50, 100 iwakken ad d-tesnulfuḍ amyizwer deg tallunt-ik.
 commonvoice-activity-friends-description-9 = Mi ara yaweḍ yiwen ɣer yiswi-s, senqed ittekkiyen-is tebduḍ tikci n warrazen!
 commonvoice-activity-friends-end = Ɛreḍ imttekkiyen-ik ad bḍun asfari-nsen deg yiẓeḍwan inmettiyen s useqdec n #CommonVoice rnu ssebɣes-iten ad slekmen armud-nni akked ugraw n yimdukkal.
 commonvoice-activity-time = 🤹‍♀️ Sken akud
