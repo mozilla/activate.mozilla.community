@@ -180,6 +180,7 @@ eg-online-promotion-content-5 = Ɣas ur senqas ara deg wazal n tuḍfist, d alla
 eg-tech = Tatiknulujit
 eg-tech-content = Mi ara tselmadeḍ web, yewwi-d fell-ak ad tesɛuḍ tawila tatiknulujit igerrzen d uɣawas B ifazen akken tawḍeḍ ɣer yiswi n tedyant-inek.
 eg-equipment = Allalen
+eg-backup = Aɣawas n uslak
 eg-setup = Sebded
 eg-welcome = Asebter agejdan akked ujerred
 eg-welcome-welcome = Ansuf
