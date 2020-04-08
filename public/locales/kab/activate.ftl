@@ -283,6 +283,7 @@ commonvoice-activity-time-description-4 = Tazwert ɣer usenfar (10 n tesdatin)
 commonvoice-activity-time-description-6 = Ɣef wacu asenfar-agi?
 commonvoice-activity-time-description-7 = Acuɣer i yesɛa azal?
 commonvoice-activity-time-description-8 = Acu-ten yiswan n tedyant?
+commonvoice-activity-time-description-9 = Amek i zemren medden ad ttekkin?
 commonvoice-activity-time-description-10 = Tikci n taɣect (15 tesdatin - 30 tesdatin)
 commonvoice-activity-time-description-12 = Akud n usenqed! (30 tesdatin)
 commonvoice-activity-time-description-14 = Send 15 tesdatin, suter i tyigwin ad myibdalen tamlilt.
