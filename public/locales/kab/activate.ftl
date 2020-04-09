@@ -340,6 +340,7 @@ rust-activity-resources-2 = Lmed s imedyaten
 rust-activity-resources-4 = <rLink>“Exercism” acqirrew n usihel</rLink>
 rust-activity-resources-5 = <rLink>“Rust s yimedyaten”</rLink>
 rust-activity-resources-6 = Almud amwalan
+rust-activity-resources-7 = <rLink>“Into Rust”, d azrir n tuṭṭfiwin n ugdil n tezwart ɣer Rust</rLink>
 rust-activity-resources-9 = Yusa-d seg tutlayin-nniḍen n usihel
 rust-activity-resources-10 = <rLink>Ineflayen Ruby</rLink>
 rust-activity-resources-11 = <rLink>Ineflayen node.js</rLink>
