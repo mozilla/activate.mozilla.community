@@ -212,6 +212,7 @@ nightly-activity-before2-2 = Zuzer tabdert-a n twuriwin ara tgeḍ uqbel aneḍr
 nightly-activity-before2-3 = Ini i medden ad d-awin iselkimen-nsen n ufus akked izirazen-nqen ɣer unedru
 nightly-activity-before2-4 = Wali inekcam n bugzilla i yimsuddsen (ma ilaq suter tisirag i edit bugs/can confirm)
 nightly-activity-during = Di lawan n tedyant
+nightly-activity-during-1 = Sken-d s tewzel abadu Nightly syen tiniḍ-d ayɣer yelha ad t-tesqedceḍ deg temnaḍt-inek s tallalt n uzegrir-inek n tugna.
 nightly-activity-during-2 = Suter i yimttekkiyen ad sbedden Nightly deg yibenkan-nsen
 nightly-activity-during-3 = Segzu tisisɣelt
 nightly-activity-during-4 = Akken iteddu uzayez-ik
