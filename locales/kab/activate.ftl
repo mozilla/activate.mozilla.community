@@ -372,6 +372,7 @@ vr-activity-flow-11-duration = 1 n usrag
 vr-activity-flow-15-reworked = Ugar ɣef A-Frame
 vr-activity-flow-15-duration = 30 n tesdatin
 vr-activity-flow-17-duration = 1 n usrag
+vr-activity-flow-19-reworked = Asenqed & Iɣawasen
 vr-activity-flow-19-duration = 30 n tesdatin
 vr-activity-end = Srid ɣer taggara n urmud
 vr-activity-end-1 = Akken kan seld tadyant ur ttettu ara ad tebḍuḍ aseɣwen deg tfelwit n tezrirt akked yimttekkiyen-ik:
