@@ -390,3 +390,6 @@ webext-activity-impact-5 = Lǧehd:
 webext-activity-goals = Iswiyen n tmesbanit
 webext-activity-goals-workshop = Iswan n tnemselt-inek/inem
 webext-activity-goals-workshop-1 = Tasnemselt-inek/inem ṭṭafaren-tt semmus n medden neɣ ugar
+webext-activity-goals-workshop-2 = 60% n yimettekkiyen seg tnemselt tamezwarut ad ḥedṛen xersum i yiwen uneḍru seg umazrar
+webext-activity-goals-workshop-3 = 100% seg yimttekkiyen ttaṭṭafen imayl n uḍfar n uneḍru
+webext-activity-participants = Tiftin n yimttekkiyen
