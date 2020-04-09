@@ -350,6 +350,7 @@ rust-activity-resources-13 = <rLink>Ineflayen C++</rLink>
 rust-activity-resources-14 = <rLink>Ineflayen n Python </rLink>
 rust-activity-output = Tuffɣa
 rust-activity-output-general = Ɣer tama n uwelleh n yineḍruyen, a-tent-a kra n tɣawsiwin-nniden i nebɣa ad txedmed, am umsuddes n uneḍru:
+rust-activity-output-1 = Ččar iktazalen seld aneḍru deg usebter n uneḍru i tesbaduḍ deg usmel Reps
 rust-activity-output-2 = Bḍu tarmit-is deg yiẓeḍwa inmettiyen tesbeɣseḍ medden ad xedmen akken:
 rust-activity-output-3 = seqdec ahactag <hashtagLink> # RustActivate</hashtagLink>
 rust-activity-output-5 = Qqen ɣer usenfar GitHub neɣ amagrad n ublug akken ad tessekneḍ amahil-ik!
