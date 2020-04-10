@@ -310,6 +310,7 @@ commonvoice-activity-crowd-description-7 = Azul! Amek i tettiliḍ? Teẓriḍ b
 commonvoice-activity-crowd-description-8 = Azul! Ɣur-k tasdat akken nemmeslay ɣef tbaḍnit n yisefka d tetiknulujit n taɣect? Asenfar Common Voice d azwur n Mozilla i tallelt n tmacinin akken ad gzunt amek i ttmeslayen yimdanen n tidet.
 commonvoice-activity-crowd-description-9 = Azul dinna! Ɣur-k tasdat akken ad d-tmuddeḍ afus i uzwur-nneɣ n tetiknulujit n taɣect n uɣbalu yeldin?
 commonvoice-activity-conversation = Ttekki deg udiwenni
+commonvoice-activity-conversation-1 = Ɛiwen-aɣ ad d-naf wiyaḍ ara d-ifken tuɣac-nsen! Steqsi imttekkiyen ad bḍun deg yiẓeḍwa inmettiyen - "Ɛiwen timacinin ad lemdent amek i ttmeslayen yimdanen n tidet, aql-i akken kan i d-fkiɣ taɣect-iw deg https://voice.mozilla.org # CommonVoice"
 commonvoice-activity-conversation-2 = MA tmugerḍ-d uguren - sers-d isteqsiyen deg <discourseLink>Common Voice Discourse</discourseLink> neɣ ddu ɣer udiwenni deg <slackLink>Common Voice Slack</slackLink>.
 commonvoice-activity-conversation-3 = Ɣur-k tikti ɣef urmud-a? Aen-d abug deg <githubLink>GitHub</githubLink> neɣ eǧǧ-d awennit deg <discourseLink>Discourse</discourseLink>.
 webcompat-activity-intro = De g Mozilla, nebɣa ad iddu web akken iwata i yal yiwen. Mačč kan i deg yiwen neɣ deg sin yiminigen. Ayagi yebɣa ad d-yini agtiminig, imzireg n yimeggi aseqdac akked wagtibenk.
