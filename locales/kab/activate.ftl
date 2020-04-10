@@ -230,6 +230,7 @@ nightly-activity-end-1 = Deffir kan n uneḍru, ur tettu ara ad tebḍuḍ aseɣ
 nightly-activity-output = Tuffɣa
 nightly-activity-output-1 = Ɣer tama n uwelleh n yineḍruyen, a-tent-a kra n tɣawsiwin-nniden i nebɣa ad txedmed, am umsuddes n uneḍru.
 nightly-activity-output-2 = Ččar isekkaten seld aneḍru deg usebter n uneḍru i tesiwleḍ deg wawwur n yimgensas
+nightly-activity-output-3 = Mmeslay-aɣ-d ɣef tedyant-ik. Nḥemmel ad nsel ɣef yiɣawasen ara d-ikecmen, daɣen d ayen ibanen nḥemmel ad nsel ɣef wayen i yettwaxedmen deg tedyant s tewlaft neɣ snat! Aya ad yili daɣen d aselmed rnu ad d-yefk tikti i wiyaḍ ara ixedmen ahat tadyant. <discourseLink> Ha-t-a yizen n yinaw ara taruḍ ɣer</discourseLink>.
 nightly-activity-output-4 = Azen imayl i yimttekkiyen akk s ugzul rnu ssuter-asen ad d-rren ɣef yisteqsiyen.
 nightly-activity-output-5 = Sebɣes imttekkiyen i yebɣan ad kemmlen amahil  deg Nightly akken ad jerrden deg <discourseLink> Taggayt n yinaw</discourseLink>.
 nightly-activity-content = Agbur
