@@ -350,6 +350,7 @@ webcompat-activity-strength-1 = 50 n yineḍruyen i isuddsen yimuẓilyanen
 webcompat-activity-strength-2 = 50 n yijerriden ɣer <compatList>tabdert n umṣada</compatList>
 webcompat-activity-audience = Ineḍfaren i urmud-a
 rust-activity-format = Amasal n urmud
+rust-activity-duration = I tenzagt, ad k-nwelleḥ ɣer tedyant n xersum 2-3 n yisragen akked ma drus 10 n yimttekkiyen.
 rust-activity-before = 2-4 n yimalasen send tadyant
 rust-activity-before-1 = Ɣeṛ <eventGuideLink> amnir n tedyant</eventGuideLink> ɣef wamek ara tesbeddeḍ asebter n tedyant d wamek ara tessuddseḍ tadyant.
 rust-activity-before-2 = Fren nazemz daɣen ḥeṛṛ amkan.
