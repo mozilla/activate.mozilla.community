@@ -382,6 +382,7 @@ rust-activity-goals = Iswiyen i temnaḍt-a
 rust-activity-strength = Lǧehd:
 rust-activity-audience = Ineḍfaren i urmud-a
 vr-activity-format = Amasal n urmud
+vr-activity-format-1 = Ɛiwen-aɣ ad nenni tamezdagnut i temkerḍit A-Frame s useddu n tedyant n uḥerrek / aselmed i 20-30 n yimttekkiyen.
 vr-activity-format-2 = 2-4 n yimalasen send tadyant
 vr-activity-format-3 = Ɣeṛ <eventGuideLink> amnir n tedyant</eventGuideLink> ɣef wamek ara tesbeddeḍ asebter n tedyant d wamek ara tessuddseḍ tadyant.
 vr-activity-format-9 = 1 n yimalas send tadyant
