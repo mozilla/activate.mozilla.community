@@ -303,6 +303,7 @@ commonvoice-activity-crowd = Aweḍ ɣer lɣaci
 commonvoice-activity-crowd-description = Tikkelt-nniḍen mi ara tiliḍ deg usarag neɣ tkecmeḍ ɣer wadeg azayez hrawen anda tzemreḍ ad tesbeddeḍ tasqift, ɛreḍ ad tgemreḍ ayen iwumi tzemreḍ n tuɣac i usenfar Common Voice.
 commonvoice-activity-crowd-description-6 = Imedyaten:
 commonvoice-activity-crowd-description-7 = Azul! Amek i tettiliḍ? Teẓriḍ belli tzemreḍ ad d-tmuddeḍ afus akken tatiknululujit n uɛqal n taɣect ad teddu akken iwata i yal yiwen s tikci n taɣect-ik?
+commonvoice-activity-crowd-description-9 = Azul dinna! Ɣur-k tasdat akken ad d-tmuddeḍ afus i uzwur-nneɣ n tetiknulujit n taɣect n uɣbalu yeldin?
 commonvoice-activity-conversation = Ttekki deg udiwenni
 commonvoice-activity-conversation-2 = MA tmugerḍ-d uguren - sers-d isteqsiyen deg <discourseLink>Common Voice Discourse</discourseLink> neɣ ddu ɣer udiwenni deg <slackLink>Common Voice Slack</slackLink>.
 commonvoice-activity-conversation-3 = Ɣur-k tikti ɣef urmud-a? Aen-d abug deg <githubLink>GitHub</githubLink> neɣ eǧǧ-d awennit deg <discourseLink>Discourse</discourseLink>.
