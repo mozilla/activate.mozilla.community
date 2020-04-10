@@ -385,6 +385,7 @@ vr-activity-format = Amasal n urmud
 vr-activity-format-1 = Ɛiwen-aɣ ad nenni tamezdagnut i temkerḍit A-Frame s useddu n tedyant n uḥerrek / aselmed i 20-30 n yimttekkiyen.
 vr-activity-format-2 = 2-4 n yimalasen send tadyant
 vr-activity-format-3 = Ɣeṛ <eventGuideLink> amnir n tedyant</eventGuideLink> ɣef wamek ara tesbeddeḍ asebter n tedyant d wamek ara tessuddseḍ tadyant.
+vr-activity-format-4 = Xemmem mayella ad ishel iman-is kan neɣ akked yiwen i yesɛan tarmit deg A-Frame. Tzemreḍ ad tafeḍ tallelt deg <telegramLink> agraw n tiligram n Mozilla VR </telegramLink> neɣ <slackLink>targa n A-Frame Slack </slackLink>
 vr-activity-format-9 = 1 n yimalas send tadyant
 vr-activity-flow-2-reworked = Bdu
 vr-activity-flow-2-duration = 30 n tesdatin
