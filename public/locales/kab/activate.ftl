@@ -31,7 +31,7 @@ nav-impact-form = Talɣa n usemdu
 nav-select-language = Fren tutlayt
 footer-contribute-title = Ttekki
 footer-nav-title = Inig
-footer-newsletter-title = Ajerred  qer tebrat-nneɣ n telɣut
+footer-newsletter-title = Ajerred  ɣer tebrat-nneɣ n telɣut
 footer-contibution-2019 = Kra n yeḥricen seg ugbur-a d ©1998-2019 yekka-d seg imttekkiyen n mozilla.org. Agbur yella ddaw n <a  href="%(url)s"> turagt Creative Commons</a>.
 footer-privacy-note = Tasertit-nneɣ tabaḍnit n usmel
 footer-cookies = Inagan n tuqqna
