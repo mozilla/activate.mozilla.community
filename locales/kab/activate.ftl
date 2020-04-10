@@ -348,6 +348,7 @@ rust-activity-before-2 = Fren nazemz daɣen ḥeṛṛ amkan.
 rust-activity-before2 = 1 dduṛt send tadyant
 rust-activity-flow = Amek iteddu
 rust-activity-flow-4 = Anwi-ten
+rust-activity-flow-6 = Ayen i ttxemmimen ad xedmen fell-as (neɣ ma ttnadin ɣef usenfar)
 rust-activity-flow-7 = Sebɣes imdanen ad qedcen deg ugraw neɣ yal yiwen iman-is
 rust-activity-flow-9 = Mudd afus i yemdanen u nesƐi ara asenfaṛ akken ad d-afen yiwen
 rust-activity-flow-11 = Amḍal: rzu daɣen ɣer ugraw testeqsiḍ medden ɣef usfari-nsen.
