@@ -298,6 +298,7 @@ commonvoice-activity-time-description-8 = Acu-ten yiswan n tedyant?
 commonvoice-activity-time-description-9 = Amek i zemren medden ad ttekkin?
 commonvoice-activity-time-description-10 = Tikci n taɣect (15 tesdatin - 30 tesdatin)
 commonvoice-activity-time-description-12 = Akud n usenqed! (30 tesdatin)
+commonvoice-activity-time-description-13 = Mi ifukk yal yiwen beṭṭu n taɣect-is, bḍu agraw d tiyugiwin. Yiwen ad d-iɣeṛ asekles deg yibenk-ik wayeḍ ad isel (war ma yeɣṛa-d ayen i yuran deg ugdil). Win isellen ad d-yales i wayen yesla akken ad isentem tuṭṭfa ma d tusdidt.
 commonvoice-activity-time-description-14 = Send 15 tesdatin, suter i tyigwin ad myibdalen tamlilt.
 commonvoice-activity-time-description-15 = Tagrayt d beṭṭu (5 tesdatin)
 commonvoice-activity-time-description-16 = Bab n urmud ad d-isuter i yimttekkiyen ad bḍun asfari-nsen, rnu ad d-suffɣen aneḍru s ttawil n #CommonVoice deg yizeḍwan inmettiyen.
