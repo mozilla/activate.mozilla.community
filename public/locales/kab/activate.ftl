@@ -323,6 +323,7 @@ webcompat-activity-setup-4 = <reporterLink>Sebded azegrir Webcompat.com Reporter
 webcompat-activity-flow-1 = Fren ismal i tebƔiḍ ad teskeydeḍ
 webcompat-activity-flow-3 = Daɣen ismal i teḥwaǧeḍ neɣ i tesseqdaceḍ deg tmezdagnutin-ik!
 webcompat-activity-flow-4 = Sekyed u azen aneqqis!
+webcompat-activity-flow-6 = Err lwelha tuzzigt ɣef wayen i nettnadi <reportingLink> deg wuguren yettwamlen </reportingLink></reportingLink>
 webcompat-activity-end = Srid ɣer taggara n urmud
 webcompat-activity-end-1 = Akken kan seld tadyant ur ttettu ara ad tebḍuḍ aseɣwen deg tfelwit n tezrirt akked yimttekkiyen-ik:
 webcompat-activity-output = Tuffɣa
