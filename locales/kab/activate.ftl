@@ -334,6 +334,7 @@ webcompat-activity-strength-2 = 50 n yijerriden ɣer <compatList>tabdert n umṣ
 webcompat-activity-audience = Ineḍfaren i urmud-a
 rust-activity-format = Amasal n urmud
 rust-activity-before = 2-4 n yimalasen send tadyant
+rust-activity-before-1 = Ɣeṛ <eventGuideLink> amnir n tedyant</eventGuideLink> ɣef wamek ara tesbeddeḍ asebter n tedyant d wamek ara tessuddseḍ tadyant.
 rust-activity-before-2 = Fren nazemz daɣen ḥeṛṛ amkan.
 rust-activity-before2 = 1 dduṛt send tadyant
 rust-activity-flow = Amek iteddu
