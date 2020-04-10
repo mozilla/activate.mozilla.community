@@ -328,6 +328,7 @@ webcompat-activity-output-4 = <discourseLink>Ha-t-a yizen n yinaw ara taruḍ</d
 webcompat-activity-output-5 = Sebɣes imttekkiyen yebɣan ad kemmlen axeddim ɣef Web Compat ad jerrden ɣer <mailingLink>tabdart n tnezwit</mailingLink>
 webcompat-activity-extra = Ayen-nniḍen
 webcompat-activity-impact = Asemdu & Aktazal
+webcompat-activity-impact-1 = Deg Mozilla, nebɣa ad iteddu web akken iwata i yal yiwen, mačči kan deg yiwen neɣ sin yiminigen. Ayagi yebɣa ad d-yini agtiminig d agtallal. Agraw-nneɣ amaḍlan yezmer ad d-isban ayen ideg ur t-tettemsawi ula d yiwent n terbaɛt!
 webcompat-activity-goals = Iswiyen i temnaḍt-a
 webcompat-activity-impact-title = Asemdu:
 webcompat-activity-impact-2 = 300 n yizegrar i ibedden
