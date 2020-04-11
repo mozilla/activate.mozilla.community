@@ -409,6 +409,7 @@ vr-activity-flow-2-reworked = Bdu
 vr-activity-flow-2-duration = 30 n tesdatin
 vr-activity-flow-5 = Ɣef <blogLink>VR, WebVR d A-Frame </blogLink>
 vr-activity-flow-7-duration = 30 n tesdatin
+vr-activity-flow-9 = Ssken-d <apainterLink> A-Painter </apainterLink>
 vr-activity-flow-11-duration = 1 n usrag
 vr-activity-flow-15-reworked = Ugar ɣef A-Frame
 vr-activity-flow-15-duration = 30 n tesdatin
