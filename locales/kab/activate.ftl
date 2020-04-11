@@ -438,6 +438,7 @@ webext-activity-second = Timlilit tis snat: APIs deg tigawt,  aḥric 1
 webext-activity-second-4 = Asentel
 webext-activity-second-5 = Imedyaten n yisiɣzaf
 webext-activity-second-6 = Tividyutin
+webext-activity-third = Timlilit tis tlata: APIs deg tigawt, aḥric wis 2
 webext-activity-third-4 = Asentel
 webext-activity-third-5 = Imedyaten n isiƔzaf
 webext-activity-third-6 = Tividyutin
