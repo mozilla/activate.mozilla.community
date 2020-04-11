@@ -332,6 +332,7 @@ webcompat-activity-flow-3 = Daɣen ismal i teḥwaǧeḍ neɣ i tesseqdaceḍ de
 webcompat-activity-flow-4 = Sekyed u azen aneqqis!
 webcompat-activity-flow-5 = Ma temmugreḍ-d asmel ur netteddu ara deg Firefox, maca itteddu deg yiminig-nniḍen, ihi sit ɣef tqeffalt n uzegrir tḍefreḍ imecwaṛen akken ad t-tazneḍ.
 webcompat-activity-flow-6 = Err lwelha tuzzigt ɣef wayen i nettnadi <reportingLink> deg wuguren yettwamlen </reportingLink></reportingLink>
+webcompat-activity-flow-7 = Ma tebɣiḍ ad tuɣaleḍ d amussnaw deg umsaḍa n web, <guideLink> rzu ɣer da </guideLink>
 webcompat-activity-end = Srid ɣer taggara n urmud
 webcompat-activity-end-1 = Akken kan seld tadyant ur ttettu ara ad tebḍuḍ aseɣwen deg tfelwit n tezrirt akked yimttekkiyen-ik:
 webcompat-activity-output = Tuffɣa
