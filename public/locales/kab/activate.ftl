@@ -199,6 +199,7 @@ eg-documentation = Tasemlit
 eg-documentation-content = Tidyanin ḍerrunt s tɣawla tikwal d awezɣi ad d-neṭṭef neɣ ad d-nawi iseɣwan n wayen yessewhamen akk i yeḍran. Af-d akala i tuṭṭfa d beṭṭu n seg tazwara rnu bḍu-ten akked yiwiziwen, imsishilen d yimttekkiyen.
 eg-wrapup = Kmes
 eg-wrapup-content = Ma yili d lawan n ukmas, imttekkiyen-nwen ad ḥalfun s uɛǧab, ad d-yaɣ deg-sen wafud, ad ḥalfun heggan iman-nsen ad bḍun ayen akk lemden. Faṛes akken ilaq tagnit-a.
+eg-demos-content = Efk akud i tuddsiwin ad myebḍunt irmad d tektiwin. Ɣer taggara n tedyant, jmeɛ-iten-id deg twinest. Sfugel ayen i gan yimttekkiyen. Ɛreḍ kra n yimdanen ad bḍun amahil-nsen. Sebɣes agraw ad yazen amahil-is deg uẓeṭṭa s uhactag n terbaɛt-ik.
 eg-feedback = Awi tikti
 eg-feedback-content-2 = Bḍu aseɣwen agejdan <feedbackLink> taferkit n tektiwin</feedbackLink> i akk imttekkiyen ɣer taggara n tedyant i ugmar n tektiwin.
 eg-cleanup = Sfeḍ
