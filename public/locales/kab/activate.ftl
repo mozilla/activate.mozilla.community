@@ -425,6 +425,7 @@ vr-activity-end-1 = Akken kan seld tadyant ur ttettu ara ad tebḍuḍ aseɣwen 
 vr-activity-output = Tuffɣa
 vr-activity-output-3 = Imayl n usnemmer i yimttekkiyen akked:
 vr-activity-output-4 = Taferkit n tektiwin
+vr-activity-output-5 = Asumer n tuzna n termit-nsen deg utwit. Bder @mozillavr, #MozActivate, d #WebVRCamp
 vr-activity-output-6 = Asumer n tira n yizen n ublug d beṭṭu
 vr-activity-output-7 = Iseɣwan ixataren
 vr-activity-contact = Anermis
