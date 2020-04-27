@@ -520,6 +520,7 @@ vr-activity-impact-3 = 100 个内置或关于 A-Frame 的项目
 vr-activity-impact-4 = 20 篇关于事件、活动、经验、项目或教程的博客文章。
 vr-activity-impact-5 = 500 个带上 #MozActivate、#WebVRCamp、@avramevr、@mozillavr 的社交分享
 vr-activity-strength-reworked = 优势
+vr-activity-strength-2 = 20 位活跃的移动大使
 vr-activity-strength-3 = 30 场活动
 vr-activity-strength-4 = 400 人引入使用 A-Frame 进行构建
 vr-activity-audience = 此活动的与会者
