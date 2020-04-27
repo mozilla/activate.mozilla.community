@@ -451,6 +451,7 @@ rust-activity-strength-2 = 有 1-2 个人加入 <rustTeamLink>Rust 团队</rustT
 rust-activity-audience = 此活动的与会者
 rust-activity-audience-1 = 这场活动的听众应该是各类程序员。也可以稍微扩展到初学者。
 vr-activity-intro = 对于虚拟现实的未来来说，让更多的开发人员和内容创作者使用 WebVR 至关重要，这有助于建立一个不受任何个体拥有的自由开放的虚拟现实平台。
+vr-activity-general = <aframeLink>A-Frame</aframeLink> 是用于构建虚拟现实体验的 Web 框架，让任何人都可以轻松地参与到虚拟现实中。其目标在于推动开发者构建 3D 项目，以促成 WebVR 这一基于 Web 的虚拟现实平台。让更多的开发者和内容创作者使用 WebVR，对于虚拟现实的未来有着重要意义，这将有助于建立一个不属于任何实体的、自由开放的虚拟现实平台。
 vr-activity-general-2 = A-Frame 在 Mozilla VR 团队里充分实际用于制作 WebVR 的原型和相关试验。提高贡献者对 A-Frame 的了解可以让大家更有机会涉足这个振奋人心的前沿技术。
 vr-activity-format = 活动安排
 vr-activity-format-1 = 通过为 20-30 位贡献者举办动员或学习活动以帮助我们建立 A-Frame 库的社区。
