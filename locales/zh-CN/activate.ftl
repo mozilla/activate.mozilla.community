@@ -435,6 +435,7 @@ rust-activity-output-5 = 链接到 GitHub 项目或博客文章，去展示您�
 rust-activity-output-6 = 拍摄团队成员的“全家福”照片（请务必先获得所有人的许可！）
 rust-activity-extra = 更多
 rust-activity-extra-1 = 尽管此活动的重点应该放在这些事件上，但人们之后可以更多地参与 Rust 社区。
+rust-activity-extra-2 = 着重和与会者分享<moreLink>更多社区内可参与其中的事情</moreLink>
 rust-activity-impact = 影响与效益统计
 rust-activity-impact-1 = Rust 编程语言对于 Web 的未来非常重要，它将使 Web 变得更安全和强大。让更多的开发者理解、使用和推广这种语言将使 Web 变得更美好、更安全。
 rust-activity-impact-2 = Rust 在 Mozilla 项目中得到了广泛应用——特别是今年以来，随着 Servo（用 Rust 编写）的进一步发展，其中一部分被移植到了 Gecko/Firefox 中。让更多的 Mozilla 贡献者了解 Rust，并有机会为这一激动人心和至关重要的技术项目作出贡献。
