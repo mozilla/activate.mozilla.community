@@ -405,6 +405,7 @@ vr-activity-format-9 = 1 n yimalas send tadyant
 vr-activity-format-10 = Imttekkiyen yettwasnetmen yettwafernen s yimayl.
 vr-activity-format-11 = Zuzer tabdert-a n twuriwin ara tgeḍ send tadyant:
 vr-activity-format-12 = Snulfu-d amiḍan GitHub ma ur sɛin ara yiwen
+vr-activity-flow = Amek iteddu
 vr-activity-flow-2-reworked = Bdu
 vr-activity-flow-2-duration = 30 n tesdatin
 vr-activity-flow-5 = Ɣef <blogLink>VR, WebVR d A-Frame </blogLink>
