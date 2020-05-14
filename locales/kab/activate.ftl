@@ -251,6 +251,7 @@ nightly-activity-impact-4 = 50 n yineḍruyen i suddsen yimuẓilyanen
 nightly-activity-impact-5 = 100 n yineḍfaṛen imaynuten deg umiḍan Twitter n Nightly
 nightly-activity-audience = Ineḍfaṛen
 commonvoice-activity-intro = Common d asenfaṛ yessaramen ad yerr aɛqal n taɣect yeldi i yal yiwen. Akken ad nernu inagrawen n taɣect, ineflayen sran ddeqs n yisefka n taɣect. Tuget n yisefka i seqdacent tkebbaniyin timeqqranin, ur wjiden ara i tuget n yimdanen. Nwala d akken aya ineqq asnulfu. Nsenker Common Voice, asenfaṛ yesɛaqn iswi-is d tirit n uɛqal n taɣect yeldin daɣen yettwakcamen i meṛṛa! Siweḍ taɣect-ik daɣen ttekki!
+commonvoice-activity-general-2 = Tamezdagnut-nwen tezmer ad teg amgired s beṭṭu n tuɣax-nwen, s usenqed n tukkisin n taɣect akked userreḥ n usemdu iǧehden akken ad ttekkin yimdanen-nniḍen akked usnerni n usenfar Common Voice.
 commonvoice-activity-impact-title = Asemdu & Aktazal
 commonvoice-activity-impact-2 = 1000 n tuɣac timaynutin i yal tutlayt
 commonvoice-activity-impact-3 = 225 iseklas iɣectanen (15 dqiqat) i taɣect
