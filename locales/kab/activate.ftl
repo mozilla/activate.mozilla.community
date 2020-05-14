@@ -350,6 +350,7 @@ webcompat-activity-output-3 = Ma tebɣiḍ, mmeslay-aɣ-d ɣef tedyant-ik. Aya i
 webcompat-activity-output-4 = <discourseLink>Ha-t-a yizen n yinaw ara taruḍ</discourseLink>
 webcompat-activity-output-5 = Sebɣes imttekkiyen yebɣan ad kemmlen axeddim ɣef Web Compat ad jerrden ɣer <mailingLink>tabdart n tnezwit</mailingLink>
 webcompat-activity-extra = Ayen-nniḍen
+webcompat-activity-extra-1 = Ɣas akken armud-a yettwafren kan i usekyed n urured, imdanen zemren ad ttekkin ugar akked tmezdagnut n Rust sya ɣer sdat.
 webcompat-activity-extra-4 = <contributorsLink>Asebter n yimttekkiyen Webcompat</contributorsLink> tella deg-s ddeqs n talɣut tagejdant ɣef wamek ara tebduḍ d wamek ara ternuḍ ɣer tmezdagnut.
 webcompat-activity-impact = Asemdu & Aktazal
 webcompat-activity-impact-1 = Deg Mozilla, nebɣa ad iddu web akken iwata i yal yiwen. Mačči deg yiwen kan neɣ deg sin yiminigen. Ayagi yebɣa ad d-yini d agtiminig, d agtibenk. Tamezdagnut-nneɣ tamaḍalt tezmer ad d-tesban ayagi ugar akk n tiyaḍ!
