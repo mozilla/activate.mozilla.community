@@ -405,6 +405,7 @@ rust-activity-output-4 = bder-d amiḍan <twitterLink>@rustlang</twitterLink> ak
 rust-activity-output-5 = Qqen ɣer usenfar GitHub neɣ amagrad n ublug akken ad tessekneḍ amahil-ik!
 rust-activity-output-6 = ṭṭef-d "tawlaft n twacult" n yiɛeggalen n ugraw-ik (wali ma ad d-tawiḍ tasiregt seg yal yiwen qbel!)
 rust-activity-extra = Asemmadan
+rust-activity-extra-1 = Ɣas akken armud-a yettwafren kan i tedyanin-a, imdanen zemren ad ttekkin ugar akked tmezdagnut n Rust sya ɣer sdat.
 rust-activity-impact = Asemdu & Aktazal
 rust-activity-impact-4 = Asemdu:
 rust-activity-goals = Iswiyen i temnaḍt-a
