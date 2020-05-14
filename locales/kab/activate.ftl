@@ -352,6 +352,7 @@ webcompat-activity-output-5 = Sebɣes imttekkiyen yebɣan ad kemmlen axeddim ɣe
 webcompat-activity-extra = Ayen-nniḍen
 webcompat-activity-extra-4 = <contributorsLink>Asebter n yimttekkiyen Webcompat</contributorsLink> tella deg-s ddeqs n talɣut tagejdant ɣef wamek ara tebduḍ d wamek ara ternuḍ ɣer tmezdagnut.
 webcompat-activity-impact = Asemdu & Aktazal
+webcompat-activity-impact-1 = Deg Mozilla, nebɣa ad iddu web akken iwata i yal yiwen. Mačči kan deg yiwen neɣ deg sin yiminigen. Ayagi yebɣa ad d-yini d agtiminig. Tamezdagnut-nneɣ tamaḍalt tezmer ad d-tesban ayagi ugar akk n tiyaḍ!
 webcompat-activity-goals = Iswiyen i temnaḍt-a
 webcompat-activity-impact-title = Asemdu:
 webcompat-activity-impact-2 = 300 n yizegrar i ibedden
