@@ -350,6 +350,7 @@ webcompat-activity-output-3 = Ma tebɣiḍ, mmeslay-aɣ-d ɣef tedyant-ik. Aya i
 webcompat-activity-output-4 = <discourseLink>Ha-t-a yizen n yinaw ara taruḍ</discourseLink>
 webcompat-activity-output-5 = Sebɣes imttekkiyen yebɣan ad kemmlen axeddim ɣef Web Compat ad jerrden ɣer <mailingLink>tabdart n tnezwit</mailingLink>
 webcompat-activity-extra = Ayen-nniḍen
+webcompat-activity-extra-4 = <contributorsLink>Asebter n yimttekkiyen Webcompat</contributorsLink> tella deg-s ddeqs n talɣut tagejdant ɣef wamek ara tebduḍ d wamek ara ternuḍ ɣer tmezdagnut.
 webcompat-activity-impact = Asemdu & Aktazal
 webcompat-activity-goals = Iswiyen i temnaḍt-a
 webcompat-activity-impact-title = Asemdu:
