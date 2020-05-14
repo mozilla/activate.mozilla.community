@@ -383,6 +383,7 @@ rust-activity-flow-8 = Sekcem imdanen imaynuten ɣer teɣbula yellan
 rust-activity-flow-9 = Mudd afus i yemdanen u nesƐi ara asenfaṛ akken ad d-afen yiwen
 rust-activity-flow-11 = Amḍal: rzu daɣen ɣer ugraw testeqsiḍ medden ɣef usfari-nsen.
 rust-activity-flow-12 = Ma yella akud yeǧǧa-k, sbadu <stLink>Show & Tell</stLink> syen suter deg yimdanen ad d-snekden almad-nsen deg ugzul wezzilen maḍi.
+rust-activity-flow-13 = Ma yella tagi d tikkelt tamezwarut ideg ara d-tsekkred: steqsi imdanen ɣef tsemrest-nsen n wakud, tεerḍeḍ ad d-tafeḍ azemz alugan i wallus.
 rust-activity-end = Srid ɣer taggara n urmud
 rust-activity-end-1 = Akken kan seld tadyant ur ttettu ara ad tebḍuḍ aseɣwen deg tfelwit n tezrirt akked yimttekkiyen-ik:
 rust-activity-resources = Tiɣbula nniḍen
