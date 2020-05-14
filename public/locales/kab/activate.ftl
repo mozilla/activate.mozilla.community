@@ -369,6 +369,7 @@ rust-activity-before = 2-4 n yimalasen send tadyant
 rust-activity-before-1 = Ɣeṛ <eventGuideLink> amnir n tedyant</eventGuideLink> ɣef wamek ara tesbeddeḍ asebter n tedyant d wamek ara tessuddseḍ tadyant.
 rust-activity-before-2 = Fren nazemz daɣen ḥeṛṛ amkan.
 rust-activity-before2 = 1 dduṛt send tadyant
+rust-activity-before2-1 = Awi-d <materialLink>allalen</materialLink> rnu siggez-iten akken ad ten-tferqeḍ.
 rust-activity-before2-2 = Mmeslay ɣef tedyant-inek s wudem adigan d usrid.
 rust-activity-flow = Amek iteddu
 rust-activity-flow-2 = Mudd-asen i yimdanen kra n wakud akken ad d-kecmen rnu ṛǧu 5 -10 tesdatin akken ad qqimen, ad afen iman-nsen.
