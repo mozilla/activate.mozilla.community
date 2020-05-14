@@ -294,6 +294,7 @@ commonvoice-activity-friends-description-9 = Mi ara yaweḍ yiwen ɣer yiswi-s, 
 commonvoice-activity-friends-end = Ɛreḍ imttekkiyen-ik ad bḍun asfari-nsen deg yiẓeḍwan inmettiyen s useqdec n #CommonVoice rnu ssebɣes-iten ad slekmen armud-nni akked ugraw n yimdukkal.
 commonvoice-activity-time = 🤹‍♀️ Sken akud
 commonvoice-activity-time-description = Err-itt d tadyant meqqren! Snejmaɛed wid wuud txeddmeḍ, wid wukud teqqareḍ neɣ imeddukkal afus deg ufus i uttekki meqqren aṭas di Common Voice. Ha-t-a <posterLink>POSTER</posterLink> tzemreḍ ad t-tesqeceḍ deg tedyant-inek.
+commonvoice-activity-time-description-2 = I tedyanin meqqren, ad k-nwelleh ad tefkeḍ cwiṭ n wakud i usenked n usenfar i yimttekkiyen uqbel ad tiniḍ iswan n ugraw-inek. Xemmem ad tefkeḍ arrazen i yimttekkiyen ara yeskelsen amur meqqren n yikalasen.
 commonvoice-activity-time-description-3 = Ur ttettu ara ad d-tesmektiḍ imttekkiyen-ik dakken Common Voice yesra awenneɛ deg tuɣac akked yiseklas, ihi ma fkan-d 15 n tesdatin kan seg wakud-nsen ddeqs (azal n 225 n tuṭṭfiwin).
 commonvoice-activity-time-description-4 = Tazwert ɣer usenfar (10 n tesdatin)
 commonvoice-activity-time-description-6 = Ɣef wacu asenfar-agi?
