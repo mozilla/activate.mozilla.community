@@ -364,6 +364,7 @@ webcompat-activity-strength-2 = 50 n yijerriden ɣer <compatList>tabdert n umṣ
 webcompat-activity-audience = Ineḍfaren i urmud-a
 rust-activity-format = Amasal n urmud
 rust-activity-duration = I tenzagt, ad k-nwelleḥ ɣer tedyant n xersum 2-3 n yisragen akked ma drus 10 n yimttekkiyen.
+rust-activity-setup-2 = Ɛreḍ ad d-tafeḍ imdanen yesεan tarmit deg Rust yebɣan ad d-mudden tallalt. Ma yella ur tufiḍ ara, ulac deg-s - aṭas n Hack d Learns bdan s tallalt n yimdanen iwnafen.
 rust-activity-setup-3 = Kra n yimuziliyen xedmen yakan am tɣimiyin-a. Amedya wali <pastEventsLink> tidyanin yezrin n Mozilla Reps</pastEventsLink>.
 rust-activity-before = 2-4 n yimalasen send tadyant
 rust-activity-before-1 = Ɣeṛ <eventGuideLink> amnir n tedyant</eventGuideLink> ɣef wamek ara tesbeddeḍ asebter n tedyant d wamek ara tessuddseḍ tadyant.
