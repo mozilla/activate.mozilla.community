@@ -298,6 +298,7 @@ commonvoice-activity-time-description = Err-itt d tadyant meqqren! Snejmaɛ-d wi
 commonvoice-activity-time-description-2 = I tedyanin meqqren, ad k-nwelleh ad tefkeḍ cwiṭ n wakud i usenked n usenfar i yimttekkiyen uqbel ad d-tiniḍ iswan n ugraw-inek. Xemmem ad tefkeḍ arrazen i yimttekkiyen ara yeskelsen amur meqqren n yikalasen.
 commonvoice-activity-time-description-3 = Ur ttettu ara ad d-tesmektiḍ imttekkiyen-ik dakken Common Voice yesra awenneɛ deg tuɣac akked yiseklas, ihi ma fkan-d 15 n tesdatin kan seg wakud-nsen ddeqs (azal n 225 n tuṭṭfiwin).
 commonvoice-activity-time-description-4 = Tazwert ɣer usenfar (10 n tesdatin)
+commonvoice-activity-time-description-5 = Bab n urmud ilaq ad yeg tazwart n 10-tesdatin anida ara d-yemmeslay ɣef usenfar Common Voice. Ha-tent-a kra <slidesLink>n tugniwin n tigri</slidesLink> i tzemreḍ ad tesqedceḍ. Ha-ten-a kra n yisteqsiyen yesɛan azal i ilaqen ad ilin deg usissen:
 commonvoice-activity-time-description-6 = Ɣef wacu asenfar-agi?
 commonvoice-activity-time-description-7 = Acuɣer i yesɛa azal?
 commonvoice-activity-time-description-8 = Acu-ten yiswan n tedyant?
