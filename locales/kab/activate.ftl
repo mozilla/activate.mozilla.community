@@ -432,6 +432,7 @@ vr-activity-format-2 = 2-4 n yimalasen send tadyant
 vr-activity-format-3 = Ɣeṛ <eventGuideLink> amnir n tedyant</eventGuideLink> ɣef wamek ara tesbeddeḍ asebter n tedyant d wamek ara tessuddseḍ tadyant.
 vr-activity-format-4 = Xemmem mayella ad ishel iman-is kan neɣ akked yiwen i yesɛan tarmit deg A-Frame. Tzemreḍ ad tafeḍ tallelt deg <telegramLink> agraw n tiligram n Mozilla VR </telegramLink> neɣ <slackLink>targa n A-Frame Slack </slackLink>
 vr-activity-format-5 = Snulfu-d asebter n tedyanin deg tɣerɣert mucaɛen deg temnaḍt-ik, am Facebook neɣ Meetup.cim, rnu bḍu tilɣa i yesɛan azal ɣef WebVR d yisental yesɛan assaɣ akken ad tkemmleḍ ameslay
+vr-activity-format-6 = Sider rnu mudd udem i <presentationLink>Kit n usenked A-Frame</presentationLink>
 vr-activity-format-9 = 1 n yimalas send tadyant
 vr-activity-format-10 = Imttekkiyen yettwasnetmen yettwafernen s yimayl.
 vr-activity-format-11 = Zuzer tabdert-a n twuriwin ara tgeḍ send tadyant:
