@@ -415,6 +415,7 @@ rust-activity-extra = Asemmadan
 rust-activity-extra-1 = Ɣas akken armud-a yettwafren kan i tedyanin-a, imdanen zemren ad ttekkin ugar akked tmezdagnut n Rust sya ɣer sdat.
 rust-activity-impact = Asemdu & Aktazal
 rust-activity-impact-4 = Asemdu:
+rust-activity-impact-7 = 500 n beṭṭu deg yizeḍwa n tmetti
 rust-activity-goals = Iswiyen i temnaḍt-a
 rust-activity-strength = Lǧehd:
 rust-activity-audience = Ineḍfaren i urmud-a
