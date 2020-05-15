@@ -424,6 +424,7 @@ rust-activity-strength = Lǧehd:
 rust-activity-strength-1 = 50 Imuzilyaten ttheggin tidyanin n Rust Hack and Learn
 rust-activity-strength-2 = 1-2 yimdanen rnan ɣer <rustTeamLink>tirebbuyaε n Rust</rustTeamLink>
 rust-activity-audience = Ineḍfaren i urmud-a
+rust-activity-audience-1 = Ineḍfaren-inek n tedyant-a ilaq ad ilin d imsihlen si yal tawsit. ad yili kra n uselfu i wid yebdan melmi kan.
 vr-activity-format = Amasal n urmud
 vr-activity-format-1 = Ɛiwen-aɣ ad nenni tamezdagnut i temkerḍit A-Frame s useddu n tedyant n uḥerrek / aselmed i 20-30 n yimttekkiyen.
 vr-activity-format-2 = 2-4 n yimalasen send tadyant
