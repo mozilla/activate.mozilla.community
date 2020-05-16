@@ -438,6 +438,7 @@ vr-activity-format-9 = 1 n yimalas send tadyant
 vr-activity-format-10 = Imttekkiyen yettwasnetmen yettwafernen s yimayl.
 vr-activity-format-11 = Zuzer tabdert-a n twuriwin ara tgeḍ send tadyant:
 vr-activity-format-12 = Snulfu-d amiḍan GitHub ma ur sɛin ara yiwen
+vr-activity-format-13 = Aɣ tannumi akked <aframeLink>A-Frame</aframeLink> rnu <contributeLink>ɣer ɣef tiɣula ideg ad tettekkiḍ.
 vr-activity-format-14 = Ttekki deg <slackLink>ubadu A-Frame Slack </slackLink>
 vr-activity-flow = Amek iteddu
 vr-activity-flow-2-reworked = Bdu
