@@ -210,6 +210,7 @@ nightly-activity-solo = Ulamma armud-a yezmer ad yettwasuddes iman-is, ad k-ness
 nightly-activity-before = 2-4 n yimalasen send tadyant
 nightly-activity-before-1 = Ɣeṛ <eventGuideLink>Amnir n tedyanin  <eventGuideLink> ara k-id-imudden afus deg useddes n tedyant
 nightly-activity-before-2 = Nnɣel, <nightlyIntroLink>Tazwart ɣef tugna n tigra Nightely</nightlyIntroLink>
+nightly-activity-before-3 = Xemmem ma yella ad yishil s wudem awurman neɣ s umdan i yesɛan tarmit deg Nightly. Tzemreḍ ad tafeḍ tallalt deg ugraw n Mozilla Nightly Testers Telegram neɣ deg ubadu Nightly irc.mozilla.org.
 nightly-activity-before-4 = Snulfu-d asebter n tedyanin deg tɣerɣert mucaɛen deg temnaḍt-ik, am Facebook neɣ Meetup.cim, rnu bḍu tilɣa i tebɣiḍ ɣef Nightly d yisental yesɛan assaɣ akken ad tkemmleḍ ameslay deg Twitter.
 nightly-activity-tip-2 = Ma yella twalaḍ ad ilin wuguren n tehri n tesfift, tzemreḍ ad d-tesidreḍ inɣal seg <downloadLink>Nightely i yal tiɣerɣert</downloadLink>daɣen<androidLink>Andriod irennu</androidLink> ɣef tsarut USBi ma yella drus n umkan i tesɛiḍ di tesfift akken ad ten-id-tesidreḍ mi ara d-yili uneḍru.
 nightly-activity-duration = Tanzagt: I tenzagt, ad k-nwelleh 1-3 n yisragen xarsum s 5 n yimttekkiyen.
