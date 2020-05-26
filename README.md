@@ -1,6 +1,6 @@
-# Activity Campaign site
+This content now lives at https://community.mozilla.org/.
 
-You can see the current site live at [https://activate.mozilla.community/](https://activate.mozilla.community/).
+# Activity Campaign site
 
 ## How to add or update content
 
